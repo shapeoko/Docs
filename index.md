@@ -85,7 +85,7 @@ A lot of the "work" required to assemble the machine is done in this step. It's 
 
 This is the most labor intensive part of the assembly. You will be assembling 3 motor mount plates.
 
-![exploded view of carriage](so_motor_mount_carriages_parts_4.jpg)
+![exploded view of carriage](tPictures/so_motor_mount_carriages_parts_4.jpg)
 
 ---
 
