@@ -28,7 +28,7 @@ Start with the short length which is used for the Z-axis Carriage (it only needs
 
 ##Electronics
 In this step, we will *test* our electronics setup. It's beneficial to do this prior to assembling the machine, as some issues are more easily addressed before assembly takes place. If a problem were to occur, it's much easier to troubleshoot without having to disassemble the machine!
-
+![Electronics Overview Image](tPictures/so_electronics_parts.jpg)
 [Electronics](01_electronics.html)
 
 ---

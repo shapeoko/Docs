@@ -19,8 +19,8 @@ If you answered yes to all 4 questions above, then let's proceed.
 ![successfull job](http://placehold.it/800x400&text=image+of+paper+taped+to+work+area)
 
 ##Download Files
-download <a href="helloworld2.nc"><u>this file</u></a> and save it somewhere to your computer that you will remember, like the desktop or your Documents folder.
-![Hello, World](helloworld/file.png)
+download [this file]("helloworld2.nc")and save it somewhere to your computer that you will remember, like the desktop or your Documents folder.
+[![Hello, World](helloworld/file.png)]("helloworld2.nc")
 
 ##Position Machine
 With the machine turned off, move your gantry to the front left corner of the paper that we taped down in step \#1.
