@@ -60,7 +60,7 @@ The awesome news is that you can hone your tapping skillz (with a z!) by practic
 
 Before we can control our machine, we need to install and/or configure some software. If you're going to test your electronics, then you'll need to have this step done before you can complete that step. Otherwise, you'll need to complete this step before running Hello, World. 
 
-![Universal GCode Sender](helloworld/ugs1.jpg)
+![Universal GCode Sender](helloworld/ugs1.png)
 ---
 
 ##Electronics
