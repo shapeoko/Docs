@@ -1,36 +1,59 @@
 #Assembly Overview
 
 ##Welcome!
-
-
-
-##Notes
-If you have any difficulties with assembly, please check the ShapeOko [wiki](http://www.shapeoko.com/wiki) and [forums](http://www.shapeoko.com/forum/index.php).
+Thank you for supporting Project Shapeoko. The following pages are filled with all the information you need to assemble your Shapeoko 2 desktop CNC machine.  If you have any difficulties with assembly, please check the ShapeOko [wiki](http://www.shapeoko.com/wiki) and [forums](http://www.shapeoko.com/forum/index.php).
 
 
 ###Tools
 
-Only basic tools are required, unless one's MakerSlide needs to be tapped, in which case, in addition to wrenches, wire cutters and an assortment of Allen keys one will need an M5 x 0.8mm thread tap and handle. The 5mm and 8mm wrenches are close enough in size to 5/16" and 1/2" wrenches that one can substitute those, or when one needs 2 8mm wrenches, use a 1/2" and an 8mm. Similarly, the set screws should take a 1.5mm Allen key, but a 1/16" is only slightly larger and may afford better contact and be less likely to round out the screw.
+Only basic tools are required, to assemble the Shapeoko 2. The following tools are included with the full kits sold through inventables.com. If you are rolling your own full kit (ie, you bought only the mechanical kit), use the following list as a guideline for what you will need to assemble the machine.
 
-###Screw Sizes
+* Hex Key Set 1.5 / 2.0 / 2.5 / 3.0 / 4.0 mm
+* Screw Driver 2.0mm blade
+* Wrench 13mm Qty 2
+* Wrench 12mm (5/16")
+* M5 Tap and handle
+* Spiral End Mill
+* Safety glasses
+* cable ties (100)
+* thread lock
+* razor blade
+* (optional and not shown) Multimeter for testing continuity
+
+
+###Screw Sizes (lengths)
 
 For the most part, it's obvious which size screw is used for what, but the M5 10mm and 12mm BHCS (button head cap screws) are easily confused — while it's not noticeable when the shorter 10mm length is used where one ought to use a 12mm, the 10mm screws are intended for use with MakerSlide insertion nuts and a 12mm screw is too long and will bottom out before beginning to hold anything in place.
 
 ###Electronics and Mechanicals
 
-Please note that while the assembly instructions have these two separated, it is probably best to partially disassemble the electronics after testing them and mount the motors onto the appropriate motor mount carriage plates as you are assembling the machine for the Z- and X-axes. Putting this off will require either partial disassembly (Z-axis) or an almost impossible reach into a very cramped space to attach very small screws and washers (Y-axis).
+Please note that while the assembly instructions have these two separated, it is probably best to partially disassemble the electronics after testing them and mount the motors onto the appropriate motor mount carriage plates as you are assembling the machine.
 
 ###A Note on Tapping
 
-There is one fabrication-like step which may be necessary, tapping the MakerSlide. If your MakerSlide is not already tapped, and you do not have experience tapping it, it is suggested that you begin as soon as practicable. Do not however, attempt to tap all of the threads in a single session, instead, tap one or two threads, then proceed to the next step in the process. After completing one or two steps, return to tapping. Doing it in this fashion will avoid the tedium of a lengthy session.
+Taps Are Brittle – Don’t drop them on a cement floor.
+The tap has to be harder than the material it’s tapping. Because of that hardening, it’s brittle, as in easily broken. You want to avoid breaking the tap like you would avoid getting the plague. Use a proper t-handle (like the one included with your kit) to turn the tap. Don’t use a wrench, locking pliers, or a vice. yeah, those last three will work, but you’ll be playing with fire.
 
-Start with the short length which is used for the Z-axis Carriage (it only needs to be tapped at one end, so a failure to tap two good threads at one end will not render it unusable. Tap one thread at either end, then tap one thread in each of the remaining pieces of MakerSlide, then return to the first piece and start over, tapping a single thread in each piece each time. By the time you're done, you'll be a pro (well, good at it anyway) and you won't have one piece which has all bad threads. Don't despair if you strip the threads on a piece — the default bolts for attaching MakerSlide are quite short and this is easily remedied by tapping the stripped holes deeper and using a longer bolt.
+Lubricate - a little bit will go a long way
+Lubricating will reduce the amount of friction produced while tapping, making the tap handle easier to turn. It could also aid in chip removal as there will be less friction keeping the chips in. You can use tapping fluid, motor oil, WD-40, butter, PAM, water, spit, or basically anythign that’s wet. You won’t need a lot of whatever you chose.
+
+Take Your Time - this is not a race.
+No, seriously this is not a race. You don’t want to break one of these things. Not only will you be really mad at yourself, but you’ll also have to buy a new piece of makerslide, a new tap, and possibly anything else that you break during your outburst. So, take your time and go slow.
+
+You’re a Breaker now - a chip breaker that is.
+
+Take a look at your tap. It’s not like a screw where the threads go all the way aroundthe body. There are 4 sections of teeth, seperated by vertical gaps called “flutes”.
+The teeth cut the metal, and the flutes act as an evacuation channel. Yeah, that’s right, an evacuation channel. That’s bad ass....
+
+Anyway, the flutes keep the chips out of the way so the teeth can keep cutting. Once you feel some resistance, you need to reverse the tap until you feel those chips clear. In some cases (towards the end of the tap) you’ll need to reverse it all the way out, clean the tap (just brush off the chips), and then go at it again. The smaller the tap, the easier it is to break. Your tap is an M5 x 0.8mm tap. That’s not the smallest tap in the world, but it’s not very big either. So, be careful!
+
+The awesome news is that you can hone your tapping skillz (with a z!) by practicing on the z-axis makerslide (the short one that measures 200mm). We only need 1 end of that piece tapped, so if you were to make a mistake while learning, no big deal. Just flip the piece over and use the other side. But, you only get 2 practice holes! Use them wisely.
 
 
 #Assembly Steps
 
 ##Electronics
-[Goto the Electronics Instructions](01_electronics.html)
+[Goto the Instructions](01_electronics.html)
 
 In this step, we will *test* our electronics setup. It's beneficial to do this prior to assembling the machine, as some issues are more easily addressed before assembly takes place. If a problem were to occur, it's much easier to troubleshoot without having to disassemble the machine!
 
@@ -41,18 +64,23 @@ In this step, we will *test* our electronics setup. It's beneficial to do this p
 ---
 
 ##V-Wheels and Idlers
+[Goto the Instructions](02_vwheels_and_idlers.html)
+
 A lot of the "work" required to assemble the machine is done in this step. It's not hard work, but it'll take a while. Just like long division.
 
-[V-Wheels and Idlers](02_vwheels_and_idlers.html)
+
 
 ---
 
 ##Carriages
-[Carriages](03_carriages.html)
+[Goto the Instructions](03_carriages.html)
+
+After you complete this step, the machine will be 80% assembled! This is the most labor intensive part of the assembly. You will be assembling 3 motor mount plates.
 
 ---
 
 ##Z-Axis
+The z-axis is comprised of 3 seperate assemblies, and will require some time (and patience) to fully assemble. once you are done with this step, your machine will really start to take shape. 
 [Z Axis](04_zaxis.html)
 
 ---
