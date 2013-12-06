@@ -67,6 +67,7 @@ pre{
     -moz-border-radius: 5px;
     border-radius: 5px;
     overflow: auto;
+    margin-bottom:20px;
 }
 code{
     background-color: #eee;
@@ -164,6 +165,7 @@ h5 {
 
 	article img{
 		height:400px;
+		margin-bottom:20px;
 	}
 
 	

@@ -5,7 +5,7 @@ There are two pieces of software that you will need to be aware of while assembl
 ## Universal G-code Sender
 ### Overview ###
 
-Universal gcode sender (UGS for short): a Java based, cross platform G-Code sender created to control grbl Based machines (like Shapeoko!). [Click here to download the program]('UniversalGcodeSender-v1.0.6.zip'). The latest version can always be downloaded [from github]('https://github.com/winder/Universal-G-Code-Sender').
+Universal gcode sender (UGS for short): a Java based, cross platform G-Code sender created to control grbl Based machines (like Shapeoko!). [Click here to download the program](UniversalGcodeSender-v1.0.6.zip). The latest version can always be downloaded [from github](https://github.com/winder/Universal-G-Code-Sender).
 
 ### Installing ###
 
@@ -13,6 +13,8 @@ Universal gcode sender (UGS for short): a Java based, cross platform G-Code send
 
 ##grbl
 ### Overview ###
+
+#####From The Github Readme File:
 Grbl is a no-compromise, high performance, low cost alternative to parallel-port-based motion control for CNC milling. It will run on a vanilla Arduino (Duemillanove/Uno) as long as it sports an Atmega 328.
 
 
