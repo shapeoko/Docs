@@ -26,7 +26,8 @@ For the most part, it's obvious which size screw is used for what, but the M5 10
 
 ###Electronics and Mechanicals
 
-Please note that while the assembly instructions have these two separated, it is probably best to partially disassemble the electronics after testing them and mount the motors onto the appropriate motor mount carriage plates as you are assembling the machine.
+The assembly instructions have these two steps separated. The first step is for **testing** your electronics. As noted in the details of that step, it's easier to troubleshoot, and if there's a major problem, you won't have to disassemble the machine. It is best to partially disassemble the electronics after testing them in order to mount the motors onto the appropriate motor mount carriage plates. 
+
 
 ###A Note on Tapping
 
@@ -34,7 +35,7 @@ Please note that while the assembly instructions have these two separated, it is
 
 The tap has to be harder than the material it’s tapping. Because of that hardening, it’s brittle, as in easily broken. You want to avoid breaking the tap like you would avoid getting the plague. Use a proper t-handle (like the one included with your kit) to turn the tap. Don’t use a wrench, locking pliers, or a vice. yeah, those last three will work, but you’ll be playing with fire.
 
-**Lubricate** - a little bit will go a long way
+**Lubricate** - a little bit will go a long way.
 
 Lubricating will reduce the amount of friction produced while tapping, making the tap handle easier to turn. It could also aid in chip removal as there will be less friction keeping the chips in. You can use tapping fluid, motor oil, WD-40, butter, PAM, water, spit, or basically anythign that’s wet. You won’t need a lot of whatever you chose.
 
@@ -77,7 +78,9 @@ A lot of the "work" required to assemble the machine is done in this step. It's 
 ##Carriages
 [Goto the Instructions](03_carriages.html)
 
-After you complete this step, the machine will be 80% assembled! This is the most labor intensive part of the assembly. You will be assembling 3 motor mount plates.
+This is the most labor intensive part of the assembly. You will be assembling 3 motor mount plates.
+
+![exploded view of carriage]
 
 ---
 
