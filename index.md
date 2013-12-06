@@ -22,7 +22,10 @@ Only basic tools are required to assemble the Shapeoko 2. The following tools ar
 
 ###Screw Sizes (lengths)
 
+
 For the most part, it's obvious which size screw is used for what, but the M5 10mm and 12mm BHCS (button head cap screws) are easily confused — while it's not noticeable when the shorter 10mm length is used where one ought to use a 12mm, the 10mm screws are intended for use with MakerSlide insertion nuts and a 12mm screw is too long and will bottom out before beginning to hold anything in place.
+
+
 
 ###Electronics and Mechanicals
 
