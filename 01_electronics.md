@@ -19,16 +19,22 @@ Before we get all crazy bolting our new machine together, let's give our electro
 
 ## Tools
 
-![Tools](tPictures/so_e_tools_4.jpg)
-
-* Wire stripper (for 18–20 gauge wire)
-* 3/32" (medium size jeweler's) flat blade screwdriver
-* 1/8" (fine tip) flat blade screwdriver 
-* Wire cutters
-* #2 Phillips or 9/32" flat blade screwdriver
+![Tools](http://placehold.it/400x400)
+* Hex Key Set 1.5 / 2.0 / 2.5 / 3.0 / 4.0 mm
+* Screw Driver 2.0mm blade
+* Wrench 13mm Qty 2
+* Wrench 12mm (5/16")
+* M5 Tap and handle
+* Spiral End Mill
+* Safety glasses
+* cable ties (100)
+* thread lock
+* razor blade
 * (optional and not shown) Multimeter for testing continuity
 
-The terminal blocks use a combination screw which will accept either a Phillips or flat blade screwdriver. (There is a custom driver which incorporates both and makes a compleat connection with the screw head, but that degree of torque is not needed in this application.)
+
+The terminal blocks use a combination screw which will accept either a Phillips or flat blade screwdriver.
+
 
 ##Connect Arduino
 Now that we have everything gathered up, you should find yourself with a setup similar to this:
