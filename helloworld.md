@@ -6,10 +6,10 @@ At this point, we should have a fully assembled machine, capable of making amazi
 
 Before we begin, let's make sure we are ready to go:
 
-1. Electronics tested?
-2. Machine Assembled?
-3. Software Installed?
-4. Work area cleaned up?
+* Electronics tested?
+* Machine Assembled?
+* Software Installed?
+* Work area cleaned up?
 
 
 If you answered yes to all 4 questions above, then let's proceed.
@@ -28,41 +28,45 @@ With the machine turned off, move your gantry to the front left corner of the pa
 
 
 ##Position Sharpie
-Lower your sharpie so it is <i>just</i> barely above the paper.
+Lower your sharpie so it is _just_ barely above the paper.
 
 ![Just above work surface](helloworld/sharpie_close.jpg)
 
 
 ##Open Software
 Turn the power on to your machine and Open Universal Gcode Sender on your computer. Once the program has loaded, connect to your machine.
+
 ![Open The Software](helloworld/ugs1.png)
 
 
 ##Open File
 Browse for the file you downloaded in step #1 and open it.
+
 ![Open The File](helloworld/ugs2.png)
 
 
 ##Verify File
 Click the visualize button, located just below the browse button, to see what the file will look like. A screen similar to the one below will display after a few second. You can interact with this screen by left clicking and dragging your mouse around. The depth of this file is very shallow (.01"), so there is not much to look at beyond the general shape of the output. If the file were deeper, those levels would be represented as layers in the visualizer.
+
 ![Visualize](helloworld/ugs_visualize.png)
 
 
-##Pre-Flight
-If your file visualization looks correct, close the visualizer and click the 'machine control' tab towards the top of the window.
-![Double Check Settings](helloworld/preflight.png)
-
 
 ##Set Zero
+If your file visualization looks correct, close the visualizer and click the 'machine control' tab towards the top of the window.
+
 Click the 'Reset Zero' Button, to tell your machine that you are at 0,0. You should notice on the left of the panel your work position coordinates will be set to X:0, Y:0, Z:0
+
 ![Set Zero](helloworld/ugs4.png)
 
 
 ##Run Job!
 10. Now, click the 'File Mode' tab at the top of the program window. OK, now we're ready. Take a deep breath (this is going to be amazing) and click the 'Send' button just below the file path.
+
 ![Run Job](helloworld/run_job.png)
 
 
 ##Rule World!
 Your machine will now run the hellow world job. Keep close to your computer, and be aware of how to quickly disconnect the power from your machine in case of an emergency situation.
+
 ![Finished Job](http://placehold.it/800x400&text=result)
