@@ -1,5 +1,8 @@
 #Assembly Overview
 
+##Welcome!
+
+
 
 ##Notes
 If you have any difficulties with assembly, please check the ShapeOko [wiki](http://www.shapeoko.com/wiki) and [forums](http://www.shapeoko.com/forum/index.php).
