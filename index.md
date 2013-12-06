@@ -31,12 +31,14 @@ Start with the short length which is used for the Z-axis Carriage (it only needs
 
 ##Electronics
 In this step, we will *test* our electronics setup. It's beneficial to do this prior to assembling the machine, as some issues are more easily addressed before assembly takes place. If a problem were to occur, it's much easier to troubleshoot without having to disassemble the machine!
-![Electronics Overview Image](tPictures/so_electronics_parts.jpg)
+![Electronics Overview Image](tPictures/so_electronics_parts_4.jpg)
 [Electronics](01_electronics.html)
 
 ---
 
 ##V-Wheels and Idlers
+A lot of the "work" required to assemble the machine is done in this step. Just like long division, not hard, but it's tedious and takes a while.
+
 [V-Wheels and Idlers](02_vwheels_and_idlers.html)
 
 ---
