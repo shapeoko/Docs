@@ -16,7 +16,7 @@ If you answered yes to all 4 questions above, then let's proceed.
 
 ##Work Area
 1.) Tape a piece of paper down to your work area. The paper should be taped in landscape orientation (wider than it is tall). Keep the paper towards the front/left of the machine.
-![successfull job](http://placehold.it/800x400&text=image+of+paper+taped+to+work+area)
+![successfull job](helloworld/paper_tape.jpg)
 
 ##Download Files
 download [this file]("helloworld2.nc")and save it somewhere to your computer that you will remember, like the desktop or your Documents folder.
@@ -24,12 +24,12 @@ download [this file]("helloworld2.nc")and save it somewhere to your computer tha
 
 ##Position Machine
 With the machine turned off, move your gantry to the front left corner of the paper that we taped down in step \#1.
-![Position Machine](http://placehold.it/800x400&text=image+of+machine+at+home)
+![Position Machine](helloworld/gantry_lower_left.jpg)
 
 
 ##Position Sharpie
 Lower your sharpie so it is <i>just</i> barely above the paper.
-![Just above work surface](http://placehold.it/800x400&text=image+of+sharpie+almost+touching+paper)
+![Just above work surface](helloworld/sharpie_close.jpg)
 
 
 ##Open Software
