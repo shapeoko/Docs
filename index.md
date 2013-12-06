@@ -60,7 +60,7 @@ The awesome news is that you can hone your tapping skillz (with a z!) by practic
 
 Before we can control our machine, we need to install and/or configure some software. If you're going to test your electronics, then you'll need to have this step done before you can complete that step. Otherwise, you'll need to complete this step before running Hello, World. 
 
-![Universal GCode Sender](helloworld/ugs1.png)
+![Universal GCode Sender](helloworld/ugs1_4.png)
 ---
 
 ##Electronics
@@ -77,6 +77,7 @@ In this step, we will *test* our electronics setup. It's beneficial to do this p
 [Goto the Instructions](02_vwheels_and_idlers.html)
 
 A lot of the "work" required to assemble the machine is done in this step. It's not hard work, but it'll take a while. Just like long division.
+
 ![wheels and idlers laid out](tPictures/so_vw_iw_parts_4.jpg)
 ---
 
@@ -128,11 +129,11 @@ The z-axis is comprised of 3 seperate assemblies, and will require some time (an
 
 Your very first run! 
 
-![Hello World](helloworld/ugs_visualize.png)
+![Hello World](helloworld/ugs_visualize_4.png)
 ---
 
 ##First Job
 [Goto the Instructions](firstjob.html)
 
 
-![first job](makercam/mc_export.png)
+![first job](makercam/mc_export_4.png)
