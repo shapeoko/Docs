@@ -55,24 +55,29 @@ The awesome news is that you can hone your tapping skillz (with a z!) by practic
 
 #Assembly Steps
 
+##Software
+[Goto the Instructions](software.html)
+
+Before we can control our machine, we need to install and/or configure some software. If you're going to test your electronics, then you'll need to have this step done before you can complete that step. Otherwise, you'll need to complete this step before running Hello, World. 
+
+![Universal GCode Sender](helloworld/ugs1.jpg)
+---
+
 ##Electronics
 [Goto the Instructions](01_electronics.html)
 
 In this step, we will *test* our electronics setup. It's beneficial to do this prior to assembling the machine, as some issues are more easily addressed before assembly takes place. If a problem were to occur, it's much easier to troubleshoot without having to disassemble the machine!
 
 ![Electronics Overview Image](tPictures/so_electronics_parts_4.jpg)
-
-
-
 ---
+
+
 
 ##V-Wheels and Idlers
 [Goto the Instructions](02_vwheels_and_idlers.html)
 
 A lot of the "work" required to assemble the machine is done in this step. It's not hard work, but it'll take a while. Just like long division.
-
-
-
+![wheels and idlers laid out]('so_vw_iw_parts_4.jpg')
 ---
 
 ##Carriages
