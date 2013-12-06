@@ -11,6 +11,8 @@ Design Data/
 Templates/
 OldVersions/
 ContentCenter/
+so_parts/
+*.psd
 *.lck
 *.old
 *.tmp
