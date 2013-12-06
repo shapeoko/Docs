@@ -90,35 +90,49 @@ This is the most labor intensive part of the assembly. You will be assembling 3 
 ---
 
 ##Z-Axis
-The z-axis is comprised of 3 seperate assemblies, and will require some time (and patience) to fully assemble. once you are done with this step, your machine will really start to take shape. 
-[Z Axis](04_zaxis.html)
+[Goto the Instructions](04_zaxis.html)
 
+The z-axis is comprised of 3 seperate assemblies, and will require some time (and patience) to fully assemble. once you are done with this step, your machine will really start to take shape. 
+
+![z-axis exploded](tPictures/so_z_axis_parts_4.jpg)
 ---
 
 ##Gantry
-[Gantry](05_gantry.html)
+[Goto the Instructions](05_gantry.html)
+
+![Gantry Image](tPictures/so_gantry_parts_4.jpg)
 
 ---
 
 ##Y-Axis
-[Y Axis](06_endplates.html)
+[Goto the Instructions](06_endplates.html)
+
+![Y Axis Image](tPictures/so_y_axis_rail_parts_4.jpg)
 
 ---
 
 ##Work Area##
-[Work Area](07_workarea.html)
+[Goto the Instructions](07_workarea.html)
+
+![Work Area](tPictures/so_waste_board_parts_4.jpg)
 
 ---
 
 ##Electrical Wiring##
-[Electrical Wiring](08_wiring.html)
+[Goto the Instructions](08_wiring.html)
 
 ---
 
 ##Hello, World
-[Hello, World](helloworld.html)
+[Goto the Instructions](helloworld.html)
 
+Your very first run! 
+
+![Hello World](helloworld/ugs_visualize.png)
 ---
 
 ##First Job
-[First Job](firstjob.html)
+[Goto the Instructions](firstjob.html)
+
+
+![first job](makercam/mc_export.png)
