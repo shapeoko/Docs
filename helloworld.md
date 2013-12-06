@@ -29,6 +29,7 @@ With the machine turned off, move your gantry to the front left corner of the pa
 
 ##Position Sharpie
 Lower your sharpie so it is <i>just</i> barely above the paper.
+
 ![Just above work surface](helloworld/sharpie_close.jpg)
 
 
