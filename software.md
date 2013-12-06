@@ -1,6 +1,8 @@
 #Software
 
-There are two pieces of software that you will need to be aware of while assembling and testing your machine. The first software is to be installed on your computer and is called "Universal G-Code Sender". Details for obtaining and installing the software can be found below. The second software is actually a 'firmware' that is installed on your arduino. The firmware is called 'grbl'. If you bought the full kit from inventables, then your arduino came pre-loaded with grbl.
+There are two pieces of software that you will need to be aware of while assembling and testing your machine. The first software is to be installed on your computer and is called "Universal G-Code Sender". Details for obtaining and installing the software can be found below. The second software is actually a 'firmware' that is installed on your arduino. The firmware is called 'grbl'. 
+
+#####If you bought the full kit from inventables, then your arduino came pre-loaded with grbl.
 
 ## Universal G-code Sender
 ### Overview ###
