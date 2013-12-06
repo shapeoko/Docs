@@ -35,22 +35,22 @@ The assembly instructions have these two steps separated. The first step is for 
 
 ###A Note on Tapping
 
-**Taps Are Brittle** - Don't drop them on a cement floor.
+#####Taps Are Brittle - Don't drop them on a cement floor.
 
 The tap has to be harder than the material it's tapping. Because of that hardening, it's brittle, as in easily broken. You want to avoid breaking the tap like you would avoid getting the plague. Use a proper t-handle (like the one included with your kit) to turn the tap. Don't use a wrench, locking pliers, or a vice. yeah, those last three will work, but you'll be playing with fire.
 
 
-**Lubricate** - a little bit will go a long way.
+#####Lubricate - a little bit will go a long way.
 
 Lubricating will reduce the amount of friction produced while tapping, making the tap handle easier to turn. It could also aid in chip removal as there will be less friction keeping the chips in. You can use tapping fluid, motor oil, WD-40, butter, PAM, water, spit, or basically anythign that's wet. You won't need a lot of whatever you chose.
 
 
-**Take Your Time** - this is not a race.
+#####Take Your Time - this is not a race.
 
 No, seriously this is not a race. You don't want to break one of these things. Not only will you be really mad at yourself, but you'll also have to buy a new piece of makerslide, a new tap, and possibly anything else that you break during your outburst. So, take your time and go slow.
 
 
-**You're a Breaker now** - a chip breaker that is.
+#####You're a Breaker now - a chip breaker that is.
 
 Take a look at your tap. It's not like a screw where the threads go all the way aroundthe body. There are 4 sections of teeth, seperated by vertical gaps called _flutes_. The teeth cut the metal, and the flutes act as an evacuation channel. Yeah, that's right, an evacuation channel. That's bad ass....
 
