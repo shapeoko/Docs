@@ -162,6 +162,10 @@ h5 {
 		margin-left:10px;
 	}
 
+	article img{
+		height:400px;
+	}
+
 	
 	#mainHeader {
 	  font-size: 55px;
