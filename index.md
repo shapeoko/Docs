@@ -1,16 +1,5 @@
 #Assembly Overview
 
-The ShapeOko is an assembly of sub-assemblies. There are only a few steps:
-
-1. Assemble and test the [electronics](01_electronics.md)
-2. Assemble the [V-wheels and Smooth Idlers](02_vwheels_and_idlers.md) (25203-02) and  (25197-02)
-3. Assemble 3 [Motor Mount Carriages](03_carriages.md) (PS20022)
-4. Assemble Z Assembly Carriage (PS20021), Z-Axis Rail Assembly (PS20028), and Spindle Carriage Assembly (PS20029) to make the [Z-Axis](04_zaxis.md)
-5. Assemble Gantry Carriage (PS20031) and Sub Gantry (PS20023) to make the Complete [Gantry](05_gantry.md) (PS20025)
-6. Assemble Waste Board Assembly and Y-Axis Rail Assemblies (PS20024), Slide Gantry onto the [rails and secure with the endplates](06_endplates.md)
-7. Assemble the [work area](07_workarea.md) to complete the machine
-
-
 
 ##Notes
 If you have any difficulties with assembly, please check the ShapeOko [wiki](http://www.shapeoko.com/wiki) and [forums](http://www.shapeoko.com/forum/index.php).
