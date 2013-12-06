@@ -77,7 +77,7 @@ In this step, we will *test* our electronics setup. It's beneficial to do this p
 [Goto the Instructions](02_vwheels_and_idlers.html)
 
 A lot of the "work" required to assemble the machine is done in this step. It's not hard work, but it'll take a while. Just like long division.
-![wheels and idlers laid out]('so_vw_iw_parts_4.jpg')
+![wheels and idlers laid out](so_vw_iw_parts_4.jpg)
 ---
 
 ##Carriages
