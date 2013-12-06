@@ -1,0 +1,263 @@
+<!doctype html>
+<html>
+	<head>
+	<!--
+		The layout and styling of this page, and subsiquently the redesign of this site, are heavily influenced by 
+		the design of the chartjs.org site. It's beauty through simplicity was too much to resist. I have made slight
+		changes so the styling of the site is more inline with the projects styling, but don't want to hide the fact 
+		that the styling is taken basically directly from their css file with only minor changes. 
+		
+		The awesome javascript function that turns H1s and H2s into the navigation is their code as well. 
+
+		I hope this is a compliment to the folks at chartjs.org as opposed to being "not cool"
+	-->
+		<title>Project Shapeoko</title>
+		<link href="shapeoko.css" rel="stylesheet" />
+		<link href='http://fonts.googleapis.com/css?family=Ubuntu:300,400,700' rel='stylesheet' type='text/css'>
+	</head>
+	<body>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-11630357-11']);
+  _gaq.push(['_setDomainName', 'shapeoko.com']);
+  _gaq.push(['_trackPageview']);
+    _gaq.push(['_setCustomVar', 1, 'Place', 'firstjob', 3]);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+
+	<div class="header">
+
+	    <div class="left">
+	      <a href="http://docs.shapeoko.com"><h1 style="font-weight: Bold 700; font-size: 35px; color: #FFFFFF;">Shapeoko 2</h1></a>
+
+	    </div>
+	    <div class="right">
+	      <ul>
+
+	      </ul>	    	
+	    </div>
+	</div>
+	
+	<div id="wrapper">
+		<nav>	
+			<dl>
+			</dl>
+		</nav>
+		
+		<div id="contentWrapper">
+			<h1 id="mainHeader">Shapeoko 2</h1>
+			<h2 id="introText">first job</h2>
+
+<article id="getting_set_up">
+	<h1>Getting Started</h1>
+		<p>Welcome to Your New Life! After completing this step, you'll be a pro! OK, maybe not a pro, but you will be capable of designing a simple part, generating appropriate toolpaths, and cutting said toolpaths on your Shapeoko 2. This is exciting, get ready!</p>
+
+		<h2>Find the Origin</h2>
+			<p>Step #1: Open makerCAM.com. Zoom out until you can see the origin.  </p>
+			<p>
+				<img alt="makercam origin" src="makercam/mc_origin.png" height="400px" class="photo">
+			</p>
+
+		<h2>Create Rectangle</h2>
+			<p>Select Insert -> Rounded Rectangle. When the dialog box comes up, input 3.5 for both the length and width. leave the radius as 0.2. Click OK. You now have a rounded rectangle!</p>
+			<p>
+				<img alt="rounded rectangle" src="makercam/mc_rr1.png"  height="400px" class="photo">
+			</p>
+
+		<h2>Another Rectangle</h2>
+			<p>Select Insert -> Rounded Rectangle. When the dialog box comes up, input 3.125 for both the length and width. leave the radius as 0.2. Click OK. You now have another rounded rectangle! Move the rounded rectangle so the bottom left corner is slightly inside of the bigger rectangle. Like this:</p>
+			<p>
+				<img alt="another rounded rectangle" src="makercam/mc_rr2.png"  height="400px" class="photo">
+			</p>
+
+		<h2>Draw Freehand!</h2>
+		<p>Select the pencil tool from the toolbar in the top left corner of the screen. Use it to draw the first letter of your last name. Draw it in block style. It might take a few tries. If you mess up, switch to the pointer tool, select your line and press 'delete' on your keyboard. Once you have a rough shape of your letter, take a step back and have a look. A little rough isn't it? That's OK, it's a start!</p>
+		<p><img alt="freehand" src="makercam/mc_initial1.png"  height="400px" class="photo"></p>
+
+		<h2>Prettify Your Freehand</h2>
+		<p>Take the pointer tool with the circle on the end, and start working your letter into shape. Zoom in, and hover over one of the corners. See the red dot? Now you can click and drag that red dot until your line is straight (or in the shape you want it). If you put that red dot onto another one, it will join the two lines together. Now we're getting somewhere! Once you're happy with the letter, go ahead and center it inside the rectangles.</p>
+		<p><img alt="clean up" src="makercam/mc_initial2.png"  height="400px" class="photo"></p>
+		<p><img alt="clean up" src="makercam/mc_initial3.png"  height="400px" class="photo"></p>
+
+		<h2>Engrave Letter</h2>
+		<p>Select your letter with the pointer tool. Once it's selected, the border will turn orange. Now, take a deep breath, we're going to make our first toolpath! Click CAM -> Pocket. Fill in the following values then click OK. Your letter should look like it's filled in with a hatch pattern.</p>
+		<p><img alt="another rounded rectangle" src="makercam/mc_engrave_letter.png"  height="400px" class="photo"></p>
+		<pre>
+			<code>
+				name: letter_pocket
+				tool diameter: 0.125
+				target depth: -0.03125
+				safety height: 0.25
+				stock surface: 0
+				step over: 40
+				step down: 0.03125
+				roughing clearance: 0
+				feedrate: 30
+				plunge rate: 10
+				direction: counter
+			</code>
+		</pre>
+
+		<h2>Engrave Border</h2>
+		<p>Select the inside rounded rectangle (the one we made in step #3). Click CAM -> Follow Path Operation. Fill in the following values, then click OK. Your line will be highlighted yellow.</p>
+		<p><img alt="engrave border" src="makercam/mc_engrave_letter.png"  height="400px" class="photo"></p>
+		<pre>
+			<code>
+				name: trim_engrave
+				tool diameter: 0.125
+				target depth: -0.03125
+				safety height: 0.25
+				stock surface: 0
+				step down: 0.03125
+				feedrate: 30
+				plunge rate: 10
+			</code>
+		</pre>
+
+
+		<h2>Profile!</h2>
+		<p>Select the outside rounded rectangle (the one we made in Step #2). Click CAM -> Profile Operation. Fill in the following values, then click OK.</p>
+		<p><img alt="engrave border" src="makercam/mc_profile.png"  height="400px" class="photo"></p>
+		<pre>
+			<code>
+				name: coaster_cut_out
+				tool diameter: 0.125
+				target depth: -0.26
+				inside/outside: outside
+				safety height: 0.25
+				stock surface: 0
+				step down: 0.03125
+				roughing clearance: 0
+				feedrate: 30
+				plunge rate: 10
+				direction: clockwise
+			</code>
+		</pre>
+
+		<h2>Generate G-Code</h2>
+
+		<p>It's time to generate your G-code! If you check the "view cuts" option in the top right portion of the screen, your toolpaths will be filled with nice colors representing the operations. If everything looks OK, go ahead and click CAM -> calculate all. Nice work.</p>
+		<p><img alt="calculate toolpaths" src="makercam/mc_calculate.png"  height="400px" class="photo"></p>
+
+
+		<h2>Export Code</h2>
+		<p><img alt="export screen" src="makercam/mc_export.png"  height="400px" class="photo"></p>
+		<p>Export Your g-code! Your coaster should look a little goofy right now, with colors and curves representing the toolpaths. That's OK, Imaging those toolpaths as a map for your bit to follow. Once you have calculated all toolpaths, let's go ahead an export the file. Click CAM -> export g-code. A couple of things to remember on this screen.</p>
+		</br>
+
+		<p><strong>The order should go:</strong></p>
+		<ol>
+		<li>letter_pocket</li>
+		<li>trim_engrave</li>
+		<li>coaster_cutout</li>
+		</ol>
+
+		</br>
+		<p>As long as that's OK, then click 'all' ( which will highlight all of your operations), then click "Export Selected Toolpaths".
+		<img alt="export paths" src="makercam/mc_export_all.png"  height="400px" class="photo"></p>
+
+		<p>A file dialog box will prompt your for a location to save your file. let's name it 'monogram_coaster.nc' and save it somewhere that you will remember.
+		After the file is exported (it'll only take a split second), go ahead and save the svg file from makerCAM. Click file -> save SVG. Save it somewhere that you will remember.</p>
+
+</article>
+
+
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="jquery.simplemodal.1.4.4.min.js"></script>
+<script src="prettify.js"></script>
+<script>
+	$(document).ready(function(){
+	
+		var $nav = $("nav dl");
+		
+		$("article").each(function(){
+			var $el = $(this);
+			var $h1 = $el.find("h1");
+			var sectionTitle = $h1.html();
+			var articleId = $el.attr("id");
+			var $dt = $("<dt><a href=\"#"+articleId +"\">"+sectionTitle+"</a></dt>");
+			
+			$dt.find("a").on("click",function(e){
+				e.preventDefault();
+				$('html,body').animate({scrollTop: $h1.offset().top},400);
+			});
+			
+			$nav.append($dt);
+			
+			var $subtitles = $el.find("h2");
+			
+			$subtitles.each(function(){
+				var $h2 = $(this);
+				var title = $h2.text();
+				var newID = articleId + "-" +camelCase(title);
+				$h2.attr("id",newID);
+				var $dd = $("<dd><a href=\"#" +newID + "\">" + title + "</a></dd>");
+				
+				$dd.find("a").on("click",function(e){
+					e.preventDefault();
+					$('html,body').animate({scrollTop: $h2.offset().top},400);
+				})
+				$nav.append($dd);
+				
+			});
+			
+			var $articles = $el.find("article");
+			
+		});	
+		
+		$("canvas").each(function(){
+			var $canvas = $(this);
+			var ctx = this.getContext("2d");
+			
+			
+			
+			eval($("code[data-for='" + $canvas.attr("id") + "']").text());
+			
+			
+			var evalString = "new Chart(ctx)." + $canvas.data("type") + "(data);";
+			
+			eval(evalString);
+						
+		});
+		prettyPrint();			
+		
+		function camelCase(str){			
+			var splitString = str.split(" ");
+			
+			var returnedCamel = splitString[0].toLowerCase();
+			
+			for (var i=1; i<splitString.length; i++){
+				returnedCamel += splitString[i].charAt(0).toUpperCase() + splitString[i].substring(1).toLowerCase();
+			}
+			
+			return returnedCamel;
+			
+		} 
+	});
+	</script>
+<script>
+/*
+  $(document).ready(function(){
+    $(".photo").click(function(e) {
+      var hrefval= $(this).attr("src"); 
+      $.modal('<img src=" ' + hrefval + '">', { 
+        containerCss: { height:'auto',width:'auto'}, 
+        overlayClose: true 
+      });
+      e.preventDefault();
+    });
+  });
+/*
+</script>
+
+</body>
+</html>

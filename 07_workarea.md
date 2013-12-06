@@ -16,7 +16,7 @@
 ![exploded view of assembly step](tPictures/PS20024_2.png)  ![](tPictures/so_waste_board_2.jpg) ![](tPictures/so_waste_board_parts_2.jpg)
 
 
-### 20x20 Extrusions
+## 20x20 Extrusions
 Slide Entire  Assembly over wasteboard Assembly, fasten with:
 
 - M5x10
@@ -25,11 +25,11 @@ Slide Entire  Assembly over wasteboard Assembly, fasten with:
 
 ![](tPictures/so_m5_x_10mm_bhcs_washer_insertion_nut_2.jpg)
 
-### Squaring the Table
+## Squaring the Table
 
 Square up the wasteboard assembly carefully, since it will be the foundation for the balance of the machine.
 
-####Parts
+###Parts
 
 * 2 Y-Axis Rail Assembly (PS20026)
 * Complete Gantry (PS20025)
