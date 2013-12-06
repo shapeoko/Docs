@@ -50,7 +50,7 @@ Click the visualize button, located just below the browse button, to see what th
 
 ##Pre-Flight
 If your file visualization looks correct, close the visualizer and click the 'machine control' tab towards the top of the window.
-![Double Check Settings](helloworld/ugs3.png)
+![Double Check Settings](helloworld/preflight.png)
 
 
 ##Set Zero
@@ -60,7 +60,7 @@ Click the 'Reset Zero' Button, to tell your machine that you are at 0,0. You sho
 
 ##Run Job!
 10. Now, click the 'File Mode' tab at the top of the program window. OK, now we're ready. Take a deep breath (this is going to be amazing) and click the 'Send' button just below the file path.
-![Run Job](helloworld/ugs5.png)
+![Run Job](helloworld/run_job.png)
 
 
 ##Rule World!
