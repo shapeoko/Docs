@@ -104,6 +104,7 @@ h1{
     color: #999;
     font-weight: 400;
     font-size: 36px;
+    border-bottom: 1px solid;
 }
 h2{
     border-bottom: 1px dotted #aaa;
@@ -137,7 +138,6 @@ h5 {
 
 	article {
 	  border-top: 1px solid #ebebeb;
-	  padding-top:40px;
 	}
 
 	article strong{
