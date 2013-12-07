@@ -9,6 +9,8 @@ Thank you for supporting Project Shapeoko. The following pages are filled with a
 
 Only basic tools are required to assemble the Shapeoko 2. The following tools are included with the full kits [sold through inventables.com](https://www.inventables.com/technologies/desktop-cnc-mill-kit-shapeoko-2). If you are rolling your own full kit (you bought the mechanical kit), use the following list as a guideline for what you will need to assemble the machine.
 
+![image of tools spread out](tPictures/tool_kit.jpg)
+
 * Hex Key Set 1.5 / 2.0 / 2.5 / 3.0 / 4.0 mm
 * Screw Driver 2.0mm blade
 * Wrench 13mm Qty 2
