@@ -20,15 +20,7 @@ Before we get all crazy bolting our new machine together, let's give our electro
 ## Tools
 
 ![Tools](http://placehold.it/400x400)
-* Hex Key Set 1.5 / 2.0 / 2.5 / 3.0 / 4.0 mm
 * Screw Driver 2.0mm blade
-* Wrench 13mm Qty 2
-* Wrench 12mm (5/16")
-* M5 Tap and handle
-* Spiral End Mill
-* Safety glasses
-* cable ties (100)
-* thread lock
 * razor blade
 * (optional and not shown) Multimeter for testing continuity
 
@@ -161,31 +153,3 @@ X-Axis
 ###And a Final Spin###
 
 Y-Axis — make certain that the two motors for the Y-axis are rotating in opposite directions.
-
-
-# V-Wheels and Idlers#
-[V-Wheels and Idlers](02_vwheels_and_idlers.html)
-
-# Carriages#
-[Carriages](03_carriages.html)
-
-# Z-Axis#
-[Z Axis](04_zaxis.html)
-
-# Gantry#
-[Gantry](05_gantry.html)
-
-# Y-Axis#
-[Y Axis](06_endplates.html)
-
-# Work Area#
-[Work Area](07_workarea.html)
-
-# Electrical Wiring#
-[Electrical Wiring](08_wiring.html)
-
-# Hello, World#
-[Hello, World](helloworld.html)
-
-# First Job#
-[First Job](firstjob.html)
