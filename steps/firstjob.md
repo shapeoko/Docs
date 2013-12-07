@@ -15,7 +15,6 @@ Step #1: Open makerCAM.com. Zoom out until you can see the origin. The origin is
 
 Select Insert -> Rounded Rectangle. When the dialog box comes up, input 3.5 for both the length and width. leave the radius as 0.2. Click OK. You now have a rounded rectangle!
 
-![]()
 
 
 ##Another Rectangle

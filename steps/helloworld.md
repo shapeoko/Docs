@@ -23,9 +23,8 @@ If you answered yes to all 4 questions above, then let's proceed.
 
 
 ##Download Files
-Download [this file]("helloworld2.nc") and save it somewhere to your computer that you will remember, like the Desktop or your Documents folder.
-[![Hello, World](imgs/helloworld/file.png)]("helloworld2.nc")
-
+Download [this file](helloworld2.nc) and save it somewhere to your computer that you will remember, like the Desktop or your Documents folder.
+![Hello World](imgs/helloworld/file.png)
 
 ##Position Machine
 With the machine turned off, move your gantry to the front left corner of the paper that we taped down in step \#1.

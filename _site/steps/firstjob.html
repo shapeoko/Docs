@@ -67,52 +67,49 @@
       <h1>Getting Started</h1>
 
 <div class="post">
-  <p>Welcome to Your New Life! After completing this step, you&#39;ll be a pro! OK, maybe not a pro, but you will be capable of designing a simple part, generating appropriate toolpaths, and cutting said toolpaths on your Shapeoko 2. This is exciting, get ready!</p>
+  <p>Welcome to Your New Life! After completing this step, you&#8217;ll be a pro! OK, maybe not a pro, but you will be capable of designing a simple part, generating appropriate toolpaths, and cutting said toolpaths on your Shapeoko 2. This is exciting, get ready!</p>
 
-<h2>Find the Origin</h2>
+<h2 id='find_the_origin'>Find the Origin</h2>
 
-<p>Step #1: Open makerCAM.com. Zoom out until you can see the origin. The origin is 0,0 in the cartesian coordinate system, it&#39;s where the X and Y axis meet. In the CAM world, the origin is where your machine is going to start from.</p>
+<p>Step #1: Open makerCAM.com. Zoom out until you can see the origin. The origin is 0,0 in the cartesian coordinate system, it&#8217;s where the X and Y axis meet. In the CAM world, the origin is where your machine is going to start from.</p>
 
-<p><img src="imgs/makercam/mc_origin.png" alt="find the origin"></p>
+<p><img alt='find the origin' src='imgs/makercam/mc_origin.png' /></p>
 
-<h2>Create a Rectangle</h2>
+<h2 id='create_a_rectangle'>Create a Rectangle</h2>
 
 <p>Select Insert -&gt; Rounded Rectangle. When the dialog box comes up, input 3.5 for both the length and width. leave the radius as 0.2. Click OK. You now have a rounded rectangle!</p>
 
-<p>[]()</p>
-
-<h2>Another Rectangle</h2>
+<h2 id='another_rectangle'>Another Rectangle</h2>
 
 <p>Select Insert -&gt; Rounded Rectangle. When the dialog box comes up, input 3.125 for both the length and width. leave the radius as 0.2. Click OK. You now have another rounded rectangle! Move the rounded rectangle so the bottom left corner is slightly inside of the bigger rectangle. Like this:</p>
 
-<h2>Draw Freehand</h2>
+<h2 id='draw_freehand'>Draw Freehand</h2>
 
-<p>Select the pencil tool from the toolbar in the top left corner of the screen. Use it to draw the first letter of your last name. Draw it in block style. It might take a few tries. If you mess up, switch to the pointer tool, select your line and press &#39;delete&#39; on your keyboard. Once you have a rough shape of your letter, take a step back and have a look. A little rough isn&#39;t it? That&#39;s OK, it&#39;s a start!</p>
+<p>Select the pencil tool from the toolbar in the top left corner of the screen. Use it to draw the first letter of your last name. Draw it in block style. It might take a few tries. If you mess up, switch to the pointer tool, select your line and press &#8216;delete&#8217; on your keyboard. Once you have a rough shape of your letter, take a step back and have a look. A little rough isn&#8217;t it? That&#8217;s OK, it&#8217;s a start!</p>
 
-<h1>Prettify Your Freehand</h1>
+<h1 id='prettify_your_freehand'>Prettify Your Freehand</h1>
 
-<p>Take the pointer tool with the circle on the end, and start working your letter into shape. Zoom in, and hover over one of the corners. See the red dot? Now you can click and drag that red dot until your line is straight (or in the shape you want it). If you put that red dot onto another one, it will join the two lines together. Now we&#39;re getting somewhere! Once you&#39;re happy with the letter, go ahead and center it inside the rectangles.</p>
+<p>Take the pointer tool with the circle on the end, and start working your letter into shape. Zoom in, and hover over one of the corners. See the red dot? Now you can click and drag that red dot until your line is straight (or in the shape you want it). If you put that red dot onto another one, it will join the two lines together. Now we&#8217;re getting somewhere! Once you&#8217;re happy with the letter, go ahead and center it inside the rectangles.</p>
 
-<h2>Engrave Your Letter</h2>
+<h2 id='engrave_your_letter'>Engrave Your Letter</h2>
 
-<p>Select your letter with the pointer tool. Once it&#39;s selected, the border will turn orange. Now, take a deep breath, we&#39;re going to make our first toolpath! Click CAM -&gt; Pocket. Fill in the following values then click OK. Your letter should look like it&#39;s filled in with a hatch pattern.</p>
+<p>Select your letter with the pointer tool. Once it&#8217;s selected, the border will turn orange. Now, take a deep breath, we&#8217;re going to make our first toolpath! Click CAM -&gt; Pocket. Fill in the following values then click OK. Your letter should look like it&#8217;s filled in with a hatch pattern.</p>
 
-<h2>Engrave the Border</h2>
+<h2 id='engrave_the_border'>Engrave the Border</h2>
 
 <p>Select the inside rounded rectangle (the one we made in step #3). Click CAM -&gt; Follow Path Operation. Fill in the following values, then click OK. Your line will be highlighted yellow.</p>
 
-<h2>Create a Profile</h2>
+<h2 id='create_a_profile'>Create a Profile</h2>
 
 <p>Select the outside rounded rectangle (the one we made in Step #2). Click CAM -&gt; Profile Operation. Fill in the following values, then click OK.</p>
 
-<h2>Generate G-Code</h2>
+<h2 id='generate_gcode'>Generate G-Code</h2>
 
-<p>It&#39;s time to generate your G-code! If you check the &quot;view cuts&quot; option in the top right portion of the screen, your toolpaths will be filled with nice colors representing the operations. If everything looks OK, go ahead and click CAM -&gt; calculate all. Nice work.</p>
+<p>It&#8217;s time to generate your G-code! If you check the &#8220;view cuts&#8221; option in the top right portion of the screen, your toolpaths will be filled with nice colors representing the operations. If everything looks OK, go ahead and click CAM -&gt; calculate all. Nice work.</p>
 
-<h2>Export G-Code</h2>
+<h2 id='export_gcode'>Export G-Code</h2>
 
-<p>Export Your g-code! Your coaster should look a little goofy right now, with colors and curves representing the toolpaths. That&#39;s OK, Imaging those toolpaths as a map for your bit to follow. Once you have calculated all toolpaths, let&#39;s go ahead an export the file. Click CAM -&gt; export g-code. A couple of things to remember on this screen.</p>
-
+<p>Export Your g-code! Your coaster should look a little goofy right now, with colors and curves representing the toolpaths. That&#8217;s OK, Imaging those toolpaths as a map for your bit to follow. Once you have calculated all toolpaths, let&#8217;s go ahead an export the file. Click CAM -&gt; export g-code. A couple of things to remember on this screen.</p>
 </div>
     </div>
 
