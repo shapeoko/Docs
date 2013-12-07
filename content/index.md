@@ -4,6 +4,8 @@
 
 Thank you for supporting Project Shapeoko. The following pages are filled with all the information you need to assemble your Shapeoko 2 desktop CNC machine.  If you have any difficulties with assembly, please check the ShapeOko [wiki](http://www.shapeoko.com/wiki) and [forums](http://www.shapeoko.com/forum/index.php).
 
+![image of tools spread out](tPictures/shapeoko_2.jpg)
+
 
 ###Tools
 
