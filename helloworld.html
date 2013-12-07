@@ -1,0 +1,210 @@
+<!doctype html>
+<html>
+	<head>
+	<!--
+		The layout and styling of this page, and subsiquently the redesign of this site, are heavily influenced by 
+		the design of the chartjs.org site. It's beauty through simplicity was too much to resist. I have made slight
+		changes so the styling of the site is more inline with the projects styling, but don't want to hide the fact 
+		that the styling is taken basically directly from their css file with only minor changes. 
+		
+		The awesome javascript function that turns H1s and H2s into the navigation is their code as well. 
+
+		I hope this is a compliment to the folks at chartjs.org as opposed to being "not cool"
+	-->
+		<title>Project Shapeoko</title>
+		<link href="shapeoko.css" rel="stylesheet" />
+		<link href='http://fonts.googleapis.com/css?family=Ubuntu:300,400,700' rel='stylesheet' type='text/css'>
+	</head>
+	<body>
+	
+	<script type="text/javascript">
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-11630357-11']);
+		_gaq.push(['_setDomainName', 'shapeoko.com']);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+	</script>
+
+	<div class="header">
+
+	    <div class="left">
+	      <a href="http://docs.shapeoko.com"><h1 style="font-weight: Bold 700; font-size: 35px; color: #FFFFFF;">Shapeoko 2</h1></a>
+
+	    </div>
+	    <div class="right">
+	      <ul>
+
+	      </ul>	    	
+	    </div>
+	</div>
+	
+	<div id="wrapper">
+		<nav>	
+			<dl>
+			</dl>
+		</nav>
+		
+		<div id="contentWrapper">
+			<h1 id="mainHeader">Shapeoko 2</h1>
+<h2 id="introText">helloworld</h2><article id="helloworld"><h2>Getting Set Up</h2>
+<p>At this point, we should have a fully assembled machine, capable of making amazing things. BUT, first, we need make sure everything is in good working order.  To achieve that, we're going to run a job, that we in the Shapeoko community call "Hello, World". When it's finished, it will look like this:</p>
+<p><img alt="successfull job" src="http://placehold.it/800x400&amp;text=image+of+successfull+job"></p>
+<p>Before we begin, let's make sure we are ready to go:</p>
+<ol>
+<li>Electronics tested?</li>
+<li>Machine Assembled?</li>
+<li>Software Installed?</li>
+<li>Work area cleaned up?</li>
+</ol>
+<p>If you answered yes to all 4 questions above, then let's proceed.</p>
+<h2>Work Area</h2>
+<p>1.) Tape a piece of paper down to your work area. The paper should be taped in landscape orientation (wider than it is tall). Keep the paper towards the front/left of the machine.
+<img alt="successfull job" src="http://placehold.it/800x400&amp;text=image+of+paper+taped+to+work+area"></p>
+<h2>Download Files</h2>
+<p>Download <a href=""helloworld2.nc"">this file</a> and save it somewhere to your computer that you will remember, like the Desktop or your Documents folder.
+<a href=""helloworld2.nc""><img alt="Hello, World" src="helloworld/file.png"></a></p>
+<h2>Position Machine</h2>
+<p>With the machine turned off, move your gantry to the front left corner of the paper that we taped down in step #1.
+<img alt="Position Machine" src="http://placehold.it/800x400&amp;text=image+of+machine+at+home"></p>
+<h2>Attach Sharpie</h2>
+<p>Using a yaydaday, affix your sharpie to the z-axis spindle carriage assembly.
+<img alt="Taped Sharpie" src="http://placehold.it/800x400&amp;text=image+of+taped+sharpie+to+z+gantry"></p>
+<h2>Position Sharpie</h2>
+<p>Lower your sharpie so it's ~1" above the paper.
+<img alt="Inch above work surface" src="http://placehold.it/800x400&amp;text=image+of+sharpie+almost+touching+paper"></p>
+<h2>Open Software</h2>
+<p>Plug the power in to your machine and open Universal Gcode Sender on your computer. Once the program has loaded, plug in the usb cord to your computer and you should hear the stepper motors engage.
+<img alt="Open The Software" src="helloworld/ugs1.png"></p>
+<h2>Open Connection Between Computer and Machine</h2>
+<p>Select the correct com port and baud rate from the drop down menus on the left.  Click 'Open' to establish a connection with the Arduino.  Once the connection has been made, GRBL will say hello by displaying its version number.
+<img alt="Make Connection" src="http://placehold.it/800x400&amp;text=image+of+open+connection+with+GRBL+version+displayed"></p>
+<h2>Verify Grbl Settings</h2>
+<p>In the command line at the top of Universal Gcode Sender, type $ and press enter.  Grbl should respond with a help message.
+<img alt="$ Command Response" src="http://placehold.it/800x400&amp;text=screenshot+of+$+command+response"></p>
+<p>In the same command line, type $$ to view the current Grbl settings.
+<img alt="$ Command Response" src="http://placehold.it/800x400&amp;text=screenshot+of+$$+command+response"></p>
+<h2>Configure Grbl Settings</h2>
+<p>The default values need to be changed in order for your machine to function properly.  To do this, simply enter the correct value for each setting into the command line and press enter.  For example, to change the x-axis steps/mm to 40.020 you would type this, followed by an enter:</p>
+<pre><code>$0=40.020</code></pre>
+<p>These are the correct Grbl settings for the stock full kit machine.
+<img alt="Grbl Settings" src="http://placehold.it/800x400&amp;text=screenshot+of+correct+grbl+settings"></p>
+<p>If you have sourced your own electronics, you can easily determine your own settings by using this <a href="http://homepage.ntlworld.com/r.j.noble/ShapeOko/grblcalc/">Grbl settings calculator.</a></p>
+<h2>Open File</h2>
+<p>Browse for the file you downloaded in step #1 and open it.
+<img alt="Open The File" src="helloworld/ugs2.png"></p>
+<h2>Verify File</h2>
+<p>Click the visualize button, located just below the browse button, to see what the file will look like. A screen similar to the one below will display after a few seconds. You can interact with this screen by left clicking and dragging your mouse around. The depth of this file is very shallow (.01"), so there is not much to look at beyond the general shape of the output. If the file were deeper, those levels would be represented as layers in the visualizer.
+<img alt="Visualize" src="helloworld/ugs_visualize.png"></p>
+<h2>Pre-Flight</h2>
+<p>If your file visualization looks correct, close the visualizer and click the 'machine control' tab towards the top of the window.
+<img alt="Double Check Settings" src="helloworld/ugs3.png"></p>
+<h2>Set Zero Position</h2>
+<p>Click the 'Reset Zero' Button, to tell your machine that you are at 0,0. You should notice on the left of the panel your work position coordinates will be set to X:0, Y:0, Z:0
+<img alt="Set Zero" src="helloworld/ugs4.png"></p>
+<h2>Air Print</h2>
+<p>To make sure there are no mistakes, lets draw some stuff in the air.  Click the 'File Mode' tab at the top of the program window. With the sharpie ~1" above the work surface, click the 'Send' button just below the file path.
+<img alt="Send File" src="http://placehold.it/800x400&amp;text=image+of+sending+file"></p>
+<p>You should see Universal Gcode Sender start streaming the text file line by line to the Arduino, and your machine should start moving around.
+<img alt="Sent File" src="http://placehold.it/800x400&amp;text=image+of+streaming+gcode"></p>
+<h2>Run Job!</h2>
+<p>Lower your sharpie so it is <i>just</i> barely above the paper
+<img alt="Just above work surface" src="http://placehold.it/800x400&amp;text=image+of+sharpie+almost+touching+paper"></p>
+<p>OK, now we're ready. Take a deep breath (this is going to be amazing) and click the 'Send' button just below the file path one more time.
+<img alt="Run Job" src="helloworld/ugs5.png"></p>
+<h2>Rule World!</h2>
+<p>Your machine will now run the hello world job. Keep close to your computer, and be aware of how to quickly disconnect the power from your machine in case of an emergency situation.
+<img alt="Finished Job" src="http://placehold.it/800x400&amp;text=result"></p></article><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="jquery.simplemodal.1.4.4.min.js"></script>
+<script src="prettify.js"></script>
+<script>
+	$(document).ready(function(){
+	
+		var $nav = $("nav dl");
+		
+		$("article").each(function(){
+			var $el = $(this);
+			var $h1 = $el.find("h1");
+			var sectionTitle = $h1.html();
+			var articleId = $el.attr("id");
+			var $dt = $("<dt><a href=\"#"+articleId +"\">"+sectionTitle+"</a></dt>");
+			
+			$dt.find("a").on("click",function(e){
+				e.preventDefault();
+				$('html,body').animate({scrollTop: $h1.offset().top},400);
+			});
+			
+			$nav.append($dt);
+			
+			var $subtitles = $el.find("h2");
+			
+			$subtitles.each(function(){
+				var $h2 = $(this);
+				var title = $h2.text();
+				var newID = articleId + "-" +camelCase(title);
+				$h2.attr("id",newID);
+				var $dd = $("<dd><a href=\"#" +newID + "\">" + title + "</a></dd>");
+				
+				$dd.find("a").on("click",function(e){
+					e.preventDefault();
+					$('html,body').animate({scrollTop: $h2.offset().top},200);
+				})
+				$nav.append($dd);
+				
+			});
+			
+			var $articles = $el.find("article");
+			
+		});	
+		
+		$("canvas").each(function(){
+			var $canvas = $(this);
+			var ctx = this.getContext("2d");
+			
+			
+			
+			eval($("code[data-for='" + $canvas.attr("id") + "']").text());
+			
+			
+			var evalString = "new Chart(ctx)." + $canvas.data("type") + "(data);";
+			
+			eval(evalString);
+						
+		});
+		prettyPrint();			
+		
+		function camelCase(str){			
+			var splitString = str.split(" ");
+			
+			var returnedCamel = splitString[0].toLowerCase();
+			
+			for (var i=1; i<splitString.length; i++){
+				returnedCamel += splitString[i].charAt(0).toUpperCase() + splitString[i].substring(1).toLowerCase();
+			}
+			
+			return returnedCamel;
+			
+		} 
+	});
+	</script>
+<script>
+/*
+  $(document).ready(function(){
+    $(".photo").click(function(e) {
+      var hrefval= $(this).attr("src"); 
+      $.modal('<img src=" ' + hrefval + '">', { 
+        containerCss: { height:'auto',width:'auto'}, 
+        overlayClose: true 
+      });
+      e.preventDefault();
+    });
+  });
+/*
+</script>
+
+</body>
+</html>
