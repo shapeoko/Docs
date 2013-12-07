@@ -14,10 +14,10 @@ There is no installation required for this software. Simply download the zip fil
 
 #####Mac Users:
 You may need to create a "/var/lock" directory on OSX to fix a bug in the serial library. To do this open the Terminal application and run the following two commands: 
-sudo mkdir /var/lock 
-sudo chmod 777 /var/lock 
+	sudo mkdir /var/lock 
+	sudo chmod 777 /var/lock 
 
-<hr>
+<hr/>
 
 ##grbl
 ### Overview ###
