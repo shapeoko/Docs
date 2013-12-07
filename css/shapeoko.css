@@ -93,14 +93,13 @@ ol > li{
 }
 
 a:link, a:visited{
-    color: #33e;
+    color: #333;
     text-decoration: none;
 }
 a:hover{
-    color: #00f;
-    text-shadow:1px 1px 2px #ccf;
-    text-decoration:underline;
+    color: black;
 }
+
 h1{
     color: #999;
     font-weight: 400;
