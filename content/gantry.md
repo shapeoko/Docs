@@ -21,8 +21,9 @@ Push the MakerSlide as far as is possible to one end of the slot which the 12mm 
 ### Belt Anchors
 ![](tPictures/so_belt_anchors_2.jpg)
 ![](tPictures/so_belt_anchors_parts_2.jpg)
+![](tPictures/ms_belt_clip.jpg)
 
-The belt anchors must be assembled and placed on the MakerSlide before attaching the second Motor Mount Carriage.
+The belt anchors must be assembled and placed on the MakerSlide before attaching the second Motor Mount Carriage. At a minimum you just need to remember to put the insertion nuts into the back piece of makerslide (on the top slot) before attaching the second motor mount carriage. Once the carriage is in place, you will no longer have access to the slot. 
 
 ##Complete Gantry (PS20025)
 
