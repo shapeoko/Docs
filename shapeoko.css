@@ -199,8 +199,7 @@ h5 {
 	}
 
 	#wrapper nav {
-	  width: 175px;
-	  min-width: 200px;
+	  width: 10%px;
 	  padding-right: 20px;
 	  position: fixed;
 	  height: 100%;
@@ -258,9 +257,9 @@ h5 {
 	}
 
 	#contentWrapper {
-	  width: 80%;
-	  max-width: 940px;
-	  margin-left: 210px;
+	  width: 75%;
+	  max-width: 960px;
+	  margin-left: 20%;
 	  padding: 0px 40px;
 	  padding-top: 72px;
 	}
