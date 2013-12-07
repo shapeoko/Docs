@@ -16,5 +16,3 @@ title: About | Purebreeze
 ## Power Supply
 
 ## grblShield
-
-## YAT
