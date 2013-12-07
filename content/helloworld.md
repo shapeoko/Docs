@@ -59,12 +59,12 @@ In the same command line, type $$ to view the current Grbl settings.
 
 ##Configure Grbl Settings
 The default values need to be changed in order for your machine to function properly.  To do this, simply enter the correct value for each setting into the command line and press enter.  For example, to change the x-axis steps/mm to 40.020 you would type this, followed by an enter:
-```
-$0=40.020
-```
+
+		$0=40.020
+
 
 These are the correct Grbl settings for the stock full kit machine.
-![Grbl Settings](http://placehold.it/800x400&text=screenshot+of+correct+grbl+settings)
+![Grbl Settings](helloworld/check_grbl_settings.png)
 
 If you have sourced your own electronics, you can easily determine your own settings by using this [Grbl settings calculator.](http://homepage.ntlworld.com/r.j.noble/ShapeOko/grblcalc/)
 
