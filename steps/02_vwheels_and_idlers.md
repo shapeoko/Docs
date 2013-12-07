@@ -3,9 +3,9 @@ layout: step
 title: V-wheels and Smooth Idlers
 ---
 
-![V- and Idler Wheel Parts](/imgs/tPictures/so_vw_iw_parts_2.jpg)
-![V-Wheel Assembled](/imgs/tPictures/so_vwi_vwheel_2.jpg)
-![Smooth Idler Wheel Assembled](/imgs/tPictures/so_smooth_idler_2.jpg)
+![V- and Idler Wheel Parts](../imgs/tPictures/so_vw_iw_parts_2.jpg)
+![V-Wheel Assembled](../imgs/tPictures/so_vwi_vwheel_2.jpg)
+![Smooth Idler Wheel Assembled](../imgs/tPictures/so_smooth_idler_2.jpg)
 
 Makerslide uses V-wheels to allow for movement along the rails which it affords.
 
@@ -13,8 +13,8 @@ The belts which the stepper motors drive the X- and Y-axes which require smooth 
 
 ##V-Wheels
 
-![V-Wheel Assembly](/imgs/tPictures/25203-02_2.png)
-![V-Wheel Assembled](/imgs/tPictures/so_vwi_vwheel_2.jpg)
+![V-Wheel Assembly](../imgs/tPictures/25203-02_2.png)
+![V-Wheel Assembled](../imgs/tPictures/so_vwi_vwheel_2.jpg)
 
 ###Requirements
 
@@ -28,7 +28,7 @@ The belts which the stepper motors drive the X- and Y-axes which require smooth 
 
 * one M5 bolt to align the pieces during assembly
 
-![V-Wheel Parts](/imgs/tPictures/so_vw_iw_vw_parts_4.jpg)
+![V-Wheel Parts](../imgs/tPictures/so_vw_iw_vw_parts_4.jpg)
 
 ###Assemble all of the V-Wheels (20 wheels total)
 1. Take one ball bearing, and insert it into the Delrin V-Wheel
@@ -38,7 +38,7 @@ The belts which the stepper motors drive the X- and Y-axes which require smooth 
 5. Using your thumbs, squeeze the assembly together. There will be a bit of friction getting the bearings settled into the wheel. When you tighten the wheel to the plate, you will squeeze the entire thing together tightly.
 6. Repeat this procedure for the remaining V-Wheels (20 total)
 
-![Idler Wheel Assembled](/imgs/tPictures/so_vwi_vwheel_4.jpg)
+![Idler Wheel Assembled](../imgs/tPictures/so_vwi_vwheel_4.jpg)
 
 Alternate, assembly-line procedure for the V-Wheels:
 
@@ -47,8 +47,8 @@ Alternate, assembly-line procedure for the V-Wheels:
 3. Place a V-Wheel bearing side down onto the longest M5 bolt which is available, add a precision shim, then another bearing, press things together — repeat until the bolt is full, clear the bolt and repeat until done
 
 ##Smooth Idlers
-![Smooth Idler Assembly](/imgs/tPictures/25197-02_2.png)
-![Idler Wheel Assembled](/imgs/tPictures/so_vwi_vwheel_2.jpg)
+![Smooth Idler Assembly](../imgs/tPictures/25197-02_2.png)
+![Idler Wheel Assembled](../imgs/tPictures/so_vwi_vwheel_2.jpg)
 
 ###Requirements
 
@@ -62,7 +62,7 @@ Alternate, assembly-line procedure for the V-Wheels:
 
 * one M5 bolt to align the pieces during assembly
 
-![Idler Wheel Parts](/imgs/tPictures/so_vw_iw_idlerparts_4.jpg)
+![Idler Wheel Parts](../imgs/tPictures/so_vw_iw_idlerparts_4.jpg)
 
 ###Assemble all of the smooth idlers (6 idlers total)
 
@@ -73,4 +73,4 @@ Alternate, assembly-line procedure for the V-Wheels:
 5. Using your thumbs, squeeze the assembly together. A small portion of the second bearing will be protruding from the edge of the smooth idler. This is normal. We will tighten the entire assembly when the idlers gets bolted to the motor mount plate
 6. Repeat this procedure for the remaining smooth idlers (6 total)
 
-![Smooth Idler Wheel Assembled](/imgs/tPictures/so_smooth_idler_4.jpg)
+![Smooth Idler Wheel Assembled](../imgs/tPictures/so_smooth_idler_4.jpg)

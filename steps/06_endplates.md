@@ -6,9 +6,9 @@ title: End Plates
 ##Y-Axis Rail Assembly (PS20026)
 
 ### Overview
-![exploded view of End Plates](/imgs/tPictures/PS20026_2.png) 
-![](/imgs/tPictures/so_y_axis_rail_2.jpg)
-![](/imgs/tPictures/so_y_axis_rail_parts_2.jpg)
+![exploded view of End Plates](../imgs/tPictures/PS20026_2.png) 
+![](../imgs/tPictures/so_y_axis_rail_2.jpg)
+![](../imgs/tPictures/so_y_axis_rail_parts_2.jpg)
 
 **Note:** Although the assembly photo shows both end plates attached, only attach one to each Y-axis rail at this time.
 

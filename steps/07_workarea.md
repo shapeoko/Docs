@@ -5,8 +5,8 @@ title: Work Area
 
 ## Overview
 
-![](/imgs/tPictures/so_complete_2.jpg)
-![](/imgs/tPictures/so_assembly_gantry_rails_2.jpg)
+![](../imgs/tPictures/so_complete_2.jpg)
+![](../imgs/tPictures/so_assembly_gantry_rails_2.jpg)
 
 ##Waste Board Assembly (PS20024)
 
@@ -16,7 +16,7 @@ title: Work Area
 - 2 PS20001 MDF wasteboard (1/2")
 - 2 PS20009 20mm x 20mm x 550mm aluminum extrusion, black anodized
 
-![exploded view of assembly step](/imgs/tPictures/PS20024_2.png)  ![](/imgs/tPictures/so_waste_board_2.jpg) ![](/imgs/tPictures/so_waste_board_parts_2.jpg)
+![exploded view of assembly step](../imgs/tPictures/PS20024_2.png)  ![](../imgs/tPictures/so_waste_board_2.jpg) ![](../imgs/tPictures/so_waste_board_parts_2.jpg)
 
 
 ## 20x20 Extrusions
@@ -26,7 +26,7 @@ Slide Entire  Assembly over wasteboard Assembly, fasten with:
 - M5 washer
 - Insertion Nut
 
-![](/imgs/tPictures/so_m5_x_10mm_bhcs_washer_insertion_nut_2.jpg)
+![](../imgs/tPictures/so_m5_x_10mm_bhcs_washer_insertion_nut_2.jpg)
 
 ## Squaring the Table
 
@@ -44,7 +44,7 @@ Place the 10mm M5 bolts w/ washers into the bottom holes on the open end plates,
 
 Congratulations! You've built a ShapeOko!
 
-![](/imgs/tPictures/so_complete_4.jpg)
+![](../imgs/tPictures/so_complete_4.jpg)
 
 At this point, you will need to adjust the machine's V-wheels. These should be tight enough to hold things in alignment, but loose enough that the machine moves freely and smoothly. The suggested technique for this is, "Loosen the eccentric spacer until the V-wheel does not rotate when the carriage is moving and then tighten just (and no more!) until the v-wheel rotates when moving the carriage. Overtightening will lead to the V-wheel wearing out."
 

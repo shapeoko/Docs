@@ -47,7 +47,7 @@ Before we can control our machine, we need to install and/or configure some soft
 
 In this step, we will *test* our electronics setup. It's beneficial to do this prior to assembling the machine, as some issues are more easily addressed before assembly takes place. If a problem were to occur, it's much easier to troubleshoot without having to disassemble the machine!
 
-![Electronics Overview Image](/imgs/tPictures/so_electronics_parts_4.jpg)
+![Electronics Overview Image](imgs/tPictures/so_electronics_parts_4.jpg)
 
 ---
 
@@ -58,7 +58,7 @@ In this step, we will *test* our electronics setup. It's beneficial to do this p
 
 A lot of the "work" required to assemble the machine is done in this step. It's not hard work, but it'll take a while. Just like long division.
 
-![wheels and idlers laid out](/imgs/tPictures/so_vw_iw_parts_4.jpg)
+![wheels and idlers laid out](imgs/tPictures/so_vw_iw_parts_4.jpg)
 
 ---
 
@@ -67,7 +67,7 @@ A lot of the "work" required to assemble the machine is done in this step. It's 
 
 This is the most labor intensive part of the assembly. You will be assembling 3 motor mount plates.
 
-![exploded view of carriage](/imgs/tPictures/so_motor_mount_carriages_parts_4.jpg)
+![exploded view of carriage](imgs/tPictures/so_motor_mount_carriages_parts_4.jpg)
 
 ---
 
@@ -76,28 +76,28 @@ This is the most labor intensive part of the assembly. You will be assembling 3 
 
 The z-axis is comprised of 3 seperate assemblies, and will require some time (and patience) to fully assemble. once you are done with this step, your machine will really start to take shape. 
 
-![z-axis exploded](/imgs/tPictures/so_z_axis_parts_4.jpg)
+![z-axis exploded](imgs/tPictures/so_z_axis_parts_4.jpg)
 
 ---
 
 ##Gantry
 [Goto the Instructions](steps/05_gantry.html)
 
-![Gantry Image](/imgs/tPictures/so_gantry_parts_4.jpg)
+![Gantry Image](imgs/tPictures/so_gantry_parts_4.jpg)
 
 ---
 
 ##Y-Axis
 [Goto the Instructions](steps/06_endplates.html)
 
-![Y Axis Image](/imgs/tPictures/so_y_axis_rail_parts_4.jpg)
+![Y Axis Image](imgs/tPictures/so_y_axis_rail_parts_4.jpg)
 
 ---
 
 ##Work Area##
 [Goto the Instructions](steps/07_workarea.html)
 
-![Work Area](/imgs/tPictures/so_waste_board_parts_4.jpg)
+![Work Area](imgs/tPictures/so_waste_board_parts_4.jpg)
 
 ---
 
