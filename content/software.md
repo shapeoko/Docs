@@ -32,3 +32,7 @@ Grbl includes full acceleration management with look ahead. That means the contr
 
 
 ### Configuring ###
+
+Your grbl settings should look like this:
+
+![shapeoko 2 grbl settigns](helloworld/check_grbl_settings.png)
