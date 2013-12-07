@@ -36,7 +36,7 @@ Using a yaydaday, affix your sharpie to the z-axis spindle carriage assembly.
 
 ##Position Sharpie
 Lower your sharpie so it's ~1" above the paper.
-![Inch above work surface](http://placehold.it/800x400&text=image+of+sharpie+almost+touching+paper)
+![Inch above work surface](sharpie_close.jpg)
 
 
 ##Open Software
