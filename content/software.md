@@ -12,11 +12,11 @@ Universal gcode sender (UGS for short): a Java based, cross platform G-Code send
 ### Installing ###
 There is no installation required for this software. Simply download the zip file from the link above. Once downloaded, to run the software simply unzip the .zip file and double click the .jar file. On some platforms you will need to run an included start script. If you are using windows, just double click the .jar file.
 
-#####Mac Users:
+#####Mac Users
 You may need to create a "/var/lock" directory on OSX to fix a bug in the serial library. To do this open the Terminal application and run the following two commands: 
 
-	sudo mkdir /var/lock 
-	sudo chmod 777 /var/lock 
+		sudo mkdir /var/lock 
+		sudo chmod 777 /var/lock 
 
 
 

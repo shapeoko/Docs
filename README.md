@@ -1,5 +1,7 @@
 #Shapeoko 2 Documentation
 
+If you are looking for the actual instructions to assemble your Shapeoko 2, please visit: http://docs.shapeoko.com. 
+
 ##Structure
 
 ### /(root)
