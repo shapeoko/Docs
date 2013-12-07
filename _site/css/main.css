@@ -1,0 +1,4 @@
+ul { margin-left: 20px; }
+ul.toc li {
+  list-style-type: none;
+}
