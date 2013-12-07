@@ -85,6 +85,11 @@ li p{
 }
 ul > li{
     list-style-type: disc;
+    margin-left:10px;
+}
+
+ol > li{
+	margin-left:10px;
 }
 
 a:link, a:visited{
