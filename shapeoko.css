@@ -257,6 +257,10 @@ h5 {
 	  padding-top: 72px;
 	}
 
+	.header a{
+		text-decoration: none;
+		color: white;
+	}
 
 	.header ul li a {
 		text-decoration: none;
