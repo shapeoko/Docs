@@ -641,7 +641,12 @@ class Parsedown
 
 				if ($matches[1]) # image
 				{
-					$element = '<img alt="'.$matches[3].'" src="content/'.$url.'">';
+					$checker = substr($url, 0,5);
+						if($checker == "http:"){
+							$element = '<img alt="'.$matches[3].'" src="'.$url.'">';
+						} else{
+						$element = '<img alt="'.$matches[3].'" src="content/'.$url.'">';
+					}
 				}
 				else
 				{
@@ -682,7 +687,11 @@ class Parsedown
 
 					if ($matches[1]) # image
 					{
-						$element = '<img alt="'.$matches[2].'" src="content/'.$url.'">';
+						if($checker == "http:"){
+							$element = '<img alt="'.$matches[3].'" src="'.$url.'">';
+						} else{
+						$element = '<img alt="'.$matches[3].'" src="content/'.$url.'">';
+					}
 					}
 					else # anchor
 					{
