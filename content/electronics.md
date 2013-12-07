@@ -52,7 +52,7 @@ If not, download the appropriate drivers/software for your platform (do not proc
 Once the Arduino is recognized by your computer system, install a Communication / Control Program.
 
 ###UGS
-![UGS](http://placehold.it/400x400)  
+![UGS](tPictures/ugs1.png)  
 *(universal gcode sender by will winder)*
 
 If Java isn't an option for your machine there are other [Communication/Control programs](http://www.shapeoko.com/wiki/index.php/Communication_/_Control).
@@ -120,7 +120,7 @@ _Be careful with the power supply, and don't work on power wires when the power 
 
 First, strip the power lead, it may also be necessary to split the lead at the end so as to allow it to neatly connect to the power connector on the gShield.
 
-![Stripped lead for barrel connector](tPictures/so_e_powerwire_stripp_2.jpg)
+![Stripped lead for barrel connector](tPictures/power_connection.jpg)
 
 Connect it to the Arduino. There are two leads, one a solid black wire, the other black w/ a white stripe. 
 
