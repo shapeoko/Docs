@@ -7,7 +7,7 @@ There are two pieces of software that you will need to be aware of while assembl
 ## Universal G-code Sender
 ### Overview ###
 
-Universal gcode sender (UGS for short): a Java based, cross platform G-Code sender created to control grbl Based machines (like Shapeoko!). [Click here to download the program](UniversalGcodeSender-v1.0.6.zip). The latest version can always be downloaded [from github](https://github.com/winder/Universal-G-Code-Sender).
+Universal gcode sender (UGS for short): a Java based, cross platform G-Code sender created to control grbl Based machines (like Shapeoko!). [Click here to download the program](http://bit.ly/16q7obd). The latest version can always be downloaded [from github](https://github.com/winder/Universal-G-Code-Sender).
 
 ### Installing ###
 
