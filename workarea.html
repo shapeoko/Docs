@@ -64,29 +64,41 @@
 		
 		<div id="contentWrapper">
 			<h1 id="mainHeader">Shapeoko 2</h1>
-<h2 id="introText">firstjob</h2><article id="firstjob"><h1>Getting Started</h1>
-<p>Welcome to Your New Life! After completing this step, you'll be a pro! OK, maybe not a pro, but you will be capable of designing a simple part, generating appropriate toolpaths, and cutting said toolpaths on your Shapeoko 2. This is exciting, get ready!</p>
-<h2>Find the Origin</h2>
-<p>Step #1: Open makerCAM.com. Zoom out until you can see the origin. The origin is 0,0 in the cartesian coordinate system, it's where the X and Y axis meet. In the CAM world, the origin is where your machine is going to start from.</p>
-<p><img alt="find the origin" src="content/makercam/mc_origin.png"></p>
-<h2>Create a Rectangle</h2>
-<p>Select Insert -> Rounded Rectangle. When the dialog box comes up, input 3.5 for both the length and width. leave the radius as 0.2. Click OK. You now have a rounded rectangle!</p>
-<h2>Another Rectangle</h2>
-<p>Select Insert -> Rounded Rectangle. When the dialog box comes up, input 3.125 for both the length and width. leave the radius as 0.2. Click OK. You now have another rounded rectangle! Move the rounded rectangle so the bottom left corner is slightly inside of the bigger rectangle. Like this:</p>
-<h2>Draw Freehand</h2>
-<p>Select the pencil tool from the toolbar in the top left corner of the screen. Use it to draw the first letter of your last name. Draw it in block style. It might take a few tries. If you mess up, switch to the pointer tool, select your line and press 'delete' on your keyboard. Once you have a rough shape of your letter, take a step back and have a look. A little rough isn't it? That's OK, it's a start!</p>
-<h1>Prettify Your Freehand</h1>
-<p>Take the pointer tool with the circle on the end, and start working your letter into shape. Zoom in, and hover over one of the corners. See the red dot? Now you can click and drag that red dot until your line is straight (or in the shape you want it). If you put that red dot onto another one, it will join the two lines together. Now we're getting somewhere! Once you're happy with the letter, go ahead and center it inside the rectangles.</p>
-<h2>Engrave Your Letter</h2>
-<p>Select your letter with the pointer tool. Once it's selected, the border will turn orange. Now, take a deep breath, we're going to make our first toolpath! Click CAM -> Pocket. Fill in the following values then click OK. Your letter should look like it's filled in with a hatch pattern.</p>
-<h2>Engrave the Border</h2>
-<p>Select the inside rounded rectangle (the one we made in step #3). Click CAM -> Follow Path Operation. Fill in the following values, then click OK. Your line will be highlighted yellow.</p>
-<h2>Create a Profile</h2>
-<p>Select the outside rounded rectangle (the one we made in Step #2). Click CAM -> Profile Operation. Fill in the following values, then click OK.</p>
-<h2>Generate G-Code</h2>
-<p>It's time to generate your G-code! If you check the "view cuts" option in the top right portion of the screen, your toolpaths will be filled with nice colors representing the operations. If everything looks OK, go ahead and click CAM -> calculate all. Nice work.</p>
-<h2>Export G-Code</h2>
-<p>Export Your g-code! Your coaster should look a little goofy right now, with colors and curves representing the toolpaths. That's OK, Imaging those toolpaths as a map for your bit to follow. Once you have calculated all toolpaths, let's go ahead an export the file. Click CAM -> export g-code. A couple of things to remember on this screen.</p></article><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<h2 id="introText">workarea</h2><article id="workarea"><h1>Work Area</h1>
+<h2>Overview</h2>
+<p><img alt="" src="content/tPictures/so_complete_2.jpg">
+<img alt="" src="content/tPictures/so_assembly_gantry_rails_2.jpg"></p>
+<h2>Waste Board Assembly (PS20024)</h2>
+<ul>
+<li>8 25286-02 M5 x 12mm, BHCS</li>
+<li>8 25287-02 Flat Washer, M5</li>
+<li>8 26016-01 M5 insertion nut</li>
+<li>2 PS20001 MDF wasteboard (1/2")</li>
+<li>2 PS20009 20mm x 20mm x 550mm aluminum extrusion, black anodized</li>
+</ul>
+<p><img alt="exploded view of assembly step" src="content/tPictures/PS20024_2.png">  <img alt="" src="content/tPictures/so_waste_board_2.jpg"> <img alt="" src="content/tPictures/so_waste_board_parts_2.jpg"></p>
+<h2>20x20 Extrusions</h2>
+<p>Slide Entire  Assembly over wasteboard Assembly, fasten with:</p>
+<ul>
+<li>M5x10</li>
+<li>M5 washer</li>
+<li>Insertion Nut</li>
+</ul>
+<p><img alt="" src="content/tPictures/so_m5_x_10mm_bhcs_washer_insertion_nut_2.jpg"></p>
+<h2>Squaring the Table</h2>
+<p>Square up the wasteboard assembly carefully, since it will be the foundation for the balance of the machine.</p>
+<h3>Parts</h3>
+<ul>
+<li>2 Y-Axis Rail Assembly (PS20026)</li>
+<li>Complete Gantry (PS20025)</li>
+<li>Waste Board Assembly (PS20024)</li>
+</ul>
+<p>Turn the eccentric nuts on the V-wheels on the Complete Gantry (PS20025) so that they are as far from the static V-wheels as is possible. Drive the Complete Gantry onto the two Y-Axis Rail Assemblies (PS20026), then attach the open end plates.</p>
+<p>Place the 10mm M5 bolts w/ washers into the bottom holes on the open end plates, thread on the insertion nuts, then carefully slide the rail assemblies onto the wasteboard extrusion. Check the alignment with a known-to-be-good square. One can also measure the diagonals to test for squareness. Ensure that everything is aligned squarely and that the Complete Gantry and the X-Axis Sub Gantry move smoothly. Tighten the bolts.</p>
+<p>Congratulations! You've built a ShapeOko!</p>
+<p><img alt="" src="content/tPictures/so_complete_4.jpg"></p>
+<p>At this point, you will need to adjust the machine's V-wheels. These should be tight enough to hold things in alignment, but loose enough that the machine moves freely and smoothly. The suggested technique for this is, "Loosen the eccentric spacer until the V-wheel does not rotate when the carriage is moving and then tighten just (and no more!) until the v-wheel rotates when moving the carriage. Overtightening will lead to the V-wheel wearing out."</p>
+<p>You will also need to complete the wiring as documented in the next step.</p></article><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script src="jquery.simplemodal.1.4.4.min.js"></script>
 <script src="prettify.js"></script>
 <script>

@@ -69,6 +69,7 @@ pre{
     overflow: auto;
     margin-bottom:20px;
 }
+
 code{
     background-color: #eee;
     padding: 1px 3px;
@@ -80,9 +81,11 @@ pre code {
     padding-left: 0px;
     padding-right: 0px;
 }
+
 li p{
     margin: 0.3em;
 }
+
 ul > li{
     list-style-type: disc;
 }
@@ -96,6 +99,7 @@ a:hover{
     text-shadow:1px 1px 2px #ccf;
     text-decoration:underline;
 }
+
 h1{
     color: #999;
     font-weight: 400;

@@ -46,6 +46,19 @@
 	<div id="wrapper">
 		<nav>	
 			<dl>
+				<dt><a href='index.html'>Welcome!</a></dt>
+				<dt><a href='tips.html'>Pro Tips!</a></dt>
+				<dt><a href='software.html'>Software</a></dt>
+				<dt><a href='electronics.html'>Electronics</a></dt>
+				<dt><a href='wheels.html'>Wheels + Idlers</a></dt>
+				<dt><a href='carriages.html'>Carriages</a></dt>
+				<dt><a href='zaxis.html'>Z-Axis</a></dt>
+				<dt><a href='gantry.html'>Gantry</a></dt>
+				<dt><a href='yaxis.html'>Y-Axis</a></dt>
+				<dt><a href='workarea.html'>Work Area</a></dt>
+				<dt><a href='wiring.html'>Electrical Wiring</a></dt>
+				<dt><a href='helloworld.html'>Hello, World</a></dt>
+				<dt><a href='firstjob.html'>First Job</a></dt>
 			</dl>
 		</nav>
 		
@@ -53,7 +66,7 @@
 			<h1 id="mainHeader">Shapeoko 2</h1>
 <h2 id="introText">helloworld</h2><article id="helloworld"><h2>Getting Set Up</h2>
 <p>At this point, we should have a fully assembled machine, capable of making amazing things. BUT, first, we need make sure everything is in good working order.  To achieve that, we're going to run a job, that we in the Shapeoko community call "Hello, World". When it's finished, it will look like this:</p>
-<p><img alt="successfull job" src="http://placehold.it/800x400&amp;text=image+of+successfull+job"></p>
+<p><img alt="successfull job" src="content/http://placehold.it/800x400&amp;text=image+of+successfull+job"></p>
 <p>Before we begin, let's make sure we are ready to go:</p>
 <ol>
 <li>Electronics tested?</li>
@@ -64,64 +77,65 @@
 <p>If you answered yes to all 4 questions above, then let's proceed.</p>
 <h2>Work Area</h2>
 <p>1.) Tape a piece of paper down to your work area. The paper should be taped in landscape orientation (wider than it is tall). Keep the paper towards the front/left of the machine.
-<img alt="successfull job" src="http://placehold.it/800x400&amp;text=image+of+paper+taped+to+work+area"></p>
+<img alt="successfull job" src="content/http://placehold.it/800x400&amp;text=image+of+paper+taped+to+work+area"></p>
 <h2>Download Files</h2>
 <p>Download <a href=""helloworld2.nc"">this file</a> and save it somewhere to your computer that you will remember, like the Desktop or your Documents folder.
-<a href=""helloworld2.nc""><img alt="Hello, World" src="helloworld/file.png"></a></p>
+<a href=""helloworld2.nc""><img alt="Hello, World" src="content/helloworld/file.png"></a></p>
 <h2>Position Machine</h2>
 <p>With the machine turned off, move your gantry to the front left corner of the paper that we taped down in step #1.
-<img alt="Position Machine" src="http://placehold.it/800x400&amp;text=image+of+machine+at+home"></p>
+<img alt="Position Machine" src="content/http://placehold.it/800x400&amp;text=image+of+machine+at+home"></p>
 <h2>Attach Sharpie</h2>
 <p>Using a yaydaday, affix your sharpie to the z-axis spindle carriage assembly.
-<img alt="Taped Sharpie" src="http://placehold.it/800x400&amp;text=image+of+taped+sharpie+to+z+gantry"></p>
+<img alt="Taped Sharpie" src="content/http://placehold.it/800x400&amp;text=image+of+taped+sharpie+to+z+gantry"></p>
 <h2>Position Sharpie</h2>
 <p>Lower your sharpie so it's ~1" above the paper.
-<img alt="Inch above work surface" src="http://placehold.it/800x400&amp;text=image+of+sharpie+almost+touching+paper"></p>
+<img alt="Inch above work surface" src="content/http://placehold.it/800x400&amp;text=image+of+sharpie+almost+touching+paper"></p>
 <h2>Open Software</h2>
 <p>Plug the power in to your machine and open Universal Gcode Sender on your computer. Once the program has loaded, plug in the usb cord to your computer and you should hear the stepper motors engage.
-<img alt="Open The Software" src="helloworld/ugs1.png"></p>
+<img alt="Open The Software" src="content/helloworld/ugs1.png"></p>
 <h2>Open Connection Between Computer and Machine</h2>
 <p>Select the correct com port and baud rate from the drop down menus on the left.  Click 'Open' to establish a connection with the Arduino.  Once the connection has been made, GRBL will say hello by displaying its version number.
-<img alt="Make Connection" src="http://placehold.it/800x400&amp;text=image+of+open+connection+with+GRBL+version+displayed"></p>
+<img alt="Make Connection" src="content/http://placehold.it/800x400&amp;text=image+of+open+connection+with+GRBL+version+displayed"></p>
 <h2>Verify Grbl Settings</h2>
 <p>In the command line at the top of Universal Gcode Sender, type $ and press enter.  Grbl should respond with a help message.
-<img alt="$ Command Response" src="http://placehold.it/800x400&amp;text=screenshot+of+$+command+response"></p>
+<img alt="$ Command Response" src="content/http://placehold.it/800x400&amp;text=screenshot+of+$+command+response"></p>
 <p>In the same command line, type $$ to view the current Grbl settings.
-<img alt="$ Command Response" src="http://placehold.it/800x400&amp;text=screenshot+of+$$+command+response"></p>
+<img alt="$ Command Response" src="content/http://placehold.it/800x400&amp;text=screenshot+of+$$+command+response"></p>
 <h2>Configure Grbl Settings</h2>
 <p>The default values need to be changed in order for your machine to function properly.  To do this, simply enter the correct value for each setting into the command line and press enter.  For example, to change the x-axis steps/mm to 40.020 you would type this, followed by an enter:</p>
 <pre><code>$0=40.020</code></pre>
 <p>These are the correct Grbl settings for the stock full kit machine.
-<img alt="Grbl Settings" src="http://placehold.it/800x400&amp;text=screenshot+of+correct+grbl+settings"></p>
+<img alt="Grbl Settings" src="content/http://placehold.it/800x400&amp;text=screenshot+of+correct+grbl+settings"></p>
 <p>If you have sourced your own electronics, you can easily determine your own settings by using this <a href="http://homepage.ntlworld.com/r.j.noble/ShapeOko/grblcalc/">Grbl settings calculator.</a></p>
 <h2>Open File</h2>
 <p>Browse for the file you downloaded in step #1 and open it.
-<img alt="Open The File" src="helloworld/ugs2.png"></p>
+<img alt="Open The File" src="content/helloworld/ugs2.png"></p>
 <h2>Verify File</h2>
 <p>Click the visualize button, located just below the browse button, to see what the file will look like. A screen similar to the one below will display after a few seconds. You can interact with this screen by left clicking and dragging your mouse around. The depth of this file is very shallow (.01"), so there is not much to look at beyond the general shape of the output. If the file were deeper, those levels would be represented as layers in the visualizer.
-<img alt="Visualize" src="helloworld/ugs_visualize.png"></p>
+<img alt="Visualize" src="content/helloworld/ugs_visualize.png"></p>
 <h2>Pre-Flight</h2>
 <p>If your file visualization looks correct, close the visualizer and click the 'machine control' tab towards the top of the window.
-<img alt="Double Check Settings" src="helloworld/ugs3.png"></p>
+<img alt="Double Check Settings" src="content/helloworld/ugs3.png"></p>
 <h2>Set Zero Position</h2>
 <p>Click the 'Reset Zero' Button, to tell your machine that you are at 0,0. You should notice on the left of the panel your work position coordinates will be set to X:0, Y:0, Z:0
-<img alt="Set Zero" src="helloworld/ugs4.png"></p>
+<img alt="Set Zero" src="content/helloworld/ugs4.png"></p>
 <h2>Air Print</h2>
 <p>To make sure there are no mistakes, lets draw some stuff in the air.  Click the 'File Mode' tab at the top of the program window. With the sharpie ~1" above the work surface, click the 'Send' button just below the file path.
-<img alt="Send File" src="http://placehold.it/800x400&amp;text=image+of+sending+file"></p>
+<img alt="Send File" src="content/http://placehold.it/800x400&amp;text=image+of+sending+file"></p>
 <p>You should see Universal Gcode Sender start streaming the text file line by line to the Arduino, and your machine should start moving around.
-<img alt="Sent File" src="http://placehold.it/800x400&amp;text=image+of+streaming+gcode"></p>
+<img alt="Sent File" src="content/http://placehold.it/800x400&amp;text=image+of+streaming+gcode"></p>
 <h2>Run Job!</h2>
 <p>Lower your sharpie so it is <i>just</i> barely above the paper
-<img alt="Just above work surface" src="http://placehold.it/800x400&amp;text=image+of+sharpie+almost+touching+paper"></p>
+<img alt="Just above work surface" src="content/http://placehold.it/800x400&amp;text=image+of+sharpie+almost+touching+paper"></p>
 <p>OK, now we're ready. Take a deep breath (this is going to be amazing) and click the 'Send' button just below the file path one more time.
-<img alt="Run Job" src="helloworld/ugs5.png"></p>
+<img alt="Run Job" src="content/helloworld/ugs5.png"></p>
 <h2>Rule World!</h2>
 <p>Your machine will now run the hello world job. Keep close to your computer, and be aware of how to quickly disconnect the power from your machine in case of an emergency situation.
-<img alt="Finished Job" src="http://placehold.it/800x400&amp;text=result"></p></article><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<img alt="Finished Job" src="content/http://placehold.it/800x400&amp;text=result"></p></article><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script src="jquery.simplemodal.1.4.4.min.js"></script>
 <script src="prettify.js"></script>
 <script>
+/*
 	$(document).ready(function(){
 	
 		var $nav = $("nav dl");
@@ -190,6 +204,7 @@
 			
 		} 
 	});
+*/
 	</script>
 <script>
 /*

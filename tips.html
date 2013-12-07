@@ -64,29 +64,21 @@
 		
 		<div id="contentWrapper">
 			<h1 id="mainHeader">Shapeoko 2</h1>
-<h2 id="introText">firstjob</h2><article id="firstjob"><h1>Getting Started</h1>
-<p>Welcome to Your New Life! After completing this step, you'll be a pro! OK, maybe not a pro, but you will be capable of designing a simple part, generating appropriate toolpaths, and cutting said toolpaths on your Shapeoko 2. This is exciting, get ready!</p>
-<h2>Find the Origin</h2>
-<p>Step #1: Open makerCAM.com. Zoom out until you can see the origin. The origin is 0,0 in the cartesian coordinate system, it's where the X and Y axis meet. In the CAM world, the origin is where your machine is going to start from.</p>
-<p><img alt="find the origin" src="content/makercam/mc_origin.png"></p>
-<h2>Create a Rectangle</h2>
-<p>Select Insert -> Rounded Rectangle. When the dialog box comes up, input 3.5 for both the length and width. leave the radius as 0.2. Click OK. You now have a rounded rectangle!</p>
-<h2>Another Rectangle</h2>
-<p>Select Insert -> Rounded Rectangle. When the dialog box comes up, input 3.125 for both the length and width. leave the radius as 0.2. Click OK. You now have another rounded rectangle! Move the rounded rectangle so the bottom left corner is slightly inside of the bigger rectangle. Like this:</p>
-<h2>Draw Freehand</h2>
-<p>Select the pencil tool from the toolbar in the top left corner of the screen. Use it to draw the first letter of your last name. Draw it in block style. It might take a few tries. If you mess up, switch to the pointer tool, select your line and press 'delete' on your keyboard. Once you have a rough shape of your letter, take a step back and have a look. A little rough isn't it? That's OK, it's a start!</p>
-<h1>Prettify Your Freehand</h1>
-<p>Take the pointer tool with the circle on the end, and start working your letter into shape. Zoom in, and hover over one of the corners. See the red dot? Now you can click and drag that red dot until your line is straight (or in the shape you want it). If you put that red dot onto another one, it will join the two lines together. Now we're getting somewhere! Once you're happy with the letter, go ahead and center it inside the rectangles.</p>
-<h2>Engrave Your Letter</h2>
-<p>Select your letter with the pointer tool. Once it's selected, the border will turn orange. Now, take a deep breath, we're going to make our first toolpath! Click CAM -> Pocket. Fill in the following values then click OK. Your letter should look like it's filled in with a hatch pattern.</p>
-<h2>Engrave the Border</h2>
-<p>Select the inside rounded rectangle (the one we made in step #3). Click CAM -> Follow Path Operation. Fill in the following values, then click OK. Your line will be highlighted yellow.</p>
-<h2>Create a Profile</h2>
-<p>Select the outside rounded rectangle (the one we made in Step #2). Click CAM -> Profile Operation. Fill in the following values, then click OK.</p>
-<h2>Generate G-Code</h2>
-<p>It's time to generate your G-code! If you check the "view cuts" option in the top right portion of the screen, your toolpaths will be filled with nice colors representing the operations. If everything looks OK, go ahead and click CAM -> calculate all. Nice work.</p>
-<h2>Export G-Code</h2>
-<p>Export Your g-code! Your coaster should look a little goofy right now, with colors and curves representing the toolpaths. That's OK, Imaging those toolpaths as a map for your bit to follow. Once you have calculated all toolpaths, let's go ahead an export the file. Click CAM -> export g-code. A couple of things to remember on this screen.</p></article><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<h2 id="introText">tips</h2><article id="tips"><h3>Screw Sizes (lengths)</h3>
+<p>For the most part, it's obvious which size screw is used for what, but the M5 10mm and 12mm BHCS (button head cap screws) are easily confused — while it's not noticeable when the shorter 10mm length is used where one ought to use a 12mm, the 10mm screws are intended for use with MakerSlide insertion nuts and a 12mm screw is too long and will bottom out before beginning to hold anything in place.</p>
+<h3>Electronics and Mechanicals</h3>
+<p>The assembly instructions have these two steps separated. The first step is for <strong>testing</strong> your electronics. As noted in the details of that step, it's easier to troubleshoot, and if there's a major problem, you won't have to disassemble the machine. It is best to partially disassemble the electronics after testing them in order to mount the motors onto the appropriate motor mount carriage plates. </p>
+<h3>A Note on Tapping</h3>
+<h5>Taps Are Brittle - Don't drop them on a cement floor.</h5>
+<p>The tap has to be harder than the material it's tapping. Because of that hardening, it's brittle, as in easily broken. You want to avoid breaking the tap like you would avoid getting the plague. Use a proper t-handle (like the one included with your kit) to turn the tap. Don't use a wrench, locking pliers, or a vice. yeah, those last three will work, but you'll be playing with fire.</p>
+<h5>Lubricate - a little bit will go a long way.</h5>
+<p>Lubricating will reduce the amount of friction produced while tapping, making the tap handle easier to turn. It could also aid in chip removal as there will be less friction keeping the chips in. You can use tapping fluid, motor oil, WD-40, butter, PAM, water, spit, or basically anythign that's wet. You won't need a lot of whatever you chose.</p>
+<h5>Take Your Time - this is not a race.</h5>
+<p>No, seriously this is not a race. You don't want to break one of these things. Not only will you be really mad at yourself, but you'll also have to buy a new piece of makerslide, a new tap, and possibly anything else that you break during your outburst. So, take your time and go slow.</p>
+<h5>You're a Breaker now - a chip breaker that is.</h5>
+<p>Take a look at your tap. It's not like a screw where the threads go all the way aroundthe body. There are 4 sections of teeth, seperated by vertical gaps called <em>flutes</em>. The teeth cut the metal, and the flutes act as an evacuation channel. Yeah, that's right, an evacuation channel. That's bad ass....</p>
+<p>Anyway, the flutes keep the chips out of the way so the teeth can keep cutting. Once you feel some resistance, you need to reverse the tap until you feel those chips clear. In some cases (towards the end of the tap) you'll need to reverse it all the way out, clean the tap (just brush off the chips), and then go at it again. The smaller the tap, the easier it is to break. Your tap is an M5 x 0.8mm tap. That's not the smallest tap in the world, but it's not very big either. So, be careful!</p>
+<p>The awesome news is that you can hone your tapping skillz (with a z!) by practicing on the z-axis makerslide (the short one that measures 200mm). We only need 1 end of that piece tapped, so if you were to make a mistake while learning, no big deal. Just flip the piece over and use the other side. But, you only get 2 practice holes! Use them wisely.</p></article><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script src="jquery.simplemodal.1.4.4.min.js"></script>
 <script src="prettify.js"></script>
 <script>
