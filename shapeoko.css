@@ -136,9 +136,6 @@ h5 {
     box-shadow:0 5px 15px #000;     
 }
 
-	article {
-	  border-top: 1px solid #ebebeb;
-	}
 
 	article strong{
 		font-weight: bold;
@@ -174,6 +171,12 @@ h5 {
 	
 	#mainHeader {
 	  font-size: 55px;
+	}
+
+	.toplink{
+		font-weight: Bold 700; 
+		font-size: 35px; 
+		color: #FFFFFF;
 	}
 
 	#introText {
