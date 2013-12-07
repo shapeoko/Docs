@@ -16,17 +16,17 @@ If you answered yes to all 4 questions above, then let's proceed.
 
 ##Work Area
 1.) Tape a piece of paper down to your work area. The paper should be taped in landscape orientation (wider than it is tall). Keep the paper towards the front/left of the machine.
-![successfull job](http://placehold.it/800x400&text=image+of+paper+taped+to+work+area)
+![successfull job](helloworld/paper_tape.jpg)
 
 
 ##Download Files
 Download [this file]("helloworld2.nc") and save it somewhere to your computer that you will remember, like the Desktop or your Documents folder.
-[![Hello, World](helloworld/file.png)]("helloworld2.nc")
+[![Hello, World](helloworld/file.png)](helloworld/helloworld2.nc)
 
 
 ##Position Machine
 With the machine turned off, move your gantry to the front left corner of the paper that we taped down in step \#1.
-![Position Machine](http://placehold.it/800x400&text=image+of+machine+at+home)
+![Position Machine](helloworld/gantry_lower_left.jpg)
 
 
 ##Attach Sharpie
@@ -35,7 +35,7 @@ Using a yaydaday, affix your sharpie to the z-axis spindle carriage assembly.
 
 
 ##Position Sharpie
-Lower your sharpie so it's ~1" above the paper.
+Lower your sharpie so it is about 1 inch above the paper.
 ![Inch above work surface](sharpie_close.jpg)
 
 
