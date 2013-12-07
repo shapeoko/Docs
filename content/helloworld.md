@@ -20,8 +20,8 @@ If you answered yes to all 4 questions above, then let's proceed.
 
 
 ##Download Files
-Download [this file]("helloworld2.nc") and save it somewhere to your computer that you will remember, like the Desktop or your Documents folder.
-[![Hello, World](helloworld/file.png)](helloworld/helloworld2.nc)
+Download [this file](http://docs.shapeoko.com/helloworld2.nc) and save it somewhere to your computer that you will remember, like the Desktop or your Documents folder.
+[![Hello, World](helloworld/file.png)](http://docs.shapeoko.com/helloworld2.nc)
 
 
 ##Position Machine
