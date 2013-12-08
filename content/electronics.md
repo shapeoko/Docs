@@ -4,6 +4,9 @@
 
 Before we get all crazy bolting our new machine together, let's give our electronics a test run. It's frustrating to have the machine fully assembled, only to find there is a problem with your electronics that may require disassembly! Let's cut that off at the pass and give everything a thorough checking first.
 
+For reference, the image below shows the concept of wiring Shapeoko 2.
+![Generic electronics layout](sketches/electronics_layout.svg)
+
 ## Requirements
 
 ![image of required components](tPictures/so_electronics_parts_4.jpg) 
