@@ -65,7 +65,7 @@
 		<div id="contentWrapper">
 <article id="electronics"><h1>Testing Electronics</h1>
 <h2>Overview</h2>
-<p><img alt="Arduino, gShield, wiring, stepper motors, lit" src="content/tPictures/so_e_arduino_wired_li_2.jpg"> <img alt="image of required components" src="content/tPictures/so_electronics_parts_2.jpg"></p>
+<p><img alt="Arduino, gShield, wiring, stepper motors, lit" src="content/tPictures/so_e_Arduino_wired_li_2.jpg"> <img alt="image of required components" src="content/tPictures/so_electronics_parts_2.jpg"></p>
 <p>Before we get all crazy bolting our new machine together, let's give our electronics a test run. It's frustrating to have the machine fully assembled, only to find there is a problem with your electronics that may require disassembly! Let's cut that off at the pass and give everything a thorough checking first.</p>
 <p>For reference, the image below shows the concept of wiring Shapeoko 2.</p>
 <p><a href="sketches/electronics_layout.svg"><img alt="Generic electronics layout" src="content/sketches/electronics_layout.svg"></a></p>
@@ -94,14 +94,14 @@
 <p>Now that we have everything gathered up, you should find yourself with a setup similar to this:</p>
 <p><img alt="image of required components" src="content/tPictures/so_electronics_parts_4.jpg">  </p>
 <p>First thing that we do is plug our Arduino into the computer.</p>
-<p><img alt="Arduino plugged into USB cable" src="content/tPictures/so_e_arduino_lit_4.jpg"></p>
+<p><img alt="Arduino plugged into USB cable" src="content/tPictures/so_e_Arduino_lit_4.jpg"></p>
 <p>Remember, the big end of the cable goes into the Arduino. </p>
 <p>Chances are, the Arduino will be recognized by your computer. 
 If not, download the appropriate drivers/software for your platform (do not proceed beyond Step #4 or you will erase Grbl):</p>
 <ul>
-<li><a href="http://arduino.cc/en/Guide/MacOSX#toc2">Mac OS X</a></li>
-<li><a href="http://arduino.cc/en/Guide/Windows#toc2">Windows</a></li>
-<li><a href="[http://playground.arduino.cc/Learning/Linux">Linux</a></li>
+<li><a href="http://Arduino.cc/en/Guide/MacOSX#toc2">Mac OS X</a></li>
+<li><a href="http://Arduino.cc/en/Guide/Windows#toc2">Windows</a></li>
+<li><a href="[http://playground.Arduino.cc/Learning/Linux">Linux</a></li>
 </ul>
 <h2>Communication / Control Program</h2>
 <p>Once the Arduino is recognized by your computer system, install a Communication / Control Program.</p>
@@ -110,11 +110,11 @@ If not, download the appropriate drivers/software for your platform (do not proc
 <em>(universal gcode sender by will winder)</em></p>
 <p>If Java isn't an option for your machine there are other <a href="http://www.shapeoko.com/wiki/index.php/Communication_/_Control">Communication/Control programs</a>.</p>
 <h2>Hook Stuff Up</h2>
-<p><img alt="Arduino and gShield" src="content/tPictures/so_e_arduino_gshield_2.jpg"> <img alt="Arduino and gShield on edge" src="content/tPictures/so_e_arduino_gshield_oe_2.jpg"> <img alt="Arduino and gShield assembled" src="content/tPictures/so_e_arduino_gshield_aa_2.jpg"></p>
+<p><img alt="Arduino and gShield" src="content/tPictures/so_e_Arduino_gshield_2.jpg"> <img alt="Arduino and gShield on edge" src="content/tPictures/so_e_Arduino_gshield_oe_2.jpg"> <img alt="Arduino and gShield assembled" src="content/tPictures/so_e_Arduino_gshield_aa_2.jpg"></p>
 <p>The first step is to plug the Arduino into the gShield. The Arduino will run Grbl, while the gShield will be connected to the stepper motors and will control them. Be careful of the electronics, not to bend any pins, or to allow static electricity to damage them.</p>
 <p>You will need to connect the gShield to the terminal blocks (using the 4 conductor grey wire) and the terminal blocks to the motors. If you have very long wires coming off of the stepper motors you will have the option of choosing where the terminal blocks are placed, either on the gantry, or connected to the electronics. If the wires are short, then the terminal blocks will need to be attached to the gantry. On the gantry minimizes the wear and tear on the motor leads, limiting it to the 4 conductor grey wire (this is easily sourced at any home improvement store), while hiding the terminal blocks away provides for a neater appearance.</p>
 <p><img alt="Stepper motor, terminal block, screwdriver" src="content/tPictures/so_e_stepper_motor_tb_2.jpg"> <img alt="Stripped wires" src="content/tPictures/so_e_wire_stripped_2.jpg">
-<img alt="Stepper motor connected to terminal block, connected to grey wire" src="content/tPictures/so_e_steppermotor_tb_wir_2.jpg"> <img alt="Wiring Y-Axis motors to terminal block" src="content/tPictures/so_e_steppermotor_tb_y_2.jpg"> <img alt="Stepper motors and terminal blocks wired up" src="content/tPictures/so_e_steppermotors_wi_a_2.jpg"> <img alt="Open connector on gShield" src="content/tPictures/so_e_arduino_open_2.jpg"> <img alt="Arduino, gShield, terminal blocks, wiring, stepper motors" src="content/tPictures/so_e_arduino_usb_2.jpg"> <img alt="image of required components" src="content/tPictures/so_e_arduino_wired_lit_2.jpg"></p>
+<img alt="Stepper motor connected to terminal block, connected to grey wire" src="content/tPictures/so_e_steppermotor_tb_wir_2.jpg"> <img alt="Wiring Y-Axis motors to terminal block" src="content/tPictures/so_e_steppermotor_tb_y_2.jpg"> <img alt="Stepper motors and terminal blocks wired up" src="content/tPictures/so_e_steppermotors_wi_a_2.jpg"> <img alt="Open connector on gShield" src="content/tPictures/so_e_Arduino_open_2.jpg"> <img alt="Arduino, gShield, terminal blocks, wiring, stepper motors" src="content/tPictures/so_e_Arduino_usb_2.jpg"> <img alt="image of required components" src="content/tPictures/so_e_Arduino_wired_lit_2.jpg"></p>
 <p>Start by cutting the grey wire to length (either equal thirds, or some proportion which takes into account the wire for the Y-axis having a slightly shorter run than the X- and Z-axes.</p>
 <p>Next, strip all of the wire ends. The ends which will attach to the terminal block should be approximately 3/8" so as to be twisted into a hook so as to wrap around the terminal block screws. The other end of the grey wire should be stripped approximately 1/4" of an inch so as to fit into the gShield. Be careful of stripping too much and leaving wire unnecessarily exposed which could create the possibility of a short.</p>
 <p><img alt="Stripped wire" src="content/tPictures/so_e_wire_stripped_2.jpg"></p>
@@ -136,13 +136,13 @@ If not, download the appropriate drivers/software for your platform (do not proc
 <p><img alt="image of required components" src="content/tPictures/so_e_steppermotors_ar_4.jpg"></p>
 <p>Please note the gShield takes two different sizes of screwdriver. 1/8" for the screws in the blue power connector, 3/32" for the screws in the green stepper motor connectors.</p>
 <p>The green stepper motor connectors should be unscrewed so as to open them up as the right-most connector is below.</p>
-<p><img alt="Open connector on gShield" src="content/tPictures/so_e_arduino_open_4.jpg"></p>
+<p><img alt="Open connector on gShield" src="content/tPictures/so_e_Arduino_open_4.jpg"></p>
 <p>Connect the grey wires from the stepper motors. Lastly one must connect the power. Note that each green block represents one axis. Be certain to connect the dual-motor Y-Axis to the correct block.</p>
 <p>Once completed, all wires will be connected and none will be loose. It is important that the wires be connected securely since the various parts will be in motion, and applying power to a stepper driver which is not connected to a motor may damage the driver.</p>
 <p>If you have a multimeter you may wish to test the connections for continuity.</p>
 <h3>Power</h3>
 <p><em>Be careful with the power supply, and don't work on power wires when the power supply is plugged in.</em></p>
-<p><strong>Caution:</strong> Please note that the 12V power supply has a connector which matches the Arduino's 5V power supply connection — it must not be plugged into said connector. The Arduino is able to draw its power over the USB connection, so the power connector on the Arduino is not used.</p>
+<p><strong>Caution:</strong> Please note that the 12V power supply has a connector which matches the Arduino's 5V power supply connection --- it must not be plugged into said connector. The Arduino is able to draw its power over the USB connection, so the power connector on the Arduino is not used.</p>
 <p>First, strip the power lead, it may also be necessary to split the lead at the end so as to allow it to neatly connect to the power connector on the gShield.</p>
 <p><img alt="Stripped lead for barrel connector" src="content/tPictures/power_connection.jpg"></p>
 <p>Connect it to the Arduino. There are two leads, one a solid black wire, the other black w/ a white stripe. </p>
@@ -151,9 +151,9 @@ If not, download the appropriate drivers/software for your platform (do not proc
 <li>black/white == (+) (or red)</li>
 </ul>
 <p>Please connect each lead to the appropriate side of the gShield's blue power connector.</p>
-<p><img alt="Power connections" src="content/tPictures/so_e_arduino_usb_4.jpg"></p>
+<p><img alt="Power connections" src="content/tPictures/so_e_Arduino_usb_4.jpg"></p>
 <p>Plug the barrel connector into the matching connector from the power supply, plug it into a grounded outlet. Your gShield should light up blue and be ready for operation.</p>
-<p><img alt="image of required components" src="content/tPictures/so_e_arduino_usb_lit_4.jpg"></p>
+<p><img alt="image of required components" src="content/tPictures/so_e_Arduino_usb_lit_4.jpg"></p>
 <h2>Testing</h2>
 <p>Attaching tape to the motor shafts makes it easier to see the rotation.</p>
 <p>Load up a Communication / Control program and use its jog functionality to test each Axis.</p>
@@ -162,7 +162,7 @@ If not, download the appropriate drivers/software for your platform (do not proc
 <h3>Another Spin</h3>
 <p>X-Axis</p>
 <h3>And a Final Spin</h3>
-<p>Y-Axis — make certain that the two motors for the Y-axis are rotating in opposite directions.</p></article><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<p>Y-Axis --- make certain that the two motors for the Y-axis are rotating in opposite directions.</p></article><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script src="jquery.simplemodal.1.4.4.min.js"></script>
 <script src="prettify.js"></script>
 <script>

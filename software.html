@@ -64,11 +64,11 @@
 		
 		<div id="contentWrapper">
 <article id="software"><h1>Software</h1>
-<p>There are two pieces of software that you will need to be aware of while assembling and testing your machine. The first software is to be installed on your computer and is called "Universal G-Code Sender". Details for obtaining and installing the software can be found below. The second software is actually a 'firmware' that is installed on your arduino. The firmware is called 'grbl'. </p>
-<h5>If you bought the full kit from inventables, then your arduino came pre-loaded with grbl.</h5>
-<h2>Universal G-code Sender</h2>
+<p>There are two pieces of software that you will need to be aware of while assembling and testing your machine. The first software is to be installed on your computer and is called "Universal G&#8209Code Sender". Details for obtaining and installing the software can be found below. The second software is actually a 'firmware' that is installed on your Arduino. The firmware is called 'grbl'. </p>
+<h5>If you bought the full kit from Inventables, then your Arduino came pre-loaded with grbl.</h5>
+<h2>Universal G&#8209Code Sender</h2>
 <p><img alt="UGS splash screen" src="content/helloworld/ugs1.png"></p>
-<p>Universal gcode sender (UGS for short): a Java based, cross platform G-Code sender created to control grbl Based machines (like Shapeoko!). <a href="http://bit.ly/16q7obd">Click here to download the program</a>. The latest version can always be downloaded <a href="https://github.com/winder/Universal-G-Code-Sender">from github</a>.</p>
+<p>Universal gcode sender (UGS for short): a Java based, cross platform G&#8209code sender created to control grbl Based machines (like Shapeoko!). <a href="http://bit.ly/16q7obd">Click here to download the program</a>. The latest version can always be downloaded <a href="https://github.com/winder/Universal-G-Code-Sender">from github</a>.</p>
 <h3>Installing</h3>
 <p>There is no installation required for this software. Simply download the zip file from the link above. Once downloaded, to run the software simply unzip the .zip file and double click the .jar file. On some platforms you will need to run an included start script. If you are using windows, just double click the .jar file.</p>
 <h5>Mac Users</h5>
@@ -79,13 +79,27 @@
 <h3>Overview</h3>
 <h5>From The Github Readme File:</h5>
 <p>Grbl is a no-compromise, high performance, low cost alternative to parallel-port-based motion control for CNC milling. It will run on a vanilla Arduino (Duemillanove/Uno) as long as it sports an Atmega 328.</p>
-<p>The controller is written in highly optimized C utilizing every clever feature of the AVR-chips to achieve precise timing and asynchronous operation. It is able to m aintain more than 30kHz of stable, jitter free control pulses.</p>
-<p>It accepts standards-compliant G-code and has been tested with the output of several CAM tools with no problems. Arcs, circles and helical motion are fully supported, as well as, other basic functional g-code commands. Functions and variables are not currently supported, but may be included in future releases in a form of a pre-processor.</p>
+<p>The controller is written in highly optimized C utilizing every clever feature of the AVR-chips to achieve precise timing and asynchronous operation. It is able to maintain more than 30kHz of stable, jitter free control pulses.</p>
+<p>It accepts standards-compliant G&#8209code and has been tested with the output of several CAM tools with no problems. Arcs, circles and helical motion are fully supported, as well as, other basic functional G&#8209code commands. Functions and variables are not currently supported, but may be included in future releases in a form of a pre-processor.</p>
 <p>Grbl includes full acceleration management with look ahead. That means the controller will look up to 18 motions into the future and plan its velocities ahead to deliver smooth acceleration and jerk-free cornering.</p>
 <h3>Installing</h3>
+<p>Chances are, the Arduino will be recognized by your computer.  If your Arduino isn't recognized by your machine when you plug it in, you'll need to install the driver for it. Download the appropriate drivers/software for your platform (do not proceed beyond Step #4 or you will erase Grbl):</p>
+<ul>
+<li><a href="http://arduino.cc/en/Guide/MacOSX#toc2">Mac OS X</a></li>
+<li><a href="http://arduino.cc/en/Guide/Windows#toc2">Windows</a></li>
+<li><a href="http://playground.arduino.cc/Learning/Linux">Linux</a></li>
+</ul>
+<p>As noted above, Grbl comes pre-installed on Arduinos with full kits from Inventables. If you need to install Grbl, this is straight-forward:</p>
+<ul>
+<li> Go to <a href="https://github.com/grbl/grbl/downloads">github</a> and download the file <a href="https://github.com/downloads/grbl/grbl/grbl_v0_8c_atmega328p_16mhz_9600.hex">grbl_v0_8c_atmega328p_16mhz_9600.hex</a></li>
+<li>Then follow the instructions here: <a href="https://github.com/grbl/grbl/wiki/Flashing-Grbl-to-an-Arduino">github wiki: Flashing-Grbl-to-an-Arduino</a> to flash (download) Grbl onto your Arduino.</li>
+</ul>
 <h3>Configuring</h3>
-<p>Your grbl settings should look like this:</p>
-<p><img alt="shapeoko 2 grbl settigns" src="content/helloworld/check_grbl_settings.png"></p></article><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<p>Your grbl settings (typing <code>$$</code> and pressing[Enter] will display them) should look like this:</p>
+<p><img alt="shapeoko 2 grbl settings" src="content/helloworld/check_grbl_settings.png"></p>
+<p>If anything doesn't match, you can change a setting by typing the setting, an equals sign and the desired value:</p>
+<p><code>$1=40.020</code></p>
+<p>will set that axis to the desired value. Please note that the values above are initial, default settings and may be updated and calibrated once your machine is fully operational.</p></article><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script src="jquery.simplemodal.1.4.4.min.js"></script>
 <script src="prettify.js"></script>
 <script>
