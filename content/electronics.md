@@ -6,7 +6,7 @@ Before we get all crazy bolting our new machine together, let's give our electro
 
 For reference, the image below shows the concept of wiring Shapeoko 2.
 
-[Enlarge](![Generic electronics layout](sketches/electronics_layout.svg))
+[![Generic electronics layout](sketches/electronics_layout.svg)](sketches/electronics_layout.svg)
 
 ## Requirements
 
