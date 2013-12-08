@@ -56,7 +56,7 @@ If not, download the appropriate drivers/software for your platform (do not proc
 Once the Arduino is recognized by your computer system, install a Communication / Control Program.
 
 ###UGS
-![UGS](tPictures/ugs1.png)  
+![UGS](helloworld/ugs1.png)  
 *(universal gcode sender by will winder)*
 
 If Java isn't an option for your machine there are other [Communication/Control programs](http://www.shapeoko.com/wiki/index.php/Communication_/_Control).
