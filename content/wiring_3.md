@@ -43,7 +43,11 @@ Then, zip tie that, to the side motor mount
 
 Now that the bundle has been zied to the motor mount plate, go ahead and route the wires around the stepper motor as shown below.
 
-![rear view svg](wiring/wiring_3_rearview.svg);
+![rear view svg](wiring/wiring_3_sideview.svg);
+
+Great! We are done (for now) with the X and Z stepper motor wires. Just move those out of the way. Now it's time to wire up the Y axis!
+
+
 
 If it's done right, you'll end up with something like this. 
 
