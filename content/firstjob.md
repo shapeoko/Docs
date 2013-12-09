@@ -18,7 +18,7 @@ Select Insert -> Rounded Rectangle. When the dialog box comes up, input 3.5 for 
 
 Select Insert -> Rounded Rectangle. When the dialog box comes up, input 3.125 for both the length and width. leave the radius as 0.2. Click OK. You now have another rounded rectangle! Move the rounded rectangle so the bottom left corner is slightly inside of the bigger rectangle. Like this:
 
-![rectangle](firstjob/mc_rr1.png)
+![rectangle](firstjob/mc_rr2.png)
 
 
 ##Draw Freehand
@@ -63,3 +63,57 @@ It's time to generate your G-code! If you check the "view cuts" option in the to
 Export Your g-code! Your coaster should look a little goofy right now, with colors and curves representing the toolpaths. That's OK, Imaging those toolpaths as a map for your bit to follow. Once you have calculated all toolpaths, let's go ahead an export the file. Click CAM -> export g-code. A couple of things to remember on this screen.
 
 ![rectangle](firstjob/mc_export.png)
+
+
+##Open Software
+Just like we did in the Hello World section, plug the power in to your machine and open Universal Gcode Sender on your computer. Once the program has loaded, plug in the USB cord to your computer and you should hear the stepper motors engage.
+
+![Open The Software](helloworld/ugs1.png)
+
+
+##Open Connection Between Computer and Machine
+Select the correct com port and baud rate from the drop down menus on the left.  Click 'Open' to establish a connection with the Arduino.  GRBL says hello by displaying its version number.
+
+![Make Connection](http://placehold.it/800x400&text=image+of+open+connection+with+GRBL+version+displayed)
+
+
+##Open File
+Browse for the file you just exported from makerCAM.
+
+![Open The File](http://placehold.it/800x400&text=image+of+open+file)
+
+
+##Verify File
+Click the visualize button, located just below the browse button, to see what the file will look like. After a few seconds, a screen similar to the one below will display, which you can interact with by left clicking and dragging your mouse around.
+
+![Visualize](http://placehold.it/800x400&text=image+of+visualizer)
+
+
+##Set Zero Position
+If your file visualization looks correct, close the visualizer and click the 'machine control' tab towards the top of the window.
+
+![Double Check Settings](http://placehold.it/800x400&text=image+of+UGS)
+
+Jog your machine to the lower left side of your work surface using the different axis control buttons. Click the 'Reset Zero' button to tell your machine that you are at 0,0. You should notice on the left of the panel your work position coordinates will be set to X:0, Y:0, Z:0
+
+![Set Zero](helloworld/ugs4.png)
+
+
+##Air Cut
+Just to make sure, lets draw this in the air.  Click the 'File Mode' tab at the top of the program window. With the spindle ~1" above the work surface, click the 'Send' button just below the file path.
+
+![Send File](http://placehold.it/800x400&text=image+of+sending+file)
+
+You should see Universal Gcode Sender start streaming the file, and your machine should start moving around.
+
+![Sent File](http://placehold.it/800x400&text=image+of+streaming+gcode)
+
+
+##Run Job!
+Lower your spindle so it is <i>just</i> ***touching*** the material.
+
+![Just above work surface](http://placehold.it/800x400&text=image+of+sharpie+almost+touching+paper)
+
+OK, here we go. Take a deep breath and click the 'Send' button.
+
+![Run Job](http://placehold.it/800x400&text=image+of+running+job)
