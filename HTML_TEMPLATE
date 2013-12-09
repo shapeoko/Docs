@@ -70,7 +70,10 @@
                   $("#content").append(markdown.toHTML(response));
                 }
             });
+
+            //rename the page
+            document.title = 'Shapeoko 2 Electronics Setup';
         });
     </script>
 </body>
-</html>                    
+</html> 

@@ -1,192 +1,79 @@
 <!doctype html>
 <html>
-	<head>
-	<!--
-		The layout and styling of this page, and subsiquently the redesign of this site, are heavily influenced by 
-		the design of the chartjs.org site. It's beauty through simplicity was too much to resist. I have made slight
-		changes so the styling of the site is more inline with the projects styling, but don't want to hide the fact 
-		that the styling is taken basically directly from their css file with only minor changes. 
-		
-		The awesome javascript function that turns H1s and H2s into the navigation is their code as well. 
+    <head>
+            <title>Project Shapeoko</title>
+            <link href="shapeoko.css" rel="stylesheet" />
+            <link href='http://fonts.googleapis.com/css?family=Ubuntu:300,400,700' rel='stylesheet' type='text/css'>
+            <script src="js/markdown.js"></script>
+            <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    </head>
+    <body>
+    
+    <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-11630357-11']);
+            _gaq.push(['_setDomainName', 'shapeoko.com']);
+            _gaq.push(['_trackPageview']);
 
-		I hope this is a compliment to the folks at chartjs.org as opposed to being "not cool"
-	-->
-		<title>Project Shapeoko</title>
-		<link href="shapeoko.css" rel="stylesheet" />
-		<link href='http://fonts.googleapis.com/css?family=Ubuntu:300,400,700' rel='stylesheet' type='text/css'>
-	</head>
-	<body>
-	
-	<script type="text/javascript">
-		var _gaq = _gaq || [];
-		_gaq.push(['_setAccount', 'UA-11630357-11']);
-		_gaq.push(['_setDomainName', 'shapeoko.com']);
-		_gaq.push(['_trackPageview']);
+            (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+    </script>
 
-		(function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-		})();
-	</script>
+    <div class="header">
 
-	<div class="header">
+        <div class="left">
+          <a href="http://docs.shapeoko.com"><span class="toplink">Shapeoko 2</span></a>
+        </div>
+        <div class="right">
+          <ul>
 
-	    <div class="left">
-	      <a href="http://docs.shapeoko.com"><span class="toplink">Shapeoko 2</span></a>
+          </ul>                    
+        </div>
+    </div>
+    
+    <div id="wrapper">
+            <nav>        
+                    <dl>
+                            <dt><a href='index.html'>Welcome!</a></dt>
+                            <dt><a href='tips.html'>Pro Tips!</a></dt>
+                            <dt><a href='software.html'>Software</a></dt>
+                            <dt><a href='electronics.html'>Electronics</a></dt>
+                            <dt><a href='wheels.html'>Wheels + Idlers</a></dt>
+                            <dt><a href='carriages.html'>Carriages</a></dt>
+                            <dt><a href='zaxis.html'>Z-Axis</a></dt>
+                            <dt><a href='gantry.html'>Gantry</a></dt>
+                            <dt><a href='yaxis.html'>Y-Axis</a></dt>
+                            <dt><a href='workarea.html'>Work Area</a></dt>
+                            <dt><a href='wiring.html'>Electrical Wiring</a></dt>
+                            <dt><a href='helloworld.html'>Hello, World</a></dt>
+                            <dt><a href='firstjob.html'>First Job</a></dt>
+                    </dl>
+            </nav>
+            
+            <div id="contentWrapper">
+                <article id="content">
+                    <!--This is where the content gets rendered-->
+                </article>
+            </div><!--end contentWrapper-->
+        </div><!--end wrapper-->
 
-	    </div>
-	    <div class="right">
-	      <ul>
+    <!--This is the script that loads the appropriate .md file-->
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $.ajax({
+              url:"content/workarea.md",
+              dataType: "text",
+              success: function(response){
+                  $("#content").append(markdown.toHTML(response));
+                }
+            });
 
-	      </ul>	    	
-	    </div>
-	</div>
-	
-	<div id="wrapper">
-		<nav>	
-			<dl>
-				<dt><a href='index.html'>Welcome!</a></dt>
-				<dt><a href='tips.html'>Pro Tips!</a></dt>
-				<dt><a href='software.html'>Software</a></dt>
-				<dt><a href='electronics.html'>Electronics</a></dt>
-				<dt><a href='wheels.html'>Wheels + Idlers</a></dt>
-				<dt><a href='carriages.html'>Carriages</a></dt>
-				<dt><a href='zaxis.html'>Z-Axis</a></dt>
-				<dt><a href='gantry.html'>Gantry</a></dt>
-				<dt><a href='yaxis.html'>Y-Axis</a></dt>
-				<dt><a href='workarea.html'>Work Area</a></dt>
-				<dt><a href='wiring.html'>Electrical Wiring</a></dt>
-				<dt><a href='helloworld.html'>Hello, World</a></dt>
-				<dt><a href='firstjob.html'>First Job</a></dt>
-			</dl>
-		</nav>
-		
-		<div id="contentWrapper">
-<article id="workarea"><h1>Work Area</h1>
-<h2>Overview</h2>
-<p><img alt="" src="content/tPictures/so_complete_2.jpg">
-<img alt="" src="content/tPictures/so_assembly_gantry_rails_2.jpg"></p>
-<h2>Waste Board Assembly (PS20024)</h2>
-<ul>
-<li>8 25286-02 M5 x 12mm, BHCS</li>
-<li>8 25287-02 Flat Washer, M5</li>
-<li>8 26016-01 M5 insertion nut</li>
-<li>2 PS20001 MDF wasteboard (1/2")</li>
-<li>2 PS20009 20mm x 20mm x 550mm aluminum extrusion, black anodized</li>
-</ul>
-<p><img alt="exploded view of assembly step" src="content/tPictures/PS20024_2.png">  <img alt="" src="content/tPictures/so_waste_board_2.jpg"> <img alt="" src="content/tPictures/so_waste_board_parts_2.jpg">
-<img alt="" src="content/tPictures/so_m5_x_10mm_bhcs_washer_insertion_nut_2.jpg"></p>
-<h2>20x20 Extrusions</h2>
-<p>Slide Entire  Assembly over wasteboard Assembly, fasten with:</p>
-<ul>
-<li>M5x10</li>
-<li>M5 washer</li>
-<li>Insertion Nut</li>
-</ul>
-<p><img alt="exploded view of assembly step" src="content/tPictures/PS20024_4.png"></p>
-<h2>Squaring the Table</h2>
-<p>Square up the wasteboard assembly carefully, since it will be the foundation for the balance of the machine.</p>
-<h3>Parts</h3>
-<ul>
-<li>2 Y-Axis Rail Assembly (PS20026)</li>
-<li>Complete Gantry (PS20025)</li>
-<li>Waste Board Assembly (PS20024)</li>
-</ul>
-<p>Turn the eccentric nuts on the V-wheels on the Complete Gantry (PS20025) so that they are as far from the static V-wheels as is possible. Drive the Complete Gantry onto the two Y-Axis Rail Assemblies (PS20026), then attach the open end plates.</p>
-<p>Place the 10mm M5 bolts w/ washers into the bottom holes on the open end plates, thread on the insertion nuts, then carefully slide the rail assemblies onto the wasteboard extrusion. Check the alignment with a known-to-be-good square. One can also measure the diagonals to test for squareness. Ensure that everything is aligned squarely and that the Complete Gantry and the X-Axis Sub Gantry move smoothly. Tighten the bolts.</p>
-<p>Congratulations! You've built a ShapeOko!</p>
-<p><img alt="" src="content/tPictures/so_complete_4.jpg"></p>
-<p>At this point, you will need to adjust the machine's V-wheels. These should be tight enough to hold things in alignment, but loose enough that the machine moves freely and smoothly. The suggested technique for this is, "Loosen the eccentric spacer until the V-wheel does not rotate when the carriage is moving and then tighten just (and no more!) until the v-wheel rotates when moving the carriage. Overtightening will lead to the V-wheel wearing out."</p>
-<p>You will also need to complete the wiring as documented in the next step.</p></article><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script src="jquery.simplemodal.1.4.4.min.js"></script>
-<script src="prettify.js"></script>
-<script>
-/*
-	$(document).ready(function(){
-	
-		var $nav = $("nav dl");
-		
-		$("article").each(function(){
-			var $el = $(this);
-			var $h1 = $el.find("h1");
-			var sectionTitle = $h1.html();
-			var articleId = $el.attr("id");
-			var $dt = $("<dt><a href=\"#"+articleId +"\">"+sectionTitle+"</a></dt>");
-			
-			$dt.find("a").on("click",function(e){
-				e.preventDefault();
-				$('html,body').animate({scrollTop: $h1.offset().top},400);
-			});
-			
-			$nav.append($dt);
-			
-			var $subtitles = $el.find("h2");
-			
-			$subtitles.each(function(){
-				var $h2 = $(this);
-				var title = $h2.text();
-				var newID = articleId + "-" +camelCase(title);
-				$h2.attr("id",newID);
-				var $dd = $("<dd><a href=\"#" +newID + "\">" + title + "</a></dd>");
-				
-				$dd.find("a").on("click",function(e){
-					e.preventDefault();
-					$('html,body').animate({scrollTop: $h2.offset().top},200);
-				})
-				$nav.append($dd);
-				
-			});
-			
-			var $articles = $el.find("article");
-			
-		});	
-		
-		$("canvas").each(function(){
-			var $canvas = $(this);
-			var ctx = this.getContext("2d");
-			
-			
-			
-			eval($("code[data-for='" + $canvas.attr("id") + "']").text());
-			
-			
-			var evalString = "new Chart(ctx)." + $canvas.data("type") + "(data);";
-			
-			eval(evalString);
-						
-		});
-		prettyPrint();			
-		
-		function camelCase(str){			
-			var splitString = str.split(" ");
-			
-			var returnedCamel = splitString[0].toLowerCase();
-			
-			for (var i=1; i<splitString.length; i++){
-				returnedCamel += splitString[i].charAt(0).toUpperCase() + splitString[i].substring(1).toLowerCase();
-			}
-			
-			return returnedCamel;
-			
-		} 
-	});
-*/
-	</script>
-<script>
-/*
-  $(document).ready(function(){
-    $(".photo").click(function(e) {
-      var hrefval= $(this).attr("src"); 
-      $.modal('<img src=" ' + hrefval + '">', { 
-        containerCss: { height:'auto',width:'auto'}, 
-        overlayClose: true 
-      });
-      e.preventDefault();
-    });
-  });
-/*
-</script>
-
+            //rename the page
+            document.title = 'Shapeoko 2 - Work Area Assembly';
+        });
+    </script>
 </body>
-</html>
+</html> 

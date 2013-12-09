@@ -1,201 +1,79 @@
 <!doctype html>
 <html>
-	<head>
-	<!--
-		The layout and styling of this page, and subsiquently the redesign of this site, are heavily influenced by 
-		the design of the chartjs.org site. It's beauty through simplicity was too much to resist. I have made slight
-		changes so the styling of the site is more inline with the projects styling, but don't want to hide the fact 
-		that the styling is taken basically directly from their css file with only minor changes. 
-		
-		The awesome javascript function that turns H1s and H2s into the navigation is their code as well. 
+    <head>
+            <title>Project Shapeoko</title>
+            <link href="shapeoko.css" rel="stylesheet" />
+            <link href='http://fonts.googleapis.com/css?family=Ubuntu:300,400,700' rel='stylesheet' type='text/css'>
+            <script src="js/markdown.js"></script>
+            <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    </head>
+    <body>
+    
+    <script type="text/javascript">
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-11630357-11']);
+            _gaq.push(['_setDomainName', 'shapeoko.com']);
+            _gaq.push(['_trackPageview']);
 
-		I hope this is a compliment to the folks at chartjs.org as opposed to being "not cool"
-	-->
-		<title>Project Shapeoko</title>
-		<link href="shapeoko.css" rel="stylesheet" />
-		<link href='http://fonts.googleapis.com/css?family=Ubuntu:300,400,700' rel='stylesheet' type='text/css'>
-	</head>
-	<body>
-	
-	<script type="text/javascript">
-		var _gaq = _gaq || [];
-		_gaq.push(['_setAccount', 'UA-11630357-11']);
-		_gaq.push(['_setDomainName', 'shapeoko.com']);
-		_gaq.push(['_trackPageview']);
+            (function() {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+    </script>
 
-		(function() {
-		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-		})();
-	</script>
+    <div class="header">
 
-	<div class="header">
+        <div class="left">
+          <a href="http://docs.shapeoko.com"><span class="toplink">Shapeoko 2</span></a>
+        </div>
+        <div class="right">
+          <ul>
 
-	    <div class="left">
-	      <a href="http://docs.shapeoko.com"><span class="toplink">Shapeoko 2</span></a>
+          </ul>                    
+        </div>
+    </div>
+    
+    <div id="wrapper">
+            <nav>        
+                    <dl>
+                            <dt><a href='index.html'>Welcome!</a></dt>
+                            <dt><a href='tips.html'>Pro Tips!</a></dt>
+                            <dt><a href='software.html'>Software</a></dt>
+                            <dt><a href='electronics.html'>Electronics</a></dt>
+                            <dt><a href='wheels.html'>Wheels + Idlers</a></dt>
+                            <dt><a href='carriages.html'>Carriages</a></dt>
+                            <dt><a href='zaxis.html'>Z-Axis</a></dt>
+                            <dt><a href='gantry.html'>Gantry</a></dt>
+                            <dt><a href='yaxis.html'>Y-Axis</a></dt>
+                            <dt><a href='workarea.html'>Work Area</a></dt>
+                            <dt><a href='wiring.html'>Electrical Wiring</a></dt>
+                            <dt><a href='helloworld.html'>Hello, World</a></dt>
+                            <dt><a href='firstjob.html'>First Job</a></dt>
+                    </dl>
+            </nav>
+            
+            <div id="contentWrapper">
+                <article id="content">
+                    <!--This is where the content gets rendered-->
+                </article>
+            </div><!--end contentWrapper-->
+        </div><!--end wrapper-->
 
-	    </div>
-	    <div class="right">
-	      <ul>
+    <!--This is the script that loads the appropriate .md file-->
+    <script type="text/javascript">
+        $(document).ready(function(){
+            $.ajax({
+              url:"content/software.md",
+              dataType: "text",
+              success: function(response){
+                  $("#content").append(markdown.toHTML(response));
+                }
+            });
 
-	      </ul>	    	
-	    </div>
-	</div>
-	
-	<div id="wrapper">
-		<nav>	
-			<dl>
-				<dt><a href='index.html'>Welcome!</a></dt>
-				<dt><a href='tips.html'>Pro Tips!</a></dt>
-				<dt><a href='software.html'>Software</a></dt>
-				<dt><a href='electronics.html'>Electronics</a></dt>
-				<dt><a href='wheels.html'>Wheels + Idlers</a></dt>
-				<dt><a href='carriages.html'>Carriages</a></dt>
-				<dt><a href='zaxis.html'>Z-Axis</a></dt>
-				<dt><a href='gantry.html'>Gantry</a></dt>
-				<dt><a href='yaxis.html'>Y-Axis</a></dt>
-				<dt><a href='workarea.html'>Work Area</a></dt>
-				<dt><a href='wiring.html'>Electrical Wiring</a></dt>
-				<dt><a href='helloworld.html'>Hello, World</a></dt>
-				<dt><a href='firstjob.html'>First Job</a></dt>
-			</dl>
-		</nav>
-		
-		<div id="contentWrapper">
-<article id="software"><h1>Software</h1>
-<p>There are two pieces of software that you will need to be aware of while assembling and testing your machine. The first software is to be installed on your computer and is called "Universal G-Code Sender" (written in Java, if Java isn't an option for your machine, there are other <a href="http://www.shapeoko.com/wiki/index.php/Communication_/_Control">Communication/Control programs, see the wiki</a>). Details for obtaining and installing the software can be found below. The second software is actually a 'firmware' that is installed on your Arduino. The firmware is called 'grbl'. </p>
-<h5>If you bought the full kit from inventables, then your arduino came pre-loaded with grbl.</h5>
-<p>If Java isn't an option for your machine there are other .</p>
-<h2>Universal G-code Sender</h2>
-<p><img alt="UGS splash screen" src="content/helloworld/ugs1.png">
-<em>(universal gcode sender by will winder)</em></p>
-<p>Universal G-Code Sender (UGS for short): a Java based, cross platform G-Code sender created to control grbl Based machines (like Shapeoko!). <a href="http://bit.ly/16q7obd">Click here to download the program</a>. The latest version can always be downloaded <a href="https://github.com/winder/Universal-G-Code-Sender">from github</a>.</p>
-<h3>Installing</h3>
-<p>There is no installation required for this software. Simply download the zip file from the link above. Once downloaded, to run the software simply unzip the .zip file and double click the .jar file. On some platforms you will need to run an included start script. If you are using windows, just double click the .jar file.</p>
-<h5>Mac Users</h5>
-<p>You may need to create a "/var/lock" directory on OSX to fix a bug in the serial library. To do this open the Terminal application and run the following two commands: </p>
-<pre><code>    sudo mkdir /var/lock 
-    sudo chmod 777 /var/lock </code></pre>
-<h2>grbl</h2>
-<h3>Overview</h3>
-<h5>From The Github Readme File:</h5>
-<p>Grbl is a no-compromise, high performance, low cost alternative to parallel-port-based motion control for CNC milling. It will run on a vanilla Arduino (Duemillanove/Uno) as long as it sports an Atmega 328.</p>
-<p>The controller is written in highly optimized C utilizing every clever feature of the AVR-chips to achieve precise timing and asynchronous operation. It is able to m aintain more than 30kHz of stable, jitter free control pulses.</p>
-<p>It accepts standards-compliant G-code and has been tested with the output of several CAM tools with no problems. Arcs, circles and helical motion are fully supported, as well as, other basic functional g-code commands. Functions and variables are not currently supported, but may be included in future releases in a form of a pre-processor.</p>
-<p>Grbl includes full acceleration management with look ahead. That means the controller will look up to 18 motions into the future and plan its velocities ahead to deliver smooth acceleration and jerk-free cornering.</p>
-<h3>Installing Arduino Drivers</h3>
-<p>Chances are, the Arduino will be recognized by your computer. If not, download the appropriate drivers/software for your platform (do not proceed beyond Step #4 or you will erase Grbl):</p>
-<ul>
-<li><a href="http://arduino.cc/en/Guide/MacOSX#toc2">Mac OS X</a></li>
-<li><a href="http://arduino.cc/en/Guide/Windows#toc2">Windows</a></li>
-<li><a href="[http://playground.arduino.cc/Learning/Linux">Linux</a></li>
-</ul>
-<h3>Installing Grbl onto the Arduino</h3>
-<p>As noted above, Grbl is pre-installed on Arduinos purchased from Inventables as part of a complete kit. If your board doesn't have it installed (or was erased because you downloaded the blinking lights program in Step #5 of the afore-mentioned installation directions), please go to:</p>
-<ul>
-<li><a href="https://github.com/grbl/grbl/downloads">github.com/grbl/grbl/downloads</a></li>
-</ul>
-<p>and download the file:</p>
-<ul>
-<li><a href="https://github.com/downloads/grbl/grbl/grbl_v0_8c_atmega328p_16mhz_9600.hex">grbl_v0_8c_atmega328p_16mhz_9600.hex</a></li>
-</ul>
-<p>Then follow the instructions here:</p>
-<ul>
-<li><a href="https://github.com/grbl/grbl/wiki/Flashing-Grbl-to-an-Arduino">github.com/grbl/grbl/wiki/Flashing-Grbl-to-an-Arduino</a></li>
-</ul>
-<p>and you'll be all set to configure it.</p>
-<h3>Configuring</h3>
-<p>Your grbl settings should look like this:</p>
-<p><img alt="shapeoko 2 grbl settigns" src="content/helloworld/check_grbl_settings.png"></p></article><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-<script src="jquery.simplemodal.1.4.4.min.js"></script>
-<script src="prettify.js"></script>
-<script>
-/*
-	$(document).ready(function(){
-	
-		var $nav = $("nav dl");
-		
-		$("article").each(function(){
-			var $el = $(this);
-			var $h1 = $el.find("h1");
-			var sectionTitle = $h1.html();
-			var articleId = $el.attr("id");
-			var $dt = $("<dt><a href=\"#"+articleId +"\">"+sectionTitle+"</a></dt>");
-			
-			$dt.find("a").on("click",function(e){
-				e.preventDefault();
-				$('html,body').animate({scrollTop: $h1.offset().top},400);
-			});
-			
-			$nav.append($dt);
-			
-			var $subtitles = $el.find("h2");
-			
-			$subtitles.each(function(){
-				var $h2 = $(this);
-				var title = $h2.text();
-				var newID = articleId + "-" +camelCase(title);
-				$h2.attr("id",newID);
-				var $dd = $("<dd><a href=\"#" +newID + "\">" + title + "</a></dd>");
-				
-				$dd.find("a").on("click",function(e){
-					e.preventDefault();
-					$('html,body').animate({scrollTop: $h2.offset().top},200);
-				})
-				$nav.append($dd);
-				
-			});
-			
-			var $articles = $el.find("article");
-			
-		});	
-		
-		$("canvas").each(function(){
-			var $canvas = $(this);
-			var ctx = this.getContext("2d");
-			
-			
-			
-			eval($("code[data-for='" + $canvas.attr("id") + "']").text());
-			
-			
-			var evalString = "new Chart(ctx)." + $canvas.data("type") + "(data);";
-			
-			eval(evalString);
-						
-		});
-		prettyPrint();			
-		
-		function camelCase(str){			
-			var splitString = str.split(" ");
-			
-			var returnedCamel = splitString[0].toLowerCase();
-			
-			for (var i=1; i<splitString.length; i++){
-				returnedCamel += splitString[i].charAt(0).toUpperCase() + splitString[i].substring(1).toLowerCase();
-			}
-			
-			return returnedCamel;
-			
-		} 
-	});
-*/
-	</script>
-<script>
-/*
-  $(document).ready(function(){
-    $(".photo").click(function(e) {
-      var hrefval= $(this).attr("src"); 
-      $.modal('<img src=" ' + hrefval + '">', { 
-        containerCss: { height:'auto',width:'auto'}, 
-        overlayClose: true 
-      });
-      e.preventDefault();
-    });
-  });
-/*
-</script>
-
+            //rename the page
+            document.title = 'Software';
+        });
+    </script>
 </body>
-</html>
+</html> 
