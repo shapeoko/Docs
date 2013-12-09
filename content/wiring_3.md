@@ -101,6 +101,27 @@ Let's go ahead and wire the motors to our controller now
 
 ![rear view actual image](wiring/54-so_wiring-053.jpg)
 
+
+Now, everythign shoudl be connected to your gShield, so it's time to attach the gShield to the Arduino. Take your time and make sure you have all the pins lined up.
+
+![rear view actual image](wiring/55-so_wiring-054.jpg)
+
+Once that's connected, you'll find yourself with a **RAT'S NEST** of wires. It's time to get those under control. 
+
+![rats nest taming](wiring/57-so_wiring-056.jpg)
+
+Pull the extra wire out, and ziptie the base of it together
+
+![rats nest taming](wiring/58-so_wiring-057.jpg)
+
+Pull more out, folder it over itself and ziptie it again
+
+![rats nest taming](wiring/59-so_wiring-058.jpg)
+
+Cover the bundle with expandable braiding, adding a ziptie to the bottom, and top. Then tie the whole thing to the plate like in the picture shown below.
+
+![rats nest taming](wiring/60-so_wiring-059.jpg)
+
 If it's done right, you'll end up with something like this. 
 
 ![rear view actual image](wiring/68-so_wiring-067.jpg)
