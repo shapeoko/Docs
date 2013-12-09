@@ -1525,9 +1525,13 @@ function convert_tree_to_html( tree, references, options ) {
       jsonml[ 0 ] = "code";
       break;
     case "img":
-      if(jsonml[1].href.substring(0,4) == "http"){
+      var imglink;
+      imglink = jsonml[ 1 ].href;
+      if(imglink.substring(0,4) == "http"){
+        //this is a link to placehold.it (or similar placeholder service)
         jsonml[ 1 ].src = jsonml[ 1 ].href;
       }else{
+        //we need to prepend the correct subdirectory to the src url
         jsonml[ 1 ].src = "content/" + jsonml[ 1 ].href;
       }
       delete jsonml[ 1 ].href;
