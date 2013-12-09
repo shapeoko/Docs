@@ -1,6 +1,7 @@
 ## Option #3 
 This is the 'mount the controller on the machine' method. It's experimental, it's untested, it's **hot**. You can assemble the entire machine before doing this step. If you venture down this path, you're an explorer, and may be on your own. It might be worth it.
 
+
 _note: in all the pictures shown below, yellow zip ties are used. these are preferred for documentation because they are more visible than the black zip ties included with your kit_
 
 ![mtcotm](wiring/68-so_wiring-067.jpg)
@@ -17,6 +18,8 @@ Looking at the machine from the back, the idea is to pull down the wires from th
 
 ![rear view svg](wiring/wiring_3_rearview.svg);
 
+
+####Expandable Braiding
 The included expandable braiding can be used in this step as well. The best way to thread the wires through the braiding is to twist them together, forming two 'groups', like so:
 
 ![expandable braiding step 1](wiring/38-so_wiring-037.jpg)
@@ -25,6 +28,8 @@ And then you can start threading both groups (simultaneously) through the expand
 
 ![rear view start](wiring/39-so_wiring-038.jpg) ![rear view end](wiring/40-so_wiring-039.jpg)
 
+
+####Routing Wires
 After the wires are pulled through the braiding, continue pulling until both wires are tight. They will be uneven lengths (because the z-axis is further away!).
 
 ![rear view pulled through](wiring/43-so_wiring-042.jpg)
