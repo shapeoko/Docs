@@ -24,6 +24,7 @@ For reference, the image below shows the concept of wiring Shapeoko 2.
 ## Tools
 
 ![Tools](tPictures/e_test_tools_1.jpg)![Tools](tPictures/e_test_tools_2.jpg)
+
 * Screw Driver 2.0mm blade
 * razor blade
 * (optional shown) Wire strippers
@@ -42,24 +43,13 @@ First thing that we do is plug our Arduino into the computer.
 
 ![Arduino plugged into USB cable](tPictures/so_e_arduino_lit_4.jpg)
 
-Remember, the big end of the cable goes into the Arduino. 
+Remember, the big end of the cable goes into the Arduino. Loading the driver for the Arduino is documented in (Software.md)
 
-Chances are, the Arduino will be recognized by your computer. 
-If not, download the appropriate drivers/software for your platform (do not proceed beyond Step #4 or you will erase Grbl):
 
-* [Mac OS X](http://arduino.cc/en/Guide/MacOSX#toc2)
-* [Windows](http://arduino.cc/en/Guide/Windows#toc2)
-* [Linux]([http://playground.arduino.cc/Learning/Linux)
 
 ##Communication / Control Program
 
-Once the Arduino is recognized by your computer system, install a Communication / Control Program.
-
-###UGS
-![UGS](helloworld/ugs1.png)  
-*(universal gcode sender by will winder)*
-
-If Java isn't an option for your machine there are other [Communication/Control programs](http://www.shapeoko.com/wiki/index.php/Communication_/_Control).
+Launch your selected Communication/Control program on your computer.
 
 ##Hook Stuff Up##
 
@@ -120,7 +110,7 @@ If you have a multimeter you may wish to test the connections for continuity.
 
 _Be careful with the power supply, and don't work on power wires when the power supply is plugged in._
 
-**Caution:** Please note that the 12V power supply has a connector which matches the Arduino's 5V power supply connection — it must not be plugged into said connector. The Arduino is able to draw its power over the USB connection, so the power connector on the Arduino is not used.
+**Caution:** Please note that the 12V power supply has a connector which matches the Arduino's 5V power supply connection --- it must not be plugged into said connector. The Arduino is able to draw its power over the USB connection, so the power connector on the Arduino is not used.
 
 First, strip the power lead, it may also be necessary to split the lead at the end so as to allow it to neatly connect to the power connector on the gShield.
 
@@ -157,4 +147,4 @@ X-Axis
 
 ###And a Final Spin###
 
-Y-Axis — make certain that the two motors for the Y-axis are rotating in opposite directions.
+Y-Axis --- make certain that the two motors for the Y-axis are rotating in opposite directions.

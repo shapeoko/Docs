@@ -25,7 +25,7 @@ The belts which the stepper motors drive the X- and Y-axes which require smooth 
 
 * one M5 bolt to align the pieces during assembly
 
-![V-Wheel Parts](tPictures/so_vw_iw_vw_parts_4.jpg)
+![V-Wheel Assembly](tPictures/25203-02_2.png)
 
 ###Assemble all of the V-Wheels (20 wheels total)
 1. Take one ball bearing, and insert it into the Delrin V-Wheel
@@ -41,7 +41,7 @@ Alternate, assembly-line procedure for the V-Wheels:
 
 1. Arrange all the pieces on a stable, flat work surface
 2. Place one bearing into each V-Wheel 
-3. Place a V-Wheel bearing side down onto the longest M5 bolt which is available, add a precision shim, then another bearing, press things together — repeat until the bolt is full, clear the bolt and repeat until done
+3. Place a V-Wheel bearing side down onto the longest M5 bolt which is available, add a precision shim, then another bearing, press things together --- repeat until the bolt is full, clear the bolt and repeat until done
 
 ##Smooth Idlers
 ![Smooth Idler Assembly](tPictures/25197-02_2.png)
@@ -59,7 +59,7 @@ Alternate, assembly-line procedure for the V-Wheels:
 
 * one M5 bolt to align the pieces during assembly
 
-![Idler Wheel Parts](tPictures/so_vw_iw_idlerparts_4.jpg)
+![Smooth Idler Assembly](tPictures/25197-02_2.png)
 
 ###Assemble all of the smooth idlers (6 idlers total)
 
