@@ -14,7 +14,7 @@
    height="1052.3622047"
    id="svg4380"
    version="1.1"
-   inkscape:version="0.48.4 r9939"
+   inkscape:version="0.48.2 r9819"
    sodipodi:docname="electronics_layout.svg">
   <defs
      id="defs4382">
@@ -470,14 +470,14 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="286.19231"
-     inkscape:cy="551.88378"
+     inkscape:zoom="0.67178375"
+     inkscape:cx="389.75285"
+     inkscape:cy="541.07996"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1680"
-     inkscape:window-height="988"
+     inkscape:window-width="1280"
+     inkscape:window-height="738"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
@@ -2045,25 +2045,25 @@
         <path
            sodipodi:nodetypes="cc"
            style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           d="m 297.85714,293.79075 c -0.35714,52.85715 -112.5,215.35715 -112.5,215.35715"
+           d="M 297.85714,293.79075 C 297.5,346.6479 223.57143,511.6479 223.57143,511.6479"
            id="path6826-2"
            inkscape:connector-curvature="0" />
         <path
            sodipodi:nodetypes="cc"
            style="fill:none;stroke:#00cc1f;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           d="m 304.02353,293.79075 c -0.35714,52.85715 -87.14285,218.21429 -87.14285,218.21429"
+           d="M 304.02353,293.79075 C 303.66639,346.6479 185.09496,515.21933 185.09496,515.21933"
            id="path6826-5-1"
            inkscape:connector-curvature="0" />
         <path
            sodipodi:nodetypes="cc"
            style="fill:#ff0000;stroke:#ff0000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           d="m 310.18992,293.79075 c -0.35714,52.85715 -21.78571,216.42858 -21.78571,216.42858"
+           d="m 310.18992,293.79075 c -0.35714,52.85715 -57.23545,221.19048 -57.23545,221.19048"
            id="path6826-6-6"
            inkscape:connector-curvature="0" />
         <path
            sodipodi:nodetypes="cc"
            style="fill:none;stroke:#0000ff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-           d="m 316.35632,293.79075 c -0.35714,52.85715 -64.64285,220.71429 -64.64285,220.71429"
+           d="m 316.35632,293.79075 c -0.35714,52.85715 -29.19311,219.65609 -29.19311,219.65609"
            id="path6826-4-8"
            inkscape:connector-curvature="0" />
       </g>
@@ -2073,7 +2073,7 @@
       <path
          inkscape:connector-curvature="0"
          id="path6826"
-         d="M 297.85714,293.79075 C 297.5,346.6479 324.94616,510.65156 324.94616,510.65156"
+         d="M 297.85714,293.79075 C 297.5,346.6479 327.44616,516.0087 327.44616,516.0087"
          style="fill:none;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          sodipodi:nodetypes="cc" />
       <path
@@ -2091,7 +2091,7 @@
       <path
          inkscape:connector-curvature="0"
          id="path6826-4"
-         d="m 316.35632,293.79075 c -0.35714,52.85715 116.42857,216.42858 116.42857,216.42858"
+         d="m 316.35632,293.79075 c -0.35714,52.85715 112.19577,219.60318 112.19577,219.60318"
          style="fill:none;stroke:#0000ff;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          sodipodi:nodetypes="cc" />
     </g>
