@@ -95,20 +95,9 @@
 <p><img alt="image of required components" src="content/tPictures/so_electronics_parts_4.jpg">  </p>
 <p>First thing that we do is plug our Arduino into the computer.</p>
 <p><img alt="Arduino plugged into USB cable" src="content/tPictures/so_e_arduino_lit_4.jpg"></p>
-<p>Remember, the big end of the cable goes into the Arduino. </p>
-<p>Chances are, the Arduino will be recognized by your computer. 
-If not, download the appropriate drivers/software for your platform (do not proceed beyond Step #4 or you will erase Grbl):</p>
-<ul>
-<li><a href="http://arduino.cc/en/Guide/MacOSX#toc2">Mac OS X</a></li>
-<li><a href="http://arduino.cc/en/Guide/Windows#toc2">Windows</a></li>
-<li><a href="[http://playground.arduino.cc/Learning/Linux">Linux</a></li>
-</ul>
+<p>Remember, the big end of the cable goes into the Arduino. Loading the driver for the Arduino is documented in (Software.md)</p>
 <h2>Communication / Control Program</h2>
-<p>Once the Arduino is recognized by your computer system, install a Communication / Control Program.</p>
-<h3>UGS</h3>
-<p><img alt="UGS" src="content/helloworld/ugs1.png"><br />
-<em>(universal gcode sender by will winder)</em></p>
-<p>If Java isn't an option for your machine there are other <a href="http://www.shapeoko.com/wiki/index.php/Communication_/_Control">Communication/Control programs</a>.</p>
+<p>Launch your selected Communication/Control program on your computer.</p>
 <h2>Hook Stuff Up</h2>
 <p><img alt="Arduino and gShield" src="content/tPictures/so_e_arduino_gshield_2.jpg"> <img alt="Arduino and gShield on edge" src="content/tPictures/so_e_arduino_gshield_oe_2.jpg"> <img alt="Arduino and gShield assembled" src="content/tPictures/so_e_arduino_gshield_aa_2.jpg"></p>
 <p>The first step is to plug the Arduino into the gShield. The Arduino will run Grbl, while the gShield will be connected to the stepper motors and will control them. Be careful of the electronics, not to bend any pins, or to allow static electricity to damage them.</p>
@@ -142,7 +131,7 @@ If not, download the appropriate drivers/software for your platform (do not proc
 <p>If you have a multimeter you may wish to test the connections for continuity.</p>
 <h3>Power</h3>
 <p><em>Be careful with the power supply, and don't work on power wires when the power supply is plugged in.</em></p>
-<p><strong>Caution:</strong> Please note that the 12V power supply has a connector which matches the Arduino's 5V power supply connection — it must not be plugged into said connector. The Arduino is able to draw its power over the USB connection, so the power connector on the Arduino is not used.</p>
+<p><strong>Caution:</strong> Please note that the 12V power supply has a connector which matches the Arduino's 5V power supply connection --- it must not be plugged into said connector. The Arduino is able to draw its power over the USB connection, so the power connector on the Arduino is not used.</p>
 <p>First, strip the power lead, it may also be necessary to split the lead at the end so as to allow it to neatly connect to the power connector on the gShield.</p>
 <p><img alt="Stripped lead for barrel connector" src="content/tPictures/power_connection.jpg"></p>
 <p>Connect it to the Arduino. There are two leads, one a solid black wire, the other black w/ a white stripe. </p>
@@ -162,7 +151,7 @@ If not, download the appropriate drivers/software for your platform (do not proc
 <h3>Another Spin</h3>
 <p>X-Axis</p>
 <h3>And a Final Spin</h3>
-<p>Y-Axis — make certain that the two motors for the Y-axis are rotating in opposite directions.</p></article><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<p>Y-Axis --- make certain that the two motors for the Y-axis are rotating in opposite directions.</p></article><script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
 <script src="jquery.simplemodal.1.4.4.min.js"></script>
 <script src="prettify.js"></script>
 <script>

@@ -34,7 +34,7 @@ It might be easier and more straight-forward to assemble all four of them to mat
 
 ####Tools
 
- * M3 Hex Key
+ * 3mm Hex Key
  * 2.5mm Hex Key (used for the M3 screws if attaching the motor)
  * 1.5mm Hex Key (used for the set screws in the pulley)
 
@@ -42,10 +42,11 @@ It might be easier and more straight-forward to assemble all four of them to mat
 ![assembled V-wheel](tPictures/so_v_wheel_2.jpg)
 ![Motor Mount Carriages parts](tPictures/so_motor_mount_carriage_parts_2.jpg)
 ![](tPictures/so_e_motor_pulley_2.jpg)
+![](tPictures/so_smooth_idler_bolt_spacer_washers_2.jpg)
 
 These are the plates that will mount on either end of the gantry and on the rear of the X-Axis.
 
-![](tPictures/so_smooth_idler_bolt_spacer_washers_2.jpg)
+![exploded view of Motor Mount Carriages](tPictures/PS20022_4.png)
 
 1. Connect V-Wheels to the plate
 	- two static at the top
@@ -60,6 +61,6 @@ These are the plates that will mount on either end of the gantry and on the rear
 
 ![Assembled Motor Mount Carriages](tPictures/so_motor_mount_carriage_4.jpg)
 
-Please note that the above image does not show the stepper motor in place. As previously noted, one should attach at least one stepper motor for the X-axis plate, as it's difficult to attach it once the gantry carriage is assembled. Use 4 M3 screws, 4 M3 washers and also attach the G2 pulley.
+Please note that the above image does not show the stepper motor in place. As previously noted, one should attach at least one stepper motor for the X-axis plate, as it's difficult to attach it once the gantry carriage is assembled. Use 4 M3 screws, 4 M3 washers and also attach the GT2 pulley.
 
 

@@ -1,13 +1,17 @@
 #Software
 
-There are two pieces of software that you will need to be aware of while assembling and testing your machine. The first software is to be installed on your computer and is called "Universal G-Code Sender". Details for obtaining and installing the software can be found below. The second software is actually a 'firmware' that is installed on your arduino. The firmware is called 'grbl'. 
+There are two pieces of software that you will need to be aware of while assembling and testing your machine. The first software is to be installed on your computer and is called "Universal G-Code Sender" (written in Java, if Java isn't an option for your machine, there are other [Communication/Control programs, see the wiki](http://www.shapeoko.com/wiki/index.php/Communication_/_Control)). Details for obtaining and installing the software can be found below. The second software is actually a 'firmware' that is installed on your Arduino. The firmware is called 'grbl'. 
 
 #####If you bought the full kit from inventables, then your arduino came pre-loaded with grbl.
 
+
+If Java isn't an option for your machine there are other .
+
 ## Universal G-code Sender
 ![UGS splash screen](helloworld/ugs1.png)
+*(universal gcode sender by will winder)*
 
-Universal gcode sender (UGS for short): a Java based, cross platform G-Code sender created to control grbl Based machines (like Shapeoko!). [Click here to download the program](http://bit.ly/16q7obd). The latest version can always be downloaded [from github](https://github.com/winder/Universal-G-Code-Sender).
+Universal G-Code Sender (UGS for short): a Java based, cross platform G-Code sender created to control grbl Based machines (like Shapeoko!). [Click here to download the program](http://bit.ly/16q7obd). The latest version can always be downloaded [from github](https://github.com/winder/Universal-G-Code-Sender).
 
 ### Installing ###
 There is no installation required for this software. Simply download the zip file from the link above. Once downloaded, to run the software simply unzip the .zip file and double click the .jar file. On some platforms you will need to run an included start script. If you are using windows, just double click the .jar file.
@@ -35,8 +39,29 @@ It accepts standards-compliant G-code and has been tested with the output of sev
 
 Grbl includes full acceleration management with look ahead. That means the controller will look up to 18 motions into the future and plan its velocities ahead to deliver smooth acceleration and jerk-free cornering.
 
-###Installing ###
+###Installing Arduino Drivers###
 
+Chances are, the Arduino will be recognized by your computer. If not, download the appropriate drivers/software for your platform (do not proceed beyond Step #4 or you will erase Grbl):
+
+* [Mac OS X](http://arduino.cc/en/Guide/MacOSX#toc2)
+* [Windows](http://arduino.cc/en/Guide/Windows#toc2)
+* [Linux]([http://playground.arduino.cc/Learning/Linux)
+
+###Installing Grbl onto the Arduino###
+
+As noted above, Grbl is pre-installed on Arduinos purchased from Inventables as part of a complete kit. If your board doesn't have it installed (or was erased because you downloaded the blinking lights program in Step #5 of the afore-mentioned installation directions), please go to:
+
+* [github.com/grbl/grbl/downloads](https://github.com/grbl/grbl/downloads)
+
+and download the file:
+
+* [grbl_v0_8c_atmega328p_16mhz_9600.hex](https://github.com/downloads/grbl/grbl/grbl_v0_8c_atmega328p_16mhz_9600.hex)
+
+Then follow the instructions here:
+
+* [github.com/grbl/grbl/wiki/Flashing-Grbl-to-an-Arduino](https://github.com/grbl/grbl/wiki/Flashing-Grbl-to-an-Arduino)
+
+and you'll be all set to configure it.
 
 ### Configuring ###
 

@@ -16,6 +16,8 @@
 
 This is evident in the next step.
 
+![exploded view of Gantry Carriage](tPictures/PS20023_4.png) 
+
 Push the MakerSlide as far as is possible to one end of the slot which the 12mm M5 bolts fit through. Only tighten the pair of bolts on the MakerSlide which is snugged up against the end of the slot, the other should be slightly loose. Note that there is a space in-between the two pieces of MakerSlide. This spacing will be set in a following step.
 
 ### Belt Anchors
@@ -31,6 +33,8 @@ The belt anchors must be assembled and placed on the MakerSlide before attaching
 ![](tPictures/so_assembly_parts_2.jpg) 
 
 **Note:** the parts picture above shows some extra parts which will be used in the next step.
+
+![exploded view of Gantry Carriage](tPictures/PS20025_4.png)
 
 Turn the eccentric nuts on the V-wheels on the Gantry Carriage (PS20031) so that they are as far from the static V-wheels as is possible. Carefully roll the Gantry Carriage onto the two pieces of MakerSlide, facing the spindle carriage away from the MakerSlide which is bolted in place at the extreme edge of the slot. Move the Gantry Carriage as close to the attached Motor Mount Carriage Plate as is possible, tighten the bolts for the loose MakerSlide. Attach the other Motor Mount Carriage in the same fashion, pushing down on the MakerSlide to ensure that everything is square. Ensure that the Gantry moves smoothly for the entire length of the X-axis. If necessary, loosen the M5 bolts and adjust the fit until everything is square and the gantry travels smoothly.
 

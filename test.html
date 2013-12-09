@@ -64,13 +64,12 @@
     <script type="text/javascript">
         $(document).ready(function(){
             $.ajax({
-              url:"content/helloworld.md",
+              url:"content/electronics.md",
               dataType: "text",
               success: function(response){
                   $("#content").append(markdown.toHTML(response));
                 }
             });
-            document.title = 'Hello, World!';
         });
     </script>
 </body>

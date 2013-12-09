@@ -15,17 +15,19 @@ Only basic tools are required to assemble the Shapeoko 2. The following tools ar
 
 * Hex Key Set 1.5 / 2.0 / 2.5 / 3.0 / 4.0 mm
 * Screw Driver 2.0mm blade
-* Wrench 13mm Qty 2
+* Wrench 13mm (1/2") Qty 2
 * Wrench 8mm (5/16")
 * M5 Tap and handle
-* Spiral End Mill
 * Safety glasses
 * cable ties (100)
 * thread lock
 * razor blade
 
+There is one additional item:
 
+* Spiral End Mill
 
+which is intended for use with the machine in the rotary tool once it is fully operational.
 
 
 ##Assembly Steps
@@ -71,7 +73,7 @@ This is the most labor intensive part of the assembly. You will be assembling 3 
 ##Z-Axis
 [Goto the Instructions](zaxis.html)
 
-The z-axis is comprised of 3 seperate assemblies, and will require some time (and patience) to fully assemble. once you are done with this step, your machine will really start to take shape. 
+The z-axis is comprised of 3 separate assemblies, and will require some time (and patience) to fully assemble. once you are done with this step, your machine will really start to take shape. 
 
 ![z-axis exploded](tPictures/so_z_axis_parts_4.jpg)
 
@@ -80,12 +82,16 @@ The z-axis is comprised of 3 seperate assemblies, and will require some time (an
 ##Gantry
 [Goto the Instructions](gantry.html)
 
+The gantry continues the process of taking assemblies and combining them.
+
 ![Gantry Image](tPictures/so_gantry_parts_4.jpg)
 
 ---
 
 ##Y-Axis
 [Goto the Instructions](yaxis.html)
+
+The Y-axis makes up the frame of the machine along with the last component in the next step.
 
 ![Y Axis Image](tPictures/so_y_axis_rail_parts_4.jpg)
 
@@ -94,6 +100,8 @@ The z-axis is comprised of 3 seperate assemblies, and will require some time (an
 ##Work Area##
 [Goto the Instructions](workarea.html)
 
+The work area integrates the last component with the previous assemblies, completing the mechanicals of the machine.
+
 ![Work Area](tPictures/so_waste_board_parts_4.jpg)
 
 ---
@@ -101,6 +109,7 @@ The z-axis is comprised of 3 seperate assemblies, and will require some time (an
 ##Electrical Wiring##
 [Goto the Instructions](wiring.html)
 
+The machine is complete when the electronics are wired up to the motors, allowing movement.
 ---
 
 ##Hello, World
@@ -115,5 +124,6 @@ Your very first run!
 ##First Job
 [Goto the Instructions](firstjob.html)
 
+A basic introduction to using the machine for milling.
 
 ![first job](makercam/mc_export_4.png)

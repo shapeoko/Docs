@@ -14,16 +14,17 @@
 - 2 PS20009 20mm x 20mm x 550mm aluminum extrusion, black anodized
 
 ![exploded view of assembly step](tPictures/PS20024_2.png)  ![](tPictures/so_waste_board_2.jpg) ![](tPictures/so_waste_board_parts_2.jpg)
-
+![](tPictures/so_m5_x_10mm_bhcs_washer_insertion_nut_2.jpg)
 
 ## 20x20 Extrusions
+
 Slide Entire  Assembly over wasteboard Assembly, fasten with:
 
 - M5x10
 - M5 washer
 - Insertion Nut
 
-![](tPictures/so_m5_x_10mm_bhcs_washer_insertion_nut_2.jpg)
+![exploded view of assembly step](tPictures/PS20024_4.png)
 
 ## Squaring the Table
 
