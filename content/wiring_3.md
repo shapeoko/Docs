@@ -1,5 +1,8 @@
 ## Option #3 
-This is the 'mount the controller on the machine' method. It's experimental, it's untested, it's **hot**. You can assemble the entire machine before doing this step. If you venture down this path, you're an explorer, and may be on your own. It might be worth it.
+This is the 'mount the controller on the machine' method. It's experimental, it's untested, it's **hot**. You can assemble the entire machine before doing this step*. If you venture down this path, you're an explorer, and may be on your own. It might be worth it.
+
+###assembly tip
+_*while it's physically possible to attach the arduino after the machine is assembled, it's a pain in the ass. If you want to do yourself a favor, and save some frustration. Wire the entire gantry before mounting it to the work area._
 
 
 _note: in all the pictures shown below, yellow zip ties are used. these are preferred for documentation because they are more visible than the black zip ties included with your kit_
@@ -42,13 +45,15 @@ Once you do, put a zip tie on the end of the braiding to keep it from fraying an
 
 ![rear view zip braiding](wiring/44-so_wiring-043.jpg)
 
-Then, zip tie that, to the side motor mount
+Then, zip tie that to the side motor mount
 
 ![rear view zip to carriage](wiring/47-so_wiring-046.jpg)
 
-Now that the bundle has been zied to the motor mount plate, go ahead and route the wires around the stepper motor as shown below. Once that is finished, you are done (for now) with the X and Z stepper motor wires. Just move those out of the way. Now it's time to wire up the Y axis!
+Now that the bundle has been tied to the motor mount plate, go ahead and route the wires around the stepper motor as shown below. 
 
 ![side view svg](wiring/wiring_3_sideview.svg);
+
+Once that is finished, you are done (for now) with the X and Z stepper motor wires. Just move those out of the way. Now it's time to wire up the Y axis!
 
 ###Y Axis
 Here is an overview of how the Y-axis wires are routed. From the front, you can see the second Y stepper motor (the one on the left side of the machine), has it's wires routed through the makerslide. 
@@ -71,7 +76,18 @@ Now pull the wires so they are fairly taught on the otherside. Be careful not to
 ![keep threading](wiring/31-so_wiring-030.jpg)
 ![keep threading](wiring/30-so_wiring-029.jpg)
 
-Both 
+Both sets of wires for the Y axis should be on the same side of the machine now. That's awesome. This part is going to get pretty hairy. The wires coming from the Y axis stepper motor that's on the same side as the controller, are **REALLY** long. I dont' advocate cutting these wires. You never know what you might want to do to your machine at some piont in the future, and cutting the wires might limit your options. Instead, let's manage the wires the best we can, and then wrap them up together and tuck them away. 
+
+First step is to pull your leads so they're not so curly. The motors ship in a styrofoam box and their leads are all wound up to conserve shipping space. Do yourself a favor and smooth those wires out. Otherwise they're going to be curling up and getting all twisted around things. Seriously. Smooth them out.
+
+**Now that that's done, let's move on.**
+
+Tie your pairs together, like the image below. (black -> green, green -> black, red -> red, blue -> blue). It will be easier (and more secure) if you strip off a few more **mm** of coating before twisting them together.  
+
+![rear view actual image](wiring/50-so_wiring-049.jpg)
+
+
+
 
 If it's done right, you'll end up with something like this. 
 
