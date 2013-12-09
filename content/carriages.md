@@ -1,4 +1,15 @@
 # Carriages
+
+##Wiring options
+Before beginning this section, please take a look at the wiring options page. 
+
+* [Options \#1](wiring_1.html), needs no special attention at this step other than noting the motor orientations show in the steps below.
+* If you are going to use the terminal block method [option \#2](wiring_2.html), you will need to attach those terminal block in this step.
+* [Option \#3](wiring_3.html), although not necessary at this step, could make life easier to attach your arduino to the **right* Y axis motor mount plate.
+
+_see those specific options for more details_
+
+
 ## Overview
 ![exploded view of Motor Mount Carriages](tPictures/PS20022_2.png)
 ![Motor Mount Carriage, parts and tools](tPictures/so_motor_mount_carriages_parts_2.jpg)
@@ -63,4 +74,12 @@ These are the plates that will mount on either end of the gantry and on the rear
 
 Please note that the above image does not show the stepper motor in place. As previously noted, one should attach at least one stepper motor for the X-axis plate, as it's difficult to attach it once the gantry carriage is assembled. Use 4 M3 screws, 4 M3 washers and also attach the GT2 pulley.
 
+Motor orientation is as follows
 
+###Left Y axis and X Axis
+
+![wire facing up](wiring/stepper_orientation_up.svg)
+
+###Right Y axis
+
+![wire facing up](wiring/stepper_orientation_left.svg)

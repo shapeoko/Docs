@@ -4,6 +4,12 @@
 
 The shapeoko 2 electrical wiring is, like the rest of the machine, versitile. There are 3 known ways to wire the machine easily. Each option has been broken into a different page, for clarity. Depending on your setup, and skill set, one setup may be better for you than another. Chose your setup by evaluating the requirements of the process.
 
+## Routing
+
+In all scenarios, your stepper wires will be routed as such:
+
+![wire facing up](wiring/wiring_routing_overview.svg)
+
 ---
 
 ## Option #1
@@ -14,7 +20,7 @@ This is the direct wire method that rquires (modest) soldering skills to complet
 * Soldering Iron
 * Solder
 * Wire Strippers
-* Heat Shrink Tubing (2 sizes)
+* Heat Shrink Tubing (2 sizes) (or electrical tape)
 * Zip Ties (about a dozen)
 * 4 Position Terminal Block (optional)
 * Expandable braiding (2 sizes), optional
