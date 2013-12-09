@@ -117,7 +117,7 @@ Tighten everything.
 
 ###Z-Axis
 
-![](tPictures/ps20030_2.png)
+![](tPictures/PS20030_2.png)
 ![](tPictures/so_z_axis_bolts_washers_nuts_2.jpg)
 
 - 1 PS20021 Z-Assembly Carriage
@@ -129,7 +129,7 @@ Tighten everything.
 
 Insert the 10mm M5 bolts with an M5 washer into the Z-Assembly Carriage (PS20021) from the side the V-wheels are on, thread on the M5 insertion nuts, then slide the Z-Axis Rail Assembly (PS20028) onto the nuts, align and center the assemblies and tighten.
 
-![](tPictures/ps20030_4.png)
+![](tPictures/PS20030_4.png)
 
 ![](tPictures/so_assembly_pre_gantry_carriage_2.jpg)
 ![](tPictures/so_assembly_gantry_carriage_2.jpg)
@@ -138,7 +138,7 @@ Turn the eccentric nuts on the Spindle Carriage Assembly (PS20029) so that they 
 
 ##Sub Gantry (PS20023)
 
-![](tPictures/ps20031_2.png)
+![](tPictures/PS20031_2.png)
 ![](tPictures/so_gantry_carriage_2.jpg)
 
 ###Requirements
@@ -156,7 +156,7 @@ Turn the eccentric nuts on the Spindle Carriage Assembly (PS20029) so that they 
 
 If possible, select a Motor Mount Carriage (PS20022) which has a stepper motor attached. 
 
-![](tPictures/ps20031_4.png)
+![](tPictures/PS20031_4.png)
 
 Place washers on the M5 x 70 mm SHCS (PS20006) and place them in the outer holes of the Z-Assembly Carriage (PS20021) from the side opposite the V-wheels. Place one each of the Aluminum Spacers (25312-20 and PS20002) on each bolt, place the Motor Mount Carriage (PS20022) onto the bolts and attach using an M5 washer and M5 hex nut.
 
