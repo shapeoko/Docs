@@ -46,14 +46,33 @@ Then, zip tie that, to the side motor mount
 
 ![rear view zip to carriage](wiring/47-so_wiring-046.jpg)
 
-Now that the bundle has been zied to the motor mount plate, go ahead and route the wires around the stepper motor as shown below.
+Now that the bundle has been zied to the motor mount plate, go ahead and route the wires around the stepper motor as shown below. Once that is finished, you are done (for now) with the X and Z stepper motor wires. Just move those out of the way. Now it's time to wire up the Y axis!
 
-![rear view svg](wiring/wiring_3_sideview.svg);
+![side view svg](wiring/wiring_3_sideview.svg);
 
-Great! We are done (for now) with the X and Z stepper motor wires. Just move those out of the way. Now it's time to wire up the Y axis!
+###Y Axis
+Here is an overview of how the Y-axis wires are routed. From the front, you can see the second Y stepper motor (the one on the left side of the machine), has it's wires routed through the makerslide. 
+![front view svg](wiring/wiring_3_frontview.svg);
 
+It's easiest if you slide the gantry all the way towards the left side. Then twist the wires together (like we did to get them through the expandable braiding earlier), then thread the wires through the horizontal slot on the carriage plates. Like this:
 
+![start threading](27-so_wiring-026.jpg)
+
+Once you have pushed the wires past the gantry, grab the bundle and pull it out from between the pieces of makerslide. It's easier to do this than try to thread it all the way across.
+
+![keep threading](28-so_wiring-027.jpg)
+
+At the opposite side of what you started, thread the wires through the carriage plate's top slot. Like this
+
+![keep threading](29-so_wiring-028.jpg)
+
+Now pull the wires so they are fairly taught on the otherside. Be careful not to pull too hard!
+
+![keep threading](31-so_wiring-030.jpg)
+![keep threading](30-so_wiring-029.jpg)
+
+Both 
 
 If it's done right, you'll end up with something like this. 
 
-![rear view actual image](wiring/41-so_wiring-040.jpg)
+![rear view actual image](wiring/68-so_wiring-067.jpg)
