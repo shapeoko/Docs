@@ -1525,7 +1525,7 @@ function convert_tree_to_html( tree, references, options ) {
       jsonml[ 0 ] = "code";
       break;
     case "img":
-      jsonml[ 1 ].src = jsonml[ 1 ].href;
+      jsonml[ 1 ].src = "content/" + jsonml[ 1 ].href;
       delete jsonml[ 1 ].href;
       break;
     case "linebreak":
