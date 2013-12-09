@@ -163,6 +163,14 @@ h5 {
 
 	}
 
+	article ol {
+		font-family: "Ubuntu";
+		margin-left: 40px;
+		margin-bottom:30px;
+		margin-top:10px;
+
+	}
+
 	article p {
 		margin-left:10px;
 	}
