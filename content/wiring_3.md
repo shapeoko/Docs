@@ -87,7 +87,19 @@ Tie your pairs together, like the image below. (black -> green, green -> black, 
 ![rear view actual image](wiring/50-so_wiring-049.jpg)
 
 
+Let's go ahead and wire the motors to our controller now
 
+####Z-Axis
+
+![rear view actual image](wiring/49-so_wiring-048.jpg)
+
+####X-Axis
+
+![rear view actual image](wiring/52-so_wiring-051.jpg)
+
+####Y-Axis
+
+![rear view actual image](wiring/54-so_wiring-053.jpg)
 
 If it's done right, you'll end up with something like this. 
 
