@@ -1525,7 +1525,7 @@ function convert_tree_to_html( tree, references, options ) {
       jsonml[ 0 ] = "code";
       break;
     case "img":
-      if(jsonml[1].href.substring(0,4) = "http"){
+      if(jsonml[1].href.substring(0,4) == "http"){
         jsonml[ 1 ].src = jsonml[ 1 ].href;
       }else{
         jsonml[ 1 ].src = "content/" + jsonml[ 1 ].href;
