@@ -33,7 +33,7 @@ With the machine turned off, move your gantry to the front left corner of the pa
 
 
 ##Attach Sharpie
-Using a yaydaday, affix your sharpie to the z-axis spindle carriage assembly.
+Using a piece of tape, affix your sharpie to the z-axis spindle carriage assembly.
 
 ![Taped Sharpie](http://placehold.it/800x400&text=image+of+taped+sharpie+to+z+gantry)
 
