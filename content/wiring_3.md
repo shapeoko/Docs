@@ -29,7 +29,7 @@ After the wires are pulled through the braiding, continue pulling until both wir
 
 ![rear view pulled through](wiring/43-so_wiring-042.jpg)
 
-Be sure you have approximately 5 inches of wire for the z-axis.
+Be sure you have approximately 5 inches of wire for the x-axis. We are going to route that **around* the stepper motor, so we'll need a longer length to make it to the controller.
 
 ![rear view wire length](wiring/46-so_wiring-045.jpg)
 
