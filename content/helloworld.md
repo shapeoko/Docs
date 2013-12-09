@@ -45,7 +45,7 @@ Lower your sharpie so it is about 1 inch above the paper.
 
 
 ##Open Software
-Plug the power in to your machine and open Universal Gcode Sender on your computer. Once the program has loaded, plug in the usb cord to your computer and you should hear the stepper motors engage.
+Plug the power in to your machine and open Universal Gcode Sender on your computer. Once the program has loaded, plug in the USB cord to your computer and you should hear the stepper motors engage.
 
 ![Open The Software](helloworld/ugs1.png)
 
