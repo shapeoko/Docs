@@ -26,7 +26,6 @@
 
         <div class="left">
           <a href="http://docs.shapeoko.com"><span class="toplink">Shapeoko 2</span></a>
-
         </div>
         <div class="right">
           <ul>
@@ -71,6 +70,10 @@
                           $("#content").append(markdown.toHTML(response));
                         }
                     });
+                    //update image sources to start from content directory
+                    var cursource;
+                    cursource = $('img').attr("src");
+                    $('img').attr("src","content/"+cursource);
                 });
                 </script>
 </body>
