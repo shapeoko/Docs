@@ -56,20 +56,20 @@ Here is an overview of how the Y-axis wires are routed. From the front, you can 
 
 It's easiest if you slide the gantry all the way towards the left side. Then twist the wires together (like we did to get them through the expandable braiding earlier), then thread the wires through the horizontal slot on the carriage plates. Like this:
 
-![start threading](27-so_wiring-026.jpg)
+![start threading](wiring/27-so_wiring-026.jpg)
 
 Once you have pushed the wires past the gantry, grab the bundle and pull it out from between the pieces of makerslide. It's easier to do this than try to thread it all the way across.
 
-![keep threading](28-so_wiring-027.jpg)
+![keep threading](wiring/28-so_wiring-027.jpg)
 
 At the opposite side of what you started, thread the wires through the carriage plate's top slot. Like this
 
-![keep threading](29-so_wiring-028.jpg)
+![keep threading](wiring/29-so_wiring-028.jpg)
 
 Now pull the wires so they are fairly taught on the otherside. Be careful not to pull too hard!
 
-![keep threading](31-so_wiring-030.jpg)
-![keep threading](30-so_wiring-029.jpg)
+![keep threading](wiring/31-so_wiring-030.jpg)
+![keep threading](wiring/30-so_wiring-029.jpg)
 
 Both 
 
