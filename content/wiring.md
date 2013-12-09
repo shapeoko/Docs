@@ -1,15 +1,49 @@
 # Electrical Wiring
 ## Overview
-![exploded view of assembly step](http://placehold.it/200x200)  ![image of completed assembly step](http://placehold.it/200x200) ![exploded view of assembly step](http://placehold.it/200x200) ![video?](http://placehold.it/200x200)
+![schematic](sketches/electronics_layout.svg)
+
+The shapeoko 2 electrical wiring is, like the rest of the machine, versitile. There are 3 known ways to wire the machine easily. Each option has been broken into a different page, for clarity. Depending on your setup, and skill set, one setup may be better for you than another. Chose your setup by evaluating the requirements of the process.
 
 ## Requirements
 
-## Option #1 (No Solder)
+## Option #1
+This is the direct wire method that rquires (modest) soldering skills to complete. You can assemble the entire machine before doing this step.
 
-## Option #2 (Soldering)
+###You will need the following tools and parts to complete this option
 
-## Power Supply
+* Soldering Iron
+* Solder
+* Wire Strippers
+* Heat Shrink Tubing (2 sizes)
+* Zip Ties (about a dozen)
+* 4 Position Terminal Block (optional)
+* Expandable braiding (2 sizes), optional
 
-## grblShield
 
-## YAT
+## Option #2
+This is the terminal block method. This method is pretty easy, but requires that you make some preperations **WHILE** you are assembling the machine.
+
+###You will need the following tools and parts to complete this option
+
+* Screw Driver
+* 4 Position Terminal Block x 3
+* Razor Blade (wire stripper)
+* M3 x 16mm SHCS x 6
+* M3 flat washer x 12
+* M3 hex nut x 6
+* Zip Ties
+* Expandable Braiding
+
+
+
+## Option #3 
+This is the 'mount the controller on the machine' method. It's experimental, it's untested, it's **hot**. You can assemble the entire machine before doing this step. If you venture down this path, you're an explorer, and may be on your own. It might be worth it.
+
+![mtcotm](wiring/68-so_wiring-067.jpg)
+
+###You will need the following to complete this option
+
+* Zip Ties
+* Expandable Braiding (2 sizes)
+* Razor Blade (wire strippers)
+* 
