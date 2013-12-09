@@ -57,11 +57,6 @@
                 <article id="content">
                     <!--This is where the content gets rendered-->
                 </article>
-
-
-
-
-
             </div><!--end contentWrapper-->
         </div><!--end wrapper-->
 
@@ -72,20 +67,10 @@
               url:"content/electronics.md",
               dataType: "text",
               success: function(response){
-                  //$("#contents").html(response);
                   $("#content").append(markdown.toHTML(response));
                 }
             });
         });
     </script>
-
-    <script>
-        $(document).load(function () {
-            var cursource;
-            cursource = $('img').attr("src");
-            $('img').attr("src","content/"+cursource);
-        });
-    </script>
-
 </body>
 </html>                    
