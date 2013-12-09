@@ -56,30 +56,30 @@
             <div id="contentWrapper">
                 <article id="content">
                     <!--This is where the content gets rendered-->
-                </div>
+                </article>
 
 
                 <!--This is the script that loads the appropriate .md file-->
                 <script type="text/javascript">
-                $(document).ready(function(){
-                    $.ajax({
-                      url:"content/electronics.md",
-                      dataType: "text",
-                      success: function(response){
-                          //$("#contents").html(response);
-                          $("#content").append(markdown.toHTML(response));
-                        }
+                    $(document).ready(function(){
+                        $.ajax({
+                          url:"content/electronics.md",
+                          dataType: "text",
+                          success: function(response){
+                              //$("#contents").html(response);
+                              $("#content").append(markdown.toHTML(response));
+                            }
+                        });
                     });
-                    srcChange();
-                });
-
-                function srcChange(){
-                    //update image sources to start from content directory
-                    var cursource;
-                    cursource = $('img').attr("src");
-                    $('img').attr("src","content/"+cursource);
-                }
-
                 </script>
+
+                <script>
+                    $(document).load(function () {
+                        var cursource;
+                        cursource = $('img').attr("src");
+                        $('img').attr("src","content/"+cursource);
+                    });
+                </script>
+
 </body>
 </html>                    
