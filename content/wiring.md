@@ -4,7 +4,7 @@
 
 The shapeoko 2 electrical wiring is, like the rest of the machine, versitile. There are 3 known ways to wire the machine easily. Each option has been broken into a different page, for clarity. Depending on your setup, and skill set, one setup may be better for you than another. Chose your setup by evaluating the requirements of the process.
 
-## Requirements
+---
 
 ## Option #1
 This is the direct wire method that rquires (modest) soldering skills to complete. You can assemble the entire machine before doing this step.
@@ -18,6 +18,8 @@ This is the direct wire method that rquires (modest) soldering skills to complet
 * Zip Ties (about a dozen)
 * 4 Position Terminal Block (optional)
 * Expandable braiding (2 sizes), optional
+
+[click here to view these instructions](wiring_1.html)
 
 
 ## Option #2
@@ -34,7 +36,7 @@ This is the terminal block method. This method is pretty easy, but requires that
 * Zip Ties
 * Expandable Braiding
 
-
+[click here to view these instructions](wiring_2.html)
 
 ## Option #3 
 This is the 'mount the controller on the machine' method. It's experimental, it's untested, it's **hot**. You can assemble the entire machine before doing this step. If you venture down this path, you're an explorer, and may be on your own. It might be worth it.
@@ -46,4 +48,6 @@ This is the 'mount the controller on the machine' method. It's experimental, it'
 * Zip Ties
 * Expandable Braiding (2 sizes)
 * Razor Blade (wire strippers)
-* 
+* Bravery & Courage
+
+[click here to view these instructions](wiring_3.html)
