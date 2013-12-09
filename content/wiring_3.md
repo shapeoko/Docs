@@ -10,3 +10,6 @@ This is the 'mount the controller on the machine' method. It's experimental, it'
 * Razor Blade (wire strippers)
 * Bravery & Courage
 
+###Here is a rear view of the X and Z axis wiring
+![rear view svg](wiring/wiring_3_rearview.svg);
+
