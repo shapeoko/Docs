@@ -155,6 +155,10 @@ h5 {
 
 	}
 
+	article em{
+		font-style:italic;
+	}
+
 	article ul {
 		font-family: "Ubuntu";
 		margin-left: 40px;
