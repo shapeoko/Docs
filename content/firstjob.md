@@ -52,6 +52,14 @@ Select the outside rounded rectangle (the one we made in Step #2). Click CAM -> 
 
 ![rectangle](firstjob/mc_profile.png)
 
+
+##Position Coaster at Origin
+
+In makerCAM, position your coaster just off of the origin point.
+
+![rectange](firstjob/mc_origin_shapes.png)
+
+
 ##Generate G-Code
 
 It's time to generate your G-code! If you check the "view cuts" option in the top right portion of the screen, your toolpaths will be filled with nice colors representing the operations. If everything looks OK, go ahead and click CAM -> calculate all. Nice work.
@@ -60,7 +68,7 @@ It's time to generate your G-code! If you check the "view cuts" option in the to
 
 ##Export G-Code
 
-Export Your g-code! Your coaster should look a little goofy right now, with colors and curves representing the toolpaths. That's OK, Imaging those toolpaths as a map for your bit to follow. Once you have calculated all toolpaths, let's go ahead an export the file. Click CAM -> export g-code. A couple of things to remember on this screen.
+Export Your g-code! Your coaster should look a little goofy right now, with colors and curves representing the toolpaths. That's OK, imagine those toolpaths as a map for your bit to follow. Once you have calculated all toolpaths, let's go ahead an export the file. Click CAM -> export g-code. A couple of things to remember on this screen.
 
 ![rectangle](firstjob/mc_export.png)
 
@@ -92,7 +100,7 @@ Click the visualize button, located just below the browse button, to see what th
 ##Set Zero Position
 If your file visualization looks correct, close the visualizer and click the 'machine control' tab towards the top of the window.
 
-![Double Check Settings](http://placehold.it/800x400&text=image+of+UGS)
+![Double Check Settings](firstjob/ugs_set_zero.png)
 
 Jog your machine to the lower left side of your work surface using the different axis control buttons. Click the 'Reset Zero' button to tell your machine that you are at 0,0. You should notice on the left of the panel your work position coordinates will be set to X:0, Y:0, Z:0
 
@@ -110,9 +118,9 @@ You should see Universal Gcode Sender start streaming the file, and your machine
 
 
 ##Run Job!
-Lower your spindle so it is <i>just</i> ***touching*** the material.
+Lower your spindle so it's <i>just</i> ***touching*** the material.
 
-![Just above work surface](http://placehold.it/800x400&text=image+of+sharpie+almost+touching+paper)
+![Just above work surface](firstjob/zero_Z.png)
 
 OK, here we go. Take a deep breath and click the 'Send' button.
 
