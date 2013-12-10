@@ -6,10 +6,10 @@ If you are looking for the actual instructions to assemble your Shapeoko 2, plea
 
 ### /(root)
 ####HTML
-HTML files are found in the root of this repository. Do not edit the HTML files. Your changes will be overwritten the next time the site is regerated.
+HTML files are found in the root of this repository. Do not edit the HTML files. Your changes will be overwritten the next time the site is regenerated.
 
 ####CSS
-The main css file is found in the root of the repository. This is the css files that defines the stiles for the docs.shapeoko.com site. If edits to the style of the site need to be made, this is the file to edit.
+The main css file is found in the root of the repository. This is the css file that defines the styles for the docs.shapeoko.com site. If edits to the style of the site need to be made, this is the file to edit.
 
 ###Content
 ####Markdown Files
