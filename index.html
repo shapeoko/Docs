@@ -3,9 +3,12 @@
     <head>
             <title>Project Shapeoko</title>
             <link href="shapeoko.css" rel="stylesheet" />
+            <link href="slimbox.css" rel="stylesheet" />
             <link href='http://fonts.googleapis.com/css?family=Ubuntu:300,400,700' rel='stylesheet' type='text/css'>
             <script src="js/markdown.js"></script>
             <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+            <script src="js/slimbox2.js"></script>
+
     </head>
     <body>
     
@@ -68,12 +71,35 @@
               dataType: "text",
               success: function(response){
                   $("#content").append(markdown.toHTML(response));
+
+                  // now that the images exist in the dom, lightbox them!
+                  lightboxImages()
                 }
             });
 
             //rename the page
             document.title = 'Shapeoko 2 Documentation';
+
         });
+
+        function lightboxImages(){
+          // Wrap each image in a link
+          $("img").each(function(){
+            var src = $(this).attr('src');
+
+            // TODO: change the src to the original big image
+            // var src = src.replace....
+
+            // then wrap the image with a link to activate the lightbox
+            $(this).wrap("<a href='"+src+"' rel='lightbox'></a>")
+          });
+
+          // Because these elements were all added after dom ready
+          // we need to explicitly tell slimbox to 
+          // listen to the new links
+          $("a[rel=lightbox]").slimbox()
+        }
+
     </script>
 </body>
 </html> 
