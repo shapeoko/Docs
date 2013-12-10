@@ -113,7 +113,7 @@ You should see Universal Gcode Sender start streaming the text file line by line
 
 
 ##Run Job!
-Lower your sharpie so it is <i>just</i> barely above the paper.
+Lower your sharpie so it is *just* barely above the paper.
 
 ![Just above work surface](http://placehold.it/800x400&text=image+of+sharpie+almost+touching+paper)
 
