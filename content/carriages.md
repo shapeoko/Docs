@@ -3,9 +3,9 @@
 ##Wiring options
 Before beginning this section, please take a look at the wiring options page. 
 
-* [Options \#1](wiring_1.html), needs no special attention at this step other than noting the motor orientations show in the steps below.
+* [Option \#1](wiring_1.html), needs no special attention at this step other than noting the motor orientations show in the steps below.
 * If you are going to use the terminal block method [option \#2](wiring_2.html), you will need to attach those terminal block in this step.
-* [Option \#3](wiring_3.html), although not necessary at this step, could make life easier to attach your arduino to the **right* Y axis motor mount plate.
+* [Option \#3](wiring_3.html), although not necessary at this step, could make life easier to attach your arduino to the *right* Y axis motor mount plate.
 
 _see those specific options for more details_
 
@@ -13,7 +13,7 @@ _see those specific options for more details_
 ## Overview
 ![exploded view of Motor Mount Carriages](tPictures/PS20022_2.png)
 ![Motor Mount Carriage, parts and tools](tPictures/so_motor_mount_carriages_parts_2.jpg)
-![Motor Mount Carriages parts](tPictures/so_motor_mount_carriage_parts_2.jpg)
+![Motor Mount Carriage parts](tPictures/so_motor_mount_carriage_parts_2.jpg)
 
 This step is the bulk of the work required to assemble your machine. There are two different styles of plates that we will be assembling in this step. The first style includes a stepper motor, there are 3 of these plates total, and they will be used to drive both your X- and Y-axes. The other style is nearly identical to the first, with the exception of not having a stepper motor or smooth idlers attached. This plate will be used to connect your Z-axis assembly to your X-axis assembly. 
 
@@ -52,8 +52,8 @@ It might be easier and more straight-forward to assemble all four of them to mat
 ![assembled idler](tPictures/so_smooth_idler_2.jpg)
 ![assembled V-wheel](tPictures/so_v_wheel_2.jpg)
 ![Motor Mount Carriages parts](tPictures/so_motor_mount_carriage_parts_2.jpg)
-![](tPictures/so_e_motor_pulley_2.jpg)
-![](tPictures/so_smooth_idler_bolt_spacer_washers_2.jpg)
+![stepper motor, pulley, M3 bolts and washers, tools](tPictures/so_e_motor_pulley_2.jpg)
+![smooth idler with spacer and washers](tPictures/so_smooth_idler_bolt_spacer_washers_2.jpg)
 
 These are the plates that will mount on either end of the gantry and on the rear of the X-Axis.
 
