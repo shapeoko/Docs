@@ -118,7 +118,7 @@ You should see Universal Gcode Sender start streaming the file, and your machine
 
 
 ##Run Job!
-Lower your spindle so it's <i>just</i> ***touching*** the material.
+Lower your spindle so it's *just* ***touching*** the material.
 
 ![Just above work surface](firstjob/zero_Z.png)
 
