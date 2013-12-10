@@ -11,3 +11,7 @@ This is the direct wire method that rquires (modest) soldering skills to complet
 * 4 Position Terminal Block (optional)
 * Expandable braiding (2 sizes), optional
 
+##Overview
+Your wires coming directly off the stepper motors (these are called leads) will be routed as shown below. In our experience, this is the most effective way to route the leads. However, because you are wielding a soldering iron, feel free to modify these as you see fit. 
+
+![wire routing overview](wiring/wiring_routing_overview.svg)
