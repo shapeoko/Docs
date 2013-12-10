@@ -214,7 +214,7 @@ h5 {
 
 	#wrapper nav {
 	  width: 10%;
-	  min-width:150px;
+	  min-width:100px;
 	  padding-right: 20px;
 	  position: fixed;
 	  height: 100%;
