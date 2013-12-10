@@ -5,7 +5,7 @@ If you are looking for the actual instructions to assemble your Shapeoko 2, plea
 ##Overview
 This is a static-dynamic site (if that's a thing?). 
 
-The html files are placeholders for. The nav bar and header is pulled in via jquery and The content for the site is created in the markdown format (GFM), and markdown-js is used to convert the markdown into html.
+The html files are placeholders for the content. The nav bar and header are pulled in via jquery and The content for the site is created in the markdown format (GFM), and markdown-js is used to convert the markdown into html.
 
 The Content directory is used to store the actual **content** of the site. Markdown files, images, and other documents are all stored in this directory.
 
