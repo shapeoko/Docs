@@ -126,4 +126,4 @@ Your very first run!
 
 A basic introduction to using the machine for milling.
 
-![first job](helloworld/mc_export_4.png)
+![first job](firstjob/mc_export_4.png)

@@ -5,16 +5,15 @@ There are two pieces of software that you will need to be aware of while assembl
 #####If you bought the full kit from inventables, then your arduino came pre-loaded with grbl.
 
 
-If Java isn't an option for your machine there are other .
-
 ## Universal G-code Sender
 ![UGS splash screen](helloworld/ugs1.png)
+
 *(universal gcode sender by will winder)*
 
 Universal G-Code Sender (UGS for short): a Java based, cross platform G-Code sender created to control grbl Based machines (like Shapeoko!). [Click here to download the program](http://bit.ly/16q7obd). The latest version can always be downloaded [from github](https://github.com/winder/Universal-G-Code-Sender).
 
 ### Installing ###
-There is no installation required for this software. Simply download the zip file from the link above. Once downloaded, to run the software simply unzip the .zip file and double click the .jar file. On some platforms you will need to run an included start script. If you are using windows, just double click the .jar file.
+There is no installation required for this software. Simply download the zip file from the link above. Once downloaded, to run the software simply unzip the .zip file and double click the .jar file. On some platforms you will need to run an included start script. If you are using Microsoft Windows, just double click the .jar file.
 
 #####Mac Users
 You may need to create a "/var/lock" directory on OSX to fix a bug in the serial library. To do this open the Terminal application and run the following two commands: 

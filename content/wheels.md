@@ -1,7 +1,7 @@
 #V-wheels and Smooth Idlers
 
 ![V- and Idler Wheel Parts](tPictures/so_vw_iw_parts_2.jpg)
-![V-Wheel Assembled](tPictures/so_vwi_vwheel_2.jpg)
+![V-Wheel Assembled](tPictures/so_v_wheel_2.jpg)
 ![Smooth Idler Wheel Assembled](tPictures/so_smooth_idler_2.jpg)
 
 Makerslide uses V-wheels to allow for movement along the rails which it affords.
@@ -11,7 +11,7 @@ The belts which the stepper motors drive the X- and Y-axes which require smooth 
 ##V-Wheels
 
 ![V-Wheel Assembly](tPictures/25203-02_2.png)
-![V-Wheel Assembled](tPictures/so_vwi_vwheel_2.jpg)
+![V-Wheel Assembled](tPictures/so_v_wheel_2.jpg)
 
 ###Requirements
 
@@ -35,7 +35,7 @@ The belts which the stepper motors drive the X- and Y-axes which require smooth 
 5. Using your thumbs, squeeze the assembly together. There will be a bit of friction getting the bearings settled into the wheel. When you tighten the wheel to the plate, you will squeeze the entire thing together tightly.
 6. Repeat this procedure for the remaining V-Wheels (20 total)
 
-![Idler Wheel Assembled](tPictures/so_vwi_vwheel_4.jpg)
+![Idler Wheel Assembled](tPictures/so_v_wheel_4.jpg)
 
 Alternate, assembly-line procedure for the V-Wheels:
 
@@ -45,7 +45,7 @@ Alternate, assembly-line procedure for the V-Wheels:
 
 ##Smooth Idlers
 ![Smooth Idler Assembly](tPictures/25197-02_2.png)
-![Idler Wheel Assembled](tPictures/so_vwi_vwheel_2.jpg)
+![Idler Wheel Assembled](tPictures/so_smooth_idler_2.jpg)
 
 ###Requirements
 

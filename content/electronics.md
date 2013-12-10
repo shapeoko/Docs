@@ -67,7 +67,7 @@ Start by cutting the grey wire to length (either equal thirds, or some proportio
 
 Next, strip all of the wire ends. The ends which will attach to the terminal block should be approximately 3/8" so as to be twisted into a hook so as to wrap around the terminal block screws. The other end of the grey wire should be stripped approximately 1/4" of an inch so as to fit into the gShield. Be careful of stripping too much and leaving wire unnecessarily exposed which could create the possibility of a short.
 
-![Stripped wire](tPictures/so_e_wire_stripped_2.jpg)
+![Stripped wire](tPictures/so_e_wire_stripped_4.jpg)
 
 Next, loosen up all the screws on one terminal block, then begin making connections by twisting the wire ends into hooks, hooking them onto the screws oriented so that the turning of the screw will tighten them and tighten the wire.
 
