@@ -4,7 +4,7 @@
 
 Thank you for supporting Project Shapeoko. The following pages are filled with all the information you need to assemble your Shapeoko 2 desktop CNC machine.  If you have any difficulties with assembly, please check the ShapeOko [wiki](http://www.shapeoko.com/wiki) and [forums](http://www.shapeoko.com/forum/index.php).
 
-![image of tools spread out](tPictures/shapeoko_2.jpg)
+![glamour photo of ShapeOko 2 front right diagonal](tPictures/shapeoko_2.jpg)
 
 
 ###Tools
@@ -110,6 +110,7 @@ The work area integrates the last component with the previous assemblies, comple
 [Goto the Instructions](wiring.html)
 
 The machine is complete when the electronics are wired up to the motors, allowing movement.
+
 ---
 
 ##Hello, World

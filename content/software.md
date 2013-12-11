@@ -54,7 +54,7 @@ As noted above, Grbl is pre-installed on Arduinos purchased from Inventables as 
 
 and download the file:
 
-* [grbl_v0_8c_atmega328p_16mhz_9600.hex](https://github.com/downloads/grbl/grbl/grbl_v0_8c_atmega328p_16mhz_9600.hex)
+* <a href="https://github.com/downloads/grbl/grbl/grbl_v0_8c_atmega328p_16mhz_9600.hex">grbl v0.8c atmega328p 16mhz 9600.hex</a>
 
 Then follow the instructions here:
 
@@ -67,3 +67,9 @@ and you'll be all set to configure it.
 Your grbl settings should look like this:
 
 ![shapeoko 2 grbl settigns](helloworld/check_grbl_settings.png)
+
+To change a setting, type $ then the setting number, an equals sign, and the desired value:
+
+> $1=40.020
+
+will set the X-axis.

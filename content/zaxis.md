@@ -1,16 +1,18 @@
 # Z-Axis Assembly
 
-![exploded view of Gantry Carriage](tPictures/PS20031_2.png)
-![](tPictures/so_gantry_carriage_2.jpg)
-![](tPictures/so_z_axis_parts_2.jpg)
-![](tPictures/so_assembly_gantry_carriage_2.jpg)
+<a href="tPictures/PS20031_16.png"><img src="tPictures/PS20031_4.png" alt="exploded view of Gantry Carriage" width="200" ></a>
+<a href="tPictures/so_gantry_carriage_16.jpg"><img src="tPictures/so_gantry_carriage_4.jpg" alt="Z-axis fully assembled" width="200" ></a>
+<a href="tPictures/so_z_axis_parts_16.jpg"><img src="tPictures/so_z_axis_parts_4.jpg" alt="Z-axis parts" width="200" ></a>
+<a href="tPictures/so_assembly_gantry_carriage_16.jpg"><img src="tPictures/so_assembly_gantry_carriage_4.jpg" alt="Z-axis components" width="200" ></a>
+
 
 The Z-axis assembly is comprised of several sub-assemblies. When assembling it, it is best to select a Motor Mount Carriage (PS20022) which already has a stepper motor in place.
 
 ##Z Assembly Carriage (PS20021)
 
-![exploded view of Z Assembly Carriage](tPictures/PS20021_2.png)  ![Assembled Z Assembly Carriage](tPictures/so_z_assembly_carriage_2.jpg)
-![Assembled Z Assembly Carriage Parts and Tools](tPictures/so_z_assembly_carriage_parts_2.jpg) ![video?](http://placehold.it/200x200)
+<a href="tPictures/PS20021_16.png"><img src="tPictures/PS20021_4.png" alt="exploded view of Z-axis Assembly Carriage" width="200" ></a>
+<a href="tPictures/so_z_assembly_carriage_16.jpg"><img src="tPictures/so_z_assembly_carriage_4.jpg" alt="Assembled Z Assembly Carriage" width="200" ></a>
+<a href="tPictures/so_z_assembly_carriage_parts_16.jpg"><img src="tPictures/so_z_assembly_carriage_parts_4.jpg" alt="Assembled Z Assembly Carriage Parts and Tools" width="200" ></a>
 
 ###Requirements
 
@@ -25,7 +27,7 @@ The Z-axis assembly is comprised of several sub-assemblies. When assembling it, 
 
 This is the plate the Z-axis will attach to (it is identical to the Motor Mount Carriage (PS20022) assembled in the previous step, but without smooth idlers. It sits on the front of the gantry and will be connected to the X-axis motor mount plate via rigid aluminum spacers. We will build the plate first, and then attach the two together.
 
-![exploded view of Z Assembly Carriage](tPictures/PS20021_4.png)
+<a href="tPictures/PS20021_16.png"><img src="tPictures/PS20021_8.png" alt="exploded view of Z Assembly Carriage" width="400" ></a>
 
 1. Connect V-Wheels to plate
 	- two static at the top
@@ -34,7 +36,9 @@ This is the plate the Z-axis will attach to (it is identical to the Motor Mount 
 
 ##Spindle Carriage Assembly (PS20029)
 
-![exploded view of Spindle Carriage Assembly](tPictures/PS20029_2.png)  ![](tPictures/so_spindle_carriage_2.jpg) ![](tPictures/so_spindle_carriage_parts_2.jpg) ![video?](http://placehold.it/200x200)
+<a href="tPictures/PS20029_16.png"><img src="tPictures/PS20029_4.png" alt="exploded view of Spindle Carriage Assembly" width="200" ></a>
+<a href="tPictures/so_spindle_carriage_16.jpg"><img src="tPictures/so_spindle_carriage_4.jpg" alt="spindle carriage assembly and tools" width="200" ></a>
+<a href="tPictures/so_spindle_carriage_parts_16.jpg"><img src="tPictures/so_spindle_carriage_parts_4.jpg" alt="spindle carriage assembly parts" width="200" ></a>
 
 ###Requirements
 
@@ -55,14 +59,15 @@ This is the plate the Z-axis will attach to (it is identical to the Motor Mount 
 - 2 PS20013 Universal Spindle Mount strap
 - 4 PS20005 M5 x 45mm, SHCS
 
-![exploded view of Spindle Carriage Assembly](tPictures/PS20029_4.png)
+<a href="tPictures/PS20029_16.png"><img src="tPictures/PS20029_8.png" alt="exploded view of Spindle Carriage Assembly" width="400" ></a>
 
 Place the V-wheels and the Delrin Lead nut (for the Z-axis Rail Assembly) on one side of the Spindle Mount Plate and the Universal Spindle Mount Straps on the other. The Eccentric Nuts go in the larger holes.
 
 ##Z-Axis Rail Assembly (PS20028)
 
-![exploded view of Z-Axis Rail Assembly](tPictures/PS20028_2.png)  ![Z-Axis Rail Assembly Parts](tPictures/so_z_axis_rail_parts_2.jpg)
-![Z-Axis Rail Assembly](tPictures/so_z_axis_rail_2.jpg) ![video?](http://placehold.it/200x200)
+<a href="tPictures/PS20028_16.png"><img src="tPictures/PS20028_4.png" alt="exploded view of Z-Axis Rail Assembly" width="200" ></a>
+<a href="tPictures/so_z_axis_rail_parts_16.jpg"><img src="tPictures/so_z_axis_rail_parts_4.jpg" alt="Z-Axis Rail Assembly Parts" width="200" ></a>
+<a href="tPictures/so_z_axis_rail_16.jpg"><img src="tPictures/so_z_axis_rail_4.jpg" alt="Z-Axis Rail Assembly" width="200" ></a>
 
 **Note:** The above exploded view does not show the wavy washer (PS20017) which goes on top of the flanged bearing.
 
@@ -95,13 +100,13 @@ One should also attach the motor for the Z-axis at this time.
 
 **Note:** Depending on how deeply tapped on the stepper motor and how long the threads are on the brass standoffs, it may be necessary to add additional M3 washers when attaching the motor using the brass standoffs.
 
-![exploded view of Z-Axis Rail Assembly](tPictures/PS20028_4.png)
+<a href="tPictures/PS20028_16.png"><img src="tPictures/PS20028_8.png" alt="exploded view of Z-Axis Rail Assembly" width="400" ></a>
 
 Assemble this from the inside out, starting with the smallest pieces and attaching them to the bottom Z-Axis Motor Mount Plate --- slide the 12mm M3 screws through the appropriate holes, then stack the Nylon Spacers (PS20015), then place the wavy washer onto the flanged bearing, insert that into the second Z-axis Motor Mount Plate, insert the two M5 bolts, add the last two Nylon Spacers and slide the top and bottom Z-axis Motor Mount Plates together. Loosely thread on the brass M3 standoffs. Place the Z-axis Shim Plate on top of the Z Axis Rail (200mm MakerSlide) and attach it using the M5 bolts.
 
 ###Threaded Rod
 
-![](tPictures/so_z_axis_dimensions_4.jpg)
+<a href="tPictures/so_z_axis_dimensions_16.jpg"><img src="tPictures/so_z_axis_dimensions_8.jpg" alt="Z-axis assembly threaded rod dimension comparison" width="400" ></a>
 
 Compare the threaded rod (PS20011) to the assembly thread on one M8 Hex Nut (PS20007) far enough down to allow room for the flanged bearing, a second hex nut and for the  threaded rod to be just short of half-way into the flexible coupler. Before tightening things, ensure that the motor shaft will also fit just short of half-way into the flexible coupler.
 
@@ -117,8 +122,10 @@ Tighten everything.
 
 ###Z-Axis
 
-![](tPictures/PS20030_2.png)
-![](tPictures/so_z_axis_bolts_washers_nuts_2.jpg)
+<a href="tPictures/PS20030_16.png"><img src="tPictures/PS20030_4.png" alt="exploded view Z-axis assembly" width="200" ></a>
+<a href="tPictures/so_z_axis_bolts_washers_nuts_16.jpg"><img src="tPictures/so_z_axis_bolts_washers_nuts_4.jpg" alt="bolts, insertion nuts, washers" width="200" ></a>
+<a href="tPictures/so_assembly_pre_gantry_carriage_16.jpg"><img src="tPictures/so_assembly_pre_gantry_carriage_4.jpg" alt="Z-Assembly Carriage, Z-Axis Rail Assembly, Spindle Carriage Assembly" width="200" ></a>
+<a href="tPictures/so_assembly_gantry_carriage_16.jpg"><img src="tPictures/so_assembly_gantry_carriage_4.jpg" alt="" width="200" ></a>
 
 - 1 PS20021 Z-Assembly Carriage
 - 1 PS20028 Z-Axis Rail Assembly
@@ -129,17 +136,14 @@ Tighten everything.
 
 Insert the 10mm M5 bolts with an M5 washer into the Z-Assembly Carriage (PS20021) from the side the V-wheels are on, thread on the M5 insertion nuts, then slide the Z-Axis Rail Assembly (PS20028) onto the nuts, align and center the assemblies and tighten.
 
-![](tPictures/PS20030_4.png)
-
-![](tPictures/so_assembly_pre_gantry_carriage_2.jpg)
-![](tPictures/so_assembly_gantry_carriage_2.jpg)
+<a href="tPictures/PS20030_16.png"><img src="tPictures/PS20030_8.png" alt="" width="400" ></a>
 
 Turn the eccentric nuts on the Spindle Carriage Assembly (PS20029) so that they move the matching V-wheels as far as possible from the opposing static V-wheels. Slide the Spindle Carriage Assembly onto the Z-Axis Rail Assembly and turn the threaded rod using the flexible coupler so that the V-wheels are completely on the MakerSlide V-rail. Be careful not to nick or damage the Delrin V-wheels.
 
 ##Sub Gantry (PS20023)
 
-![](tPictures/PS20031_2.png)
-![](tPictures/so_gantry_carriage_2.jpg)
+<a href="tPictures/PS20031_16.png"><img src="tPictures/PS20031_4.png" alt="" width="200" ></a>
+<a href="tPictures/so_gantry_carriage_16.jpg"><img src="tPictures/so_gantry_carriage_4.jpg" alt="" width="200" ></a>
 
 ###Requirements
 
@@ -156,9 +160,9 @@ Turn the eccentric nuts on the Spindle Carriage Assembly (PS20029) so that they 
 
 If possible, select a Motor Mount Carriage (PS20022) which has a stepper motor attached. 
 
-![](tPictures/PS20031_4.png)
+<a href="tPictures/PS20031_16.png"><img src="tPictures/PS20031_8.png" alt="" width="400" ></a>
 
 Place washers on the M5 x 70 mm SHCS (PS20006) and place them in the outer holes of the Z-Assembly Carriage (PS20021) from the side opposite the V-wheels. Place one each of the Aluminum Spacers (25312-20 and PS20002) on each bolt, place the Motor Mount Carriage (PS20022) onto the bolts and attach using an M5 washer and M5 hex nut.
 
 
-![](tPictures/so_gantry_carriage_4.jpg)
+<a href="tPictures/so_gantry_carriage_16.jpg"><img src="tPictures/so_gantry_carriage_8.jpg" alt="" width="400" ></a>
