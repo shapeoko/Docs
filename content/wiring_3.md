@@ -19,7 +19,7 @@ _note: in all the pictures shown below, yellow zip ties are used. these are pref
 ###X and Z wiring 
 Looking at the machine from the back, the idea is to pull down the wires from the Z-axis stepper motor to the x-axis carraige. Then pull up the x-axis stepper motor wires to the top of the carriage, so you can zip tie them together using the included zip ties. 
 
-![rear view svg](wiring/wiring_3_rearview.svg);
+![rear view svg](wiring/wiring_3_rearview.svg)
 
 
 ####Expandable Braiding
