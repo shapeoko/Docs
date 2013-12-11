@@ -11,7 +11,6 @@
             <script src="js/markdown.js"></script>
 
     </head>
-    
     <body>
 
         <script>
@@ -19,7 +18,6 @@
             $("body").load("include.html");
         </script>    
 
- 
         <script>
             $(document).ready(function(){
                 $.ajax({
@@ -32,9 +30,6 @@
                       $("#content").append(markdown.toHTML(response));
                     }
                 });
-
-                //rename the page
-                document.title = 'Shapeoko 2 Wiring Options';
 
             });
         </script>
