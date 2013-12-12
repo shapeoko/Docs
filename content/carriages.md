@@ -48,6 +48,7 @@ It might be easier and more straight-forward to assemble all four of them to mat
  * 3mm Hex Key
  * 2.5mm Hex Key (used for the M3 screws if attaching the motor)
  * 1.5mm Hex Key (used for the set screws in the pulley)
+ * 8mm wrench
 
 ![assembled idler](tPictures/so_smooth_idler_2.jpg)
 ![assembled V-wheel](tPictures/so_v_wheel_2.jpg)
