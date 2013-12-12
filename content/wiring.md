@@ -2,18 +2,18 @@
 ## Overview
 ![schematic](sketches/electronics_layout.svg)
 
-The shapeoko 2 electrical wiring is, like the rest of the machine, versitile. There are 3 known ways to wire the machine easily. Each option has been broken into a different page, for clarity. Depending on your setup, and skill set, one setup may be better for you than another. Chose your setup by evaluating the requirements of the process.
+The ShapeOko 2 electrical wiring is, like the rest of the machine, versatile. There are 3 known ways to wire the machine easily. Each option has been broken into a different page, for clarity. Depending on your setup, and skill set, one setup may be better for you than another. Chose your setup by evaluating the requirements of the process.
 
 ## Routing
 
-In all scenarios, your stepper wires will be routed as such:
+In all scenarios, your stepper wires will be initially be routed as such:
 
 ![wire facing up](wiring/wiring_routing_overview.svg)
 
 ---
 
 ## Option #1
-This is the direct wire method that rquires (modest) soldering skills to complete. You can assemble the entire machine before doing this step.
+This is the direct wire method that requires (modest) soldering skills to complete. You can assemble the entire machine before doing this step.
 
 ###You will need the following tools and parts to complete this option
 
@@ -29,7 +29,7 @@ This is the direct wire method that rquires (modest) soldering skills to complet
 
 
 ## Option #2
-This is the terminal block method. This method is pretty easy, but requires that you make some preperations **WHILE** you are assembling the machine.
+This is the terminal block method. This method is pretty easy, but requires that you make some preparations **WHILE** you are assembling the machine.
 
 ###You will need the following tools and parts to complete this option
 
