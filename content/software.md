@@ -2,7 +2,7 @@
 
 There are two pieces of software that you will need to be aware of while assembling and testing your machine. The first software is to be installed on your computer and is called "Universal G-Code Sender" (written in Java, if Java isn't an option for your machine, there are other [Communication/Control programs, see the wiki](http://www.shapeoko.com/wiki/index.php/Communication_/_Control)). Details for obtaining and installing the software can be found below. The second software is actually a 'firmware' that is installed on your Arduino. The firmware is called 'grbl'. 
 
-#####If you bought the full kit from inventables, then your arduino came pre-loaded with grbl.
+#####If you bought the full kit from Inventables, then your Arduino came pre-loaded with grbl.
 
 
 ## Universal G-code Sender
@@ -44,7 +44,7 @@ Chances are, the Arduino will be recognized by your computer. If not, download t
 
 * [Mac OS X](http://arduino.cc/en/Guide/MacOSX#toc2)
 * [Windows](http://arduino.cc/en/Guide/Windows#toc2)
-* [Linux]([http://playground.arduino.cc/Learning/Linux)
+* [Linux](http://playground.arduino.cc/Learning/Linux)
 
 ###Installing Grbl onto the Arduino###
 
@@ -70,6 +70,6 @@ Your grbl settings should look like this:
 
 To change a setting, type $ then the setting number, an equals sign, and the desired value:
 
-> $1=40.020
+		$1=40.020
 
 will set the X-axis.

@@ -8,6 +8,8 @@ For reference, the image below shows the concept of wiring Shapeoko 2.
 
 [![Generic electronics layout](sketches/electronics_layout.svg)](sketches/electronics_layout.svg)
 
+Please note that stepper motors can be wired up in many different ways and still function, though the motors may turn in the reverse of the desired direction (stepper motors are reversed by swapping pairs of wires). The diagram shows one such method and the photos which follow may show other methods. The important thing is to follow one consistent technique when wiring the machine initially, then if need be, one can alter the wiring to achieve the desired direction of rotation.
+
 ## Requirements
 
 ![image of required components](tPictures/so_electronics_parts_4.jpg) 
@@ -43,7 +45,7 @@ First thing that we do is plug our Arduino into the computer.
 
 ![Arduino plugged into USB cable](tPictures/so_e_arduino_lit_4.jpg)
 
-Remember, the big end of the cable goes into the Arduino. Loading the driver for the Arduino is documented in (Software.md)
+Remember, the big end of the cable goes into the Arduino. Loading the driver for the Arduino is documented in [Software](http://docs.shapeoko.com/software.html)
 
 
 

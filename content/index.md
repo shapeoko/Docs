@@ -17,11 +17,11 @@ Only basic tools are required to assemble the Shapeoko 2. The following tools ar
 * Screw Driver 2.0mm blade
 * Wrench 13mm (1/2") Qty 2
 * Wrench 8mm (5/16")
-* M5 Tap and handle
+* M5x0.8mm Tap and handle
 * Safety glasses
 * cable ties (100)
 * thread lock
-* razor blade
+* razor blade (for stripping / cutting wires)
 
 There is one additional item:
 
@@ -73,7 +73,7 @@ This is the most labor intensive part of the assembly. You will be assembling 3 
 ##Z-Axis
 [Goto the Instructions](zaxis.html)
 
-The z-axis is comprised of 3 separate assemblies, and will require some time (and patience) to fully assemble. once you are done with this step, your machine will really start to take shape. 
+The z-axis is comprised of 3 separate assemblies, and will require some time (and patience) to fully assemble. Once you are done with this step, your machine will really start to take shape. 
 
 ![z-axis exploded](tPictures/so_z_axis_parts_4.jpg)
 
