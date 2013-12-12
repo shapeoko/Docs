@@ -48,13 +48,15 @@ Chances are, the Arduino will be recognized by your computer. If not, download t
 
 ###Installing Grbl onto the Arduino###
 
-As noted above, Grbl is pre-installed on Arduinos purchased from Inventables as part of a complete kit. If your board doesn't have it installed (or was erased because you downloaded the blinking lights program in Step #5 of the afore-mentioned installation directions), please go to:
+As noted above, Grbl is pre-installed on Arduinos purchased from Inventables as part of a complete kit. If your board doesn't have it installed (or was erased because you downloaded the blinking lights program in Step #5 of the afore-mentioned installation directions), you can download another hex file here:
 
-* [github.com/grbl/grbl/downloads](https://github.com/grbl/grbl/downloads)
-
-and download the file:
 
 [grbl v0.8c atmega328p 16mhz 9600.hex](https://github.com/downloads/grbl/grbl/grbl\_v0\_8c\_atmega328p\_16mhz\_9600.hex)
+
+If that link isn't working, you can fine the original file here: 
+* [github.com/grbl/grbl/downloads](https://github.com/grbl/grbl/downloads)
+
+
 
 
 Then follow the instructions here:
