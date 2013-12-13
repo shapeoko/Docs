@@ -17,6 +17,10 @@ Thank you for supporting Project Shapeoko. The following pages are filled with a
 7. Run [Hello, World!](helloworld.html)
 8. Run your [First Job!](firstjob.html)
 
+###Contributing
+
+If you are interested in contributing to the docs pages, please see [this page](contribute.html) for information on how to get started.
+
 
 ##Assembly Steps
 
