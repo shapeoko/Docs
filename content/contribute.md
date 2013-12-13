@@ -7,7 +7,7 @@ The assembly documents for Shapeoko 2 are stored in a github repository as markd
 
 So you want to help by contributing to the documentation? Great! Our project was built on community contributions. It's actually pretty easy. The idea is this:
 
-1. Fork the shapeoko/docs repository. 
+1. Fork the [shapeoko/docs repository](https://github.com/shapeoko/Docs). 
 2. Make changes to your **forked** copy of the repository
 3. Issue a Pull Request
 4. Feel happy for helping contribute to Project Shapeoko!
