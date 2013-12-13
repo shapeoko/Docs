@@ -5,7 +5,7 @@ This is the terminal block method. This method is pretty easy, but requires that
 
 ###You will need the following tools and parts to complete this option
 
-* Screw Driver
+* Screw Driver (2mm straight)
 * 4 Position Terminal Block x 3
 * Razor Blade (wire stripper)
 * M3 x 16mm SHCS x 6
@@ -14,4 +14,3 @@ This is the terminal block method. This method is pretty easy, but requires that
 * Zip Ties
 * Expandable Braiding
 
-[click here to view these instructions](wiring_2.html)
