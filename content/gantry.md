@@ -27,6 +27,7 @@ Push the MakerSlide as far as is possible to one end of the slot which the 12mm 
 The belt anchors must be assembled and placed on the MakerSlide before attaching the second Motor Mount Carriage. At a minimum you just need to remember to put the insertion nuts into the back piece of makerslide (on the top slot) before attaching the second motor mount carriage. Once the carriage is in place, you will no longer have access to the slot. 
 
 The belts get routed through the belt clips by:
+
 1. passing them over the top, and then **down** through the back slot (closest to the screw).
 2. From the back slot, they go down, and then back **up** through the front slot.
 3. You only need about 12mm (1/2") of belting to lock the loops together
