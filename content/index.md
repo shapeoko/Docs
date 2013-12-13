@@ -2,32 +2,20 @@
 
 ##Welcome!
 
-Thank you for supporting Project Shapeoko. The following pages are filled with all the information you need to assemble your Shapeoko 2 desktop CNC machine.  If you have any difficulties with assembly, please check the ShapeOko [wiki](http://www.shapeoko.com/wiki) and [forums](http://www.shapeoko.com/forum/index.php).
-
 ![glamour photo of ShapeOko 2 front right diagonal](tPictures/shapeoko_2.jpg)
 
+Thank you for supporting Project Shapeoko. The following pages are filled with all the information you need to assemble your Shapeoko 2 desktop CNC machine.  If you have any difficulties with assembly, please check the ShapeOko [wiki](http://www.shapeoko.com/wiki) and [forums](http://www.shapeoko.com/forum/index.php).
 
-###Tools
+###Overview
 
-Only basic tools are required to assemble the Shapeoko 2. The following tools are included with the full kits [sold through inventables.com](https://www.inventables.com/technologies/desktop-cnc-mill-kit-shapeoko-2). If you are rolling your own full kit (you bought the mechanical kit), use the following list as a guideline for what you will need to assemble the machine.
-
-![image of tools spread out](tPictures/tool_kit.jpg)
-
-* Hex Key Set 1.5 / 2.0 / 2.5 / 3.0 / 4.0 mm
-* Screw Driver 2.0mm blade
-* Wrench 13mm (1/2") Qty 2
-* Wrench 8mm (5/16")
-* M5x0.8mm Tap and handle
-* Safety glasses
-* cable ties (100)
-* thread lock
-* razor blade (for stripping / cutting wires)
-
-There is one additional item:
-
-* Spiral End Mill
-
-which is intended for use with the machine in the rotary tool once it is fully operational.
+1. Review the parts in your kit
+2. Read the [Pro Tips](tips.html)
+3. Install your [software](software.html)
+4. Test Your [Electronics](electronics.html)
+5. Review the [wiring options](wiring.html)
+6. Assemble your machine (see the side bar for assemblies)
+7. Run [Hello, World!](helloworld.html)
+8. Run your [First Job!](firstjob.html)
 
 
 ##Assembly Steps
