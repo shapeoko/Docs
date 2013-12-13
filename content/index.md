@@ -118,3 +118,19 @@ Your very first run!
 A basic introduction to using the machine for milling.
 
 ![first job](firstjob/mc_export_4.png)
+
+
+##Visual Parts Listing
+| [200mm makerslide](content/sketches/25142-07.png) |                                             | [5x16x5 bearing](content/sketches/25196-01) | [5x16x5 bearing](content/sketches/25196-01) | [5x16x5 bearing](content/sketches/25196-01) |
+|:               200mm Makerslide x 1              :| [5x16x5 bearing](content/sketches/25196-01) |                                             |                                             |                                             |
+|                                                   | 200mm Makerslide x 1                        |                                             |                                             |                                             |
+|---------------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|---------------------------------------------|
+|                                                   |                                             |                                             |                                             |                                             |
+|                                                   |                                             |                                             |                                             |                                             |
+|                                                   |                                             |                                             |                                             |                                             |
+|                                                   |                                             |                                             |                                             |                                             |
+|                                                   |                                             |                                             |                                             |                                             |
+|                                                   |                                             |                                             |                                             |                                             |
+|                                                   |                                             |                                             |                                             |                                             |
+|                                                   |                                             |                                             |                                             |                                             |
+|                                                   |                                             |                                             |                                             |                                             |
