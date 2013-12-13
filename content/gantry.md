@@ -28,11 +28,11 @@ The belt anchors must be assembled and placed on the MakerSlide before attaching
 
 The belts get routed through the belt clips by:
 
-1. passing them over the top, and then **down** through the back slot (closest to the screw).
+1. passing the belt **down** through the __back__ slot (closest to the screw).
 
 2. From the back slot, they go down, and then back **up** through the front slot.
 
-3. You only need about 12mm (1/2") of belting to lock the loops together
+3. You only need about 12mm (1/2") of belting through the front slot to lock the loops together
 
 4. Making sure the teeth mesh together will ensure a tight (slip free) fit.
 
