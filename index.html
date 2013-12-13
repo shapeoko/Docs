@@ -1,79 +1,39 @@
 <!doctype html>
 <html>
     <head>
+            <!--change the title for each page-->
             <title>Project Shapeoko</title>
-            <link href="shapeoko.css" rel="stylesheet" />
+            <!--include styles-->
             <link href='http://fonts.googleapis.com/css?family=Ubuntu:300,400,700' rel='stylesheet' type='text/css'>
-            <script src="js/markdown.js"></script>
+            <link href="shapeoko.css" rel="stylesheet" />
+
+            <!--include javascript-->
             <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+            <script src="js/markdown.js"></script>
+
     </head>
     <body>
-    
-    <script type="text/javascript">
-            var _gaq = _gaq || [];
-            _gaq.push(['_setAccount', 'UA-11630357-11']);
-            _gaq.push(['_setDomainName', 'shapeoko.com']);
-            _gaq.push(['_trackPageview']);
 
-            (function() {
-            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-            })();
-    </script>
+        <script>
+            //load the navbar
+            $("body").load("include.html");
+        </script>    
 
-    <div class="header">
+        <script>
+            $(document).ready(function(){
+                $.ajax({
+                  //change this path to the appropriate markdown file
+                  url:"content/index.md",
+                  dataType: "text",
+                  success: function(response){
+                      
+                      //here is the magic. convert markdown to html, inject it into content div
+                      $("#content").append(markdown.toHTML(response));
+                    }
+                });
 
-        <div class="left">
-          <a href="http://docs.shapeoko.com"><span class="toplink">Shapeoko 2</span></a>
-        </div>
-        <div class="right">
-          <ul>
-
-          </ul>                    
-        </div>
-    </div>
-    
-    <div id="wrapper">
-            <nav>        
-                    <dl>
-                            <dt><a href='index.html'>Welcome!</a></dt>
-                            <dt><a href='tips.html'>Pro Tips!</a></dt>
-                            <dt><a href='software.html'>Software</a></dt>
-                            <dt><a href='electronics.html'>Electronics</a></dt>
-                            <dt><a href='wheels.html'>Wheels + Idlers</a></dt>
-                            <dt><a href='carriages.html'>Carriages</a></dt>
-                            <dt><a href='zaxis.html'>Z-Axis</a></dt>
-                            <dt><a href='gantry.html'>Gantry</a></dt>
-                            <dt><a href='yaxis.html'>Y-Axis</a></dt>
-                            <dt><a href='workarea.html'>Work Area</a></dt>
-                            <dt><a href='wiring.html'>Electrical Wiring</a></dt>
-                            <dt><a href='helloworld.html'>Hello, World</a></dt>
-                            <dt><a href='firstjob.html'>First Job</a></dt>
-                    </dl>
-            </nav>
-            
-            <div id="contentWrapper">
-                <article id="content">
-                    <!--This is where the content gets rendered-->
-                </article>
-            </div><!--end contentWrapper-->
-        </div><!--end wrapper-->
-
-    <!--This is the script that loads the appropriate .md file-->
-    <script type="text/javascript">
-        $(document).ready(function(){
-            $.ajax({
-              url:"content/index.md",
-              dataType: "text",
-              success: function(response){
-                  $("#content").append(markdown.toHTML(response));
-                }
             });
+        </script>
 
-            //rename the page
-            document.title = 'Shapeoko 2 Documentation';
-        });
-    </script>
-</body>
+    </body>
 </html> 
