@@ -12,7 +12,7 @@ Please note that stepper motors can be wired up in many different ways and still
 
 ## Requirements
 
-![[image of required components](tPictures/so_electronics_parts_16.jpg)](tPictures/so_electronics_parts_4.jpg) 
+![image of required components](tPictures/so_electronics_parts_4.jpg) 
 
 * **Arduino with Grbl firmware** (contains an AVR processor, USB connector and I/O pins)
 * (Arduino) **gShield** (formerly GrblShield, takes the signals Grbl generates and drives the steppers. Small pots are used to adjust)
@@ -39,11 +39,11 @@ The terminal blocks use a combination screw which will accept either a Phillips 
 ##Connect Arduino
 Now that we have everything gathered up, you should find yourself with a setup similar to this:
 
-![[image of required components](tPictures/so_electronics_parts_16.jpg) ](tPictures/so_electronics_parts_4.jpg)  
+![image of required components](tPictures/so_electronics_parts_4.jpg)  
 
 First thing that we do is plug our Arduino into the computer.
 
-![[Arduino plugged into USB cable](tPictures/so_e_arduino_lit_16.jpg)](tPictures/so_e_arduino_lit_4.jpg)
+![Arduino plugged into USB cable](tPictures/so_e_arduino_lit_4.jpg)
 
 Remember, the big end of the cable goes into the Arduino. Loading the driver for the Arduino is documented in [Software](http://docs.shapeoko.com/software.html)
 
@@ -69,7 +69,7 @@ Start by cutting the grey wire to length (either equal thirds, or some proportio
 
 Next, strip all of the wire ends. The ends which will attach to the terminal block should be approximately 3/8" so as to be twisted into a hook so as to wrap around the terminal block screws. The other end of the grey wire should be stripped approximately 1/4" of an inch so as to fit into the gShield. Be careful of stripping too much and leaving wire unnecessarily exposed which could create the possibility of a short.
 
-![[Stripped wire](tPictures/so_e_wire_stripped_16.jpg)](tPictures/so_e_wire_stripped_4.jpg)
+![Stripped wire](tPictures/so_e_wire_stripped_4.jpg)
 
 Next, loosen up all the screws on one terminal block, then begin making connections by twisting the wire ends into hooks, hooking them onto the screws oriented so that the turning of the screw will tighten them and tighten the wire.
 
