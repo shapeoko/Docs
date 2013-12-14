@@ -69,6 +69,23 @@ You should now mount the belts on the belt anchors.
 * Tighten one end of each belt
 * Use some technique which allows you to tension the other end of each belt and tighten it down. (One method is to tie a length of cord around the open end plate and the Allen key while the latter is inserted into the belt anchor bolt, add a block of wood or plastic as a fulcrum near the top of the Allen key, tie a screwdriver or other tool into the cord's knot, twist the tool in the knot while holding down on the Allen key, then tighten the belt anchor bolt.)
 
+The belts get routed through the belt clips by:
+
+1. Passing the belt **down** through the __back__ slot (closest to the screw).
+
+2. From the back slot, they go down, and then back **up** through the front slot.
+
+3. You only need about 12mm (1/2") of belting through the front slot to lock the loops together.
+
+4. Making sure the teeth mesh together will ensure a tight (slip free) fit.
+
+![belt clip routing 1](belt-routing/62-so_wiring-061.jpg)
+
+![belt clip routing 2](belt-routing/67-so_wiring-066.jpg)
+
+
+## Last but not least
+
 You will also need to complete the wiring as documented in the next step.
 
 
