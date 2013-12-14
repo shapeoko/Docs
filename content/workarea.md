@@ -90,6 +90,6 @@ With the allen key inserted into the button head cap screw, adjust the screw so 
 ![belt tightening](belt-routing/63-so_wiring-062.jpg)
 ## Last but not least
 
-You will also need to complete the wiring as documented in the next step.
+You will also need to complete the wiring as documented in the [next step](wiring.html).
 
 
