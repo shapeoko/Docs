@@ -83,7 +83,11 @@ The belts get routed through the belt clips by:
 
 ![belt clip routing 2](belt-routing/67-so_wiring-066.jpg)
 
+##Tighten the belt
 
+With the allen key inserted into the button head cap screw, adjust the screw so it's **almost** tight. Then, gripping the allen key, pull it back towards the end plate so it's very tight, once it's tight, rotate the allen key clockwise to finish tightenting the screw. Like so:
+
+![belt tightening](belt-routing/63-so_wiring-062.jpg)
 ## Last but not least
 
 You will also need to complete the wiring as documented in the next step.
