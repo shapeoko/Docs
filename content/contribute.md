@@ -16,7 +16,7 @@ So you want to help by contributing to the documentation? Great! Our project was
 
 ###Forking - it's not as dirty as it sounds
 
-Forking means to copy the repository into your account. It's a little more awesome than just copying though. You are actually copying the **ENTIRE** repository, including all of the commit history. So you literally will have an identicle copy of the repository at the time you fork it. Cool right?
+Forking means to copy the repository into your account. It's a little more awesome than just copying though. You are actually copying the **ENTIRE** repository, including all of the commit history. So you literally will have an identical copy of the repository at the time you fork it. Cool right?
 
 ![forking](contribute/fork.png)
 
@@ -26,6 +26,7 @@ Forking means to copy the repository into your account. It's a little more aweso
 Once the repository is forked, you can go to town with edits. For our purposes, we will only be editing the markdown files. These are the files that end in .md. You will find these in the contents/ directory. 
 
 ![contents directory](contribute/contents_dir.png)
+
 Once you make your changes, and you want them to be part of the main docs.shapeoko.com page, all you have to do is issue a pull request.
 
 ###There are a couple ways to edit the files. 
@@ -51,4 +52,4 @@ From this page, you can review what changes you made, and submit a pull request 
 
 ##Bringing it all together
 
-Once the pull request has been submitted, it will be reviewed by a member of the Shapeoko team. We might just push it right through, or we might need to get back with you with some change requests before we can merge your content with the main repositories. But, either way, if you have content to add, we'll be happy to help you get it added.
+Once the pull request has been submitted, it will be reviewed by a member of the ShapeOko team. We might just push it right through, or we might need to get back with you with some change requests before we can merge your content with the main repositories. But, either way, if you have content to add, we'll be happy to help you get it added.

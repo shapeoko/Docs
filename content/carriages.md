@@ -5,9 +5,9 @@ Before beginning this section, please take a look at the wiring options page.
 
 * [Option \#1](wiring_1.html), needs no special attention at this step other than noting the motor orientations show in the steps below.
 * If you are going to use the terminal block method [option \#2](wiring_2.html), you will need to attach those terminal block in this step.
-* [Option \#3](wiring_3.html), although not necessary at this step, could make life easier to attach your arduino to the *right* Y axis motor mount plate.
+* [Option \#3](wiring_3.html), although not necessary at this step, could make life easier to attach your Arduino to the *right* Y axis motor mount plate.
 
-_see those specific options for more details_
+_See those specific options for more details._
 
 
 ## Overview

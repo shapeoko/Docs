@@ -2,7 +2,7 @@
 ## Overview
 ![schematic](sketches/electronics_layout.svg)
 
-The ShapeOko 2 electrical wiring is, like the rest of the machine, versatile. There are 3 known ways to wire the machine easily. Each option has been broken into a different page, for clarity. Depending on your setup, and skill set, one setup may be better for you than another. Chose your setup by evaluating the requirements of the process.
+The ShapeOko 2 electrical wiring is, like the rest of the machine, versatile. There are 3 documented options to wire the machine easily. Each option has been broken out into a separate page for clarity. Depending on your setup, and skill set, one option may be better for you than another. Chose your option by evaluating the requirements of your machine, how you intend to use it and your skill-set and available tools and aesthetic.
 
 ## Routing
 
@@ -13,7 +13,7 @@ In all scenarios, your stepper wires will be initially be routed as such:
 ---
 
 ## Option #1
-This is the direct wire method that requires (modest) soldering skills to complete. You can assemble the entire machine before doing this step.
+This is the direct wire method that requires (modest) soldering skills to complete (and stepper motors with leads long enough to make a run all the way off the machine). You can assemble the entire machine before doing this step.
 
 ###You will need the following tools and parts to complete this option
 

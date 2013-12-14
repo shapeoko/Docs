@@ -31,7 +31,7 @@ which is intended for use with the machine in the rotary tool once it is fully o
 ###Screw Sizes (lengths)
 
 
-For the most part, it's obvious which size screw is used for what, but the M5 10mm and 12mm BHCS (button head cap screws) are easily confused --- while it's not noticeable when the shorter 10mm length is used where one ought to use a 12mm, the 10mm screws are intended for use with MakerSlide insertion nuts and a 12mm screw is too long and will bottom out before beginning to hold anything in place.
+For the most part, it's obvious which size screw is used for what, but the M5 8mm and 12mm BHCS (button head cap screws) are easily confused with the 10mm length --- while it's not noticeable when the shorter 10mm length is used where one ought to use a 12mm, the 10mm screws are intended for use with MakerSlide insertion nuts and a 12mm screw is too long and will bottom out before beginning to hold anything in place.
 
 ----
 
@@ -39,12 +39,12 @@ For the most part, it's obvious which size screw is used for what, but the M5 10
 
 #####Taps Are Brittle - Don't drop them on a cement floor.
 
-The tap has to be harder than the material it's tapping. Because of that hardening, it's brittle, as in easily broken. You want to avoid breaking the tap like you would avoid getting the plague. Use a proper T-handle (like the one included with your kit) to turn the tap. Don't use a wrench, locking pliers, or a vice. yeah, those last three will work, but you'll be playing with fire.
+The tap has to be harder than the material it's tapping. Because of that hardening, it's brittle, as in easily broken. You want to avoid breaking the tap like you would avoid getting the plague. Use a proper T-handle (such as the one included with your kit) to turn the tap. Don't use a wrench, locking pliers, or a vice. Yeah, those last three will work, but you'll be playing with fire.
 
 
 #####Lubricate - a little bit will go a long way.
 
-Lubricating will reduce the amount of friction produced while tapping, making the tap handle easier to turn. It could also aid in chip removal as there will be less friction keeping the chips in. You can use tapping fluid, motor oil, WD-40, butter, PAM, water, etc., or basically anything that's wet. You won't need a lot of whatever you chose. Whatever you choose, be careful to clean it up afterwards, especially if it's water-based which might create the possibility of corrosion.
+Lubricating will reduce the amount of friction produced while tapping, making the tap handle easier to turn. It could also aid in chip removal as there will be less friction keeping the chips in. You can use tapping fluid, motor oil, WD-40, butter, PAM, water, etc., or basically anything that's wet. You won't need a lot of whatever you chose. Whatever you choose, be careful to clean it up afterwards, especially if it's water-based which might create the possibility of corrosion, or oily which will stain the wasteboard.
 
 
 #####Take Your Time - this is not a race.
@@ -60,4 +60,4 @@ Take a look at your tap. It's not like a screw where the threads go all the way 
 Anyway, the flutes keep the chips out of the way so the teeth can keep cutting. Once you feel some resistance, you need to reverse the tap until you feel those chips clear. In some cases (towards the end of the tap) you'll need to reverse it all the way out, clean the tap (just brush off the chips), and then go at it again. The smaller the tap, the easier it is to break. Your tap is an M5 x 0.8mm tap. That's not the smallest tap in the world, but it's not very big either. So, be careful!
 
 
-The awesome news is that you can hone your tapping skillz (with a z!) by practicing on the Z-axis makerslide (the short one that measures 200mm). We only need 1 end of that piece tapped, so if you were to make a mistake while learning, no big deal. Just flip the piece over and use the other side. But, you only get 2 practice holes! Use them wisely.
+The awesome news is that you can hone your tapping skillz (with a z!) by practicing on the Z-axis MakerSlide (the short one that measures 200mm). We only need 1 end of that piece tapped, so if you were to make a mistake while learning, no big deal. Just flip the piece over and use the other side. But, you only get 2 practice holes! Use them wisely.

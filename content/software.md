@@ -54,7 +54,7 @@ As noted above, Grbl is pre-installed on Arduinos purchased from Inventables as 
 [grbl v0.8c atmega328p 16mhz 9600.hex](https://github.com/downloads/grbl/grbl/grbl\_v0\_8c\_atmega328p\_16mhz\_9600.hex)
 
 
-If that link isn't working, you can fine the original file here: 
+If that link isn't working, you can find the original file here: 
 
 * [github.com/grbl/grbl/downloads](https://github.com/grbl/grbl/downloads)
 
