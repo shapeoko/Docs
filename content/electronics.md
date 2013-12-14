@@ -6,13 +6,13 @@ Before we get all crazy bolting our new machine together, let's give our electro
 
 For reference, the image below shows the concept of wiring Shapeoko 2.
 
-[![Generic electronics layout](sketches/electronics_layout.svg)](sketches/electronics_layout.svg)
+[![Generic electronics layout](sketches/electronics_layout.svg)](content/sketches/electronics_layout.svg)
 
 Please note that stepper motors can be wired up in many different ways and still function, though the motors may turn in the reverse of the desired direction (stepper motors are reversed by swapping pairs of wires). The diagram shows one such method and the photos which follow may show other methods. The important thing is to follow one consistent technique when wiring the machine initially, then if need be, one can alter the wiring to achieve the desired direction of rotation.
 
 ## Requirements
 
-[![image of required components](tPictures/so_electronics_parts_16.jpg)](tPictures/so_electronics_parts_4.jpg) 
+![image of required components](tPictures/so_electronics_parts_4.jpg) 
 
 * **Arduino with Grbl firmware** (contains an AVR processor, USB connector and I/O pins)
 * (Arduino) **gShield** (formerly GrblShield, takes the signals Grbl generates and drives the steppers. Small pots are used to adjust)

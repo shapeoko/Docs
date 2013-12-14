@@ -25,7 +25,7 @@ The belts which the stepper motors drive the X- and Y-axes  require smooth idler
 
 * one M5 bolt to align the pieces during assembly
 
-[![V-Wheel Assembly](tPictures/25203-02_16.png)](tPictures/25203-02_4.png)
+[![V-Wheel Assembly](tPictures/25203-02_16.png)](content/tPictures/25203-02_4.png)
 
 ###Assemble all of the V-Wheels (20 wheels total)
 1. Take one ball bearing, and insert it into the Delrin V-Wheel
@@ -39,7 +39,7 @@ The belts which the stepper motors drive the X- and Y-axes  require smooth idler
 
 The precision washer in the wheel assemblies may get off-center while storing them --- if this happens, use a small tool to re-center them.
 
-[![Idler Wheel Assembled](tPictures/so_v_wheel_4.jpg)](tPictures/so_v_wheel_4.jpg)
+![Idler Wheel Assembled](tPictures/so_v_wheel_4.jpg)
 
 Alternate, assembly-line procedure for the V-Wheels:
 
@@ -63,7 +63,7 @@ Alternate, assembly-line procedure for the V-Wheels:
 
 * one M5 bolt to align the pieces during assembly
 
-![Smooth Idler Assembly](tPictures/25197-02_4.png)
+[![Smooth Idler Assembly](tPictures/25197-02_4.png)](content/tPictures/25197-02_16.png)
 
 ###Assemble all of the smooth idlers (6 idlers total)
 
