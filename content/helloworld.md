@@ -1,8 +1,8 @@
 ##Getting Set Up
 
-At this point, we should have a fully assembled machine, capable of making amazing things. BUT, first, we need make sure everything is in good working order.  To achieve that, we're going to run a job, that we in the Shapeoko community call "Hello, World". When it's finished, it will look like this:
+At this point, we should have a fully assembled machine, capable of making amazing things. BUT, first, we need make sure everything is in good working order.  To achieve that, we're going to run a job, that we in the ShapeOko community call "Hello, World". When it's finished, it will look like this:
 
-![successfull job](http://placehold.it/800x400&text=image+of+successfull+job)
+[![successful job](tpictures/so_2_helloworld_two_4.jpg)]((tpictures/content/tpictures/so_2_helloworld_two_16.jpg))
 
 Before we begin, let's make sure we are ready to go:
 
@@ -37,7 +37,7 @@ With the machine turned off, move your gantry to the front left corner of the pa
 
 ##Attach Sharpie
 
-Using a piece of tape, affix your sharpie to the z-axis spindle carriage assembly. (Optionally you can mount the pen in-between two blocks of material which have matching grooves on them).
+Using a piece of tape, affix your sharpie to the z-axis spindle carriage assembly. (Optionally you can mount the pen in-between two blocks of material which have matching grooves on them --- see the hello world at the top of this page.).
 
 ![Taped Sharpie](http://placehold.it/800x400&text=image+of+taped+sharpie+to+z+gantry)
 
@@ -136,4 +136,4 @@ OK, now we're ready. Take a deep breath (this is going to be amazing) and click 
 
 Your machine will now run the hello world job. Keep close to your computer, and be aware of how to quickly disconnect the power from your machine in case of an emergency situation.
 
-![Finished Job](http://placehold.it/800x400&text=result)
+[![Finished job](tpictures/so_2_helloworld_two_4.jpg)]((tpictures/content/tpictures/so_2_helloworld_two_16.jpg))
