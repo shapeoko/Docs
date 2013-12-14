@@ -12,7 +12,7 @@ Please note that stepper motors can be wired up in many different ways and still
 
 ## Requirements
 
-![image of required components](tPictures/so_electronics_parts_4.jpg) 
+![[image of required components](tPictures/so_electronics_parts_16.jpg)](tPictures/so_electronics_parts_4.jpg) 
 
 * **Arduino with Grbl firmware** (contains an AVR processor, USB connector and I/O pins)
 * (Arduino) **gShield** (formerly GrblShield, takes the signals Grbl generates and drives the steppers. Small pots are used to adjust)
@@ -39,11 +39,11 @@ The terminal blocks use a combination screw which will accept either a Phillips 
 ##Connect Arduino
 Now that we have everything gathered up, you should find yourself with a setup similar to this:
 
-![image of required components](tPictures/so_electronics_parts_4.jpg)  
+![[image of required components](tPictures/so_electronics_parts_16.jpg) ](tPictures/so_electronics_parts_4.jpg)  
 
 First thing that we do is plug our Arduino into the computer.
 
-![Arduino plugged into USB cable](tPictures/so_e_arduino_lit_4.jpg)
+![[Arduino plugged into USB cable](tPictures/so_e_arduino_lit_16.jpg)](tPictures/so_e_arduino_lit_4.jpg)
 
 Remember, the big end of the cable goes into the Arduino. Loading the driver for the Arduino is documented in [Software](http://docs.shapeoko.com/software.html)
 
@@ -62,14 +62,14 @@ The first step is to plug the Arduino into the gShield. The Arduino will run Grb
 You will need to connect the gShield to the terminal blocks (using the 4 conductor grey wire) and the terminal blocks to the motors. If you have very long wires coming off of the stepper motors you will have the option of choosing where the terminal blocks are placed, either on the gantry, or connected to the electronics. If the wires are short, then the terminal blocks will need to be attached to the gantry. On the gantry minimizes the wear and tear on the motor leads, limiting it to the 4 conductor grey wire (this is easily sourced at any home improvement store), while hiding the terminal blocks away provides for a neater appearance.
 
 ![Stepper motor, terminal block, screwdriver](tPictures/so_e_stepper_motor_tb_2.jpg) ![Stripped wires](tPictures/so_e_wire_stripped_2.jpg)
-![Stepper motor connected to terminal block, connected to grey wire](tPictures/so_e_steppermotor_tb_wir_2.jpg) ![Wiring Y-Axis motors to terminal block](tPictures/so_e_steppermotor_tb_y_2.jpg) ![Stepper motors and terminal blocks wired up](tPictures/so_e_steppermotors_wi_a_2.jpg) ![Open connector on gShield](tPictures/so_e_arduino_open_2.jpg) ![Arduino, gShield, terminal blocks, wiring, stepper motors](tPictures/so_e_arduino_usb_2.jpg) ![image of required components](tPictures/so_e_arduino_wired_lit_2.jpg)
+![Stepper motor connected to terminal block, connected to grey wire](tPictures/so_e_steppermotor_tb_wired_2.jpg) ![Wiring Y-Axis motors to terminal block](tPictures/so_e_steppermotor_tb_y_2.jpg) ![Stepper motors and terminal blocks wired up](tPictures/so_e_steppermotors_wi_a_2.jpg) ![Open connector on gShield](tPictures/so_e_arduino_open_2.jpg) ![Arduino, gShield, terminal blocks, wiring, stepper motors](tPictures/so_e_arduino_usb_2.jpg) ![image of required components](tPictures/so_e_arduino_wired_lit_2.jpg)
 
 
 Start by cutting the grey wire to length (either equal thirds, or some proportion which takes into account the wire for the Y-axis having a slightly shorter run than the X- and Z-axes.
 
 Next, strip all of the wire ends. The ends which will attach to the terminal block should be approximately 3/8" so as to be twisted into a hook so as to wrap around the terminal block screws. The other end of the grey wire should be stripped approximately 1/4" of an inch so as to fit into the gShield. Be careful of stripping too much and leaving wire unnecessarily exposed which could create the possibility of a short.
 
-![Stripped wire](tPictures/so_e_wire_stripped_4.jpg)
+![[Stripped wire](tPictures/so_e_wire_stripped_16.jpg)](tPictures/so_e_wire_stripped_4.jpg)
 
 Next, loosen up all the screws on one terminal block, then begin making connections by twisting the wire ends into hooks, hooking them onto the screws oriented so that the turning of the screw will tighten them and tighten the wire.
 
@@ -80,7 +80,7 @@ Make all connections in the same colour order. Shown is:
 * Green
 * Black
 
-![Stepper motor connected to terminal block, connected to grey wire](tPictures/so_e_steppermotor_tb_wired_.jpg)
+![Stepper motor connected to terminal block, connected to grey wire](tPictures/so_e_steppermotor_tb_wired_4.jpg)
 
 Since the ShapeOko 2 uses two motors on the Y-Axis and the gShield only has 3 stepper drivers, it is necessary to wire the two motors to one terminal block as shown below. Note that it is necessary to reverse one pair of wires so that the motors will run in opposite directions when placed on the gantry in opposite orientations.
 

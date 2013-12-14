@@ -68,6 +68,8 @@ Anyway, the flutes keep the chips out of the way so the teeth can keep cutting. 
 
 The awesome news is that you can hone your tapping skillz (with a z!) by practicing on the Z-axis MakerSlide (the short one that measures 200mm). We only need 1 end of that piece tapped, so if you were to make a mistake while learning, no big deal. Just flip the piece over and use the other side. But, you only get 2 practice holes! Use them wisely.
 
+---
+
 ###MakerSlide
 
 [MakerSlide](http://www.shapeoko.com/wiki/index.php/Makerslide) is a system consisting of:
