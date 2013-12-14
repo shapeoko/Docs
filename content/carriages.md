@@ -65,15 +65,15 @@ These are the plates that will mount on either end of the gantry and on the rear
 ![exploded view of Motor Mount Carriages](tPictures/PS20022_4.png)
 
 1. Connect V-Wheels to the plate
-	- two static at the top
-	- two eccentric at the bottom
+	- two static at the top (using M5 Hex Nuts)
+	- two eccentric at the bottom in the larger holes (using Eccentric Nuts)
 2. Connect the smooth idlers to plate
-	- two total
+	- two total, these will need an aluminum spacer (**Note:** You may want to sandwich the spacer in between two washers, rather than placing both washers against the plate as shown.)
 	- take note of the orientation of the bolt
 	- take note of the orientation of the bearings/idler
 3. Attach your stepper motor
 	- Using 4 x M3x6mm SHCS, attach the stepper motor
-	- Use an M3 washer between the SHCS and the plate
+	- Use an M3 washer between the SHCS and the plate (**Note:** You may need more than one per washer, depending upon bolt length and the depth of the threads in the motor. Use an equal number of washers per motor. Be careful not to strip out the threads in the motor.) When you tighten the motor into place, do so in an X pattern. You want the face of the motor to be equally tight against the plate.
 
 ![Assembled Motor Mount Carriages](tPictures/so_motor_mount_carriage_4.jpg)
 

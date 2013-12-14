@@ -60,7 +60,7 @@ This is the plate the Z-axis will attach to (it is identical to the Motor Mount 
 
 ![exploded view of Spindle Carriage Assembly](tPictures/PS20029_4.png)
 
-Place the V-wheels and the Delrin Lead nut (for the Z-axis Rail Assembly) on one side of the Spindle Mount Plate and the Universal Spindle Mount Straps on the other. The Eccentric Nuts go in the larger holes.
+Place the V-wheels and the Delrin Lead nut (for the Z-axis Rail Assembly) on one side of the Spindle Mount Plate and the Universal Spindle Mount Straps on the other. The Eccentric Nuts go in the larger holes. **Note:** Be certain to use the aluminum spacers and ensure that all V-wheels are vertically aligned with each other.
 
 ##Z-Axis Rail Assembly (PS20028)
 
@@ -105,7 +105,7 @@ Assemble this from the inside out, starting with the smallest pieces and attachi
 
 ###Threaded Rod
 
-![](tPictures/so_z_axis_dimensions_4.jpg)
+![threaded rod, flexible coupler and nuts shown with ruler](tPictures/so_z_axis_dimensions_4.jpg)
 
 Compare the threaded rod (PS20011) to the assembly thread on one M8 Hex Nut (PS20007) far enough down to allow room for the flanged bearing, a second hex nut and for the  threaded rod to be just short of half-way into the flexible coupler. Before tightening things, ensure that the motor shaft will also fit just short of half-way into the flexible coupler.
 
@@ -121,10 +121,10 @@ Tighten everything.
 
 ###Z-Axis
 
-![](tPictures/PS20030_2.png)
-![](tPictures/so_z_axis_bolts_washers_nuts_2.jpg)
-![](tPictures/so_assembly_pre_gantry_carriage_2.jpg)
-![](tPictures/so_assembly_gantry_carriage_2.jpg)
+![exploded view of Z-axis](tPictures/PS20030_2.png)
+![bolts, washers and insertion nuts](tPictures/so_z_axis_bolts_washers_nuts_2.jpg)
+![sub-assemblies shown with hardware](tPictures/so_assembly_pre_gantry_carriage_2.jpg)
+![two Z-axis sub-assemblies](tPictures/so_assembly_gantry_carriage_2.jpg)
 
 - 1 PS20021 Z-Assembly Carriage
 - 1 PS20028 Z-Axis Rail Assembly
@@ -135,9 +135,11 @@ Tighten everything.
 
 Insert the 10mm M5 bolts with an M5 washer into the Z-Assembly Carriage (PS20021) from the side the V-wheels are on, thread on the M5 insertion nuts, then slide the Z-Axis Rail Assembly (PS20028) onto the nuts, align and center the assemblies and tighten.
 
-![](tPictures/PS20030_4.png)
+![exploded view of Z-axis](tPictures/PS20030_4.png)
 
-Turn the eccentric nuts on the Spindle Carriage Assembly (PS20029) so that they move the matching V-wheels as far as possible from the opposing static V-wheels. Slide the Spindle Carriage Assembly onto the Z-Axis Rail Assembly and turn the threaded rod using the flexible coupler so that the V-wheels are completely on the MakerSlide V-rail. Be careful not to nick or damage the Delrin V-wheels.
+Turn the eccentric nuts on the Spindle Carriage Assembly (PS20029) so that they move the matching V-wheels as far as possible from the opposing static V-wheels. Slide the Spindle Carriage Assembly onto the Z-Axis Rail Assembly, match it up with the Delrin Lead nut and turn the threaded rod using the flexible coupler, bring the Spindle Carriage Assembly up so that the V-wheels are completely on the MakerSlide V-rail. Be careful not to nick or damage the Delrin V-wheels, or to cross-thread the Delrin Lead nut.
+
+**Note:** Check to see that the threaded rod runs smoothly on the Delrin Lead nut --- if it doesn't, run the nut along the rod until it does. Using a drill is one option, or one could attach the threaded rod temporarily to a motor (connect all other motors as well) and jog it up and down using grbl.
 
 ##Sub Gantry (PS20023)
 

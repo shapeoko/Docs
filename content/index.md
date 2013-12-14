@@ -6,7 +6,7 @@
 
 Thank you for supporting Project Shapeoko, an opensource CNC machine which may be used for milling, lasercutting, 3D printing, cutting fabric, &c. The work area is approximately 12" x 12" x 3.5" and precision is dependent upon the belts, pulleys, motors and electronics which are selected (for the default SO2, that is 1/40th of a mm along X and Y, 1/320th of a mm along Z ([ShapeOko 2 Grbl Configuration page](http://www.shapeoko.com/wiki/index.php/Grbl_Configuration)). ShapeOko is named after the **Shape**ways 3D printing and the Pon**oko** laser cutting services and was initially launched on [Kickstarter](http://www.kickstarter.com/projects/edwardrford/project-shapeoko-a-300-complete-cnc-machine?ref=live).
 
-The following pages are filled with all the information you need to assemble your Shapeoko 2 desktop CNC machine.  If you have any difficulties with assembly, please check the ShapeOko [wiki](http://www.shapeoko.com/wiki) and [forums](http://www.shapeoko.com/forum/index.php).
+The following pages are filled with the information you need to assemble your Shapeoko 2 desktop CNC machine. Please read through them in advance, and make note of things to check and verify before beginning assembly. If you have any difficulties with assembly, please check the ShapeOko [wiki](http://www.shapeoko.com/wiki) and [forums](http://www.shapeoko.com/forum/index.php).
 
 ###Overview
 
