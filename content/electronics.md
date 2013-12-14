@@ -12,7 +12,7 @@ Please note that stepper motors can be wired up in many different ways and still
 
 ## Requirements
 
-![image of required components](tPictures/so_electronics_parts_4.jpg) 
+[![image of required components](tPictures/so_electronics_parts_16.jpg)](tPictures/so_electronics_parts_4.jpg) 
 
 * **Arduino with Grbl firmware** (contains an AVR processor, USB connector and I/O pins)
 * (Arduino) **gShield** (formerly GrblShield, takes the signals Grbl generates and drives the steppers. Small pots are used to adjust)
