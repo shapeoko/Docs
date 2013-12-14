@@ -12,7 +12,7 @@ In all scenarios, your stepper wires will be initially be routed as such:
 
 ---
 
-## Option #1
+## Option #1 - Soldering
 This is the direct wire method that requires (modest) soldering skills to complete (and stepper motors with leads long enough to make a run all the way off the machine). You can assemble the entire machine before doing this step.
 
 ###You will need the following tools and parts to complete this option
@@ -28,7 +28,7 @@ This is the direct wire method that requires (modest) soldering skills to comple
 [click here to view these instructions](wiring_1.html)
 
 
-## Option #2
+## Option #2 - Terminal Blocks
 This is the terminal block method. This method is pretty easy, but requires that you make some preparations **WHILE** you are assembling the machine.
 
 ###You will need the following tools and parts to complete this option
@@ -44,7 +44,7 @@ This is the terminal block method. This method is pretty easy, but requires that
 
 [click here to view these instructions](wiring_2.html)
 
-## Option #3 
+## Option #3 - Experimental!
 This is the 'mount the controller on the machine' method. It's experimental, it's untested, it's **hot**. You can assemble the entire machine before doing this step. If you venture down this path, you're an explorer, and may be on your own. It might be worth it.
 
 ![mtcotm](wiring/68-so_wiring-067.jpg)
