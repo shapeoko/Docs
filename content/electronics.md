@@ -25,7 +25,8 @@ Please note that stepper motors can be wired up in many different ways and still
 
 ## Tools
 
-![Tools](tPictures/e_test_tools_1.jpg)![Tools](tPictures/e_test_tools_2.jpg)
+![Tools](tPictures/e_test_tools_1.jpg)
+![Tools](tPictures/e_test_tools_2.jpg)
 
 * Screw Driver 2.0mm blade
 * razor blade
@@ -61,8 +62,14 @@ The first step is to plug the Arduino into the gShield. The Arduino will run Grb
 
 You will need to connect the gShield to the terminal blocks (using the 4 conductor grey wire) and the terminal blocks to the motors. If you have very long wires coming off of the stepper motors you will have the option of choosing where the terminal blocks are placed, either on the gantry, or connected to the electronics. If the wires are short, then the terminal blocks will need to be attached to the gantry. On the gantry minimizes the wear and tear on the motor leads, limiting it to the 4 conductor grey wire (this is easily sourced at any home improvement store), while hiding the terminal blocks away provides for a neater appearance.
 
-![Stepper motor, terminal block, screwdriver](tPictures/so_e_stepper_motor_tb_2.jpg) ![Stripped wires](tPictures/so_e_wire_stripped_2.jpg)
-![Stepper motor connected to terminal block, connected to grey wire](tPictures/so_e_steppermotor_tb_wired_2.jpg) ![Wiring Y-Axis motors to terminal block](tPictures/so_e_steppermotor_tb_y_2.jpg) ![Stepper motors and terminal blocks wired up](tPictures/so_e_steppermotors_wi_a_2.jpg) ![Open connector on gShield](tPictures/so_e_arduino_open_2.jpg) ![Arduino, gShield, terminal blocks, wiring, stepper motors](tPictures/so_e_arduino_usb_2.jpg) ![image of required components](tPictures/so_e_arduino_wired_lit_2.jpg)
+![Stepper motor, terminal block, screwdriver](tPictures/so_e_stepper_motor_tb_2.jpg)
+![Stripped wires](tPictures/so_e_wire_stripped_2.jpg)
+![Stepper motor connected to terminal block, connected to grey wire](tPictures/so_e_steppermotor_tb_wired_2.jpg)
+![Wiring Y-Axis motors to terminal block](tPictures/so_e_steppermotor_tb_y_2.jpg)
+![Stepper motors and terminal blocks wired up](tPictures/so_e_steppermotors_wi_a_2.jpg)
+![Open connector on gShield](tPictures/so_e_arduino_open_2.jpg)
+![Arduino, gShield, terminal blocks, wiring, stepper motors](tPictures/so_e_arduino_usb_2.jpg)
+![image of required components](tPictures/so_e_arduino_wired_lit_2.jpg)
 
 
 Start by cutting the grey wire to length (either equal thirds, or some proportion which takes into account the wire for the Y-axis having a slightly shorter run than the X- and Z-axes.

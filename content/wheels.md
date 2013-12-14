@@ -25,7 +25,7 @@ The belts which the stepper motors drive the X- and Y-axes  require smooth idler
 
 * one M5 bolt to align the pieces during assembly
 
-[![V-Wheel Assembly](tPictures/25203-02_16.png)](content/tPictures/25203-02_4.png)
+[![V-Wheel Assembly](tPictures/25203-02_4.png)](content/tPictures/25203-02_16.png)
 
 ###Assemble all of the V-Wheels (20 wheels total)
 1. Take one ball bearing, and insert it into the Delrin V-Wheel
