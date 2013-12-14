@@ -24,7 +24,7 @@ Slide Entire  Assembly over wasteboard Assembly, fasten with:
 - M5 washer
 - Insertion Nut
 
-![exploded view of assembly step](tPictures/PS20024_4.png)
+[![exploded view of wasteboard and extrusion assembly](tPictures/PS20024_4.png)](content/tPictures/PS20024_16.png)
 
 ## Assemble the Frame
 

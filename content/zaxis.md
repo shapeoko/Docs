@@ -28,7 +28,7 @@ The Z-axis assembly is comprised of several sub-assemblies. When assembling it, 
 
 This is the plate the Z-axis will attach to (it is identical to the Motor Mount Carriage (PS20022) assembled in the previous step, but without smooth idlers. It sits on the front of the gantry and will be connected to the X-axis motor mount plate via rigid aluminum spacers. We will build the plate first, and then attach the two together.
 
-![exploded view of Z Assembly Carriage](tPictures/PS20021_4.png)
+[![exploded view of Z Assembly Carriage](tPictures/PS20021_4.png)](content/tPictures/PS20021_16.png)
 
 1. Connect V-Wheels to plate
 	- two static at the top
@@ -60,7 +60,7 @@ This is the plate the Z-axis will attach to (it is identical to the Motor Mount 
 - 2 PS20013 Universal Spindle Mount strap
 - 4 PS20005 M5 x 45mm, SHCS
 
-![exploded view of Spindle Carriage Assembly](tPictures/PS20029_4.png)
+[![exploded view of Spindle Carriage Assembly](tPictures/PS20029_4.png)](content/tPictures/PS20029_16.png)
 
 Place the V-wheels and the Delrin Lead nut (for the Z-axis Rail Assembly) on one side of the Spindle Mount Plate and the Universal Spindle Mount Straps on the other. The Eccentric Nuts go in the larger holes. **Note:** Be certain to use the aluminum spacers and ensure that all V-wheels are vertically aligned with each other.
 
@@ -101,7 +101,7 @@ One should also attach the motor for the Z-axis at this time.
 
 **Note:** Depending on how deeply tapped on the stepper motor and how long the threads are on the brass standoffs, it may be necessary to add additional M3 washers when attaching the motor using the brass standoffs.
 
-![exploded view of Z-Axis Rail Assembly](tPictures/PS20028_4.png)
+[![exploded view of Z-Axis Rail Assembly](tPictures/PS20028_4.png)](content/tPictures/PS20028_16.png)
 
 Assemble this from the inside out, starting with the smallest pieces and attaching them to the bottom Z-Axis Motor Mount Plate --- slide the 12mm M3 screws through the appropriate holes, then stack the Nylon Spacers (PS20015), then place the wavy washer onto the flanged bearing, insert that into the second Z-axis Motor Mount Plate, insert the two M5 bolts, add the last two Nylon Spacers and slide the top and bottom Z-axis Motor Mount Plates together. Loosely thread on the brass M3 standoffs. Place the Z-axis Shim Plate on top of the Z Axis Rail (200mm MakerSlide) and attach it using the M5 bolts.
 
@@ -143,7 +143,7 @@ If the flexible coupler doesn't securely grip the threaded rod, wrapping the rod
 
 Insert the 10mm M5 bolts with an M5 washer into the Z-Assembly Carriage (PS20021) from the side the V-wheels are on, thread on the M5 insertion nuts, then slide the Z-Axis Rail Assembly (PS20028) onto the nuts, align and center the assemblies and tighten.
 
-![exploded view of Z-axis](tPictures/PS20030_4.png)
+[![exploded view of Z-axis](tPictures/PS20030_4.png)](content/tPictures/PS20030_16.png)
 
 Turn the eccentric nuts on the Spindle Carriage Assembly (PS20029) so that they move the matching V-wheels as far as possible from the opposing static V-wheels. Slide the Spindle Carriage Assembly onto the Z-Axis Rail Assembly, match it up with the Delrin Lead nut and turn the threaded rod using the flexible coupler, bring the Spindle Carriage Assembly up so that the V-wheels are completely on the MakerSlide V-rail. Be careful not to nick or damage the Delrin V-wheels, or to cross-thread the Delrin Lead nut.
 
@@ -169,7 +169,7 @@ Turn the eccentric nuts on the Spindle Carriage Assembly (PS20029) so that they 
 
 If possible, select a Motor Mount Carriage (PS20022) which has a stepper motor attached. 
 
-![](tPictures/PS20031_4.png)
+[![exploded view of sub gantry](tPictures/PS20031_4.png)](content/tPictures/PS20031_16.png)
 
 Place washers on the M5 x 70 mm SHCS (PS20006) and place them in the outer holes of the Z-Assembly Carriage (PS20021) from the side opposite the V-wheels. Place one each of the Aluminum Spacers (25312-20 and PS20002) on each bolt, place the Motor Mount Carriage (PS20022) onto the bolts and attach using an M5 washer and M5 hex nut.
 

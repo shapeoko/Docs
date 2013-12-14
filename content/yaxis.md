@@ -18,8 +18,7 @@
 * Belt Clip Assembly PS20020 
 * X/Y Axis Rail - MakerSlide Extrusion - 500mm PS20008
 
-
-![exploded view of End Plates](tPictures/PS20026_4.png) 
+[![exploded view of End Plates](tPictures/PS20026_4.png)](content/tPictures/PS20026_16.png)
 
 Attach one end plate to each piece of MakerSlide using the 12mm M5 bolts and an M5 washer.
 

@@ -62,7 +62,7 @@ It might be easier and more straight-forward to assemble all four of them to mat
 
 These are the plates that will mount on either end of the gantry and on the rear of the X-Axis.
 
-![exploded view of Motor Mount Carriages](tPictures/PS20022_4.png)
+[![exploded view of Motor Mount Carriages](tPictures/PS20022_4.png)](content/tPictures/PS20022_16.png)
 
 1. Connect V-Wheels to the plate
 	- two static at the top (using M5 Hex Nuts)
