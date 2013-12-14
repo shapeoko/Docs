@@ -8,7 +8,7 @@ The assembly instructions have these two steps separated. The first step is for 
 
 ###Tools
 
-Only basic tools are required to assemble the Shapeoko 2. The following tools are included with the full kits [sold through inventables.com](https://www.inventables.com/technologies/desktop-cnc-mill-kit-shapeoko-2). If you are rolling your own full kit (you bought the mechanical kit), use the following list as a guideline for what you will need to assemble the machine.
+Only basic tools are required to assemble the Shapeoko 2. The following tools are included with the full kits [sold through inventables.com](https://www.inventables.com/technologies/desktop-cnc-mill-kit-shapeoko-2). If you are rolling your own full kit (you bought the mechanical kit), use the following list as a guideline for [what you will need to assemble the machine](http://www.shapeoko.com/wiki/index.php/Tools).
 
 ![image of tools spread out](tPictures/tool_kit.jpg)
 
@@ -61,3 +61,13 @@ Anyway, the flutes keep the chips out of the way so the teeth can keep cutting. 
 
 
 The awesome news is that you can hone your tapping skillz (with a z!) by practicing on the Z-axis MakerSlide (the short one that measures 200mm). We only need 1 end of that piece tapped, so if you were to make a mistake while learning, no big deal. Just flip the piece over and use the other side. But, you only get 2 practice holes! Use them wisely.
+
+###MakerSlide
+
+[MakerSlide](http://www.shapeoko.com/wiki/index.php/Makerslide) is a system consisting of:
+
+- 20x40mm aluminum extrusion profile with a built in V-rail
+- Delrin "V" wheels that ride on the V-rail
+- Plates and hardware to put it together
+
+Extrusion profiles and other CAD data are available at [makerslide.com](http://www.makerslide.com/).
