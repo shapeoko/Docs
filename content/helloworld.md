@@ -23,7 +23,7 @@ If you answered yes to all 4 questions above, then let's proceed.
 
 ##Download Files
 
-Download [this file](http://docs.shapeoko.com/helloworld2.nc) and save it somewhere to your computer that you will remember, e.g., the Desktop or your Documents folder.
+Download [this file](http://docs.shapeoko.com/content/helloworld/helloworld2.nc) and save it somewhere to your computer that you will remember, e.g., the Desktop or your Documents folder.
 
 [![Hello, World](helloworld/file.png)](http://docs.shapeoko.com/content/helloworld/helloworld2.nc)
 
