@@ -4,9 +4,9 @@
 ![V-Wheel Assembled](tPictures/so_v_wheel_2.jpg)
 ![Smooth Idler Wheel Assembled](tPictures/so_smooth_idler_2.jpg)
 
-Makerslide uses V-wheels to allow for movement along the rails which it affords.
+The V-Wheels and Makerslide work together to hold components of the machine in alignment and allow them to move only along an axis (linear motion). When assembling the wheels, a precision washer (1mm thick) goes between the bearings. The precision washers are specced to be 1mm thick and provide a surface for the races to contact, keeping everything tight. 
 
-The belts which the stepper motors drive the X- and Y-axes which require smooth idlers to route the belts so that they are held against the pulleys on the motor shafts.
+The belts which the stepper motors drive the X- and Y-axes  require smooth idlers to route the belts so that they are held against the pulleys on the motor shafts.
 
 ##V-Wheels
 
@@ -32,8 +32,12 @@ The belts which the stepper motors drive the X- and Y-axes which require smooth 
 2. Using one of the M5 x 20mm BHCS, slide the wheel over the screw
 3. Slide a single precision washer around the screw
 4. Slide another bearing around the screw
-5. Using your thumbs, squeeze the assembly together. There will be a bit of friction getting the bearings settled into the wheel. When you tighten the wheel to the plate, you will squeeze the entire thing together tightly.
+5. Using your thumbs, squeeze the assembly together. There will be a bit of friction getting the bearings settled into the wheel. These are force fit tolerances so you might have to push hard. When you tighten the wheel to the plate, you will squeeze the entire thing together tightly.
 6. Repeat this procedure for the remaining V-Wheels (20 total)
+
+**Note:** You may want to consider marking the precision washers with a marker. If you run in to problems, the M5 Flat Washers and these precision washers are almost indistinguishable and very easy to mix up. If you mark them from the start, this shouldn't happen.
+
+The precision washer in the wheel assemblies may get off-center while storing them --- if this happens, use a small tool to re-center them.
 
 ![Idler Wheel Assembled](tPictures/so_v_wheel_4.jpg)
 
