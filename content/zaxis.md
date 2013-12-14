@@ -7,6 +7,8 @@
 
 The Z-axis assembly is comprised of several sub-assemblies. When assembling it, it is best to select a Motor Mount Carriage (PS20022) which already has a stepper motor in place.
 
+**Note:** You will need to have at least your Z-axis MakerSlide tapped before completing this step. It is probably best to begin tapping well in advance of needing parts, so as to ensure that one works slowly, carefully and patiently at tapping, especially if one initially lacks experience tapping.
+
 ##Z Assembly Carriage (PS20021)
 
 ![exploded view of Z Assembly Carriage](tPictures/PS20021_2.png)
@@ -118,6 +120,12 @@ Slip the threaded rod through the flanged bearing, thread on the second hex nut 
 If possible, attach the stepper motor by screwing in the 3 brass M3 standoffs --- use equal stacks of M3 washers to ensure the threads are well-engaged and not bottoming out.
 
 Tighten everything.
+
+###Threaded rod
+
+If the flexible coupler doesn't securely grip the threaded rod, wrapping the rod in some sort of metal foil or tape was suggested on the forums if the coupler does not hold it securely. 
+
+
 
 ###Z-Axis
 

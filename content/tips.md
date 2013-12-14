@@ -37,6 +37,12 @@ For the most part, it's obvious which size screw is used for what, but the M5 8m
 
 ###A Note on Tapping
 
+Tapping means to cut threads on the inside of a hole.  There is an entire industry based around this process, and some people take it very seriously. If you look around the internet you can find 1,000s of site with "drill and tap" charts. These charts tell a person how big of a hole is required to be tapped to a certain thread size. There is an article on Wikipedia describing [Tap and Die](http://en.wikipedia.org/wiki/Tap_and_die).
+
+When tapping, it's important to not just torque down and twist as hard as you can.
+
+The holes only need to be tapped ~12mm deep for the M5x12mm screws, but may be tapped deeper if using longer bolts. 
+
 #####Taps Are Brittle - Don't drop them on a cement floor.
 
 The tap has to be harder than the material it's tapping. Because of that hardening, it's brittle, as in easily broken. You want to avoid breaking the tap like you would avoid getting the plague. Use a proper T-handle (such as the one included with your kit) to turn the tap. Don't use a wrench, locking pliers, or a vice. Yeah, those last three will work, but you'll be playing with fire.
