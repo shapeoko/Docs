@@ -17,9 +17,9 @@ The belts which the stepper motors drive the X- and Y-axes  require smooth idler
 
 ####Parts
 
-* Delrin V-Wheels (25202-01) x 20pcs
-* 5x16x5mm Bearings (25196-01) x 40pcs
-* Precision Washers (25201-01) x 20pcs
+1. Delrin **V-Wheels** (25202-01) x 20pcs
+* 5x16x5mm **Bearings** (25196-01) x 40pcs
+* **Precision (Shim) Washers** (25201-01) x 20pcs
 
 ####Tools
 
@@ -55,9 +55,9 @@ Alternate, assembly-line procedure for the V-Wheels:
 
 ####Parts
 
-* Smooth Idler Drum (25197-01) x 6pcs
-* 5x16x5mm Bearings (25196-01) x 12pcs
-* Precision Washers (25201-01) x 6pcs
+1. 5x16x5mm **Bearings** (25196-01) x 12pcs
+* **Precision (Shim) Washers** (25201-01) x 6pcs
+* **Smooth Idler Drum** (25197-01) x 6pcs
 
 ####Tools
 

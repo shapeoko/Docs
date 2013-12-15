@@ -34,25 +34,27 @@ It might be easier and more straight-forward to assemble all four of them to mat
 
 ####Parts
 
- *   Motor Mount Plate (12ga) (26029-01) x 3pcs
- *   Eccentric Nut (30158-01) x 6pcs
- *   (from previous step) - Dual Bearing V-Wheel (25203-02) x 12pcs
- *   (from previous step) - Smooth Idler (25197-02) x 6pcs
- *   M5 x 20mm Button Head Cap Screw (PS20004) x 12pcs
- *   M5 Flat Washer (25287-02) x 36pcs
- *   M5 Hex Nut (25284-02) x 12pcs
- *   M5 x 30mm Button Head Cap Screw (25286-05) x 6pcs
- *   3/8" x 5/16" x #12 bore Aluminum Spacer (25312-14) x 6pcs
- *   M3 SHCS x 12 pcs (for attaching the stepper motors)
- *   M3 Flat Washer x 12 pcs (for attaching the stepper motors)
- *   GT2 pulley (to attach to the stepper motors)
+ 1.   **Motor Mount Plate** (12ga) (26029-01) x 3pcs
+ *   **Eccentric Nut** (30158-01) x 6pcs
+ *   (from previous step) - **Dual Bearing V-Wheel** (25203-02) x 12pcs
+ *   **M5 x 20mm Button Head Cap Screw** (PS20004) x 12pcs
+ *   **M5 Flat Washer** (25287-02) x 36pcs
+ *   **M5 Hex Nut** (25284-02) x 12pcs
+ *   (from previous step) - **Smooth Idler** (25197-02) x 6pcs
+ *   **M5 x 30mm Button Head Cap Screw** (25286-05) x 6pcs
+ *   3/8" x 5/16" x #12 bore **Aluminum Spacer** (25312-14) x 6pcs
+
+####Parts for attaching stepper motors
+ *   M3 SHCS x 12 pcs
+ *   M3 Flat Washer x 12 pcs
+ *   GT2 pulley
 
 ####Tools
 
  * 3mm Hex Key
  * 2.5mm Hex Key (used for the M3 screws if attaching the motor)
  * 1.5mm Hex Key (used for the set screws in the pulley)
- * 8mm wrench
+ * 8mm (5/16") wrench
 
 ![assembled idler](tPictures/so_smooth_idler_2.jpg)
 ![assembled V-wheel](tPictures/so_v_wheel_2.jpg)
