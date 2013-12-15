@@ -2,11 +2,22 @@
 
 ##Sub Gantry (PS20023)
 
-- 2 x PS20022 Motor Mount Carriage
-- 2 x PS20020 Belt Clip Assembly
-- 8 x 25286-02 M5 x 12mm, BHCS
-- 8 x 25287-02 Flat Washer, M5
-- 2 x PS20008 X/Y Axis Rail MakerSlide Extrusion 500mm
+### Belt Clip Assembly (PS20020)
+
+![](tPictures/so_belt_anchors_2.jpg)
+![](tPictures/so_belt_anchors_parts_2.jpg)
+
+1. PS20003 **M5 x 8mm, BHCS** x 1 pcs.
+- 26016-01 **M5 insertion nut** x 1 pcs.
+- 26051-01 **Fiberglass Clip** x 1 pcs.
+
+The Belt Clip Assemblies are used to fasten and tension the GT2 belts (this is detailed later). There are 6 total, which should be assembled at this point, and which should be placed in the MakerSlide slots during assembly. See the PS20025 diagram below for details on orientation. At a minimum you just need to remember to put the insertion nuts into the back piece of MakerSlide (on the top slot) before attaching the second motor mount carriage. Once the carriage is in place, you will no longer have access to the slot. 
+
+1. PS20022 **Motor Mount Carriage** x 2 pcs.
+- PS20020 **Belt Clip Assembly** x 2 pcs.
+- 25286-02 **M5 x 12mm, BHCS** x 8 pcs.
+- 25287-02 **M5 Flat Washer** x 8 pcs.
+- PS20008 X/Y Axis Rail **MakerSlide Extrusion 500mm** x 2 pcs.
 
 ![exploded view of Gantry Carriage](tPictures/PS20023_2.png) 
 ![](tPictures/so_gantry_2.jpg)
@@ -20,11 +31,6 @@ This is evident in the next step.
 
 Push the MakerSlide as far as is possible to one end of the slot which the 12mm M5 bolts fit through. Only tighten the pair of bolts on the MakerSlide which is snugged up against the end of the slot, the other should be slightly loose. Note that there is a space in-between the two pieces of MakerSlide. This spacing will be set in a following step.
 
-### Belt Anchors
-![](tPictures/so_belt_anchors_2.jpg)
-![](tPictures/so_belt_anchors_parts_2.jpg)
-
-The belt anchors must be assembled and placed on the MakerSlide before attaching the second Motor Mount Carriage. At a minimum you just need to remember to put the insertion nuts into the back piece of MakerSlide (on the top slot) before attaching the second motor mount carriage. Once the carriage is in place, you will no longer have access to the slot. 
 
 
 ##Complete Gantry (PS20025)
@@ -33,6 +39,17 @@ The belt anchors must be assembled and placed on the MakerSlide before attaching
 ![](tPictures/so_assembly_parts_2.jpg) 
 
 **Note:** the parts picture above shows some extra parts which will be used in the next step.
+
+1. (un-enumerated part)
+- PS20031 **Gantry Carriage** x 1 pcs.
+- PS20008 X/Y Axis Rail - **MakerSlide Extrusion - 500mm** x 2 pcs.
+- PS20022 **Motor Mount Carriage** x 2 pcs.
+- 25286-02 **M5 x 12mm, BHCS** x 8 pcs.
+- 25287-02 **M5 Flat Washer** x 10 pcs.
+- 26051-01 fiberglass in-line belt clip (these are part of PS20020 below) x 2 pcs.
+- PS20003 M5 x 08mm, BHCS (these are part of PS20020 below) x 2 pcs.
+- 26016-01 M5 insertion nut (these are part of PS20020 below) x 2 pcs.
+- PS20020 **Belt Clip Assembly** x 2 pcs. (called out as individual parts #7--9)
 
 [![exploded view of Gantry Carriage](tPictures/PS20025_4.png)](content/tPictures/PS20025_16.png)
 

@@ -19,12 +19,12 @@ The Z-axis assembly is comprised of several sub-assemblies. When assembling it, 
 
 ####Parts
 
-- 1 x 26029-01 Motor Mount Plate (12ga)
-- 2 x 30158-01 Eccentric Nut
-- 4 x 25203-02 Dual Bearing V-Wheel Kit (assembly)
-- 4 x PS20004 M5x20mm BHCS
-- 6 x 25287-02 Flat Washer, M5
-- 2 x 25284-02 M5 Hex Nut
+1. 26029-01 **Motor Mount Plate** (12ga)
+- 30158-01 **Eccentric Nut** x 2 pcs.
+- 25203-02 **Dual Bearing V-Wheel (assembly)** x 4 pcs.
+- PS20004 **M5 x 20mm BHCS** x 4 pcs.
+- 25287-02 **M5 Flat Washer** x 6 pcs.
+- 25284-02 **M5 Hex Nut** x 2 pcs.
 
 This is the plate the Z-axis will attach to (it is identical to the Motor Mount Carriage (PS20022) assembled in the previous step, but without smooth idlers. It sits on the front of the gantry and will be connected to the X-axis motor mount plate via rigid aluminum spacers. We will build the plate first, and then attach the two together.
 
@@ -45,20 +45,20 @@ This is the plate the Z-axis will attach to (it is identical to the Motor Mount 
 
 ####Parts
 
-- 1 30287-01 Spindle Mount Plate (12ga)
-- 1 PS20010 13mm x 35mm x 20mm Delrin Lead nut
-- 10 25287-02 Flat Washer, M5
-- 6 25284-02 M5 Hex Nut
-- 2 PS20012 Universal Spindle Mount
-- 2 30158-01 Eccentric Nut
-- 4 25202-01 V-Wheel, Delrin
-- 8 25196-01 5mm x 16mm x 5mm Bearing
-- 4 25201-01 Precision 1mm spacer
-- 4 25312-14 3/8" x 5/16" x #12 bore, aluminum spacer
-- 4 25286-05 M5 x 30mm, BHCS
-- 6 25286-02 M5 x 12mm, BHCS
-- 2 PS20013 Universal Spindle Mount strap
-- 4 PS20005 M5 x 45mm, SHCS
+1. 30287-01 **Spindle Mount Plate** (12ga) x 1 pcs.
+- PS20010 13mm x 35mm x 20mm **Delrin Lead nut** x 1 pcs.
+- 25287-02 **M5 Flat Washer** x 10 pcs.
+- 25284-02 **M5 Hex Nut** 6 pcs.
+- PS20012 **Universal Spindle Mount** 2 pcs.
+- 30158-01 **Eccentric Nut** x 2 pcs.
+- 25203-02 **Dual Bearing V-Wheel (assembly)** x 4 pcs.
+- 25196-01 5mm x 16mm x 5mm Bearing (x 8 pcs. *contained in #7. above*)
+- 25201-01 Precision 1mm spacer (x 4 pcs. *contained in #7. above*)
+- 25312-14 3/8" x 5/16" x #12 bore, **Aluminum Spacer** x 4 pcs.
+- 25286-05 **M5 x 30mm, BHCS** x 4 pcs.
+- 25286-02 **M5 x 12mm, BHCS** x 6 pcs.
+- PS20013 **Universal Spindle Mount strap** x 2 pcs.
+- PS20005 **M5 x 45mm, SHCS** x 4 pcs.
 
 [![exploded view of Spindle Carriage Assembly](tPictures/PS20029_4.png)](content/tPictures/PS20029_16.png)
 
@@ -78,26 +78,32 @@ One should also attach the motor for the Z-axis at this time.
 
 ####Parts
 
-- 1 25142-07 Z Axis Rail MakerSlide Extrusion 200mm
-- 1 25772-02 Z-Axis Flexible Coupler 5mm 8mm bore
-- 2 30288-01 Z-Axis Motor Mount Plate (12ga)
-- 1 30169-01 8x22x7mm flanged bearing
-- 1 PS20017 Wave Disc Spring, .901"ID, 1.159" OD, .013" thickness
-- 1 30289-01 Z-Axis Shim Plate (12ga)
-- 1 PS20011 M8 Threaded Rod Stainless Steel, 200mm
-- 2 25287-02 Flat Washer, M5
-- 3 PS20014 Brass Standoff spacer M3 male x M3 female 50mm
-- 4 PS20016 5mm x 10mm x 1mm thick, Nylon Spacer
-- 2 PS20004 M5x20mm BHCS
-- 6 PS20015 3mm x 8mm x 1mm thick, Nylon Spacer
-- 3 25285-10 M3 x 12mm, SHCS
-- 3 25287-03 Flat Washer, M3
-- 2 PS20007 M8, Hex Nut
+1. 25142-07 Z Axis **Rail MakerSlide Extrusion 200mm** x 1 pcs.
+- 25772-02 Z-Axis **Flexible Coupler 5mm--8mm bore** x 1 pcs.
+- 30288-01 **Z-Axis Motor Mount Plate** (12ga) x 2 pcs.
+- 30169-01 8x22x7mm **flanged bearing** x 1 pcs.
+- 30289-01 **Z-Axis Shim Plate** (12ga) x 1 pcs.
+- PS20011 **M8 Threaded Rod Stainless Steel, 200mm** x 1 pcs.
+- 25287-02 **M5 Flat Washer** x 2 pcs.
+- PS20014 **Brass Standoff spacer** M3 male x M3 female 50mm x 3 pcs.
+- PS20016 5mm x 10mm x 1mm thick, **Nylon Spacer** x 4 pcs. (these are used for the M5 BHCS (#10. below) which hold the Z-Axis Motor Mount Plate to the MakerSlide)
+- PS20004 **M5 x 20mm BHCS** x 2 pcs.
+- PS20015 3mm x 8mm x 1mm thick, **Nylon Spacer** x 6 pcs. (these are used with the M3 SHCS (#12. below) which attach to the Brass Standoff spacers)
+- 25285-10 **M3 x 12mm, SHCS** x 3 pcs.
+- 25287-03 **M3 Flat Washer** x 3 pcs. 
+- PS20007 **M8, Hex Nut** x 2 pcs.
+- PS20017 **Wave Disc Spring**, .901"ID, 1.159" OD, .013" thickness (please note that this is *not* shown in the diagram, it is placed on top of the flanged bearing)
+
+####Electronics
+
+ - Stepper Motor (if at all possible, you should attach the stepper motor at this time, doing it later will probably require some disassembly)
+- 25287-03 **M3 Flat Washer** x 3 (or more, see below) pcs.
 
 ####Tools
 
- - 2 13mm (or 1/2") open end wrenches
- - M3 Hex Key
+ - 13mm (or 1/2") open end wrenches x 2 pcs.
+ - M3 Hex Key (for the M5 BHCS)
+ - M2.5 Hex Key (for the M3 SHCS)
 
 **Note:** Depending on how deeply tapped on the stepper motor and how long the threads are on the brass standoffs, it may be necessary to add additional M3 washers when attaching the motor using the brass standoffs.
 
@@ -134,12 +140,12 @@ If the flexible coupler doesn't securely grip the threaded rod, wrapping the rod
 ![sub-assemblies shown with hardware](tPictures/so_assembly_pre_gantry_carriage_2.jpg)
 ![two Z-axis sub-assemblies](tPictures/so_assembly_gantry_carriage_2.jpg)
 
-- 1 PS20021 Z-Assembly Carriage
-- 1 PS20028 Z-Axis Rail Assembly
-- 1 PS20029 Spindle Carriage Assembly
-- 4 25287-02 Flat Washer, M5
-- 4 26016-01 M5 insertion nut
-- 4 25286-01 M5 x 10mm, BHCS
+1. PS20021 **Z-Assembly Carriage** x 1 pcs.
+- PS20028 **Z-Axis Rail Assembly** x 1 pcs.
+- PS20029 **Spindle Carriage Assembly** x 1 pcs.
+- 25287-02 **M5 Flat Washer** x 4 pcs.
+- 26016-01 **M5 insertion nut** x 4 pcs.
+- 25286-01 **M5 x 10mm, BHCS** x 4 pcs.
 
 Insert the 10mm M5 bolts with an M5 washer into the Z-Assembly Carriage (PS20021) from the side the V-wheels are on, thread on the M5 insertion nuts, then slide the Z-Axis Rail Assembly (PS20028) onto the nuts, align and center the assemblies and tighten.
 
@@ -158,14 +164,14 @@ Turn the eccentric nuts on the Spindle Carriage Assembly (PS20029) so that they 
 
 ####Parts
 
-- 1 PS20021 Z-Assembly Carriage
-- 1 PS20022 Motor Mount Carriage
-- 1 PS20030 Complete Z-Axis Assembly
-- 6 25312-20 1-1/4" #12 Bore, Aluminum Spacer
-- 6 PS20006 M5 x 70mm SHCS
-- 12 25287-02 Flat Washer, M5
-- 6 PS20002 3/8" x 1-1/4" x #12 bore, Aluminum Spacer
-- 6 25284-02 M5 Hex Nut
+1. PS20021 **Z-Assembly Carriage** x 1 pcs.
+- PS20022 **Motor Mount Carriage** x 1 pcs.
+- PS20002 3/8" x 1-1/4" x #12 bore, **Aluminum Spacer** x 6pcs.
+- PS20006 **M5 x 70mm SHCS** x 4 pcs.
+- 25287-02 **M5 Flat Washer** x 12 pcs.
+- 25312-20 1-1/4" #12 Bore, **Aluminum Spacer** x 6 pcs.
+- 25284-02 **M5 Hex Nut** x 6 pcs.
+- PS20030 **Complete Z-Axis Assembly** x 1 pcs. (not enumerated in the diagram)
 
 If possible, select a Motor Mount Carriage (PS20022) which has a stepper motor attached. 
 

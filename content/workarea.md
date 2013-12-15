@@ -7,26 +7,31 @@
 
 ##Waste Board Assembly (PS20024)
 
-- 8 25286-02 M5 x 12mm, BHCS
-- 8 25287-02 Flat Washer, M5
-- 8 26016-01 M5 insertion nut
-- 2 PS20001 MDF wasteboard (1/2")
-- 2 PS20009 20mm x 20mm x 550mm aluminum extrusion, black anodized
+1. 25286-02 **M5 x 12mm, BHCS** x 8 pcs.
+- 25287-02 **M5 Flat Washer** x 8 pcs.
+- 26016-01 **M5 insertion nut** x 8 pcs.
+- PS20001 **MDF wasteboard** (1/2") x 2 pcs.
+- PS20009 20mm x 20mm x 550mm **aluminum extrusion, black anodized** x 2 pcs.
 
-![exploded view of assembly step](tPictures/PS20024_2.png)  ![](tPictures/so_waste_board_2.jpg) ![](tPictures/so_waste_board_parts_2.jpg)
-![](tPictures/so_m5_x_10mm_bhcs_washer_insertion_nut_2.jpg)
+![exploded view of assembly step](tPictures/PS20024_2.png) 
+![assembled wasteboard with tool](tPictures/so_waste_board_2.jpg)
+![wasteboard parts with tool](tPictures/so_waste_board_parts_2.jpg)
+![12mm M5 BHCS, M5 washer and insertion nut](tPictures/so_m5_x_12mm_bhcs_washer_insertion_nut_2.jpg)
 
 ## 20x20 Extrusions
 
 Slide Entire  Assembly over wasteboard Assembly, fasten with:
 
-- M5x10
+- M5x12
 - M5 washer
 - Insertion Nut
 
 [![exploded view of wasteboard and extrusion assembly](tPictures/PS20024_4.png)](content/tPictures/PS20024_16.png)
 
 ## Assemble the Frame
+
+![](tPictures/so_gantry_half_carriage_mounted_parts_2.jpg)
+![](tPictures/so_gantry_half_carriage_parts_2.jpg)
 
 Square up the wasteboard assembly carefully, since it will be the foundation for the balance of the machine.
 
@@ -51,7 +56,7 @@ At this point, you will need to adjust the machine's V-wheels. These should be t
 * Slide the gantry back and fourth a couple of times to even out the rails and get everything roughly lined up. It may still feel stiff when sliding, but you can adjust that later.
 * Slide the gantry to the back of the machine. Both V-wheels should be touching or at least be the same distance from the belt anchors. Carefully snug up the four screws on the back end plates.
 * Gently slide the gantry to the front of the machine. Both V-wheels should be touching or at least be the same distance from the belt anchors. Carefully snug up the four screws on the front end plates.
-* Slide the gantry back and fourth a couple times to see if anything is askew. **Note:** It may be tough to move your gantry, almost like it is binding, this is fine as you'll adjust that in the next set of steps. 
+* Slide the gantry back and fourth a couple times to see if anything is askew. **Note:** It may be tough to move your gantry, almost as if it is binding, this is fine as you'll adjust that in the next set of steps. 
 
 ###Steps for Silky Smooth Motion
 
@@ -67,7 +72,7 @@ You should now mount the belts on the belt anchors.
 * Divide the belt into thirds (one-third for the X-axis, two equal lengths for the two sides of the Y-axis)
 * Loop the belts into the belt anchors
 * Tighten one end of each belt
-* Use some technique which allows you to tension the other end of each belt and tighten it down. (One method is to tie a length of cord around the open end plate and the Allen key while the latter is inserted into the belt anchor bolt, add a block of wood or plastic as a fulcrum near the top of the Allen key, tie a screwdriver or other tool into the cord's knot, twist the tool in the knot while holding down on the Allen key, then tighten the belt anchor bolt.)
+* Use some technique which allows you to tension the other end of each belt and tighten it down. (One method is to tie a length of cord around the open end plate and the Allen wrench while the latter is inserted into the belt anchor bolt, add a block of wood or plastic as a fulcrum near the top of the Allen wrench, tie a screwdriver or other tool into the cord's knot, twist the tool in the knot while holding down on the Allen wrench, then tighten the belt anchor bolt.)
 
 The belts get routed through the belt clips by:
 
@@ -85,9 +90,10 @@ The belts get routed through the belt clips by:
 
 ##Tighten the belt
 
-With the allen key inserted into the button head cap screw, adjust the screw so it's **almost** tight. Then, gripping the allen key, pull it back towards the end plate so it's very tight, once it's tight, rotate the allen key clockwise to finish tightenting the screw. Like so:
+With the Allen wrench inserted into the button head cap screw, adjust the screw so it's **almost** tight. Then, gripping the Allen wrench, pull it back towards the end plate so it's very tight, once it's tight, rotate the Allen wrench clockwise to finish tightening the screw. Like so:
 
 ![belt tightening](belt-routing/63-so_wiring-062.jpg)
+
 ## Last but not least
 
 You will also need to complete the wiring as documented in the [next step](wiring.html).
