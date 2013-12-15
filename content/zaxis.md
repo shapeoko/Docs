@@ -4,6 +4,7 @@
 ![](tPictures/so_gantry_carriage_2.jpg)
 ![](tPictures/so_z_axis_parts_2.jpg)
 ![](tPictures/so_assembly_gantry_carriage_2.jpg)
+![](tPictures/so_gantry_sc_x_y_axes2.jpg)
 
 The Z-axis assembly is comprised of several sub-assemblies. When assembling it, it is best to select a Motor Mount Carriage (PS20022) which already has a stepper motor in place.
 
@@ -40,6 +41,8 @@ This is the plate the Z-axis will attach to (it is identical to the Motor Mount 
 ![exploded view of Spindle Carriage Assembly](tPictures/PS20029_2.png)
 ![](tPictures/so_spindle_carriage_2.jpg)
 ![](tPictures/so_spindle_carriage_parts_2.jpg)
+![](tPictures/so_vwi_vwheel_spacer_tools_2.jpg)
+![](tPictures/so_vwi_smoothidler_tools_2.jpg)
 
 ###Requirements
 
@@ -155,6 +158,7 @@ Turn the eccentric nuts on the Spindle Carriage Assembly (PS20029) so that they 
 
 ![](tPictures/PS20031_2.png)
 ![](tPictures/so_gantry_carriage_2.jpg)
+![](tPictures/so_gantry_sc_carriage_2.jpg)
 
 ###Requirements
 
@@ -175,5 +179,6 @@ If possible, select a Motor Mount Carriage (PS20022) which has a stepper motor a
 
 Place washers on the M5 x 70 mm SHCS (PS20006) and place them in the outer holes of the Z-Assembly Carriage (PS20021) from the side opposite the V-wheels. Place one each of the Aluminum Spacers (25312-20 and PS20002) on each bolt, place the Motor Mount Carriage (PS20022) onto the bolts and attach using an M5 washer and M5 hex nut.
 
+![](tPictures/so_carriage_4.jpg)
 
 ![](tPictures/so_gantry_carriage_4.jpg)

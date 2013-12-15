@@ -61,6 +61,8 @@ It might be easier and more straight-forward to assemble all four of them to mat
 ![Motor Mount Carriages parts](tPictures/so_motor_mount_carriage_parts_2.jpg)
 ![stepper motor, pulley, M3 bolts and washers, tools](tPictures/so_e_motor_pulley_2.jpg)
 ![smooth idler with spacer and washers](tPictures/so_smooth_idler_bolt_spacer_washers_2.jpg)
+![](tPictures/so_vwi_vwheel_eccentric_tools_2.jpg)
+![](tPictures/so_vwi_vwheel_tools_2.jpg)
 
 These are the plates that will mount on either end of the gantry and on the rear of the X-Axis.
 

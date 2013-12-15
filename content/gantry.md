@@ -22,6 +22,7 @@ The Belt Clip Assemblies are used to fasten and tension the GT2 belts (this is d
 ![exploded view of Gantry Carriage](tPictures/PS20023_2.png) 
 ![](tPictures/so_gantry_2.jpg)
 ![](tPictures/so_gantry_parts_2.jpg)
+![](tPictures/so_gantry_parts_tool_2.jpg)
 
 **Note:** Do not attach one end plate during this step (despite the photograph showing this). Slide the Z-Axis Assembly gantry carriage (PS20031) from the previous step onto the gantry (see below) before attaching the second motor mount plate.
 
@@ -35,8 +36,11 @@ Push the MakerSlide as far as is possible to one end of the slot which the 12mm 
 
 ##Complete Gantry (PS20025)
 
-![exploded view of Gantry Carriage](tPictures/PS20025_2.png)  ![](tPictures/so_assembly_carriage_gantry_2.jpg)
+![exploded view of Gantry Carriage](tPictures/PS20025_2.png)
+![](tPictures/so_assembly_carriage_gantry_2.jpg)
 ![](tPictures/so_assembly_parts_2.jpg) 
+![](tPictures/so_gantry_assembled_wired_2.jpg)
+![](tPictures/so_gantry_half_carriage_tools_2.jpg)
 
 **Note:** the parts picture above shows some extra parts which will be used in the next step.
 
@@ -55,3 +59,6 @@ Push the MakerSlide as far as is possible to one end of the slot which the 12mm 
 
 Turn the eccentric nuts on the V-wheels on the Gantry Carriage (PS20031) so that they are as far from the static V-wheels as is possible. Carefully roll the Gantry Carriage onto the two pieces of MakerSlide, facing the spindle carriage away from the MakerSlide which is bolted in place at the extreme edge of the slot. Move the Gantry Carriage as close to the attached Motor Mount Carriage Plate as is possible, tighten the bolts for the loose MakerSlide. Attach the other Motor Mount Carriage in the same fashion, pushing down on the MakerSlide to ensure that everything is square. Ensure that the Gantry moves smoothly for the entire length of the X-axis. If necessary, loosen the M5 bolts and adjust the fit until everything is square and the gantry travels smoothly.
 
+![](tPictures/so_gantry_half_carriage_mounted_tools_4.jpg)
+
+![](tPictures/so_gantry_assembled_wired_4.jpg)
