@@ -117,6 +117,8 @@ Assemble this from the inside out, starting with the smallest pieces and attachi
 
 Compare the threaded rod (PS20011) to the assembly thread on one M8 Hex Nut (PS20007) far enough down to allow room for the flanged bearing, a second hex nut and for the  threaded rod to be just short of half-way into the flexible coupler. Before tightening things, ensure that the motor shaft will also fit just short of half-way into the flexible coupler.
 
+If the flexible coupler doesn't securely grip the threaded rod, wrapping the rod in some sort of metal foil or tape was suggested on the forums if the coupler does not hold it securely. 
+
 ###Jam Nuts
 
 Slip the threaded rod through the flanged bearing, thread on the second hex nut and use the wrenches to tighten them. Slip on the flexible coupler.
@@ -126,12 +128,6 @@ Slip the threaded rod through the flanged bearing, thread on the second hex nut 
 If possible, attach the stepper motor by screwing in the 3 brass M3 standoffs --- use equal stacks of M3 washers to ensure the threads are well-engaged and not bottoming out.
 
 Tighten everything.
-
-###Threaded rod
-
-If the flexible coupler doesn't securely grip the threaded rod, wrapping the rod in some sort of metal foil or tape was suggested on the forums if the coupler does not hold it securely. 
-
-
 
 ###Z-Axis
 
