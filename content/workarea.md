@@ -3,9 +3,17 @@
 ## Overview
 
 ![](tPictures/so_complete_2.jpg)
+![](tPictures/so_frame_gantry_y-axis_2.jpg)
 ![](tPictures/so_assembly_gantry_rails_2.jpg)
 
+The final assembly will be assembled, then the balance of the machine put together and mounted on it.
+
 ##Waste Board Assembly (PS20024)
+
+![exploded view of assembly step](tPictures/PS20024_2.png) 
+![assembled wasteboard with tool](tPictures/so_waste_board_2.jpg)
+![wasteboard parts with tool](tPictures/so_waste_board_parts_2.jpg)
+![12mm M5 BHCS, M5 washer and insertion nut](tPictures/so_m5_x_12mm_bhcs_washer_insertion_nut_2.jpg)
 
 1. 25286-02 **M5 x 12mm, BHCS** x 8 pcs.
 - 25287-02 **M5 Flat Washer** x 8 pcs.
@@ -13,43 +21,60 @@
 - PS20001 **MDF wasteboard** (1/2") x 2 pcs.
 - PS20009 20mm x 20mm x 550mm **aluminum extrusion, black anodized** x 2 pcs.
 
-![exploded view of assembly step](tPictures/PS20024_2.png) 
-![assembled wasteboard with tool](tPictures/so_waste_board_2.jpg)
-![wasteboard parts with tool](tPictures/so_waste_board_parts_2.jpg)
-![12mm M5 BHCS, M5 washer and insertion nut](tPictures/so_m5_x_12mm_bhcs_washer_insertion_nut_2.jpg)
-
-## 20x20 Extrusions
-
-Slide Entire  Assembly over wasteboard Assembly, fasten with:
-
-- M5x12
-- M5 washer
-- Insertion Nut
-
 [![exploded view of wasteboard and extrusion assembly](tPictures/PS20024_4.png)](content/tPictures/PS20024_16.png)
+
+Start with the captive nuts in the holes (shown in the back right of the diagram). 
+
+- Place a washer on the bolt
+- slide the bolt into a hole in the wasteboard
+- thread on an insertion nut
+- then slide the aluminum extrusion onto the bolt and insertion nut. 
+- Repeat until all the holes are filled
+
+Repeat the above process with the slots, but instead assemble the bolt, washer, nut combinations, slide them into the aluminum extrusion, then slide the extrusion onto the wasteboard.
+
+Carefully center and square everything up, then tighten the bolts. Square up the wasteboard assembly carefully, since it will be the foundation for the balance of the machine.
 
 ## Assemble the Frame
 
+![Assembled machine diagram](tPictures/Shapeoko_2_2.png)
 ![](tPictures/so_gantry_half_carriage_mounted_parts_2.jpg)
 ![](tPictures/so_gantry_half_carriage_parts_2.jpg)
 
-Square up the wasteboard assembly carefully, since it will be the foundation for the balance of the machine.
+
 
 ###Parts
 
-* 2 Y-Axis Rail Assembly (PS20026)
-* Complete Gantry (PS20025)
-* Waste Board Assembly (PS20024)
+
+1. PS20025 **Complete Gantry** x 1 pcs.
+- PS20026 **Y-Axis Rail Assembly** x 2 pcs.
+- PS20024 **Waste Board Assembly** x 1 pcs.
+- 8 25286-01 **M5 x 10mm, BHCS** x 8 pcs.
+- 8 26016-01 **M5 insertion nut** x 8 pcs.
+- 8 25287-02 **M5 Flat Washer** x 8 pcs.
+
+
+[![Assembled machine diagram](tPictures/Shapeoko_2_4.png)](content/tPictures/Shapeoko_2_16.png)
+
+![](tPictures/so_gantry_half_carriage_parts_4.jpg)
 
 Turn the eccentric nuts on the V-wheels on the Complete Gantry (PS20025) so that they are as far from the static V-wheels as is possible. Drive the Complete Gantry onto the two Y-Axis Rail Assemblies (PS20026), then attach the open end plates.
 
-Place the 10mm M5 bolts w/ washers into the bottom holes on the open end plates, thread on the insertion nuts, then carefully slide the rail assemblies onto the wasteboard extrusion. Check the alignment with a known-to-be-good square. One can also measure the diagonals to test for squareness. Ensure that everything is aligned squarely and that the Complete Gantry and the X-Axis Sub Gantry move smoothly. Tighten the bolts.
+![](tPictures/so_gantry_half_carriage_mounted_parts_4.jpg)
+
+Place the 10mm M5 bolts w/ washers into the bottom holes on the open end plates, thread on the insertion nuts, then carefully slide the rail assemblies onto the wasteboard extrusion. Check the alignment with a known-to-be-good square. One can also measure the diagonals to test for squareness. Ensure that everything is aligned squarely and that the Complete Gantry and the X-Axis Sub Gantry move smoothly. Tighten the bolts. (These last steps are covered in more detail below under Fine-tuning).
 
 Congratulations! You've built a ShapeOko!
 
 ![](tPictures/so_complete_4.jpg)
 
-## Squaring the Table
+## Fine-tuning
+
+### Squaring the Machine
+
+Check that each component is square to the others using a known-to-be-good square. If you don't have a square, measure the diagonals and compare the distances. Loosen bolts, adjust and re-tighten as needed until everything is true.
+
+### Adjusting the V-Wheels
 
 At this point, you will need to adjust the machine's V-wheels. These should be tight enough to hold things in alignment, but loose enough that the machine moves freely and smoothly. The suggested technique for this is, "Loosen the eccentric spacer until the V-wheel does not rotate when the carriage is moving and then tighten just (and no more!) until the v-wheel rotates when moving the carriage. Overtightening will lead to the V-wheel wearing out."
 
@@ -58,7 +83,7 @@ At this point, you will need to adjust the machine's V-wheels. These should be t
 * Gently slide the gantry to the front of the machine. Both V-wheels should be touching or at least be the same distance from the belt anchors. Carefully snug up the four screws on the front end plates.
 * Slide the gantry back and fourth a couple times to see if anything is askew. **Note:** It may be tough to move your gantry, almost as if it is binding, this is fine as you'll adjust that in the next set of steps. 
 
-###Steps for Silky Smooth Motion
+####Steps for Silky Smooth Motion
 
 1. Make certain that the four V-Wheels that are mounted with the eccentric nuts are loose. You should notice some slight play once loosened.
 2. Slide the gantry back and fourth. It should feel as if it is gliding freely and smoothly. Remember how this feels as this is what we are striving to reach.
