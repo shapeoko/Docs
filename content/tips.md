@@ -26,7 +26,14 @@ There is one additional item:
 
 * Spiral End Mill
 
-which is intended for use with the machine in the rotary tool once it is fully operational.
+which is intended for use with the machine in the rotary tool once it is fully operational. (You could use it to drill holes in your wasteboard for T-nuts.)
+
+Additional useful tools include:
+
+* Pliers
+* Wire cutters
+* Wire strippers
+* Multimeter to test continuity
 
 ###Screw Sizes (lengths)
 
