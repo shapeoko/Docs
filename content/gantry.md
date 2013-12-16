@@ -45,15 +45,16 @@ Push the MakerSlide as far as is possible to one end of the slot which the 12mm 
 **Note:** the parts picture above shows some extra parts which will be used in the next step.
 
 1. (un-enumerated part)
-- PS20031 **Gantry Carriage** x 1 pcs.
-- PS20008 X/Y Axis Rail - **MakerSlide Extrusion - 500mm** x 2 pcs.
-- PS20022 **Motor Mount Carriage** x 2 pcs.
-- 25286-02 **M5 x 12mm, BHCS** x 8 pcs.
-- 25287-02 **M5 Flat Washer** x 10 pcs.
-- 26051-01 fiberglass in-line belt clip (these are part of PS20020 below) x 2 pcs.
-- PS20003 M5 x 08mm, BHCS (these are part of PS20020 below) x 2 pcs.
-- 26016-01 M5 insertion nut (these are part of PS20020 below) x 2 pcs.
-- PS20020 **Belt Clip Assembly** x 2 pcs. (called out as individual parts #7--9)
+2. PS20031 **Gantry Carriage** x 1 pcs.
+3. PS20008 X/Y Axis Rail - **MakerSlide Extrusion - 500mm** x 2 pcs.
+4. PS20022 **Motor Mount Carriage** x 2 pcs.
+5. (un-enumerated part)
+6. 25286-02 **M5 x 12mm, BHCS** x 8 pcs.
+7. 25287-02 **M5 Flat Washer** x 10 pcs.
+8. 26051-01 fiberglass in-line belt clip (these are part of PS20020 below) x 2 pcs.
+9. PS20003 M5 x 08mm, BHCS (these are part of PS20020 below) x 2 pcs.
+10. 26016-01 M5 insertion nut (these are part of PS20020 below) x 2 pcs.
+11. PS20020 **Belt Clip Assembly** x 2 pcs. (called out as individual parts #7--10)
 
 [![exploded view of Gantry Carriage](tPictures/PS20025_4.png)](content/tPictures/PS20025_16.png)
 
