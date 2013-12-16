@@ -5,7 +5,7 @@
 Before beginning this section, please take a look at the wiring options page. 
 
 * [Option \#1](wiring_1.html), needs no special attention at this step other than noting the motor orientations show in the steps below.
-* If you are going to use the terminal block method [option \#2](wiring_2.html), you will need to attach those terminal block in this step.
+* If you are going to use the terminal block method [option \#2](wiring_2.html), you will need to attach those terminal blocks in this step.
 * [Option \#3](wiring_3.html), although not necessary at this step, could make life easier to attach your Arduino to the *right* Y axis motor mount plate.
 
 _See those specific options for more details._
@@ -29,6 +29,16 @@ When attaching V-wheels and Smooth Idlers, push them away from the center of the
  
  
 ##Motor Mount Carriages (PS20022) - 3 total
+
+![assembled idler](tPictures/so_smooth_idler_2.jpg)
+![assembled V-wheel](tPictures/so_v_wheel_2.jpg)
+![Motor Mount Carriages parts](tPictures/so_motor_mount_carriage_parts_2.jpg)
+![stepper motor, pulley, M3 bolts and washers, tools](tPictures/so_e_motor_pulley_2.jpg)
+![smooth idler with spacer and washers](tPictures/so_smooth_idler_bolt_spacer_washers_2.jpg)
+![](tPictures/so_vwi_vwheel_eccentric_tools_2.jpg)
+![](tPictures/so_vwi_vwheel_tools_2.jpg)
+
+These are the plates that will mount on either end of the gantry and on the rear of the X-Axis.
 
 ###Requirements
 
@@ -55,16 +65,6 @@ When attaching V-wheels and Smooth Idlers, push them away from the center of the
  * 2.5mm Hex Key (used for the M3 screws if attaching the motor)
  * 1.5mm Hex Key (used for the set screws in the pulley)
  * 8mm (5/16") wrench
-
-![assembled idler](tPictures/so_smooth_idler_2.jpg)
-![assembled V-wheel](tPictures/so_v_wheel_2.jpg)
-![Motor Mount Carriages parts](tPictures/so_motor_mount_carriage_parts_2.jpg)
-![stepper motor, pulley, M3 bolts and washers, tools](tPictures/so_e_motor_pulley_2.jpg)
-![smooth idler with spacer and washers](tPictures/so_smooth_idler_bolt_spacer_washers_2.jpg)
-![](tPictures/so_vwi_vwheel_eccentric_tools_2.jpg)
-![](tPictures/so_vwi_vwheel_tools_2.jpg)
-
-These are the plates that will mount on either end of the gantry and on the rear of the X-Axis.
 
 [![exploded view of Motor Mount Carriages](tPictures/PS20022_4.png)](content/tPictures/PS20022_16.png)
 
