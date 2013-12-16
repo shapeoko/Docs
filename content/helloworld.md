@@ -37,7 +37,7 @@ With the machine turned off, move your gantry to the front left corner of the pa
 
 ##Attach Sharpie
 
-Using a piece of tape, affix your sharpie to the z-axis spindle carriage assembly. (Optionally you can mount the pen in-between two blocks of material which have matching grooves on them --- see the hello world at the top of this page.).
+Using a piece of tape, affix your sharpie to the z-axis spindle carriage assembly. (Optionally you can mount the pen in-between two blocks of material which have matching grooves on them --- see the hello world at the top of this page. Forum user Claudio used shorter bolts to attach the spindle straps, then used rubber bands to attach the pen to them.)
 
 ![Taped Sharpie](http://placehold.it/800x400&text=image+of+taped+sharpie+to+z+gantry)
 
