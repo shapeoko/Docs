@@ -51,8 +51,8 @@ This is the plate the Z-axis will attach to (it is identical to the Motor Mount 
 1. 30287-01 **Spindle Mount Plate** (12ga) x 1 pcs.
 - PS20010 13mm x 35mm x 20mm **Delrin Lead nut** x 1 pcs.
 - 25287-02 **M5 Flat Washer** x 10 pcs.
-- 25284-02 **M5 Hex Nut** 6 pcs.
-- PS20012 **Universal Spindle Mount** 2 pcs.
+- 25284-02 **M5 Hex Nut** x 6 pcs.
+- PS20012 **Universal Spindle Mount** x 2 pcs.
 - 30158-01 **Eccentric Nut** x 2 pcs.
 - 25203-02 **Dual Bearing V-Wheel (assembly)** x 4 pcs.
 - 25196-01 5mm x 16mm x 5mm Bearing (x 8 pcs. *contained in #7. above*)
@@ -122,9 +122,9 @@ Check your rod's straightness (one way is by rolling it on a flat surface) befor
 
 Compare the threaded rod (PS20011) to the assembly thread on one M8 Hex Nut (PS20007) far enough down to allow room for the flanged bearing, a second hex nut and for the  threaded rod to be just short of half-way into the flexible coupler. Before tightening things, ensure that the motor shaft will also fit just short of half-way into the flexible coupler.
 
-If the flexible coupler doesn't securely grip the threaded rod, wrapping the rod in some sort of metal foil or tape was suggested on the forums if the coupler does not hold it securely. Make certain the coupler holds the rod squarely.
+If the flexible coupler doesn't securely grip the threaded rod, wrap the end of the rod in some sort of metal foil or tape to ensure coupler holds it securely. Make certain the coupler holds the rod squarely.
 
-**Note:** Check to see that the threaded rod runs smoothly on the Delrin Lead nut --- if it doesn't, run the nut along the rod until it does. Using a drill is one option, or one could attach the threaded rod temporarily to a motor (connect all other motors as well) and jog it up and down using grbl.
+**Note:** Check to see that the threaded rod runs smoothly on the Delrin Lead nut --- if it doesn't, run the nut along the rod until it does. Using a drill is one option, or one could attach the threaded rod temporarily to a motor (connect all other motors as well) and jog it up and down using grbl. Be certain the nut is free of debris or other materials.
 
 ###Jam Nuts
 
