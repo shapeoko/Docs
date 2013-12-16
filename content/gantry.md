@@ -1,8 +1,6 @@
 # Gantry
 
-##Sub Gantry (PS20023)
-
-### Belt Clip Assembly (PS20020)
+## Belt Clip Assembly (PS20020)
 
 ![](tPictures/so_belt_anchors_2.jpg)
 ![](tPictures/so_belt_anchors_parts_2.jpg)
@@ -13,16 +11,22 @@
 
 The Belt Clip Assemblies are used to fasten and tension the GT2 belts (this is detailed later). There are 6 total, which should be assembled at this point, and which should be placed in the MakerSlide slots during assembly. See the PS20025 diagram below for details on orientation. At a minimum you just need to remember to put the insertion nuts into the back piece of MakerSlide (on the top slot) before attaching the second motor mount carriage. Once the carriage is in place, you will no longer have access to the slot. 
 
-1. PS20022 **Motor Mount Carriage** x 2 pcs.
-- PS20020 **Belt Clip Assembly** x 2 pcs.
-- 25286-02 **M5 x 12mm, BHCS** x 8 pcs.
-- 25287-02 **M5 Flat Washer** x 8 pcs.
-- PS20008 X/Y Axis Rail **MakerSlide Extrusion 500mm** x 2 pcs.
+##Sub Gantry (PS20023)
 
 ![exploded view of Gantry Carriage](tPictures/PS20023_2.png) 
 ![](tPictures/so_gantry_2.jpg)
 ![](tPictures/so_gantry_parts_2.jpg)
 ![](tPictures/so_gantry_parts_tool_2.jpg)
+
+###Requirements
+
+####Parts
+
+1. PS20022 **Motor Mount Carriage** x 2 pcs.
+- PS20020 **Belt Clip Assembly** x 2 pcs.
+- 25286-02 **M5 x 12mm, BHCS** x 8 pcs.
+- 25287-02 **M5 Flat Washer** x 8 pcs.
+- PS20008 X/Y Axis Rail **MakerSlide Extrusion 500mm** x 2 pcs. (not called out on the diagram)
 
 **Note:** Do not attach one end plate during this step (despite the photograph showing this). Slide the Z-Axis Assembly gantry carriage (PS20031) from the previous step onto the gantry (see below) before attaching the second motor mount plate.
 
@@ -31,7 +35,6 @@ This is evident in the next step.
 [![exploded view of Gantry Carriage](tPictures/PS20023_4.png)](content/tPictures/PS20023_16.png)
 
 Push the MakerSlide as far as is possible to one end of the slot which the 12mm M5 bolts fit through. Only tighten the pair of bolts on the MakerSlide which is snugged up against the end of the slot, the other should be slightly loose. Note that there is a space in-between the two pieces of MakerSlide. This spacing will be set in a following step.
-
 
 
 ##Complete Gantry (PS20025)
@@ -43,6 +46,10 @@ Push the MakerSlide as far as is possible to one end of the slot which the 12mm 
 ![](tPictures/so_gantry_half_carriage_tools_2.jpg)
 
 **Note:** the parts picture above shows some extra parts which will be used in the next step.
+
+###Requirements
+
+####Parts
 
 1. (un-enumerated part)
 2. PS20031 **Gantry Carriage** x 1 pcs.
