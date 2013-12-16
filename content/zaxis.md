@@ -99,7 +99,7 @@ One should also attach the motor for the Z-axis at this time.
 
 ####Electronics
 
- - Stepper Motor (if at all possible, you should attach the stepper motor at this time, doing it later will probably require some disassembly)
+- **Stepper Motor** (if at all possible, you should attach the stepper motor at this time, doing it later will probably require some disassembly)
 - 25287-03 **M3 Flat Washer** x 3 (or more, see below) pcs.
 
 ####Tools
@@ -118,9 +118,13 @@ Assemble this from the inside out, starting with the smallest pieces and attachi
 
 ![threaded rod, flexible coupler and nuts shown with ruler](tPictures/so_z_axis_dimensions_4.jpg)
 
+Check your rod's straightness (one way is by rolling it on a flat surface) before assembly. 
+
 Compare the threaded rod (PS20011) to the assembly thread on one M8 Hex Nut (PS20007) far enough down to allow room for the flanged bearing, a second hex nut and for the  threaded rod to be just short of half-way into the flexible coupler. Before tightening things, ensure that the motor shaft will also fit just short of half-way into the flexible coupler.
 
-If the flexible coupler doesn't securely grip the threaded rod, wrapping the rod in some sort of metal foil or tape was suggested on the forums if the coupler does not hold it securely. 
+If the flexible coupler doesn't securely grip the threaded rod, wrapping the rod in some sort of metal foil or tape was suggested on the forums if the coupler does not hold it securely. Make certain the coupler holds the rod squarely.
+
+**Note:** Check to see that the threaded rod runs smoothly on the Delrin Lead nut --- if it doesn't, run the nut along the rod until it does. Using a drill is one option, or one could attach the threaded rod temporarily to a motor (connect all other motors as well) and jog it up and down using grbl.
 
 ###Jam Nuts
 
@@ -151,8 +155,6 @@ Insert the 10mm M5 bolts with an M5 washer into the Z-Assembly Carriage (PS20021
 [![exploded view of Z-axis](tPictures/PS20030_4.png)](content/tPictures/PS20030_16.png)
 
 Turn the eccentric nuts on the Spindle Carriage Assembly (PS20029) so that they move the matching V-wheels as far as possible from the opposing static V-wheels. Slide the Spindle Carriage Assembly onto the Z-Axis Rail Assembly, match it up with the Delrin Lead nut and turn the threaded rod using the flexible coupler, bring the Spindle Carriage Assembly up so that the V-wheels are completely on the MakerSlide V-rail. Be careful not to nick or damage the Delrin V-wheels, or to cross-thread the Delrin Lead nut.
-
-**Note:** Check to see that the threaded rod runs smoothly on the Delrin Lead nut --- if it doesn't, run the nut along the rod until it does. Using a drill is one option, or one could attach the threaded rod temporarily to a motor (connect all other motors as well) and jog it up and down using grbl.
 
 ##Sub Gantry (PS20023)
 
