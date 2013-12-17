@@ -62,9 +62,9 @@ Place the 10mm M5 bolts w/ washers into the bottom holes on the open end plates 
 
 Turn the eccentric nuts on the V-wheels on the Complete Gantry (PS20025) so that they are as far from the static V-wheels as is possible. Drive the Complete Gantry onto the two Y-Axis Rail Assemblies (PS20026), then attach the open end plates.
 
-Tighten the bolts holding the MakerSlide, then begin tightening the bolts which hold the bottom of the open end plates. Carefully center the Y-axis rails and gantry on the wasteboard. Move the gantry to one end and continue tightening the bottom bolts. Move the gantry to the other end, then repeat. Go back and forth gradually tightening things and ensure that everything is aligned and square and that the gantries move freely.
-
 ![](tPictures/so_gantry_half_carriage_mounted_parts_4.jpg)
+
+Tighten the bolts holding the MakerSlide, then begin tightening the bolts which hold the bottom of the open end plates. Carefully center the Y-axis rails and gantry on the wasteboard. Move the gantry to one end and continue tightening the bottom bolts. Move the gantry to the other end, then repeat. Go back and forth gradually tightening things and ensure that everything is aligned and square and that the gantries move freely.
 
 Check the alignment with a known-to-be-good square. One can also measure the diagonals to test for squareness. Ensure that everything is aligned squarely and that the Complete Gantry and the X-Axis Sub Gantry move smoothly. Finish tightening the bolts. (These last steps are covered in more detail below under Fine-tuning).
 
@@ -121,6 +121,7 @@ With the Allen wrench inserted into the button head cap screw, adjust the screw 
 ![belt tightening](belt-routing/63-so_wiring-062.jpg)
 
 (If you can't get enough tension, place one of the 13mm wrenches against the far side of the Allen wrench and use it as a handle to pull the Allen wrench to pull the belt anchor to tension the belt)
+
 ## Last but not least
 
 You will also need to complete the wiring as documented in the [next step](wiring.html).
