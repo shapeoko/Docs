@@ -58,11 +58,15 @@ Carefully center and square everything up, then tighten the bolts. Square up the
 
 ![](tPictures/so_gantry_half_carriage_parts_4.jpg)
 
+Place the 10mm M5 bolts w/ washers into the bottom holes on the open end plates which are attached to the MakerSlide, thread on the insertion nuts, then carefully slide the rail assemblies onto the wasteboard extrusion. Tighten the bolts enough to be certain the threads won't pull free.
+
 Turn the eccentric nuts on the V-wheels on the Complete Gantry (PS20025) so that they are as far from the static V-wheels as is possible. Drive the Complete Gantry onto the two Y-Axis Rail Assemblies (PS20026), then attach the open end plates.
+
+Tighten the bolts holding the MakerSlide, then begin tightening the bolts which hold the bottom of the open end plates. Carefully center the Y-axis rails and gantry on the wasteboard. Move the gantry to one end and continue tightening the bottom bolts. Move the gantry to the other end, then repeat. Go back and forth gradually tightening things and ensure that everything is aligned and square and that the gantries move freely.
 
 ![](tPictures/so_gantry_half_carriage_mounted_parts_4.jpg)
 
-Place the 10mm M5 bolts w/ washers into the bottom holes on the open end plates, thread on the insertion nuts, then carefully slide the rail assemblies onto the wasteboard extrusion. Check the alignment with a known-to-be-good square. One can also measure the diagonals to test for squareness. Ensure that everything is aligned squarely and that the Complete Gantry and the X-Axis Sub Gantry move smoothly. Tighten the bolts. (These last steps are covered in more detail below under Fine-tuning).
+Check the alignment with a known-to-be-good square. One can also measure the diagonals to test for squareness. Ensure that everything is aligned squarely and that the Complete Gantry and the X-Axis Sub Gantry move smoothly. Finish tightening the bolts. (These last steps are covered in more detail below under Fine-tuning).
 
 Congratulations! You've built a ShapeOko!
 
@@ -76,7 +80,7 @@ Check that each component is square to the others using a known-to-be-good squar
 
 ### Adjusting the V-Wheels
 
-At this point, you will need to adjust the machine's V-wheels. These should be tight enough to hold things in alignment, but loose enough that the machine moves freely and smoothly. The suggested technique for this is, "Loosen the eccentric spacer until the V-wheel does not rotate when the carriage is moving and then tighten just (and no more!) until the v-wheel rotates when moving the carriage. Overtightening will lead to the V-wheel wearing out."
+At this point, you will need to adjust the machine's V-wheels. These should be tight enough to hold things in alignment, but loose enough that the machine moves freely and smoothly. The suggested technique for this is, "Loosen the eccentric spacer until the V-wheel does not rotate when the carriage is moving and then tighten just (and no more!) until the V-wheel rotates when moving the carriage. Overtightening will lead to the V-wheel wearing out."
 
 * Slide the gantry back and fourth a couple of times to even out the rails and get everything roughly lined up. It may still feel stiff when sliding, but you can adjust that later.
 * Slide the gantry to the back of the machine. Both V-wheels should be touching or at least be the same distance from the belt anchors. Carefully snug up the four screws on the back end plates.
@@ -97,16 +101,13 @@ You should now mount the belts on the belt anchors.
 * Divide the belt into thirds (one-third for the X-axis, two equal lengths for the two sides of the Y-axis)
 * Loop the belts into the belt anchors
 * Tighten one end of each belt
-* Use some technique which allows you to tension the other end of each belt and tighten it down. (One method is to tie a length of cord around the open end plate and the Allen wrench while the latter is inserted into the belt anchor bolt, add a block of wood or plastic as a fulcrum near the top of the Allen wrench, tie a screwdriver or other tool into the cord's knot, twist the tool in the knot while holding down on the Allen wrench, then tighten the belt anchor bolt.)
+* Use some technique which allows you to tension the other end of each belt and tighten it down. 
 
 The belts get routed through the belt clips by:
 
 1. Passing the belt **down** through the __back__ slot (closest to the screw).
-
 2. From the back slot, they go down, and then back **up** through the front slot.
-
 3. You only need about 12mm (1/2") of belting through the front slot to lock the loops together.
-
 4. Making sure the teeth mesh together will ensure a tight (slip free) fit.
 
 ![belt clip routing 1](belt-routing/62-so_wiring-061.jpg)
@@ -119,6 +120,7 @@ With the Allen wrench inserted into the button head cap screw, adjust the screw 
 
 ![belt tightening](belt-routing/63-so_wiring-062.jpg)
 
+(If you can't get enough tension, place one of the 13mm wrenches against the far side of the Allen wrench and use it as a handle to pull the Allen wrench to pull the belt anchor to tension the belt)
 ## Last but not least
 
 You will also need to complete the wiring as documented in the [next step](wiring.html).
