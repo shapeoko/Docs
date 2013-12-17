@@ -39,13 +39,9 @@ With the machine turned off, move your gantry to the front left corner of the pa
 
 Using a piece of tape, affix your sharpie to the z-axis spindle carriage assembly. (Optionally you can mount the pen in-between two blocks of material which have matching grooves on them --- see the hello world at the top of this page. Forum user Claudio used shorter bolts to attach the spindle straps, then used rubber bands to attach the pen to them.)
 
-![Taped Sharpie](http://placehold.it/800x400&text=image+of+taped+sharpie+to+z+gantry)
-
 
 ##Position Sharpie
 Lower your sharpie so it is about 1 inch above the paper.
-
-![Inch above work surface](helloworld/sharpie_close.jpg)
 
 
 ##Open Software
@@ -57,17 +53,17 @@ Plug the power in to your machine and open Universal Gcode Sender on your comput
 ##Open Connection Between Computer and Machine
 Select the correct com port and baud rate from the drop down menus on the left.  Click 'Open' to establish a connection with the Arduino.  Once the connection has been made, GRBL will say hello by displaying its version number.
 
-![Make Connection](http://placehold.it/800x400&text=image+of+open+connection+with+GRBL+version+displayed)
+![Make Connection](helloworld/open_connection.png)
 
 
 ##Verify Grbl Settings
 In the command line at the top of Universal Gcode Sender, type $ and press enter.  Grbl should respond with a help message.
 
-![$ Command Response](http://placehold.it/800x400&text=screenshot+of+$+command+response)
+![$ Command Response](helloworld/grbl_settings.png)
 
 In the same command line, type $$ to view the current Grbl settings.
 
-![$ Command Response](http://placehold.it/800x400&text=screenshot+of+$$+command+response)
+![$ Command Response](helloworld/grbl_config.png)
 
 
 ##Configure Grbl Settings
@@ -114,18 +110,18 @@ Click the 'Reset Zero' Button, to tell your machine that you are at 0,0. You sho
 
 To make sure there are no mistakes, lets draw some stuff in the air.  Click the 'File Mode' tab at the top of the program window. With the sharpie ~1" above the work surface, click the 'Send' button just below the file path.
 
-![Send File](http://placehold.it/800x400&text=image+of+sending+file)
+![Send File](helloworld/run_job.png)
 
 You should see Universal Gcode Sender start streaming the text file line by line to the Arduino, and your machine should start moving around.
 
-![Sent File](http://placehold.it/800x400&text=image+of+streaming+gcode)
+![Sent File](helloworld/grbl_stream.png)
 
 
 ##Run Job!
 
 Lower your sharpie so it is *just* barely above the paper.
 
-![Just above work surface](http://placehold.it/800x400&text=image+of+sharpie+almost+touching+paper)
+![Just above work surface](helloworld/sharpie_close.jpg)
 
 OK, now we're ready. Take a deep breath (this is going to be amazing) and click the 'Send' button just below the file path one more time.
 
