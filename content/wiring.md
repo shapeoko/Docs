@@ -1,5 +1,7 @@
 # Electrical Wiring
+
 ## Overview
+
 ![schematic](sketches/electronics_layout.svg)
 
 The ShapeOko 2 electrical wiring is, like the rest of the machine, versatile. There are 3 documented options to wire the machine easily. Each option has been broken out into a separate page for clarity. Depending on your setup, and skill set, one option may be better for you than another. Chose your option by evaluating the requirements of your machine, how you intend to use it and your skill-set and available tools and aesthetic.
@@ -29,22 +31,26 @@ This is the direct wire method that requires (modest) soldering skills to comple
 
 
 ## Option #2 - Terminal Blocks
+
 This is the terminal block method. This method is pretty easy, but requires that you make some preparations **WHILE** you are assembling the machine.
 
 ###You will need the following tools and parts to complete this option
 
 * Screw Driver
+* Zip Ties
+* Expandable Braiding
 * 4 Position Terminal Block x 3
 * Razor Blade (wire stripper)
+* 5.5mm wrench
+* 2.5mm Hex key
 * M3 x 16mm SHCS x 6
 * M3 flat washer x 12
 * M3 hex nut x 6
-* Zip Ties
-* Expandable Braiding
 
 [click here to view these instructions](wiring_2.html)
 
 ## Option #3 - Experimental!
+
 This is the 'mount the controller on the machine' method. It's experimental, it's untested, it's **hot**. You can assemble the entire machine before doing this step. If you venture down this path, you're an explorer, and may be on your own. It might be worth it.
 
 ![mtcotm](wiring/68-so_wiring-067.jpg)
