@@ -37,7 +37,7 @@ With the machine turned off, move your gantry to the front left corner of the pa
 
 ##Attach Sharpie
 
-Using a piece of tape, affix your sharpie to the z-axis spindle carriage assembly. (Optionally you can mount the pen in-between two blocks of material which have matching grooves on them --- see the hello world at the top of this page. Forum user Claudio used shorter bolts to attach the spindle straps, then used rubber bands to attach the pen to them.)
+Using a piece of tape, affix your sharpie to the z-axis spindle carriage assembly. (Optionally you can mount the pen in-between two blocks of material which have matching grooves on them --- see the hello world at the top of this page. Forum user Claudio used shorter bolts to attach the spindle straps, then used rubber bands to attach the pen to them. Other users have used criss-crossed Zip ties. The better secured the pen is, the better the plot will look.)
 
 
 ##Position Sharpie
@@ -133,3 +133,5 @@ OK, now we're ready. Take a deep breath (this is going to be amazing) and click 
 Your machine will now run the hello world job. Keep close to your computer, and be aware of how to quickly disconnect the power from your machine in case of an emergency situation.
 
 [![Finished job](tPictures/so_2_helloworld_two_4.jpg)](tpictures/content/tPictures/so_2_helloworld_two_16.jpg)
+
+Once it's complete, you may wish to [document it on the wiki](http://www.shapeoko.com/wiki/index.php/Hello_World).
