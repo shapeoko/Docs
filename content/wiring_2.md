@@ -5,7 +5,7 @@
 
 This is the terminal block method. This method is pretty easy, but requires that you make some preparations **WHILE** you are assembling the machine.
 
-![Z-axis wiring with terminal blocks](rear_rendered_with_tb.png)
+![Z-axis wiring with terminal blocks](wiring/rear_rendered_with_tb.png)
 
 ![wiring with terminal blocks](wiring/rendered_wiring_right_tb.png)
 
