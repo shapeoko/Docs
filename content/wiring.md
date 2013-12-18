@@ -23,6 +23,7 @@ This is the direct wire method that requires (modest) soldering skills to comple
 * Solder
 * Wire Strippers
 * Heat Shrink Tubing (2 sizes) (or electrical tape)
+* Heat source (heat gun or (hair) blow dryer)
 * Zip Ties (about a dozen)
 * 4 Position Terminal Block (optional)
 * Expandable braiding (2 sizes), optional
@@ -40,6 +41,7 @@ This is the terminal block method. This method is pretty easy, but requires that
 * Zip Ties
 * Expandable Braiding
 * Heat shrink tubing
+* Heat source (heat gun or (hair) blow dryer)
 * 4 Position Terminal Block x 3
 * Razor Blade (wire stripper)
 * 5.5mm wrench
