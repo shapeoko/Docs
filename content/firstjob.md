@@ -118,6 +118,9 @@ You should see Universal Gcode Sender start streaming the file, and your machine
 
 
 ##Run Job!
+
+First, make sure that you have adequate safety gear, eye protection (safety glasses), hearing protection (at least a pair of foam ear plugs, better is to combine foam ear plugs with noise-reducing ear muffs). Second, review the [operating checklist](http://www.shapeoko.com/wiki/index.php/Operating_Checklist). Third, **never** operate the machine without safety gear. 
+
 Lower your spindle so it's *just* ***touching*** the material.
 
 ![Just above work surface](firstjob/zero_Z.png)
