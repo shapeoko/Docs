@@ -39,6 +39,7 @@ This is the terminal block method. This method is pretty easy, but requires that
 * Screw Driver
 * Zip Ties
 * Expandable Braiding
+* Heat shrink tubing
 * 4 Position Terminal Block x 3
 * Razor Blade (wire stripper)
 * 5.5mm wrench
