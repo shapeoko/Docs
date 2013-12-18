@@ -14,11 +14,15 @@ Before we begin, let's make sure we are ready to go:
 
 If you answered yes to all 4 questions above, then let's proceed.
 
+##Operating Checklist
+
+Always review and follow the [operating checklist](http://www.shapeoko.com/wiki/index.php/Operating_Checklist). While hearing protection isn't necessary for this plotting operation, one should still get in the habit of wearing safety glasses.
+
 ##Work Area
 
-1.) Tape a piece of paper down to your work area. The paper should be taped in landscape orientation (wider than it is tall). Keep the paper towards the front/left of the machine.
+Tape a piece of paper down to your work area. The paper should be taped in landscape orientation (wider than it is tall). Keep the paper towards the front/left of the machine.
 
-![successfull job](helloworld/paper_tape.jpg)
+![successful job](helloworld/paper_tape.jpg)
 
 
 ##Download Files
