@@ -42,7 +42,7 @@ Additional useful tools include:
 ###Screw Sizes (lengths)
 
 
-For the most part, it's obvious which size screw is used for what, but the M5 8mm and 12mm BHCS (button head cap screws) are easily confused with the 10mm length --- while it's not noticeable when the shorter 10mm length is used where one ought to use a 12mm, the 8mm and 10mm screws are intended for use with MakerSlide insertion nuts and a screw which is too long and will bottom out before beginning to hold anything in place.
+For the most part, it's obvious which size screw is used for what, but the M5 8mm and 12mm BHCS (button head cap screws) are easily confused with the 10mm length --- while it's not noticeable when the shorter 10mm length is used where one ought to use a 12mm, the 8mm and 10mm screws are intended for use with MakerSlide insertion nuts and a screw which is too long will bottom out before beginning to hold anything in place.
 
 ----
 
