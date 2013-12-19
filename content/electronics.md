@@ -25,6 +25,8 @@ Please note that stepper motors can be wired up in many different ways and still
 * **USB Cable** (A to B)
 * Patience (just a little bit)
 
+Please note that the photos depict using terminal blocks to connect the wiring --- this is optional and included to cover the case of motors with short lead wires which would require them. The 4-conductor cable should be 18 or 20 gauge and shielded. Note that in addition to the 4 color-coded copper conductors there is a steel "drain wire" which may be optionally be connected to ground at the controller end, but should be trimmed off with the shielding at the motor end.
+
 ## Tools
 
 ![Tools](tPictures/e_test_tools_1.jpg)
