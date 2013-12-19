@@ -1,5 +1,7 @@
 #Pro Tips!
 
+Take your time, read the instructions and examine the diagrams until one is confident of how to proceed. Don't force anything and be careful when tightening not to strip any threads. If things seem to require significant effort, back off, pause and reconsider.
+
 ###Electronics and Mechanicals
 
 Take a look at the [wiring page](wiring.html) before beginning assembly. Depending on the method you decide to employ, you may have to do some wiring as you assemble.
@@ -44,13 +46,15 @@ For the most part, it's obvious which size screw is used for what, but the M5 8m
 
 ----
 
-###A Note on Tapping
+###Tapping
 
 Tapping means to cut threads on the inside of a hole.  There is an entire industry based around this process, and some people take it very seriously. If you look around the internet you can find 1,000s of site with "drill and tap" charts. These charts tell a person how big of a hole is required to be tapped to a certain thread size. There is an article on Wikipedia describing [Tap and Die](http://en.wikipedia.org/wiki/Tap_and_die).
 
-When tapping, it's important to not just torque down and twist as hard as you can.
+The holes are already drilled and should be the correct size. If you encounter difficulties, measure the holes. If they are out-of-spec, check on the wiki and forums.
 
-The holes only need to be tapped ~12mm deep for the M5x12mm screws, but may be tapped deeper if using longer bolts. 
+**When tapping, it's important to not just torque down and twist as hard as you can.**
+
+The holes only need to be tapped ~12mm deep for the M5x12mm screws, but may be tapped deeper if using longer bolts. Reserving doing that until upgrading is one strategy.
 
 #####Taps Are Brittle - Don't drop them on a cement floor.
 
@@ -88,3 +92,5 @@ The awesome news is that you can hone your tapping skillz (with a z!) by practic
 - Plates and hardware to put it together
 
 Extrusion profiles and other CAD data are available at [makerslide.com](http://www.makerslide.com/).
+
+Made of aluminum, it is (relatively) soft and easily dinged or even twisted or bent. Be careful of it, especially the rails.
