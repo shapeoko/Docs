@@ -45,6 +45,7 @@ This is the terminal block method. This method is pretty easy, but requires that
 * Heat shrink tubing
 * Heat source (heat gun or (hair) blow dryer)
 * 4 Position Terminal Block x 3
+* 4-conductor wire (shielded, in addition to the 4 color-coded copper conductors there is a steel "drain wire" which may be _optionally_ be connected to ground at the controller end, but should be trimmed off with the shielding at the motor end)
 * Razor Blade (wire stripper)
 * 5.5mm wrench
 * 2.5mm Hex key
