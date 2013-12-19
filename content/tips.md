@@ -94,3 +94,9 @@ The awesome news is that you can hone your tapping skillz (with a z!) by practic
 Extrusion profiles and other CAD data are available at [makerslide.com](http://www.makerslide.com/).
 
 Made of aluminum, it is (relatively) soft and easily dinged or even twisted or bent. Be careful of it, especially the rails.
+
+---
+
+###Workholding
+
+Visit the page on the wiki and decide how you will safely secure workpieces.
