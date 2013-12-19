@@ -8,6 +8,8 @@
 
 This is the terminal block method. This method is pretty easy, but requires that you make some preparations **WHILE** you are assembling the machine. It is especially suited if you have short motor leads, or want to expand your machine beyond the reach of your motor leads.
 
+**Note:** The photographs show one way to do the wiring, but it would be better to follow the electronics layout svg wiring diagram. Eventually the photographs will be re-taken.
+
 ![Z-axis wiring with terminal blocks](wiring/rear_rendered_with_tb.png)
 
 ![wiring with terminal blocks](wiring/rendered_wiring_right_tb.png)
