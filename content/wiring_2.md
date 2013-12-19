@@ -29,6 +29,8 @@ You may either Zip tie the terminal blocks to the motor carriages or bolt them, 
 * M3 flat washer x 12 pcs.
 * M3 hex nut x 6 pcs. 
 
+You may also need M4 or M5 washers to place in-between the M3 washers and motor mount plates --- these make it easier to keep things aligned and provide a larger surface.
+
 ####Tools
 
 * Razor Blade (wire stripper)
@@ -42,7 +44,7 @@ You may either Zip tie the terminal blocks to the motor carriages or bolt them, 
 
 (_Note the above photograph shows some extra bolts, washers and nuts._)
 
-During assembly, attach two terminal blocks to the right Y-axis motor mount carriage and one to the right of the X-axis motor mount carriage.
+During assembly, attach two terminal blocks to the right Y-axis motor mount carriage and one to the right of the X-axis motor mount carriage. Note the indicated stepper motor orientation, which makes for neater cable runs.
 
 [![](tPictures/so_wiring_terminalblocks_tools_4.jpg)](content/tPictures/so_wiring_terminalblocks_tools_8.jpg)
 
