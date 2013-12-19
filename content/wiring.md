@@ -33,7 +33,7 @@ This is the direct wire method that requires (modest) soldering skills to comple
 
 ## Option #2 - Terminal Blocks
 
-This is the terminal block method. This method is pretty easy, but requires that you make some preparations **WHILE** you are assembling the machine.
+This is the terminal block method. This method is pretty easy, but requires that you make some preparations **WHILE** you are assembling the machine. It is best suited for machines which will be scaled up dramatically in size, or for motors which have short leads.
 
 ###You will need the following tools and parts to complete this option
 
