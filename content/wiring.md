@@ -4,13 +4,15 @@
 
 ![schematic](sketches/electronics_layout.svg)
 
-The ShapeOko 2 electrical wiring is, like the rest of the machine, versatile. There are 3 documented options to wire the machine easily. Each option has been broken out into a separate page for clarity. Depending on your setup, and skill set, one option may be better for you than another. Chose your option by evaluating the requirements of your machine, how you intend to use it and your skill-set and available tools and aesthetic.
+The ShapeOko 2 electrical wiring is, like the rest of the machine, versatile. There are 3 documented options to wire the machine easily. Each option has been broken out into a separate page for clarity. Depending on your setup, and skill set, one option may be better for you than another. Chose your option by evaluating the requirements of your machine, its ultimate size ([if scaling up](http://www.shapeoko.com/wiki/index.php/Scaling_Up)), how you intend to use it and your skill-set and available tools and aesthetic. While the default ShapeOko 2 size can make use of expandable braiding to manage the wiring, you may wish to look at other [cable management options](http://www.shapeoko.com/wiki/index.php/Cable_Management).
 
 ## Routing
 
-In all scenarios, your stepper wires will be initially be routed as such:
+In all scenarios, your stepper wires should be initially be routed as such:
 
 ![wire facing up](wiring/wiring_routing_overview.svg)
+
+Please note that the Z-axis leads should come down to the X-axis motor mount carriage so as to minimize the wear on the connectors and to begin consolidating the wires.
 
 ---
 
