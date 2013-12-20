@@ -6,6 +6,8 @@
 
 The ShapeOko 2 electrical wiring is, like the rest of the machine, versatile. There are 3 documented options to wire the machine easily. Each option has been broken out into a separate page for clarity. Depending on your setup, and skill set, one option may be better for you than another. Chose your option by evaluating the requirements of your machine, its ultimate size ([if scaling up](http://www.shapeoko.com/wiki/index.php/Scaling_Up)), how you intend to use it and your skill-set and available tools and aesthetic. While the default ShapeOko 2 size can make use of expandable braiding to manage the wiring, you may wish to look at other [cable management options](http://www.shapeoko.com/wiki/index.php/Cable_Management).
 
+If you tested your electronics with terminal blocks it would probably suffice to merely detach the grey stepper motors from them.
+
 ## Routing
 
 In all scenarios, your stepper wires should be initially be routed as such:
@@ -35,7 +37,7 @@ This is the direct wire method that requires (modest) soldering skills to comple
 
 ## Option #2 - Terminal Blocks
 
-This is the terminal block method. This method is pretty easy, but requires that you make some preparations **WHILE** you are assembling the machine. It is best suited for machines which will be scaled up dramatically in size, or for motors which have short leads.
+This is the terminal block method. This method is pretty easy, but requires that you make some preparations **WHILE** you are assembling the machine (attaching the terminal blocks). It is best suited for machines which will be scaled up dramatically in size, or for motors which have short leads.
 
 ###You will need the following tools and parts to complete this option
 
