@@ -75,3 +75,5 @@ Alternate, assembly-line procedure for the V-Wheels:
 6. Repeat this procedure for the remaining smooth idlers (6 total)
 
 ![Smooth Idler Wheel Assembled](tPictures/so_smooth_idler_4.jpg)
+
+###Next step [Carriages](http://docs.shapeoko.com/carriages.html)
