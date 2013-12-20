@@ -1,5 +1,5 @@
 ## Option #3 
-This is the 'mount the controller on the machine' method. It's experimental, it's untested, it's **hot**. You can assemble the entire machine before doing this step*. If you venture down this path, you're an explorer, and may be on your own. It might be worth it.
+This is the 'mount the controller on the machine' method. It's experimental, it's untested, it's **hot**. *You can assemble the entire machine before doing this step*. If you venture down this path, you're an explorer, and may be on your own. It might be worth it.
 
 ###assembly tip
 _While it's physically possible to attach the Arduino after the machine is assembled, it's a pain in the ass. If you want to do yourself a favor, and save some frustration. Wire the entire gantry before mounting it to the work area._
@@ -130,3 +130,5 @@ Cover the bundle with expandable braiding, adding a zip tie to the bottom, and t
 If it's done right, you'll end up with something like this. 
 
 ![rear view actual image](wiring/68-so_wiring-067.jpg)
+
+###Next Step [Hello, World](http://docs.shapeoko.com/helloworld.html)
