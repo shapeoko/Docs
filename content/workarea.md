@@ -101,7 +101,7 @@ You should now mount the belts on the belt anchors.
 * Divide the belt into thirds (one-third for the X-axis, two equal lengths for the two sides of the Y-axis)
 * Loop the belts into the belt anchors
 * Tighten one end of each belt
-* Use some technique which allows you to tension the other end of each belt and tighten it down. 
+* Use some technique which allows you to tension the other end of each belt and tighten it down (see below). 
 
 The belts get routed through the belt clips by:
 
@@ -122,8 +122,4 @@ With the Allen wrench inserted into the button head cap screw, adjust the screw 
 
 (If you can't get enough tension, place one of the 13mm wrenches against the far side of the Allen wrench and use it as a handle to pull the Allen wrench to pull the belt anchor to tension the belt)
 
-## Last but not least
-
-You will also need to complete the wiring as documented in the [next step](wiring.html).
-
-
+###Next Step [Wiring](wiring.html)
