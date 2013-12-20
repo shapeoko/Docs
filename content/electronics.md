@@ -161,3 +161,7 @@ X-Axis
 ###And a Final Spin###
 
 Y-Axis --- make certain that the two motors for the Y-axis are rotating in opposite directions.
+
+Once everything has been successfully tested you should dismantle at least the terminal block connections and carefully set everything aside until it's needed.
+
+###Next step [Wheels & Idlers](wheels.html)
