@@ -50,6 +50,8 @@ During assembly, attach two terminal blocks to the right Y-axis motor mount carr
 
 [![](tPictures/so_wiring_terminalblocks_tools_4.jpg)](content/tPictures/so_wiring_terminalblocks_tools_8.jpg)
 
+_Note, the above photo shows a fully assembled Z-axis carriage --- the instructions have one place the terminal blocks on the carriage plate sub-assemblies at the end of the [carriages step](http://docs.shapeoko.com/carriages.html)._
+
 ###Z-axis
 
 [![](tPictures/so_wiring_zaxis_expandablebraid_4.jpg)](content/tPictures/so_wiring_zaxis_expandablebraid_8.jpg)
