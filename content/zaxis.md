@@ -175,7 +175,7 @@ Turn the eccentric nuts on the Spindle Carriage Assembly (PS20029) so that they 
 - 25284-02 **M5 Hex Nut** x 6 pcs.
 - PS20030 **Complete Z-Axis Assembly** x 1 pcs. (not enumerated in the diagram)
 
-If possible, select a Motor Mount Carriage (PS20022) which has a stepper motor attached. 
+If possible, select a Motor Mount Carriage (PS20022) which has a stepper motor attached. If using wiring option #2, there should be a terminal block attached to the right (on the side opposite the V-wheels and smooth idlers).
 
 [![exploded view of sub gantry](tPictures/PS20031_4.png)](content/tPictures/PS20031_16.png)
 
