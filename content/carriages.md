@@ -89,8 +89,12 @@ Motor orientation is as follows:
 
 ![wire facing up](wiring/stepper_orientation_up.svg)
 
+(attach one terminal block to the right of this plate)
+
 ###Right Y axis
 
 ![wire facing up](wiring/stepper_orientation_left.svg)
 
-If using [Wiring Option \#2](http://docs.shapeoko.com/wiring_2.html), attach the terminal blocks now to the appropriate plates, while both sides are readily accessible.
+(attach two terminal blocks to this plate)
+
+If using [Wiring Option \#2](http://docs.shapeoko.com/wiring_2.html), attach the terminal blocks now to the appropriate plates, while the inner sides are readily accessible.
