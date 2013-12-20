@@ -9,9 +9,9 @@ There are .pdf versions of the plans/diagrams on [github](https://github.com/sha
 
 ###Electronics and Mechanicals
 
-Take a look at the [wiring page](wiring.html) before beginning assembly. Depending on the method you decide to employ, you may have to do some wiring as you assemble.
+Take a look at the [wiring page](wiring.html) before beginning assembly. Depending on the method you decide to employ, you may have to do some preparatory work for the wiring as you assemble.
 
-The assembly instructions have these two steps separated. The first step is for **testing** your electronics. As noted in the details of that step, it's easier to troubleshoot, and if there's a major problem, you won't have to disassemble the machine. It is best to partially disassemble the electronics after testing them in order to mount the motors onto the appropriate motor mount carriage plates.
+The assembly instructions have these two steps separated. The first step is for _testing_ your electronics. As noted in the details of that step, it's easier to troubleshoot, and if there's a major problem, you won't have to disassemble the machine. It is best to partially disassemble the electronics after testing them in order to mount the motors onto the appropriate motor mount carriage plates.
 
 ###Tools
 
@@ -44,6 +44,8 @@ Additional useful tools include:
 * #2 Philips screwdriver (or 9/32" flat-bladed screwdriver)
 * Multimeter to test continuity
 
+----
+
 ###Screw Sizes (lengths)
 
 
@@ -61,22 +63,22 @@ The holes are already formed as part of the extrusion process (as opposed to bei
 
 The holes only need to be tapped ~12mm deep for the M5x12mm screws, but may be tapped deeper if using longer bolts. Reserving doing that until upgrading is one strategy.
 
-#####Taps Are Brittle - Don't drop them on a cement floor.
+#####Taps Are Brittle --- Don't drop them on a cement floor.
 
 The tap has to be harder than the material it's tapping. Because of that hardening, it's brittle, as in easily broken. You want to avoid breaking the tap like you would avoid getting the plague. Use a proper tool, such as the T-handle included with your kit, to turn the tap. Don't use a wrench, locking pliers, or a vice. Yeah, those last three will work, but you'll be playing with fire.
 
 
-#####Lubricate - a little bit will go a long way.
+#####Lubricate --- a little bit will go a long way.
 
 Lubricating will reduce the amount of friction produced while tapping, making the tap handle easier to turn. It could also aid in chip removal as there will be less friction keeping the chips in. You can use tapping fluid, motor oil, WD-40, butter, PAM, water, etc., or basically anything that's wet. You won't need a lot of whatever you chose. Whatever you choose, be careful to clean it up afterwards, especially if it's water-based which might create the possibility of corrosion, or oily which will stain the wasteboard.
 
 
-#####Take Your Time - this is not a race.
+#####Take Your Time --- this is not a race.
 
 No, seriously this is not a race. You don't want to break one of these things. Not only will you be really mad at yourself, but you'll also have to buy a new piece of MakerSlide (or use kitchen chemistry to dissolve the broken tap, see the wiki), a new tap, and possibly anything else that you break during your resultant outburst. So, take your time and go slow.
 
 
-#####You're a Breaker now - a chip breaker that is.
+#####You're a Breaker now --- a chip breaker that is.
 
 Take a look at your tap. It's not like a screw where the threads go all the way around the body. There are 4 sections of teeth, separated by vertical gaps called _flutes_. The teeth cut the metal, and the flutes act as an evacuation channel. Yeah, that's right, an evacuation channel. That's bad ass....
 
@@ -104,4 +106,4 @@ Made of aluminum, it is (relatively) soft and easily dinged or even twisted or b
 
 ###Workholding
 
-Visit the page on the wiki and decide how you will safely secure workpieces.
+There is a page on [workholding on the wiki](http://www.shapeoko.com/wiki/index.php/Workholding). Since the ShapeOko 2 uses an MDF wasteboard work area, one straight-forward option is to use T-nuts which can then be matched with SHCS which can then be fitted with plastic handles (all available from your local hardware store).
