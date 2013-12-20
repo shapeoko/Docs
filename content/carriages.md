@@ -5,7 +5,7 @@
 Before beginning this section, please take a look at the wiring options page. 
 
 * [Option \#1](wiring_1.html), needs no special attention at this step other than noting the motor orientations show in the steps below.
-* If you are going to use the terminal block method [option \#2](wiring_2.html), you will need to attach those terminal blocks in this step.
+* If you are going to use the terminal block method [option \#2](wiring_2.html), you will need to attach those terminal blocks in this step or the next.
 * [Option \#3](wiring_3.html), although not necessary at this step, could make life easier to attach your Arduino to the *right* Y axis motor mount plate.
 
 _See those specific options for more details._
@@ -83,7 +83,7 @@ These are the plates that will mount on either end of the gantry and on the rear
 
 Please note that the above image does not show the stepper motor in place. As previously noted, one should attach at least one stepper motor for the X-axis plate, as it's difficult to attach it once the gantry carriage is assembled. Use 4 M3 screws, 4 M3 washers and also attach the GT2 pulley.
 
-Motor orientation is as follows
+Motor orientation is as follows:
 
 ###Left Y axis and X Axis
 
@@ -92,3 +92,5 @@ Motor orientation is as follows
 ###Right Y axis
 
 ![wire facing up](wiring/stepper_orientation_left.svg)
+
+You may attach the terminal blocks now to the appropriate plates, or do so in the next step.
