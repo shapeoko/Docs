@@ -2,6 +2,11 @@
 
 Take your time, read the instructions and examine the diagrams until one is confident of how to proceed. Don't force anything and be careful when tightening not to strip any threads. If things seem to require significant effort, back off, pause and reconsider.
 
+###Printable .pdfs
+
+There are .pdf versions of the plans/diagrams on [github](https://github.com/shapeoko/Shapeoko_2/tree/master/Drawings_PDF).
+
+
 ###Electronics and Mechanicals
 
 Take a look at the [wiring page](wiring.html) before beginning assembly. Depending on the method you decide to employ, you may have to do some wiring as you assemble.
