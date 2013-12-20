@@ -68,12 +68,12 @@ These are the plates that will mount on either end of the gantry and on the rear
 
 [![exploded view of Motor Mount Carriages](tPictures/PS20022_4.png)](content/tPictures/PS20022_16.png)
 
-1. Connect V-Wheels to the plate
-	- two static at the top (using M5 Hex Nuts)
-	- two eccentric at the bottom in the larger holes (using Eccentric Nuts)
-2. Connect the smooth idlers to plate
-	- two total, these will need an aluminum spacer (**Note:** You may want to sandwich the spacer in between two washers, rather than placing both washers against the plate as shown.)
-	- take note of the orientation of the bolt
+1. Connect V-Wheels (**\#3**) to the plate (**\#1**)
+	- two static at the top (using M5 Hex Nuts (**\#6**))
+	- two eccentric at the bottom in the larger holes (using Eccentric Nuts (**\2**))
+2. Connect the smooth idlers (**\#7**) to plate
+	- two total, these will need an aluminum spacer (**\#9**) (**Note:** You may want to sandwich the spacer in between two washers (**\#5**), rather than placing both washers against the plate as shown.)
+	- take note of the orientation of the bolt (**\#4**)
 	- take note of the orientation of the bearings/idler
 3. Attach your stepper motor
 	- Using 4 x M3x6mm SHCS, attach the stepper motor
@@ -98,3 +98,4 @@ Motor orientation is as follows:
 (If using [wiring option \#2](http://docs.shapeoko.com/wiring_2.html), attach two terminal blocks to this plate)
 
 
+###Next step [Z-axis](http://docs.shapeoko.com/zaxis.html)
