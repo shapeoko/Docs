@@ -44,13 +44,11 @@ You may also need M4 or M5 washers to place in-between the M3 washers and motor 
 
 [![](tPictures/so_wiring_terminalblocks_parts_4.jpg)](content/tPictures/so_wiring_terminalblocks_parts_8.jpg)
 
-(_Note the above photograph shows some extra bolts, washers and nuts._)
+(_Note the above photograph shows some extra bolts, washers and nuts. It also shows a fully assembled Z-axis carriage --- the instructions have one place the terminal blocks on the carriage plate sub-assemblies at the end of the [carriages step](http://docs.shapeoko.com/carriages.html)._)
 
 During assembly, attach two terminal blocks to the right Y-axis motor mount carriage and one to the right of the X-axis motor mount carriage. Note the indicated stepper motor orientation, which makes for neater cable runs.
 
 [![](tPictures/so_wiring_terminalblocks_tools_4.jpg)](content/tPictures/so_wiring_terminalblocks_tools_8.jpg)
-
-_Note, the above photo shows a fully assembled Z-axis carriage --- the instructions have one place the terminal blocks on the carriage plate sub-assemblies at the end of the [carriages step](http://docs.shapeoko.com/carriages.html)._
 
 ###Z-axis
 
