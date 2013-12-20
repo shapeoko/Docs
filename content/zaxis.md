@@ -184,3 +184,5 @@ Place washers on the M5 x 70 mm SHCS (PS20006) and place them in the outer holes
 ![](tPictures/so_carriage_4.jpg)
 
 ![](tPictures/so_gantry_carriage_4.jpg)
+
+###Next Step [Gantry](http://docs.shapeoko.com/gantry.html)
