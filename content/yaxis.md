@@ -27,3 +27,5 @@ Slide two Belt Clip Anchor Assemblies into the top slot of the MakerSlide.
 Attach one end plate to each piece of MakerSlide using the 12mm M5 bolts and an M5 washer.
 
 Do not attach the second end plate, that will be done in the next step.
+
+###Next Step [Work Area](http://docs.shapeoko.com/workarea.html)
