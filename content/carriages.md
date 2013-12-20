@@ -5,7 +5,7 @@
 Before beginning this section, please take a look at the wiring options page. 
 
 * [Option \#1](wiring_1.html), needs no special attention at this step other than noting the motor orientations show in the steps below.
-* If you are going to use the terminal block method [option \#2](wiring_2.html), you will need to attach those terminal blocks in this step or the next.
+* If you are going to use the terminal block method [option \#2](wiring_2.html), you will need to attach those terminal blocks at the end of this step.
 * [Option \#3](wiring_3.html), although not necessary at this step, could make life easier to attach your Arduino to the *right* Y axis motor mount plate.
 
 _See those specific options for more details._
@@ -93,4 +93,4 @@ Motor orientation is as follows:
 
 ![wire facing up](wiring/stepper_orientation_left.svg)
 
-You may attach the terminal blocks now to the appropriate plates, or do so in the next step.
+If using [Wiring Option \#2](http://docs.shapeoko.com/wiring_2.html), attach the terminal blocks now to the appropriate plates, while both sides are readily accessible.
