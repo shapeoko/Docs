@@ -20,4 +20,4 @@ Your wires coming directly off the stepper motors (these are called leads) will 
 
 ![wire routing overview](wiring/wiring_routing_overview.svg)
 
-###Next Step [Hellow, World](http://docs.shapeoko.com/helloworld.html)
+###Next Step [Hello, World](http://docs.shapeoko.com/helloworld.html)
