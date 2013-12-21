@@ -8,6 +8,8 @@ The ShapeOko 2 electrical wiring is, like the rest of the machine, versatile. Th
 
 If you tested your electronics with terminal blocks it might suffice to merely detach the grey stepper motors from them, but it would probably be better to disconnect them completely and re-strip any leads w/ broken wires.
 
+**Remember, stepper driver chips are fragile and may be damaged by applying power without a motor connected --- always wire things up completely, and verify all connections each time before applying power**
+
 ## Routing
 
 In all scenarios, your stepper wires should be initially be routed as such:
