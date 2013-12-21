@@ -155,7 +155,7 @@ Tighten everything.
 - 26016-01 **M5 insertion nut** x 4 pcs.
 - 25286-01 **M5 x 10mm, BHCS** x 4 pcs.
 
-Insert the 10mm M5 bolts (**\#6**) with an M5 washer (**\#4**) into the Z-Assembly Carriage (**\#1**) from the side the V-wheels are on, thread on the M5 insertion nuts (**\#5**), then slide the MakerSlide of the Z-Axis Rail Assembly  (**\2**) onto the nuts, align and center the assemblies and tighten.
+Insert the 10mm M5 bolts (**\#6**) with an M5 washer (**\#4**) into the Z-Assembly Carriage (**\#1**) from the side the V-wheels are on, thread on the M5 insertion nuts (**\#5**), then slide the MakerSlide of the Z-Axis Rail Assembly  (**\#2**) onto the nuts, align and center the assemblies and tighten.
 
 [![exploded view of Z-axis](tPictures/PS20030_4.png)](content/tPictures/PS20030_16.png)
 
