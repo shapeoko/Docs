@@ -23,7 +23,7 @@ This is the terminal block method. This method is pretty easy, but requires that
 * 4 Position Terminal Block x 3 pcs.
 * Zip Ties
 * Expandable Braiding
-* Heat shrink tubing
+* Heat shrink tubing (to secure ends of expandable braiding --- zip ties may be used instead)
 * 4-conductor wire (shielded, in addition to the 4 color-coded copper conductors there is a steel "drain wire" which may be _optionally_ be connected to ground at the controller end, but should be trimmed off with the shielding at the motor end)
 
 You may either Zip tie the terminal blocks to the motor carriages or bolt them, if you bolt them you will also need:
