@@ -24,6 +24,7 @@ This is the terminal block method. This method is pretty easy, but requires that
 * Zip Ties
 * Expandable Braiding
 * Heat shrink tubing
+* 4-conductor wire (shielded, in addition to the 4 color-coded copper conductors there is a steel "drain wire" which may be _optionally_ be connected to ground at the controller end, but should be trimmed off with the shielding at the motor end)
 
 You may either Zip tie the terminal blocks to the motor carriages or bolt them, if you bolt them you will also need:
 
@@ -38,9 +39,12 @@ You may also need M4 or M5 washers to place in-between the M3 washers and motor 
 * Razor Blade (wire stripper)
 * Screw Driver, 2mm straight (for connecting the grey stepper wires to the Arduino)
 * Screw Driver, #2 Philips or 9/32" flat (for the combination screws on the terminal blocks)
-* 5.5 mm open end wrench (for the M3 nuts if securing the terminal blocks with bolts)
-* 2.5 mm Hex key (for the M3 SHCS)
 * a heat source (heat gun or (hair) blow dryer)
+
+The following are needed if securing the terminal blocks with bolts:
+
+* 5.5 mm open end wrench (for the M3 nuts)
+* 2.5 mm Hex key (for the M3 SHCS)
 
 [![](tPictures/so_wiring_terminalblocks_parts_4.jpg)](content/tPictures/so_wiring_terminalblocks_parts_8.jpg)
 
