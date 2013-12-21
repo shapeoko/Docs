@@ -70,3 +70,6 @@ Turn the eccentric nuts on the V-wheels on the Gantry Carriage (**\#1**) so that
 ![](tPictures/so_gantry_half_carriage_mounted_tools_4.jpg)
 
 ![](tPictures/so_gantry_assembled_wired_4.jpg)
+
+
+###Next step [Y-axis](http://docs.shapeoko.com/yaxis.html)
