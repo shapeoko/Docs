@@ -8,7 +8,7 @@
 
 The Z-axis assembly is comprised of several sub-assemblies. When assembling it, it is best to select a Motor Mount Carriage (PS20022) which already has a stepper motor in place.
 
-**Note:** You will need to have at least your Z-axis MakerSlide tapped before completing this step. It is probably best to begin tapping well in advance of needing parts, so as to ensure that one works slowly, carefully and patiently at tapping, especially if one initially lacks experience tapping.
+**Note:** You will need to have at least your Z-axis MakerSlide tapped before completing this step. It is probably best to begin tapping well in advance of needing parts, so as to ensure that one works slowly, carefully and patiently at tapping, especially if one initially lacks experience at it.
 
 ##Z Assembly Carriage (PS20021)
 
@@ -31,9 +31,9 @@ This is the plate the Z-axis will attach to (it is identical to the Motor Mount 
 
 [![exploded view of Z Assembly Carriage](tPictures/PS20021_4.png)](content/tPictures/PS20021_16.png)
 
-1. Connect V-Wheels to plate
-	- two static at the top
-	- two eccentric at the bottom
+ - Connect V-Wheels (**\#3**) to the plate (**\#1**)
+	- two static at the top (using M5 Hex Nuts (**\#6**))
+	- two eccentric at the bottom in the larger holes (using Eccentric Nuts (**\#2**))
 
 
 ##Spindle Carriage Assembly (PS20029)
@@ -65,7 +65,7 @@ This is the plate the Z-axis will attach to (it is identical to the Motor Mount 
 
 [![exploded view of Spindle Carriage Assembly](tPictures/PS20029_4.png)](content/tPictures/PS20029_16.png)
 
-Place the V-wheels and the Delrin Lead nut (for the Z-axis Rail Assembly) on one side of the Spindle Mount Plate and the Universal Spindle Mount Straps on the other. The Eccentric Nuts go in the larger holes. **Note:** Be certain to use the aluminum spacers and ensure that all V-wheels are vertically aligned with each other.
+Place the V-wheels (**\#7**) and the Delrin Lead nut (**\#2**, for the Z-axis Rail Assembly, see below) on one side of the Spindle Mount Plate (**\#1**) and the Universal Spindle Mount (**\#5**) and Straps  (**\#13**)on the other. The Eccentric Nuts (**\#6**) go in the larger holes. **Note:** Be certain to use the aluminum spacers (**\#10**) which set this plate off from the Z-axis rail assembly, allowing room for the threaded rod) and ensure that all V-wheels are vertically aligned with each other (be careful of washer placement/order).
 
 ##Z-Axis Rail Assembly (PS20028)
 
@@ -107,32 +107,37 @@ One should also attach the motor for the Z-axis at this time.
  - 13mm (or 1/2") open end wrenches x 2 pcs.
  - M3 Hex Key (for the M5 BHCS)
  - M2.5 Hex Key (for the M3 SHCS)
+ - 5mm open end wrench, adjustable crescent wrench or pliers (ideally nylon-jaw parallel) to tighten the M3 brass standoffs
 
 **Note:** Depending on how deeply tapped on the stepper motor and how long the threads are on the brass standoffs, it may be necessary to add additional M3 washers when attaching the motor using the brass standoffs.
 
 [![exploded view of Z-Axis Rail Assembly](tPictures/PS20028_4.png)](content/tPictures/PS20028_16.png)
 
-Assemble this from the inside out, starting with the smallest pieces and attaching them to the bottom Z-Axis Motor Mount Plate --- slide the 12mm M3 screws through the appropriate holes, then stack the Nylon Spacers (PS20015), then place the wavy washer onto the flanged bearing, insert that into the second Z-axis Motor Mount Plate, insert the two M5 bolts, add the last two Nylon Spacers and slide the top and bottom Z-axis Motor Mount Plates together. Loosely thread on the brass M3 standoffs. Place the Z-axis Shim Plate on top of the Z Axis Rail (200mm MakerSlide) and attach it using the M5 bolts.
+Assemble this from the inside out, starting with the smallest pieces. 
 
-###Threaded Rod
+1. Take one Z-Axis Motor Mount Plate (**\#3**, this will become the bottom)
+ - place M3 washers (**\#13**) onto the 12mm M3 screws (**\#12**) and place them in the appropriate holes
+ - stack the Nylon Spacers (PS20015) (**\#11**) onto the screws
+ - place the Wave Disc Spring (**\#15**, not shown in the diagram) onto the flanged bearing (**\#4**)
+ - insert that into the second Z-axis Motor Mount Plate (**\#3**)
+ - insert the two M5 bolts (**\#10**) and M5 washers (**\#7**) from the other side
+ - add the last two Nylon Spacers (**\#9**) to the bolts and slide the top and bottom Z-axis Motor Mount Plates together
+ - Loosely thread on the M3 Brass Standoff spacer (**\#8**) onto the M3 screws
+ - Place the Z-axis Shim Plate (**\#5**) on top of the Z Axis Rail  (**\#1**, 200mm MakerSlide) and attach it using the M5 bolts
+
+####Threaded Rod
 
 ![threaded rod, flexible coupler and nuts shown with ruler](tPictures/so_z_axis_dimensions_4.jpg)
 
-Check your rod's straightness (one way is by rolling it on a flat surface) before assembly. 
+**Note:** Check your rod's straightness (one way is by rolling it on a flat surface) before assembly and check to see that the threaded rod runs smoothly on the Delrin Lead nut --- if it doesn't, run the nut along the rod until it does. Using a drill is one option. Be certain the nut is free of debris or other materials. 
 
-Compare the threaded rod (PS20011) to the assembly thread on one M8 Hex Nut (PS20007) far enough down to allow room for the flanged bearing, a second hex nut and for the  threaded rod to be just short of half-way into the flexible coupler. Before tightening things, ensure that the motor shaft will also fit just short of half-way into the flexible coupler.
+Compare the threaded rod (**\#6**) to the assembly thread on one M8 Hex Nut (**\#14**) threading the latter far enough down to allow room for the flanged bearing, a second hex nut and for the threaded rod (and the stepper motor shaft) to be just short of half-way into the flexible coupler (**\#2**). Insert the threaded rod into the bearing, add the second M8 hex nut and tighten them with two wrenches, being careful not to bend the rod. 
 
 If the flexible coupler doesn't securely grip the threaded rod, wrap the end of the rod in some sort of metal foil or tape to ensure coupler holds it securely. Make certain the coupler holds the rod squarely.
 
-**Note:** Check to see that the threaded rod runs smoothly on the Delrin Lead nut --- if it doesn't, run the nut along the rod until it does. Using a drill is one option, or one could attach the threaded rod temporarily to a motor (connect all other motors as well) and jog it up and down using grbl. Be certain the nut is free of debris or other materials.
+####Stepper Motor
 
-###Jam Nuts
-
-Slip the threaded rod through the flanged bearing, thread on the second hex nut and use the wrenches to tighten them. Slip on the flexible coupler.
-
-###Stepper Motor
-
-If possible, attach the stepper motor by screwing in the 3 brass M3 standoffs --- use equal stacks of M3 washers to ensure the threads are well-engaged and not bottoming out.
+If possible, attach the stepper motor, place M3 washers on the brass M3 standoffs --- if the standoffs bottom out, add sets of M3 washers to ensure the threads are well-engaged and not bottoming out. Ensure that the motor shaft will also fit just short of half-way into the flexible coupler and that the rod and motor shaft have a gap which will allow the flexible coupler to function without interference or binding.
 
 Tighten everything.
 
@@ -150,11 +155,11 @@ Tighten everything.
 - 26016-01 **M5 insertion nut** x 4 pcs.
 - 25286-01 **M5 x 10mm, BHCS** x 4 pcs.
 
-Insert the 10mm M5 bolts with an M5 washer into the Z-Assembly Carriage (PS20021) from the side the V-wheels are on, thread on the M5 insertion nuts, then slide the Z-Axis Rail Assembly (PS20028) onto the nuts, align and center the assemblies and tighten.
+Insert the 10mm M5 bolts (**\#6**) with an M5 washer (**\#4**) into the Z-Assembly Carriage (**\#1**) from the side the V-wheels are on, thread on the M5 insertion nuts (**\#5**), then slide the MakerSlide of the Z-Axis Rail Assembly  (**\2**) onto the nuts, align and center the assemblies and tighten.
 
 [![exploded view of Z-axis](tPictures/PS20030_4.png)](content/tPictures/PS20030_16.png)
 
-Turn the eccentric nuts on the Spindle Carriage Assembly (PS20029) so that they move the matching V-wheels as far as possible from the opposing static V-wheels. Slide the Spindle Carriage Assembly onto the Z-Axis Rail Assembly, match it up with the Delrin Lead nut and turn the threaded rod using the flexible coupler, bring the Spindle Carriage Assembly up so that the V-wheels are completely on the MakerSlide V-rail. Be careful not to nick or damage the Delrin V-wheels, or to cross-thread the Delrin Lead nut.
+Turn the eccentric nuts on the Spindle Carriage Assembly (**\#3**) so that they move the matching V-wheels as far as possible from the opposing static V-wheels. Slide the Spindle Carriage Assembly onto the Z-Axis Rail Assembly, match it up with the Delrin Lead nut and turning the threaded rod using the flexible coupler, bring the Spindle Carriage Assembly up so that the V-wheels are completely on the MakerSlide V-rail. Be careful not to nick or damage the Delrin V-wheels, or to cross-thread the Delrin Lead nut.
 
 ##Sub Gantry (PS20023)
 
@@ -179,7 +184,7 @@ If possible, select a Motor Mount Carriage (PS20022) which has a stepper motor a
 
 [![exploded view of sub gantry](tPictures/PS20031_4.png)](content/tPictures/PS20031_16.png)
 
-Place washers on the M5 x 70 mm SHCS (PS20006) and place them in the outer holes of the Z-Assembly Carriage (PS20021) from the side opposite the V-wheels. Place one each of the Aluminum Spacers (25312-20 and PS20002) on each bolt, place the Motor Mount Carriage (PS20022) onto the bolts and attach using an M5 washer and M5 hex nut.
+Place washers on the M5 x 70 mm SHCS (**\#4**) and place them in the outer holes of the Z-Assembly Carriage (**\#1**) from the side opposite the V-wheels. Place one each of the Aluminum Spacers (**\#3**,  and **\#6**) on each bolt, place the Motor Mount Carriage (**\#2**) onto the bolts and attach using an M5 washer (**\#5**) and M5 hex nut (**\#7**).
 
 ![](tPictures/so_carriage_4.jpg)
 
