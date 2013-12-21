@@ -116,14 +116,14 @@ One should also attach the motor for the Z-axis at this time.
 Assemble this from the inside out, starting with the smallest pieces. 
 
 1. Take one Z-Axis Motor Mount Plate (**\#3**, this will become the bottom)
- - place M3 washers (**\#13**) onto the 12mm M3 screws (**\#12**) and place them in the appropriate holes
- - stack the Nylon Spacers (PS20015) (**\#11**) onto the screws
- - place the Wave Disc Spring (**\#15**, not shown in the diagram) onto the flanged bearing (**\#4**)
- - insert that into the second Z-axis Motor Mount Plate (**\#3**)
- - insert the two M5 bolts (**\#10**) and M5 washers (**\#7**) from the other side
- - add the last two Nylon Spacers (**\#9**) to the bolts and slide the top and bottom Z-axis Motor Mount Plates together
- - Loosely thread on the M3 Brass Standoff spacer (**\#8**) onto the M3 screws
- - Place the Z-axis Shim Plate (**\#5**) on top of the Z Axis Rail  (**\#1**, 200mm MakerSlide) and attach it using the M5 bolts
+- place M3 washers (**\#13**) onto the 12mm M3 screws (**\#12**) and place them in the appropriate holes
+- stack the Nylon Spacers (PS20015) (**\#11**) onto the screws
+- place the Wave Disc Spring (**\#15**, not shown in the diagram) onto the flanged bearing (**\#4**)
+- insert that into the second Z-axis Motor Mount Plate (**\#3**)
+- insert the two M5 bolts (**\#10**) and M5 washers (**\#7**) from the other side
+- add the last two Nylon Spacers (**\#9**) to the bolts and slide the top and bottom Z-axis Motor Mount Plates together
+- Loosely thread on the M3 Brass Standoff spacer (**\#8**) onto the M3 screws
+- Place the Z-axis Shim Plate (**\#5**) on top of the Z Axis Rail  (**\#1**, 200mm MakerSlide) and attach it using the M5 bolts
 
 ####Threaded Rod
 
