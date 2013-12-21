@@ -8,7 +8,7 @@ The ShapeOko 2 electrical wiring is, like the rest of the machine, versatile. Th
 
 If you tested your electronics with terminal blocks it might suffice to merely detach the grey stepper motors from them, but it would probably be better to disconnect them completely and re-strip any leads w/ broken wires.
 
-**Remember, stepper driver chips are fragile and may be damaged by applying power without a motor connected --- always wire things up completely, and verify all connections each time before applying power**
+**Remember, stepper driver chips are fragile and may be damaged by applying power without a motor connected --- always wire things up completely, and verify all connections each time before applying power.**
 
 ## Routing
 
@@ -48,14 +48,17 @@ This is the terminal block method. This method is pretty easy, but requires that
 * Expandable Braiding
 * Heat shrink tubing
 * Heat source (heat gun or (hair) blow dryer)
-* 4 Position Terminal Block x 3
+* 4 Position Terminal Block x 3 pcs.
 * 4-conductor wire (shielded, in addition to the 4 color-coded copper conductors there is a steel "drain wire" which may be _optionally_ be connected to ground at the controller end, but should be trimmed off with the shielding at the motor end)
 * Razor Blade (wire stripper)
-* 5.5mm wrench
+
+The following are used to mount the terminal blocks, but zip ties may be used instead.
+
 * 2.5mm Hex key
-* M3 x 16mm SHCS x 6
-* M3 flat washer x 12
-* M3 hex nut x 6
+* 5.5mm wrench
+* M3 x 16mm SHCS x 6 pcs.
+* M3 flat washer x 12 pcs.
+* M3 hex nut x 6 pcs.
 
 [click here to view these instructions](wiring_2.html)
 
