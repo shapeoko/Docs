@@ -44,6 +44,7 @@ The terminal blocks use a combination screw which will accept either a Phillips 
 
 
 ##Connect Arduino
+
 Now that we have everything gathered up, you should find yourself with a setup similar to this:
 
 ![image of required components](tPictures/so_electronics_parts_4.jpg)  
@@ -58,13 +59,13 @@ Remember, the big end of the cable goes into the Arduino. Loading the driver for
 
 ##Communication / Control Program
 
-Launch your selected Communication/Control program on your computer.
+Launch your selected Communication/Control program on your computer. Connect to the Arduino and ensure that it works (see the [Software](software.html) page for details). Once you are certain your controller works, disconnect it.
 
 ##Hook Stuff Up##
 
 ![Arduino and gShield](tPictures/so_e_arduino_gshield_2.jpg) ![Arduino and gShield on edge](tPictures/so_e_arduino_gshield_oe_2.jpg) ![Arduino and gShield assembled](tPictures/so_e_arduino_gshield_aa_2.jpg)
 
-The first step is to plug the Arduino into the gShield. The Arduino will run Grbl, while the gShield will be connected to the stepper motors and will control them. Be careful of the electronics, not to bend any pins, or to allow static electricity to damage them.
+The next step is to plug the Arduino into the gShield. The Arduino will run Grbl, while the gShield will be connected to the stepper motors and will control them. Be careful of the electronics, not to bend any pins, or to allow static electricity to damage them.
 
 You will need to connect the gShield to the terminal blocks (using the 4 conductor grey wire) and the terminal blocks to the motors. If you have very long wires coming off of the stepper motors you will have the option of choosing where the terminal blocks are placed, either on the gantry, or connected to the electronics. If the wires are short, then the terminal blocks will need to be attached to the gantry. On the gantry minimizes the wear and tear on the motor leads, limiting it to the 4 conductor grey wire (this is easily sourced at any home improvement store), while hiding the terminal blocks away, or directly connecting the leads if long enough, provides for a neater appearance.
 
@@ -80,7 +81,7 @@ You will need to connect the gShield to the terminal blocks (using the 4 conduct
 
 Start by cutting the grey wire to length (either equal thirds, or some proportion which takes into account the wire for the Y-axis having a slightly shorter run than the X- and Z-axes.
 
-Next, strip all of the wire ends. The ends which will attach to the terminal block should be approximately 3/8" so as to be twisted into a hook so as to wrap around the terminal block screws. The other end of the grey wire should be stripped approximately 1/4" of an inch so as to fit into the gShield. Be careful of stripping too much and leaving wire unnecessarily exposed which could create the possibility of a short.
+Next, strip all of the wire ends. The ends which will attach to the terminal block should be approximately 3/8" so as to be twisted into a hook so as to wrap around the terminal block screws (trim away all of the shielding and the steel drain wire at this end). The other end of the grey wire should be stripped approximately 1/4" of an inch so as to fit into the gShield. Be careful of stripping too much and leaving wire unnecessarily exposed which could create the possibility of a short. If you wish to ground the drain wires you will need to strip off enough of the coverings to connect them to ground and trim any excess of the other wires.
 
 ![Stripped wire](tPictures/so_e_wire_stripped_4.jpg)
 
