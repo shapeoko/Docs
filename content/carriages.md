@@ -70,7 +70,7 @@ These are the plates that will mount on either end of the gantry and on the rear
 
 1. Connect V-Wheels (**\#3**) to the plate (**\#1**)
 	- two static at the top (using M5 Hex Nuts (**\#6**))
-	- two eccentric at the bottom in the larger holes (using Eccentric Nuts (**\2**))
+	- two eccentric at the bottom in the larger holes (using Eccentric Nuts (**\#2**))
 2. Connect the smooth idlers (**\#7**) to plate
 	- two total, these will need an aluminum spacer (**\#9**) (**Note:** You may want to sandwich the spacer in between two washers (**\#5**), rather than placing both washers against the plate as shown.)
 	- take note of the orientation of the bolt (**\#4**)
