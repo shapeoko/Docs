@@ -77,11 +77,11 @@ These are the plates that will mount on either end of the gantry and on the rear
 	- take note of the orientation of the bearings/idler
 3. Attach your stepper motor
 	- Using 4 x M3x6mm SHCS, attach the stepper motor
-	- Use an M3 washer between the SHCS and the plate (**Note:** You may need more than one per washer, depending upon bolt length and the depth of the threads in the motor. Use an equal number of washers per motor. Be careful not to strip out the threads in the motor.) When you tighten the motor into place, do so in an X pattern. You want the face of the motor to be equally tight against the plate.
+	- Use an M3 washer between the SHCS and the plate (**Note:** You may need more than one washer per bolt, depending upon the depth of the threads in the motor. Use an equal number of washers per motor. Be careful not to strip out the threads in the motor.) When you tighten the motor into place, do so in an X pattern. You want the face of the motor to be equally tight against the plate.
 
 ![Assembled Motor Mount Carriages](tPictures/so_motor_mount_carriage_4.jpg)
 
-Please note that the above photograph does not show the stepper motor in place. As previously noted, one should attach at least one stepper motor for the X-axis plate, as it's difficult to attach it once the gantry carriage is assembled. Use 4 M3 screws, 4 M3 washers and also attach the GT2 pulley. If using [Wiring Option \#2](http://docs.shapeoko.com/wiring_2.html), attach the terminal blocks now to the appropriate plates, while the inner sides are readily accessible.
+Please note that the above photograph does not show the stepper motor in place. As previously noted, one should attach at least one stepper motor for the X-axis plate, as it's difficult to attach it once the gantry carriage is assembled. Use 4 M3 screws, 4 M3 washers and also attach the GT2 pulley (You should attach the pulley before mounting the motor.). If using [Wiring Option \#2](http://docs.shapeoko.com/wiring_2.html), attach the terminal blocks now to the appropriate plates, while the inner sides are readily accessible.
 
 Motor orientation is as follows:
 
