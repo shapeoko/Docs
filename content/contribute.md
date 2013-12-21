@@ -14,7 +14,7 @@ So you want to help by contributing to the documentation? Great! Our project was
 
 ##Fork the repository
 
-###Forking - it's not as dirty as it sounds
+###Forking --- it's not as dirty as it sounds
 
 Forking means to copy the repository into your account. It's a little more awesome than just copying though. You are actually copying the **ENTIRE** repository, including all of the commit history. So you literally will have an identical copy of the repository at the time you fork it. Cool right?
 
