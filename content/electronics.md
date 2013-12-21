@@ -10,7 +10,7 @@ For reference, the image below shows the concept of wiring Shapeoko 2.
 
 _For simplicity, the above wiring diagram omits the (optional) terminal blocks for the X- and Z-axis._
 
-**N.B., stepper driver chips are fragile and may be damaged by applying power without a motor connected --- always wire things up completely, and verify all connections each time before applying power**
+**N.B., stepper driver chips are fragile and may be damaged by applying power without a motor connected --- always wire things up completely, and verify all connections each time before applying power.**
 
 Please note that stepper motors can be wired up in many different ways and still function, though the motors may turn in the reverse of the desired direction (stepper motors are reversed by swapping pairs of wires). The diagram shows one such method and the photos which follow may show other methods. The important thing is to follow one consistent technique when wiring the machine initially, being certain to maintain the pairing of the wires (see [this page](http://www.linengineering.com/resources/wiring_connections.aspx) for information on wiring stepper motors), then if need be, one can alter the wiring to achieve the desired direction of rotation.
 
@@ -27,7 +27,7 @@ Please note that stepper motors can be wired up in many different ways and still
 * **USB Cable** (A to B)
 * Patience (just a little bit)
 
-Please note that the photos depict using terminal blocks to connect the wiring --- this is optional and included to cover the case of motors with short lead wires which would require them. The 4-conductor cable should be 18 or 20 gauge and shielded. Note that in addition to the 4 color-coded copper conductors there is a steel "drain wire" which may be optionally be connected to ground at the controller end, but should be trimmed off with the shielding at the motor end.
+Please note that the photos depict using terminal blocks to connect the wiring --- this is optional and included to cover the case of motors with short lead wires which would require them. The 4-conductor cable should be 18 or 20 gauge and shielded. Note that in addition to the 4 color-coded copper conductors there is a steel "drain wire" which may optionally be connected to ground at the controller end, but should be trimmed off with the shielding at the motor end.
 
 ## Tools
 
@@ -66,7 +66,7 @@ Launch your selected Communication/Control program on your computer.
 
 The first step is to plug the Arduino into the gShield. The Arduino will run Grbl, while the gShield will be connected to the stepper motors and will control them. Be careful of the electronics, not to bend any pins, or to allow static electricity to damage them.
 
-You will need to connect the gShield to the terminal blocks (using the 4 conductor grey wire) and the terminal blocks to the motors. If you have very long wires coming off of the stepper motors you will have the option of choosing where the terminal blocks are placed, either on the gantry, or connected to the electronics. If the wires are short, then the terminal blocks will need to be attached to the gantry. On the gantry minimizes the wear and tear on the motor leads, limiting it to the 4 conductor grey wire (this is easily sourced at any home improvement store), while hiding the terminal blocks away provides for a neater appearance.
+You will need to connect the gShield to the terminal blocks (using the 4 conductor grey wire) and the terminal blocks to the motors. If you have very long wires coming off of the stepper motors you will have the option of choosing where the terminal blocks are placed, either on the gantry, or connected to the electronics. If the wires are short, then the terminal blocks will need to be attached to the gantry. On the gantry minimizes the wear and tear on the motor leads, limiting it to the 4 conductor grey wire (this is easily sourced at any home improvement store), while hiding the terminal blocks away, or directly connecting the leads if long enough, provides for a neater appearance.
 
 ![Stepper motor, terminal block, screwdriver](tPictures/so_e_stepper_motor_tb_2.jpg)
 ![Stripped wires](tPictures/so_e_wire_stripped_2.jpg)
