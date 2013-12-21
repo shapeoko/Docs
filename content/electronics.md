@@ -10,7 +10,7 @@ For reference, the image below shows the concept of wiring Shapeoko 2.
 
 _For simplicity, the above wiring diagram omits the (optional) terminal blocks for the X- and Z-axis._
 
-**N.B., stepper driver chips are fragile and may be damaged by applying power without a motor connected --- always wire things up completely, and verify all connections each time before applying power*
+**N.B., stepper driver chips are fragile and may be damaged by applying power without a motor connected --- always wire things up completely, and verify all connections each time before applying power**
 
 Please note that stepper motors can be wired up in many different ways and still function, though the motors may turn in the reverse of the desired direction (stepper motors are reversed by swapping pairs of wires). The diagram shows one such method and the photos which follow may show other methods. The important thing is to follow one consistent technique when wiring the machine initially, then if need be, one can alter the wiring to achieve the desired direction of rotation.
 
