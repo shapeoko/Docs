@@ -104,6 +104,8 @@ If your file visualization looks correct, close the visualizer and click the 'ma
 
 Jog your machine to the lower left side of your work surface using the different axis control buttons. Click the 'Reset Zero' button to tell your machine that you are at 0,0. You should notice on the left of the panel your work position coordinates will be set to X:0, Y:0, Z:0
 
+**Note:** This assumes that one has mounted a spindle and secured an appropriate endmill (see the documentation for the rotary tool for the details on how to use a collet and how to tighten it). This should be straight-forward, but the Altocraft rotary tool currently bundled with the ShapeOko 2 is asymmetric (narrower at the bottom than at the top) and will mount at a slight angle. This can be ameliorated by wrapping a reasonably large/thick zip tie around the narrower bottom portion of the tool and positioning that under the lower universal spindle mount when mounting the tool. Doing so will result in better, more perpendicular cuts. One should probably design and cut a custom mount out of HDPE or UHMW or Delrin or some other appropriate material.
+
 ![Set Zero](helloworld/ugs4.png)
 
 
