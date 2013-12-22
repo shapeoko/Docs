@@ -127,7 +127,7 @@ Assemble this from the inside out, starting with the smallest pieces.
 
 ####Threaded Rod
 
-![threaded rod, flexible coupler and nuts shown with ruler](tPictures/so_z_axis_dimensions_4.jpg)
+[![threaded rod, flexible coupler and nuts shown with ruler](tPictures/so_z_axis_dimensions_4.jpg)](content/tPictures/so_z_axis_dimensions_8.png)
 
 **Note:** Check your rod's straightness (one way is by rolling it on a flat surface) before assembly and check to see that the threaded rod runs smoothly on the Delrin Lead nut --- if it doesn't, run the nut along the rod until it does. Using a drill is one option. Be certain the nut is free of debris or other materials. 
 
@@ -186,8 +186,8 @@ If possible, select a Motor Mount Carriage (PS20022) which has a stepper motor a
 
 Place washers on the M5 x 70 mm SHCS (**\#4**) and place them in the outer holes of the Z-Assembly Carriage (**\#1**) from the side opposite the V-wheels. Place one each of the Aluminum Spacers (**\#3**,  and **\#6**) on each bolt, place the Motor Mount Carriage (**\#2**) onto the bolts and attach using an M5 washer (**\#5**) and M5 hex nut (**\#7**).
 
-![](tPictures/so_carriage_4.jpg)
+[![](tPictures/so_carriage_4.jpg)](content/tPictures/so_carriage_8.png)
 
-![](tPictures/so_gantry_carriage_4.jpg)
+[![](tPictures/so_gantry_carriage_4.jpg)](content/tPictures/so_gantry_carriage_8.png)
 
 ###Next Step [Gantry](http://docs.shapeoko.com/gantry.html)
