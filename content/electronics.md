@@ -16,7 +16,7 @@ Please note that stepper motors can be wired up in many different ways and still
 
 ## Requirements
 
-[![image of required components](tPictures/so_electronics_parts_4.jpg)](content/tPictures/so_electronics_parts_8.png)
+[![image of required components](tPictures/so_electronics_parts_4.jpg)](content/tPictures/so_electronics_parts_8.jpg)
 
 * **Arduino with Grbl firmware** (contains an AVR processor, USB connector and I/O pins)
 * (Arduino) **gShield** (formerly GrblShield, takes the signals Grbl generates and drives the steppers. Small pots are used to adjust)
@@ -47,11 +47,11 @@ The terminal blocks use a combination screw which will accept either a Phillips 
 
 Now that we have everything gathered up, you should find yourself with a setup similar to this:
 
-[![image of required components](tPictures/so_electronics_parts_4.jpg)](content/tPictures/so_electronics_parts_8.png)
+[![image of required components](tPictures/so_electronics_parts_4.jpg)](content/tPictures/so_electronics_parts_8.jpg)
 
 First thing that we do is plug our Arduino into the computer.
 
-[![Arduino plugged into USB cable](tPictures/so_e_arduino_lit_4.jpg)](content/tPictures/so_e_arduino_lit_8.png)
+[![Arduino plugged into USB cable](tPictures/so_e_arduino_lit_4.jpg)](content/tPictures/so_e_arduino_lit_8.jpg)
 
 Remember, the big end of the cable goes into the Arduino. Loading the driver for the Arduino is documented in [Software](http://docs.shapeoko.com/software.html)
 
@@ -98,23 +98,23 @@ Make all connections in the same colour order. Shown is:
 
 Since the ShapeOko 2 uses two motors on the Y-Axis and the gShield only has 3 stepper drivers, it is necessary to wire the two motors to one terminal block as shown below. Note that it is necessary to reverse one pair of wires so that the motors will run in opposite directions when placed on the gantry in opposite orientations.
 
-[![Wiring Y-Axis motors to terminal block](tPictures/so_e_steppermotor_tb_y_4.jpg)](content/tPictures/so_e_steppermotor_tb_y_8.png)
+[![Wiring Y-Axis motors to terminal block](tPictures/so_e_steppermotor_tb_y_4.jpg)](content/tPictures/so_e_steppermotor_tb_y_8.jpg)
 
 (red and blue to make purple was selected was selected for the photo, but green and black are reversed in the wiring diagram)
 
 Carefully make each connection. Be careful not to lose any screws. If necessary, trim wires and re-strip so as to achieve a good connection.
 
-[![image of required components](tPictures/so_e_steppermotors_wired_4.jpg)](content/tPictures/so_e_steppermotors_wired_4_8.png)
+[![image of required components](tPictures/so_e_steppermotors_wired_4.jpg)](content/tPictures/so_e_steppermotors_wired_4_8.jpg)
 
 Next, connect the grey wires from the terminal blocks to the stepper motors. Make all of the connection initially in the same order. Later, when configuring the machine, it may be necessary to swap wires around so as to achieve the desired rotational direction.
 
-[![image of required components](tPictures/so_e_steppermotors_ar_4.jpg)](content/tPictures/_8.png)
+[![image of required components](tPictures/so_e_steppermotors_ar_4.jpg)](content/tPictures/so_e_steppermotors_ar_8.jpg)
 
 Please note the gShield takes two different sizes of screwdriver. 1/8" for the screws in the blue power connector, 3/32" for the screws in the green stepper motor connectors.
 
 The green stepper motor connectors should be unscrewed so as to open them up as the right-most connector is below.
 
-![Open connector on gShield](tPictures/so_e_arduino_open_4.jpg)
+[![Open connector on gShield](tPictures/so_e_arduino_open_4.jpg)](content/tPictures/so_e_arduino_open_8.jpg)
 
 Connect the grey wires from the stepper motors. Lastly one must connect the power. Note that each green block represents one axis. Be certain to connect the dual-motor Y-Axis to the correct block.
 
@@ -139,11 +139,11 @@ Connect it to the Arduino. There are two leads, one a solid black wire, the othe
 
 Please connect each lead to the appropriate side of the gShield's blue power connector.
 
-[![Power connections](tPictures/so_e_arduino_usb_4.jpg)](content/tPictures/so_e_arduino_usb_8.png)
+[![Power connections](tPictures/so_e_arduino_usb_4.jpg)](content/tPictures/so_e_arduino_usb_8.jpg)
 
 Plug the barrel connector into the matching connector from the power supply, plug it into a grounded outlet. Your gShield should light up blue and be ready for operation.
 
-[![image of required components](tPictures/so_e_arduino_usb_lit_4.jpg)](content/tPictures/so_e_arduino_usb_lit_8.png)
+[![image of required components](tPictures/so_e_arduino_usb_lit_4.jpg)](content/tPictures/so_e_arduino_usb_lit_8.jpg)
 
 
 
