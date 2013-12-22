@@ -42,11 +42,11 @@ Before we can control our machine, we need to install and/or configure some soft
 ---
 
 ##Electronics
-[Goto the Instructions](electronics.html)
+[Goto the Instructions](electronics.html)](content/tPictures/_8.png)
 
 In this step, we will *test* our electronics setup. It's beneficial to do this prior to assembling the machine, as some issues are more easily addressed before assembly takes place. If a problem were to occur, it's much easier to troubleshoot without having to disassemble the machine!
 
-![Electronics Overview Image](tPictures/so_electronics_parts_4.jpg)
+[![Electronics Overview Image](tPictures/so_electronics_parts_4.jpg)](content/tPictures/so_electronics_parts_8.png)
 
 ---
 
@@ -57,7 +57,7 @@ In this step, we will *test* our electronics setup. It's beneficial to do this p
 
 A lot of the "work" required to assemble the machine is done in this step. It's not hard work, but it'll take a while. Just like long division.
 
-![wheels and idlers laid out](tPictures/so_vw_iw_parts_4.jpg)
+[![wheels and idlers laid out](tPictures/so_vw_iw_parts_4.jpg)](content/tPictures/so_vw_iw_parts_8.png)
 
 ---
 
@@ -66,7 +66,7 @@ A lot of the "work" required to assemble the machine is done in this step. It's 
 
 This is the most labor intensive part of the assembly. You will be assembling 3 motor mount plates.
 
-![exploded view of carriage](tPictures/so_motor_mount_carriages_parts_4.jpg)
+[![exploded view of carriage](tPictures/so_motor_mount_carriages_parts_4.jpg)](content/tPictures/so_motor_mount_carriages_parts_8.png)
 
 ---
 
@@ -75,7 +75,7 @@ This is the most labor intensive part of the assembly. You will be assembling 3 
 
 The z-axis is comprised of 3 separate assemblies, and will require some time (and patience) to fully assemble. Once you are done with this step, your machine will really start to take shape. 
 
-![z-axis exploded](tPictures/so_z_axis_parts_4.jpg)
+[![z-axis exploded](tPictures/so_z_axis_parts_4.jpg)](content/tPictures/so_z_axis_parts_8.png)
 
 ---
 
@@ -84,7 +84,7 @@ The z-axis is comprised of 3 separate assemblies, and will require some time (an
 
 The gantry continues the process of taking assemblies and combining them.
 
-![Gantry Image](tPictures/so_gantry_parts_4.jpg)
+[![Gantry Image](tPictures/so_gantry_parts_4.jpg)](content/tPictures/so_gantry_parts_8.png)
 
 ---
 
@@ -93,7 +93,7 @@ The gantry continues the process of taking assemblies and combining them.
 
 The Y-axis makes up the frame of the machine along with the last component in the next step.
 
-![Y Axis Image](tPictures/so_y_axis_rail_parts_4.jpg)
+[![Y Axis Image](tPictures/so_y_axis_rail_parts_4.jpg)](content/tPictures/so_y_axis_rail_parts_8.png)
 
 ---
 
@@ -102,7 +102,7 @@ The Y-axis makes up the frame of the machine along with the last component in th
 
 The work area integrates the last component with the previous assemblies, completing the mechanicals of the machine.
 
-![Work Area](tPictures/so_waste_board_parts_4.jpg)
+[![Work Area](tPictures/so_waste_board_parts_4.jpg)](content/tPictures/so_waste_board_parts_8.png)
 
 ---
 
