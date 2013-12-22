@@ -22,9 +22,9 @@
 
 [![exploded view of End Plates](tPictures/PS20026_4.png)](content/tPictures/PS20026_16.png)
 
-Slide two Belt Clip Anchor Assemblies into the top slot of the MakerSlide.
+Slide two Belt Clip Anchor Assemblies (**\4**) into the top slot of the MakerSlide (**\5**).
 
-Attach one end plate to each piece of MakerSlide using the 12mm M5 bolts and an M5 washer.
+Attach one end plate (**\1**) to each piece of MakerSlide using the 12mm M5 bolts (**\2**) and M5 washers (**\3**).
 
 Do not attach the second end plate, that will be done in the next step.
 
