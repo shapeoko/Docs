@@ -42,11 +42,11 @@ Before we can control our machine, we need to install and/or configure some soft
 ---
 
 ##Electronics
-[Goto the Instructions](electronics.html)](content/tPictures/_8.png)
+[Goto the Instructions](electronics.html)]
 
 In this step, we will *test* our electronics setup. It's beneficial to do this prior to assembling the machine, as some issues are more easily addressed before assembly takes place. If a problem were to occur, it's much easier to troubleshoot without having to disassemble the machine!
 
-[![Electronics Overview Image](tPictures/so_electronics_parts_4.jpg)](content/tPictures/so_electronics_parts_8.png)
+[![Electronics Overview Image](tPictures/so_electronics_parts_4.jpg)](content/tPictures/so_electronics_parts_8.jpg)
 
 ---
 
@@ -93,7 +93,7 @@ The gantry continues the process of taking assemblies and combining them.
 
 The Y-axis makes up the frame of the machine along with the last component in the next step.
 
-[![Y Axis Image](tPictures/so_y_axis_rail_parts_4.jpg)](content/tPictures/so_y_axis_rail_parts_8.png)
+[![Y Axis Image](tPictures/so_y_axis_rail_parts_4.jpg)](content/tPictures/so_y_axis_rail_parts_8.jpg)
 
 ---
 
@@ -102,7 +102,7 @@ The Y-axis makes up the frame of the machine along with the last component in th
 
 The work area integrates the last component with the previous assemblies, completing the mechanicals of the machine.
 
-[![Work Area](tPictures/so_waste_board_parts_4.jpg)](content/tPictures/so_waste_board_parts_8.png)
+[![Work Area](tPictures/so_waste_board_parts_4.jpg)](content/tPictures/so_waste_board_parts_8.jpg)
 
 ---
 
