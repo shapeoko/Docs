@@ -57,7 +57,7 @@ In this step, we will *test* our electronics setup. It's beneficial to do this p
 
 A lot of the "work" required to assemble the machine is done in this step. It's not hard work, but it'll take a while. Just like long division.
 
-[![wheels and idlers laid out](tPictures/so_vw_iw_parts_4.jpg)](content/tPictures/so_vw_iw_parts_8.png)
+[![wheels and idlers laid out](tPictures/so_vw_iw_parts_4.jpg)](content/tPictures/so_vw_iw_parts_8.jpg)
 
 ---
 
@@ -66,7 +66,7 @@ A lot of the "work" required to assemble the machine is done in this step. It's 
 
 This is the most labor intensive part of the assembly. You will be assembling 3 motor mount plates.
 
-[![exploded view of carriage](tPictures/so_motor_mount_carriages_parts_4.jpg)](content/tPictures/so_motor_mount_carriages_parts_8.png)
+[![exploded view of carriage](tPictures/so_motor_mount_carriages_parts_4.jpg)](content/tPictures/so_motor_mount_carriages_parts_8.jpg)
 
 ---
 
@@ -75,7 +75,7 @@ This is the most labor intensive part of the assembly. You will be assembling 3 
 
 The z-axis is comprised of 3 separate assemblies, and will require some time (and patience) to fully assemble. Once you are done with this step, your machine will really start to take shape. 
 
-[![z-axis exploded](tPictures/so_z_axis_parts_4.jpg)](content/tPictures/so_z_axis_parts_8.png)
+[![z-axis exploded](tPictures/so_z_axis_parts_4.jpg)](content/tPictures/so_z_axis_parts_8.jpg)
 
 ---
 
@@ -84,7 +84,7 @@ The z-axis is comprised of 3 separate assemblies, and will require some time (an
 
 The gantry continues the process of taking assemblies and combining them.
 
-[![Gantry Image](tPictures/so_gantry_parts_4.jpg)](content/tPictures/so_gantry_parts_8.png)
+[![Gantry Image](tPictures/so_gantry_parts_4.jpg)](content/tPictures/so_gantry_parts_8.jpg)
 
 ---
 
