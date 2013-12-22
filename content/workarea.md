@@ -25,10 +25,10 @@ The final assembly will be assembled, then the balance of the machine put togeth
 
 Start with the captive nuts in the holes (shown in the back right of the diagram). 
 
-- Place a washer on the bolt
-- slide the bolt into a hole in the wasteboard
-- thread on an insertion nut
-- then slide the aluminum extrusion onto the bolt and insertion nut. 
+- Place a washer (**\#2**) on a bolt (**\#1**)
+- slide the bolt into a hole in the wasteboard (**\#4**)
+- thread on an insertion nut (**\#3**)
+- then slide the aluminum extrusion (**\#5**) onto the bolt and insertion nut. 
 - Repeat until all the holes are filled
 
 Repeat the above process with the slots, but instead assemble the bolt, washer, nut combinations, slide them into the aluminum extrusion, then slide the extrusion onto the wasteboard.
@@ -58,15 +58,15 @@ Carefully center and square everything up, then tighten the bolts. Square up the
 
 [![](tPictures/so_gantry_half_carriage_parts_4.jpg)](content/tPictures/so_gantry_half_carriage_parts_8.jpg)
 
-Place the 10mm M5 bolts w/ washers into the bottom holes on the open end plates which are attached to the MakerSlide, thread on the insertion nuts, then carefully slide the rail assemblies onto the wasteboard extrusion. Tighten the bolts enough to be certain the threads won't pull free.
+Place the 10mm M5 bolts (**\#4**) with washers (**\#6**) into the bottom holes on the open end plates which are attached to the MakerSlide, thread on the insertion nuts (**\#5**), then carefully slide the rail assemblies (**\#2**) onto the wasteboard extrusion. Tighten the bolts enough to be certain the threads won't pull free.
 
-Turn the eccentric nuts on the V-wheels on the Complete Gantry (PS20025) so that they are as far from the static V-wheels as is possible. Drive the Complete Gantry onto the two Y-Axis Rail Assemblies (PS20026), then attach the open end plates.
+Turn the eccentric nuts on the V-wheels on the Complete Gantry (**\#1**) so that they are as far from the static V-wheels as is possible. Drive the Complete Gantry onto the two Y-Axis Rail Assemblies (PS20026), then attach the open end plates.
 
 [![](tPictures/so_gantry_half_carriage_mounted_parts_4.jpg)](content/tPictures/so_gantry_half_carriage_mounted_parts_8.jpg)
 
 Tighten the bolts holding the MakerSlide, then begin tightening the bolts which hold the bottom of the open end plates. Carefully center the Y-axis rails and gantry on the wasteboard. Move the gantry to one end and continue tightening the bottom bolts. Move the gantry to the other end, then repeat. Go back and forth gradually tightening things and ensure that everything is aligned and square and that the gantries move freely.
 
-Check the alignment with a known-to-be-good square. One can also measure the diagonals to test for squareness. Ensure that everything is aligned squarely and that the Complete Gantry and the X-Axis Sub Gantry move smoothly. Finish tightening the bolts. (These last steps are covered in more detail below under Fine-tuning).
+Check the alignment with a known-to-be-good square. One can also measure the diagonals to test for squareness. Ensure that everything is aligned squarely and that the Complete Gantry and the X-Axis Sub Gantry move smoothly. Finish tightening the bolts. (These last steps are covered in more detail below under Fine-tuning below).
 
 Congratulations! You've built a ShapeOko!
 
@@ -76,7 +76,7 @@ Congratulations! You've built a ShapeOko!
 
 ### Squaring the Machine
 
-Check that each component is square to the others using a known-to-be-good square. If you don't have a square, measure the diagonals and compare the distances. Loosen bolts, adjust and re-tighten as needed until everything is true.
+Check that each component is square to the others using a known-to-be-good square. If you don't have a square, measure the diagonals and compare the distances. Loosen bolts, adjust and re-tighten as needed until everything is true and moves linearly.
 
 ### Adjusting the V-Wheels
 
