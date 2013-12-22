@@ -127,7 +127,7 @@ Assemble this from the inside out, starting with the smallest pieces.
 
 ####Threaded Rod
 
-[![threaded rod, flexible coupler and nuts shown with ruler](tPictures/so_z_axis_dimensions_4.jpg)](content/tPictures/so_z_axis_dimensions_8.png)
+[![threaded rod, flexible coupler and nuts shown with ruler](tPictures/so_z_axis_dimensions_4.jpg)](content/tPictures/so_z_axis_dimensions_8.jpg)
 
 **Note:** Check your rod's straightness (one way is by rolling it on a flat surface) before assembly and check to see that the threaded rod runs smoothly on the Delrin Lead nut --- if it doesn't, run the nut along the rod until it does. Using a drill is one option. Be certain the nut is free of debris or other materials. 
 
@@ -188,6 +188,6 @@ Place washers on the M5 x 70 mm SHCS (**\#4**) and place them in the outer holes
 
 [![](tPictures/so_carriage_4.jpg)](content/tPictures/so_carriage_8.png)
 
-[![](tPictures/so_gantry_carriage_4.jpg)](content/tPictures/so_gantry_carriage_8.png)
+[![](tPictures/so_gantry_carriage_4.jpg)](content/tPictures/so_gantry_carriage_8.jpg)
 
 ###Next Step [Gantry](http://docs.shapeoko.com/gantry.html)
