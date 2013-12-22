@@ -186,7 +186,7 @@ If possible, select a Motor Mount Carriage (PS20022) which has a stepper motor a
 
 Place washers on the M5 x 70 mm SHCS (**\#4**) and place them in the outer holes of the Z-Assembly Carriage (**\#1**) from the side opposite the V-wheels. Place one each of the Aluminum Spacers (**\#3**,  and **\#6**) on each bolt, place the Motor Mount Carriage (**\#2**) onto the bolts and attach using an M5 washer (**\#5**) and M5 hex nut (**\#7**).
 
-[![](tPictures/so_carriage_4.jpg)](content/tPictures/so_carriage_8.png)
+[![](tPictures/so_carriage_4.jpg)](content/tPictures/so_carriage_8.jpg)
 
 [![](tPictures/so_gantry_carriage_4.jpg)](content/tPictures/so_gantry_carriage_8.jpg)
 
