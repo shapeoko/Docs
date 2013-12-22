@@ -97,4 +97,6 @@ Arrange the stepper motor wires so that they reach the Arduino and if necessary 
 
 Jog each axis, checking the direction and distance of the machine's movement. If any movement is in the wrong direction, reverse a pair of wires at the Arduino or reconfigure Grbl. If movement is more or less than expected, check the gShield micro-stepping jumpers for that axis --- if necessary re-calculate Grbl's settings.
 
+If any aspect of your machine doesn't function properly, see the wiki pages [assembly troubleshooting](http://www.shapeoko.com/wiki/index.php/Assembly_troubleshooting) and [fine tuning](http://www.shapeoko.com/wiki/index.php/Tuning).
+
 ###Next Step [Hello, World](http://docs.shapeoko.com/helloworld.html)
