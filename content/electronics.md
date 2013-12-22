@@ -63,7 +63,9 @@ Launch your selected Communication/Control program on your computer. Connect to 
 
 ##Hook Stuff Up##
 
-![Arduino and gShield](tPictures/so_e_arduino_gshield_2.jpg) ![Arduino and gShield on edge](tPictures/so_e_arduino_gshield_oe_2.jpg) ![Arduino and gShield assembled](tPictures/so_e_arduino_gshield_aa_2.jpg)
+![Arduino and gShield](tPictures/so_e_arduino_gshield_2.jpg)
+![Arduino and gShield on edge](tPictures/so_e_arduino_gshield_oe_2.jpg)
+![Arduino and gShield assembled](tPictures/so_e_arduino_gshield_aa_2.jpg)
 
 The next step is to plug the Arduino into the gShield. The Arduino will run Grbl, while the gShield will be connected to the stepper motors and will control them. Be careful of the electronics, not to bend any pins, or to allow static electricity to damage them.
 
@@ -94,7 +96,7 @@ Make all connections in the same colour order. Shown is:
 * Green (Please match the other 3 colours and pair this odd twain to match the diagram)
 * Black
 
-[![Stepper motor connected to terminal block, connected to grey wire](tPictures/so_e_steppermotor_tb_wired_4.jpg)](content/tPictures/so_e_steppermotor_tb_wired_8.png)
+[![Stepper motor connected to terminal block, connected to grey wire](tPictures/so_e_steppermotor_tb_wired_4.jpg)](content/tPictures/so_e_steppermotor_tb_wired_8.jpg)
 
 Since the ShapeOko 2 uses two motors on the Y-Axis and the gShield only has 3 stepper drivers, it is necessary to wire the two motors to one terminal block as shown below. Note that it is necessary to reverse one pair of wires so that the motors will run in opposite directions when placed on the gantry in opposite orientations.
 
@@ -104,7 +106,7 @@ Since the ShapeOko 2 uses two motors on the Y-Axis and the gShield only has 3 st
 
 Carefully make each connection. Be careful not to lose any screws. If necessary, trim wires and re-strip so as to achieve a good connection.
 
-[![image of required components](tPictures/so_e_steppermotors_wired_4.jpg)](content/tPictures/so_e_steppermotors_wired_4_8.jpg)
+[![image of required components](tPictures/so_e_steppermotors_wired_4.jpg)](content/tPictures/so_e_steppermotors_wired_8.jpg)
 
 Next, connect the grey wires from the terminal blocks to the stepper motors. Make all of the connection initially in the same order. Later, when configuring the machine, it may be necessary to swap wires around so as to achieve the desired rotational direction.
 
@@ -130,7 +132,7 @@ _Be careful with the power supply, and don't work on power wires when the power 
 
 First, strip the power lead, it may also be necessary to split the lead at the end so as to allow it to neatly connect to the power connector on the gShield.
 
-[![Stripped lead for barrel connector](tPictures/power_connection_4.jpg)](content/tPictures/power_connection_8.png)
+[![Stripped lead for barrel connector](tPictures/power_connection_4.jpg)](content/tPictures/power_connection_8.jpg)
 
 Connect it to the Arduino. There are two leads, one a solid black wire, the other black w/ a white stripe. 
 
