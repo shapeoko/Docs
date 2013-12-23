@@ -131,7 +131,7 @@ _Be careful with the power supply, and don't work on power wires when the power 
 
 First, strip the power lead, it may also be necessary to split the lead at the end so as to allow it to neatly connect to the power connector on the gShield.
 
-![Stripped lead for barrel connector](tPictures/power_connection_4.jpg)
+![Stripped lead for barrel connector](tPictures/power_connection.jpg)
 
 Connect it to the Arduino. There are two leads, one a solid black wire, the other black w/ a white stripe. 
 
