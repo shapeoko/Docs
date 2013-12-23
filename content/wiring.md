@@ -39,7 +39,7 @@ This is the direct wire method that requires (modest) soldering skills to comple
 
 ## Option #2 - Terminal Blocks
 
-This is the terminal block method. This method is pretty easy, but requires that you make some preparations **WHILE** you are assembling the machine (attaching the terminal blocks). It is best suited for machines which will be scaled up dramatically in size, or for motors which have short leads.
+This is the terminal block method. This method is easy (no soldering or other special skills), but requires that you make preparations **WHILE** you are assembling the machine (attaching the terminal blocks to the carriages). While it is possible to attach the terminal blocks after assembly, it is very difficult and potentially frustrating, far better to do it in advance. It is especially well-suited for machines which will be scaled up in size, or for motors which have short leads.
 
 ###You will need the following tools and parts to complete this option
 
