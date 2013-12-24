@@ -1,9 +1,10 @@
 ## Option #3 
+
 This is the 'mount the controller on the machine' method. It's experimental, it's untested, it's **hot**. *You can assemble the entire machine before doing this step*. If you venture down this path, you're an explorer, and may be on your own. It might be worth it.
 
 ###assembly tip
-_While it's physically possible to attach the Arduino after the machine is assembled, it's a pain in the ass. If you want to do yourself a favor, and save some frustration. Wire the entire gantry before mounting it to the work area._
 
+_While it's physically possible to attach the Arduino after the machine is assembled, it's a pain in the ass. If you want to do yourself a favor, and save some frustration. Wire the entire gantry before mounting it to the work area._
 
 _Note: in all the pictures shown below, yellow zip ties are used. These were chosen for documentation because they are more visible than the black zip ties included with your kit._
 
@@ -17,12 +18,14 @@ _Note: in all the pictures shown below, yellow zip ties are used. These were cho
 * Bravery & Courage
 
 ###X and Z wiring 
-Looking at the machine from the back, the idea is to pull down the wires from the Z-axis stepper motor to the x-axis carriage. Then pull up the x-axis stepper motor wires to the top of the carriage, so you can zip tie them together using the zip ties. 
+
+Looking at the machine from the back, the idea is to pull down the wires from the Z-axis stepper motor to the X-axis carriage. Then pull up the X-axis stepper motor wires to the top of the carriage, so you can zip tie them together. 
 
 ![rear view svg](wiring/wiring_3_rearview.svg)
 
 
 ####Expandable Braiding
+
 The included expandable braiding can be used in this step as well. The best way to thread the wires through the braiding is to twist them together, forming two 'groups', like so:
 
 ![expandable braiding step 1](wiring/38-so_wiring-037.jpg)
@@ -72,7 +75,7 @@ Once you have pushed the wires past the gantry, grab the bundle and pull it out 
 
 ![keep threading](wiring/28-so_wiring-027.jpg)
 
-At the opposite side of what you started, thread the wires through the carriage plate's top slot. Like this
+At the opposite side of what you started, thread the wires through the carriage plate's top slot. Like this:
 
 ![keep threading](wiring/29-so_wiring-028.jpg)
 
@@ -81,7 +84,7 @@ Now pull the wires so they are fairly taught on the other side. Be careful not t
 ![keep threading](wiring/31-so_wiring-030.jpg)
 ![keep threading](wiring/30-so_wiring-029.jpg)
 
-Both sets of wires for the Y axis should be on the same side of the machine now. That's awesome. This part is going to get pretty hairy. The wires coming from the Y axis stepper motor that's on the same side as the controller, are **REALLY** long. I don't advocate cutting these wires. You never know what you might want to do to your machine at some point in the future, and cutting the wires might limit your options. Instead, let's manage the wires the best we can, and then wrap them up together and tuck them away. 
+Both sets of wires for the Y-axis should be on the same side of the machine now. That's awesome. This part is going to get pretty hairy. The wires coming from the Y-axis stepper motor that's on the same side as the controller, are **REALLY** long. I don't advocate cutting these wires. You never know what you might want to do to your machine at some point in the future, and cutting the wires might limit your options. Instead, let's manage the wires the best we can, and then wrap them up together and tuck them away. 
 
 First step is to pull your leads so they're not so curly. The motors ship in a styrofoam box and their leads are all wound up to conserve shipping space. Do yourself a favor and smooth those wires out. Otherwise they're going to be curling up and getting all twisted around things. Seriously. Smooth them out.
 
@@ -119,7 +122,7 @@ Pull the extra wire out, and zip tie the base of it together
 
 ![rats nest taming](wiring/58-so_wiring-057.jpg)
 
-Pull more out, folder it over itself and zip tie it again
+Pull more out, fold it over itself and zip tie it again
 
 ![rats nest taming](wiring/59-so_wiring-058.jpg)
 
