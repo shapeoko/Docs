@@ -7,7 +7,6 @@
 ![](tPictures/so_wiring_x_y_terminalbocks_2.jpg)
 ![](tPictures/so_enclosure_legobricks_2.jpg)
 ![](tPictures/so2_w2_xyz_wires_ziptied_2.jpg)
-![](tPictures/so2_w2_xyz_cable_extended_2.jpg)
 ![](tPictures/so2_w2_xyz_cable_coiled_2.jpg)
 
 This is the terminal block method. This method is quite easy, but requires that you make some preparations **WHILE** you are assembling the machine (mounting the terminal blocks). It is especially suited if you have short motor leads, or want to expand your machine beyond the reach of your motor leads.
