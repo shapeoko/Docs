@@ -5,6 +5,10 @@
 ![](tPictures/so_wiring_zaxis_expandablebraid_2.jpg)
 ![](tPictures/so_wiring_gantry_zaxis_terminalblock_2.jpg)
 ![](tPictures/so_wiring_x_y_terminalbocks_2.jpg)
+![](tPictures/so_enclosure_legobricks_2.jpg)
+![](tPictures/so2_w2_xyz_wires_ziptied_2.jpg)
+![](tPictures/so2_w2_xyz_cable_extended_2.jpg)
+![](tPictures/so2_w2_xyz_cable_coiled_2.jpg)
 
 This is the terminal block method. This method is quite easy, but requires that you make some preparations **WHILE** you are assembling the machine (mounting the terminal blocks). It is especially suited if you have short motor leads, or want to expand your machine beyond the reach of your motor leads.
 
@@ -93,9 +97,20 @@ Bundle and secure the excess leads. Connect the Y-axis stepper motor wire to the
 
 [![](tPictures/so_enclosure_legobricks_4.jpg)](content/tPictures/so_enclosure_legobricks_8.jpg)
 
-Arrange the stepper motor wires so that they reach the Arduino. Zip tie the wires together (one can persuade them to lay flat by weaving the tie under, over, under, back around, under, then over and close it). Move the gantry to the back and arrange the wires in a gentle run to the controller. Measure a length of expandable braiding to cover the wires from the gantry to the controller. Label the ends and cover the wires w/ the expandable braiding. Cut off two lengths of heat shrink tubing, slip them over the wires and braiding, covering the cut ends of the braiding and heat them to seal the ends. If the Arduino will be mounted to the machine you may wish to zip tie the wiring bundle at a bit more than the half-way point of the machine.
+Arrange the stepper motor wires so that they reach the Arduino. 
+
+[![](tPictures/so2_w2_xyz_wires_ziptied_4.jpg)](content/tPictures/so2_w2_xyz_wires_ziptied_8.jpg)
+
+
+Zip tie the wires together (one can persuade them to lay flat by weaving the tie under, over, under, back around, under, then over and close it). Move the gantry to the back and arrange the wires in a gentle run to the controller. Measure a length of expandable braiding to cover the wires from the gantry to the controller. Label the ends and cover the wires w/ the expandable braiding. Cut off two lengths of heat shrink tubing, slip them over the wires and braiding, covering the cut ends of the braiding and heat them to seal the ends. 
+
+[![](tPictures/so2_w2_xyz_cable_extended_4.jpg)](content/tPictures/so2_w2_xyz_cable_extended_8.jpg)
+
 
 [![](tPictures/so2_w2_xyz_cable_coiled_4.jpg)](content/tPictures/so2_w2_xyz_cable_coiled_8.jpg)
+
+
+If the Arduino will be mounted to the machine you may wish to zip tie the wiring bundle at a bit more than the half-way point of the machine.
 
 Re-connect the wires to the Arduino per the wiring diagram and zip tie them in place. Check all the wiring, moving the machine carefully through its range of X- and Y-axis motion, ensuring nothing works loose. If you have access to a multimeter, use it to check the continuity of the wiring before connecting, powering up and testing or using the machine.
 
