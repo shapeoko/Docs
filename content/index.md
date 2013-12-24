@@ -14,7 +14,7 @@ _Never operate the machine without adequate safety gear for the current task. Ne
 
 ###Overview
 
-1. Review the parts in your kit
+1. Review the parts in your kit and the instructions
 2. Read the [Pro Tips](tips.html) and make sure you have all the required [Tools](tips.html#Tools) 
 3. Install your [software](software.html)
 4. Test Your [Electronics](electronics.html)
@@ -73,7 +73,7 @@ This is the most labor intensive part of the assembly. You will be assembling 3 
 ##Z-Axis
 [Goto the Instructions](zaxis.html)
 
-The z-axis is comprised of 3 separate assemblies, and will require some time (and patience) to fully assemble. Once you are done with this step, your machine will really start to take shape. 
+The Z-axis is comprised of 3 separate assemblies, and will require some time (and patience) to fully assemble. It will also require that you have begun tapping the MakerSlide (see the [Pro Tips](tips.html)). Once you are done with this step, your machine will really start to take shape. 
 
 ![z-axis exploded](tPictures/so_z_axis_parts_4.jpg)
 
@@ -109,7 +109,7 @@ The work area integrates the last component with the previous assemblies, comple
 ##Electrical Wiring##
 [Goto the Instructions](wiring.html)
 
-The machine is complete when the electronics are wired up to the motors, allowing movement.
+The machine is complete when the electronics are wired up to the motors and the belts are installed, allowing movement.
 
 ---
 
