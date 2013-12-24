@@ -67,7 +67,9 @@ Cut off a length of expandable braiding long enough to reach from the motor stan
 
 Cut off two ~1" lengths of heat shrink tubing, slide each over the Z-axis leads and the expandable braid, place one piece of heat shrink tubing over either end of the expandable braid. Apply heat to fix them in place over the ends of the braids, then zip-tie each end in place. _Or you can just zip-tie the ends of the expandable braiding._
 
-Re-connect the leads to the terminal block as well as a grey 4-conductor wire (see the [Electronics page](http://docs.shapeoko.com/electronics.html) for details). Arrange and secure any excess length of the Z-axis leads, arrange and zip-tie the Z-axis stepper motor wire off the top of the right side of the X-axis plate.
+Re-connect the leads to the terminal block as well as a grey 4-conductor wire (see the [Electronics page](http://docs.shapeoko.com/electronics.html) for details). Arrange and secure any excess length of the Z-axis leads, arrange and zip-tie the Z-axis stepper motor wire off the top of the right side of the X-axis plate. 
+
+If your wire has not yet been cut to length, read ahead in the directions and loosely zip tie it along the complete route, test the movement of the machine and then cut it to (a little longer than) length, allowing for stripping off the cover, shielding and wire ends and making the connection to the Arduino. Repeat this with the other two axis wires.
 
 ###X-axis
 
