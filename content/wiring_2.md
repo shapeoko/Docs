@@ -67,7 +67,6 @@ Cut off a length of expandable braiding long enough to reach from the motor stan
 
 Cut off two ~1" lengths of heat shrink tubing, slide each over the Z-axis leads and the expandable braid, place one piece of heat shrink tubing over either end of the expandable braid. Apply heat to fix them in place over the ends of the braids, then zip-tie each end in place. _Or you can just zip-tie the ends of the expandable braiding._
 
-
 Re-connect the leads to the terminal block as well as a grey 4-conductor wire (see the [Electronics page](http://docs.shapeoko.com/electronics.html) for details). Arrange and secure any excess length of the Z-axis leads, arrange and zip-tie the Z-axis stepper motor wire off the top of the right side of the X-axis plate.
 
 ###X-axis
@@ -93,6 +92,8 @@ Twist the leads together with the leads from the right Y-axis motor (remember to
 Bundle and secure the excess leads. Connect the Y-axis stepper motor wire to the terminal block and arrange it towards the rear of the machine. Zip-tie it in place at the rear of the plate. Zip-tie it and the other stepper motor wires together.
 
 ###Arduino
+
+Please note the following was done to a machine which had its wasteboard inverted (flipped to the bottom) and a second wasteboard added --- there may not be clearance underneath the carriage on a stock machine unless one re-locates the exit of the wiring bundle from the Y-axis plate higher than is shown above.
 
 [![](tPictures/so_enclosure_legobricks_4.jpg)](content/tPictures/so_enclosure_legobricks_8.jpg)
 
