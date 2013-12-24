@@ -12,7 +12,7 @@ _For simplicity, the above wiring diagram omits the (optional) terminal blocks f
 
 **N.B., stepper driver chips are fragile and may be damaged by applying power without a motor connected --- always wire things up completely, and verify all connections each time before applying power.**
 
-Please note that stepper motors can be wired up in many different ways and still function, though the motors may turn in the reverse of the desired direction (stepper motors are reversed by swapping pairs of wires). The diagram shows one such method and the photos which follow may show other methods. The important thing is to follow one consistent technique when wiring the machine initially, being certain to maintain the pairing of the wires (see [this page](http://www.linengineering.com/resources/wiring_connections.aspx) for information on wiring stepper motors), then if need be, one can alter the wiring to achieve the desired direction of rotation.
+Please note that stepper motors can be wired up in many different ways and still function, though the motors may turn in the reverse of the desired direction (stepper motors are reversed by swapping pairs of wires). The diagram shows one such method, which will result in correct motor rotation, and the photos which follow may show other methods (which may or may not). The ideal is to follow the wiring diagram which will "just work" --- the important thing is to follow one consistent technique when wiring the machine initially, being certain to maintain the pairing of the wires (see [this page](http://www.linengineering.com/resources/wiring_connections.aspx) for information on wiring stepper motors), then if need be, one can alter the wiring to correct the direction of rotation if need be.
 
 ## Requirements
 
