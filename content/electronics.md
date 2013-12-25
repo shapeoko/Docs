@@ -89,12 +89,12 @@ Next, strip all of the wire ends. The ends which will attach to the terminal blo
 
 Next, loosen up all the screws on one terminal block, then begin making connections by twisting the wire ends into hooks, hooking them onto the screws oriented so that the turning of the screw will tighten them and tighten the wire.
 
-Make all connections in the same colour order. Shown is:
+Make all connections in the same colour order. Shown in the wiring diagram is:
 
+* Black (swap this first pair to reverse the second Y-axos motor)
+* Green
 * Red
-* Blue/White (as shown in the photo)
-* Green (Please match the other 3 colours and pair this odd twain to match the diagram)
-* Black
+* Blue/White
 
 ![Stepper motor connected to terminal block, connected to grey wire](tPictures/so_e_steppermotor_tb_wired_4.jpg)
 
