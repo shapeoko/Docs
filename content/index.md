@@ -8,6 +8,8 @@ Thank you for supporting Project Shapeoko, an opensource CNC machine which may b
 
 The following pages are filled with the information you need to assemble your Shapeoko 2 desktop CNC machine. Please read through them in advance, and make note of things to check and verify before beginning assembly. If you have any difficulties with assembly, please check the ShapeOko [wiki](http://www.shapeoko.com/wiki) and [forums](http://www.shapeoko.com/forum/index.php).
 
+Please refer to the ShapeOko [wiki](http://www.shapeoko.com/wiki) for additional information on using or upgrading your machine.
+
 ###A note on safety
 
 _Never operate the machine without adequate safety gear for the current task. Never reach into the machine's operating envelope while it is running. Always have a means of safely disabling the machine's motion and spindle. Never leave the machine operating un-attended. There is an [operating checklist](http://www.shapeoko.com/wiki/index.php/Operating\_Checklist) which should always be followed._
