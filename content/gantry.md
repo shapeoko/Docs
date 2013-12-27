@@ -79,3 +79,5 @@ Turn the eccentric nuts on the V-wheels on the Gantry Carriage (**\#2**) so that
 
 
 ###Next step [Y-axis](http://docs.shapeoko.com/yaxis.html)
+
+To express concerns, post on the [forums](http://www.shapeoko.com/forum/index.php), to suggest improvements without using github, edit [this wiki page](http://www.shapeoko.com/wiki/index.php?title=Gantry_1&action=edit&redlink=1).
