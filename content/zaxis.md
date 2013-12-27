@@ -191,3 +191,5 @@ Place washers on the M5 x 70 mm SHCS (**\#4**) and place them in the outer holes
 [![](tPictures/so_gantry_carriage_4.jpg)](content/tPictures/so_gantry_carriage_8.jpg)
 
 ###Next Step [Gantry](http://docs.shapeoko.com/gantry.html)
+
+To express concerns, post on the [forums](http://www.shapeoko.com/forum/index.php), to suggest improvements without using github, edit [this wiki page](http://www.shapeoko.com/wiki/index.php?title=Zaxis_1&action=edit&redlink=1).
