@@ -1,5 +1,6 @@
 # Gantry
 
+
 ## Belt Clip Assembly (PS20020)
 
 ![](tPictures/so_belt_anchors_2.jpg)
@@ -9,7 +10,8 @@
 - 26016-01 **M5 insertion nut** x 1 pcs.
 - 26051-01 **Fiberglass Clip** x 1 pcs.
 
-The Belt Clip Assemblies are used to fasten and tension the GT2 belts (this is detailed later). There are 6 total, which should be assembled at this point, and which should be placed in the MakerSlide slots during assembly. See the PS20025 diagram below for details on orientation. At a minimum you just need to remember to put the insertion nuts into the back piece of MakerSlide (on the top slot) before attaching the second motor mount carriage. Once the carriage is in place, you will no longer have access to the slot. 
+The Belt Clip Assemblies are used to fasten and tension the GT2 belts (this is detailed later). There are 6 total, which should be assembled at this point, and which should be placed in the MakerSlide slots during assembly. See the PS20025 diagram below for details on orientation. At a minimum you just need to remember to put the insertion nuts into the back piece of MakerSlide (on the top slot) before attaching the second motor mount carriage. Once the carriage is in place, you will no longer have access to the slot. **Note** the clips may have loose splinters along the cut edges --- carefully buff any such off with a paper towel (and promptly dispose of the towel to avoid splinters).
+
 
 ##Sub Gantry (PS20023)
 
@@ -18,7 +20,9 @@ The Belt Clip Assemblies are used to fasten and tension the GT2 belts (this is d
 ![](tPictures/so_gantry_parts_2.jpg)
 ![](tPictures/so_gantry_parts_tool_2.jpg)
 
+
 ###Requirements
+
 
 ####Parts
 
@@ -47,7 +51,9 @@ Push the MakerSlide as far as is possible to one end of the slot which the 12mm 
 
 **Note:** the parts picture above shows some extra parts which will be used in the next step.
 
+
 ###Requirements
+
 
 ####Parts
 
@@ -65,7 +71,7 @@ Push the MakerSlide as far as is possible to one end of the slot which the 12mm 
 
 [![exploded view of Gantry Carriage](tPictures/PS20025_4.png)](content/tPictures/PS20025_16.png)
 
-Turn the eccentric nuts on the V-wheels on the Gantry Carriage (**\#1**) so that they are as far from the static V-wheels as is possible. Carefully roll the Gantry Carriage onto the two pieces of MakerSlide of the Sub Gantry (sub-assembly from above), facing the spindle carriage away from the MakerSlide which is bolted in place at the extreme edge of the slot. Move the Gantry Carriage as close to the attached Motor Mount Carriage Plate as is possible, tighten the bolts for the loose MakerSlide (push down on the gantry carriage when tightening the top bolts, pull up on it when tightening the bottom bolts). Attach the other Motor Mount Carriage in the same fashion, pushing down on the MakerSlide to ensure that the two plates are square. Ensure that the Gantry moves smoothly for the entire length of the X-axis. If necessary, loosen the M5 bolts and adjust the fit until everything is square and aligned and the gantry carriage travels smoothly.
+Turn the eccentric nuts on the V-wheels on the Gantry Carriage (**\#2**) so that they are as far from the static V-wheels as is possible. Carefully roll the Gantry Carriage onto the two pieces of MakerSlide (**\#3**) of the Sub Gantry (sub-assembly from above, **\#3** and **\#4** ), facing the spindle carriage away from the MakerSlide which is bolted in place at the extreme edge of the slot. Move the Gantry Carriage as close to the attached Motor Mount Carriage Plate (**\#4**) as is possible, tighten the bolts for the loose MakerSlide (push down on the gantry carriage when tightening the top bolts, pull up on it when tightening the bottom bolts). Attach the other Motor Mount Carriage in the same fashion, pushing down on the MakerSlide to ensure that the two plates are square. Ensure that the Gantry moves smoothly for the entire length of the X-axis. If necessary, loosen the M5 bolts and adjust the fit until everything is square and aligned and the gantry carriage travels smoothly.
 
 [![](tPictures/so_gantry_half_carriage_mounted_tools_4.jpg)](content/tPictures/so_gantry_half_carriage_mounted_tools_8.jpg)
 
