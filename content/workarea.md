@@ -123,3 +123,5 @@ With the Allen wrench inserted into the button head cap screw, adjust the screw 
 (If you can't get enough tension, place one of the 13mm wrenches against the far side of the Allen wrench and use it as a handle to pull the Allen wrench to pull the belt anchor to tension the belt)
 
 ###Next Step [Wiring](wiring.html)
+
+To express concerns, post on the [forums](http://www.shapeoko.com/forum/index.php), to suggest improvements without using github, edit [this wiki page](http://www.shapeoko.com/wiki/index.php?title=Workarea_1&action=edit&redlink=1).
