@@ -79,3 +79,5 @@ To change a setting, type $ then the setting number, an equals sign, and the des
 		$1=40.020
 
 will set the X-axis.
+
+###Next step [Electronics](electronics.html)
