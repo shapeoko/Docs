@@ -81,3 +81,5 @@ To change a setting, type $ then the setting number, an equals sign, and the des
 will set the X-axis.
 
 ###Next step [Electronics](electronics.html)
+
+To express concerns, post on the [forums](http://www.shapeoko.com/forum/index.php), to suggest improvements without using github, edit [this wiki page](http://www.shapeoko.com/wiki/index.php?title=Software_1&action=edit&redlink=1).
