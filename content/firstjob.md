@@ -2,17 +2,20 @@
 
 Welcome to Your New Life! After completing this step, you'll be a pro! OK, maybe not a pro, but you will be capable of designing a simple part, generating appropriate toolpaths, and cutting said toolpaths on your Shapeoko 2. This is exciting, get ready!
 
+
 ##Find the Origin
 
 Step #1: Open makerCAM.com. Zoom out until you can see the origin. The origin is 0,0 in the cartesian coordinate system, it's where the X and Y axis meet. In the CAM world, the origin is where your machine is going to start from.
 
 ![find the origin](firstjob/mc_origin.png)
 
+
 ##Create a Rectangle
 
 Select Insert -> Rounded Rectangle. When the dialog box comes up, input 3.5 for both the length and width. leave the radius as 0.2. Click OK. You now have a rounded rectangle!
 
 ![rectangle](firstjob/mc_rr1.png)
+
 
 ##Another Rectangle
 
@@ -27,6 +30,7 @@ Select the pencil tool from the toolbar in the top left corner of the screen. Us
 
 ![initial](firstjob/mc_initial1.png)
 
+
 #Prettify Your Freehand
 
 Take the pointer tool with the circle on the end, and start working your letter into shape. Zoom in, and hover over one of the corners. See the red dot? Now you can click and drag that red dot until your line is straight (or in the shape you want it). If you put that red dot onto another one, it will join the two lines together. Now we're getting somewhere! Once you're happy with the letter, go ahead and center it inside the rectangles.
@@ -34,17 +38,20 @@ Take the pointer tool with the circle on the end, and start working your letter 
 ![rectangle](firstjob/mc_initial2.png)
 ![rectangle](firstjob/mc_initial3.png)
 
+
 ##Engrave Your Letter
 
 Select your letter with the pointer tool. Once it's selected, the border will turn orange. Now, take a deep breath, we're going to make our first toolpath! Click CAM -> Pocket. Fill in the following values then click OK. Your letter should look like it's filled in with a hatch pattern.
 
 ![rectangle](firstjob/mc_engrave_letter.png)
 
+
 ##Engrave the Border
 
 Select the inside rounded rectangle (the one we made in step #3). Click CAM -> Follow Path Operation. Fill in the following values, then click OK. Your line will be highlighted yellow.
 
 ![rectangle](firstjob/mc_engrave_edge.png)
+
 
 ##Create a Profile
 
@@ -66,6 +73,7 @@ It's time to generate your G-code! If you check the "view cuts" option in the to
 
 ![rectangle](firstjob/mc_calculate.png)
 
+
 ##Export G-Code
 
 Export Your g-code! Your coaster should look a little goofy right now, with colors and curves representing the toolpaths. That's OK, imagine those toolpaths as a map for your bit to follow. Once you have calculated all toolpaths, let's go ahead an export the file. Click CAM -> export g-code. A couple of things to remember on this screen.
@@ -80,24 +88,28 @@ Just like we did in the Hello World section, plug the power in to your machine a
 
 
 ##Open Connection Between Computer and Machine
+
 Select the correct com port and baud rate from the drop down menus on the left.  Click 'Open' to establish a connection with the Arduino.  GRBL says hello by displaying its version number.
 
 ![Make Connection](http://placehold.it/800x400&text=image+of+open+connection+with+GRBL+version+displayed)
 
 
 ##Open File
+
 Browse for the file you just exported from makerCAM.
 
 ![Open The File](http://placehold.it/800x400&text=image+of+open+file)
 
 
 ##Verify File
+
 Click the visualize button, located just below the browse button, to see what the file will look like. After a few seconds, a screen similar to the one below will display, which you can interact with by left clicking and dragging your mouse around.
 
 ![Visualize](http://placehold.it/800x400&text=image+of+visualizer)
 
 
 ##Set Zero Position
+
 If your file visualization looks correct, close the visualizer and click the 'machine control' tab towards the top of the window.
 
 ![Double Check Settings](firstjob/ugs_set_zero.png)
@@ -110,6 +122,7 @@ Jog your machine to the lower left side of your work surface using the different
 
 
 ##Air Cut
+
 Just to make sure, lets draw this in the air.  Click the 'File Mode' tab at the top of the program window. With the spindle ~1" above the work surface, click the 'Send' button just below the file path.
 
 ![Send File](http://placehold.it/800x400&text=image+of+sending+file)
@@ -130,3 +143,7 @@ Lower your spindle so it's *just* ***touching*** the material.
 OK, here we go. Take a deep breath and click the 'Send' button.
 
 ![Run Job](http://placehold.it/800x400&text=image+of+running+job)
+
+
+
+To express concerns, post on the [forums](http://www.shapeoko.com/forum/index.php), to suggest improvements without using github, edit [this wiki page](http://www.shapeoko.com/wiki/index.php?title=Firstjob_1&action=edit&redlink=1).
