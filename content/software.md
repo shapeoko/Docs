@@ -65,7 +65,7 @@ Then follow the instructions here:
 
 * [github.com/grbl/grbl/wiki/Flashing-Grbl-to-an-Arduino](https://github.com/grbl/grbl/wiki/Flashing-Grbl-to-an-Arduino)
 
-and you'll be all set to configure it.
+and you'll be all set to configure it. Please note that while 115200 baud is used to flash Grbl, 9600 baud (as implied by the filename) is used to communicate with Grbl. Be sure to set the speed appropriately.
 
 
 ### Configuring ###
