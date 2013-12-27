@@ -139,3 +139,5 @@ Your machine will now run the hello world job. Keep close to your computer, and 
 [![Finished job](tPictures/so_2_helloworld_two_4.jpg)](tpictures/content/tPictures/so_2_helloworld_two_16.jpg)
 
 Once it's complete, you may wish to [document it on the wiki](http://www.shapeoko.com/wiki/index.php/Hello_World).
+
+To express concerns, post on the [forums](http://www.shapeoko.com/forum/index.php), to suggest improvements without using github, edit [this wiki page](http://www.shapeoko.com/wiki/index.php?title=Helloworld_1&action=edit&redlink=1).
