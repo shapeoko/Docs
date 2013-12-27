@@ -1,5 +1,8 @@
 # Testing Electronics
+
+
 ## Overview
+
 ![Arduino, gShield, wiring, stepper motors, lit](tPictures/so_e_arduino_wired_li_2.jpg) ![image of required components](tPictures/so_electronics_parts_2.jpg)
 
 Before we get all crazy bolting our new machine together, let's give our electronics a test run. It's frustrating to have the machine fully assembled, only to find there is a problem with your electronics that may require disassembly! Let's cut that off at the pass and give everything a thorough checking first.
@@ -20,7 +23,7 @@ Please note that stepper motors can be wired up in many different ways and still
 
 * **Arduino with Grbl firmware** (contains an AVR processor, USB connector and I/O pins)
 * (Arduino) **gShield** (formerly GrblShield, takes the signals Grbl generates and drives the steppers. Small pots are used to adjust)
-* **Stepper motors** x 4pcs
+* **Stepper motors** x 4 pcs
 * **Power Supply** with wall plug
 * **Barrel Connector** (for connecting the power supply to the gShield)
 * Computer with a **Grbl Communication/Control program** installed
@@ -28,6 +31,7 @@ Please note that stepper motors can be wired up in many different ways and still
 * Patience (just a little bit)
 
 Please note that the photos depict using terminal blocks to connect the wiring --- this is optional and included to cover the case of motors with short lead wires which would require them. The 4-conductor cable should be 18 or 20 gauge and shielded. Note that in addition to the 4 color-coded copper conductors there is a steel "drain wire" which may optionally be connected to ground at the controller end, but should be trimmed off with the shielding at the motor end.
+
 
 ## Tools
 
@@ -38,7 +42,6 @@ Please note that the photos depict using terminal blocks to connect the wiring -
 * razor blade
 * (optional shown) Wire strippers
 * (optional and not shown) Multimeter for testing continuity
-
 
 The terminal blocks use a combination screw which will accept either a Phillips or flat blade screwdriver.
 
@@ -56,10 +59,10 @@ First thing that we do is plug our Arduino into the computer.
 Remember, the big end of the cable goes into the Arduino. Loading the driver for the Arduino is documented in [Software](http://docs.shapeoko.com/software.html)
 
 
-
 ##Communication / Control Program
 
 Launch your selected Communication/Control program on your computer. Connect to the Arduino and ensure that it works (see the [Software](software.html) page for details). Once you are certain your controller works, disconnect it.
+
 
 ##Hook Stuff Up##
 
@@ -91,7 +94,7 @@ Next, loosen up all the screws on one terminal block, then begin making connecti
 
 Make all connections in the same colour order. Shown in the wiring diagram is:
 
-* Black (swap this first pair to reverse the second Y-axos motor)
+* Black (swap this first pair to reverse the second Y-axis motor)
 * Green
 * Red
 * Blue/White
@@ -108,7 +111,7 @@ Carefully make each connection. Be careful not to lose any screws. If necessary,
 
 ![image of required components](tPictures/so_e_steppermotors_wired_4.jpg)
 
-Next, connect the grey wires from the terminal blocks to the stepper motors. Make all of the connection initially in the same order. Later, when configuring the machine, it may be necessary to swap wires around so as to achieve the desired rotational direction.
+Next, connect the grey wires from the terminal blocks to the stepper motors. Make all of the connections initially in the same order. Later, when configuring the machine, it may be necessary to swap wires around so as to achieve the desired direction of rotation.
 
 ![image of required components](tPictures/so_e_steppermotors_ar_4.jpg)
 Please note the gShield takes two different sizes of screwdriver. 1/8" for the screws in the blue power connector, 3/32" for the screws in the green stepper motor connectors.
@@ -122,6 +125,7 @@ Connect the grey wires from the stepper motors. Lastly one must connect the powe
 Once completed, all wires will be connected and none will be loose. It is important that the wires be connected securely since the various parts will be in motion, and applying power to a stepper driver which is not connected to a motor may damage the driver.
 
 If you have a multimeter you may wish to test the connections for continuity.
+
 
 ###Power###
 
@@ -147,25 +151,28 @@ Plug the barrel connector into the matching connector from the power supply, plu
 ![image of required components](tPictures/so_e_arduino_usb_lit_4.jpg)
 
 
-
 ##Testing##
 
 Attaching tape to the motor shafts makes it easier to see the rotation.
 
 Load up a Communication / Control program and use its jog functionality to test each Axis.
 
+
 ###Go For a Spin###
 
 Z-Axis
 
+
 ###Another Spin###
 
 X-Axis
+
 
 ###And a Final Spin###
 
 Y-Axis --- make certain that the two motors for the Y-axis are rotating in opposite directions.
 
 Once everything has been successfully tested you should dismantle at least the terminal block connections and carefully set everything aside until it's needed.
+
 
 ###Next step [Wheels & Idlers](wheels.html)
