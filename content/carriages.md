@@ -106,3 +106,5 @@ Motor orientation is as follows:
 
 
 ###Next step [Z-axis](http://docs.shapeoko.com/zaxis.html)
+
+To express concerns, post on the [forums](http://www.shapeoko.com/forum/index.php), to suggest improvements without using github, edit [this wiki page](http://www.shapeoko.com/wiki/index.php?title=Carriages_1&action=edit&redlink=1).
