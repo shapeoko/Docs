@@ -29,3 +29,5 @@ Attach one end plate (**\#1**) to each piece of MakerSlide using the 12mm M5 bol
 Do not attach the second end plate, that will be done in the next step.
 
 ###Next Step [Work Area](http://docs.shapeoko.com/workarea.html)
+
+To express concerns, post on the [forums](http://www.shapeoko.com/forum/index.php), to suggest improvements without using github, edit [this wiki page](http://www.shapeoko.com/wiki/index.php?title=Yaxis_1&action=edit&redlink=1).
