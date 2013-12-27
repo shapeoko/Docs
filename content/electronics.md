@@ -176,3 +176,5 @@ Once everything has been successfully tested you should dismantle at least the t
 
 
 ###Next step [Wheels & Idlers](wheels.html)
+
+To express concerns, post on the [forums](http://www.shapeoko.com/forum/index.php), to suggest improvements without using github, edit [this wiki page](http://www.shapeoko.com/wiki/index.php?title=Electronics_1&action=edit&redlink=1).
