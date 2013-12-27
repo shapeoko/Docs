@@ -78,3 +78,7 @@ This is the 'mount the controller on the machine' method. It's experimental, it'
 * Bravery & Courage
 
 [click here to view these instructions](wiring_3.html)
+
+---
+
+To express concerns, post on the [forums](http://www.shapeoko.com/forum/index.php), to suggest improvements without using github, edit [this wiki page](http://www.shapeoko.com/wiki/index.php?title=Wiring_1&action=edit&redlink=1).
