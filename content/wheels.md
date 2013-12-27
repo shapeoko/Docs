@@ -77,3 +77,5 @@ Alternate, assembly-line procedure for the V-Wheels:
 ![Smooth Idler Wheel Assembled](tPictures/so_smooth_idler_4.jpg)
 
 ###Next step [Carriages](http://docs.shapeoko.com/carriages.html)
+
+To express concerns, post on the [forums](http://www.shapeoko.com/forum/index.php), to suggest improvements without using github, edit [this wiki page](http://www.shapeoko.com/wiki/index.php?title=Wheels_1&action=edit&redlink=1).
