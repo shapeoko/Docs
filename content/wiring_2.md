@@ -123,3 +123,5 @@ Jog each axis, checking the direction and distance of the machine's movement. If
 If any aspect of your machine doesn't function properly, see the wiki pages [assembly troubleshooting](http://www.shapeoko.com/wiki/index.php/Assembly_troubleshooting) and [fine tuning](http://www.shapeoko.com/wiki/index.php/Tuning).
 
 ###Next Step [Hello, World](http://docs.shapeoko.com/helloworld.html)
+
+To express concerns, post on the [forums](http://www.shapeoko.com/forum/index.php), to suggest improvements without using github, edit [this wiki page](http://www.shapeoko.com/wiki/index.php?title=Wiring_2_1&action=edit&redlink=1).
