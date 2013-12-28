@@ -45,22 +45,26 @@ Using a piece of tape, affix your sharpie to the z-axis spindle carriage assembl
 
 
 ##Position Sharpie
+
 Lower your sharpie so it is about 1 inch above the paper.
 
 
 ##Open Software
+
 Plug the power in to your machine and open Universal Gcode Sender on your computer. Once the program has loaded, plug in the USB cord to your computer and you should hear the stepper motors engage.
 
 ![Open The Software](helloworld/ugs1.png)
 
 
 ##Open Connection Between Computer and Machine
+
 Select the correct com port and baud rate from the drop down menus on the left.  Click 'Open' to establish a connection with the Arduino.  Once the connection has been made, GRBL will say hello by displaying its version number.
 
 ![Make Connection](helloworld/open_connection.png)
 
 
 ##Verify Grbl Settings
+
 In the command line at the top of Universal Gcode Sender, type $ and press enter.  Grbl should respond with a help message.
 
 ![$ Command Response](helloworld/grbl_settings.png)
@@ -71,6 +75,7 @@ In the same command line, type $$ to view the current Grbl settings.
 
 
 ##Configure Grbl Settings
+
 The default values need to be changed in order for your machine to function properly.  To do this, simply enter the correct value for each setting into the command line and press enter.  For example, to change the x-axis steps/mm to 40.020 you would type this, followed by an enter:
 
 		$0=40.020
@@ -78,6 +83,8 @@ The default values need to be changed in order for your machine to function prop
 These are the correct Grbl settings for the stock full kit machine.
 
 ![Grbl Settings](helloworld/check_grbl_settings.png)
+
+**Note: There has been one report of difficulty with the Z-axis caused by the $5=2500 setting (this should be okay with a certain jumper configuration) --- if your Z-axis doesn't move reliably, try the original smaller value $5=500.**
 
 If you have sourced your own electronics, you can easily determine your own settings by using this [Grbl settings calculator.](http://homepage.ntlworld.com/r.j.noble/ShapeOko/grblcalc/)
 
