@@ -143,7 +143,7 @@ OK, now we're ready. Take a deep breath (this is going to be amazing) and click 
 
 Your machine will now run the hello world job. Keep close to your computer, and be aware of how to quickly disconnect the power from your machine in case of an emergency situation.
 
-[![Finished job](tPictures/so_2_helloworld_two_4.jpg)](tpictures/content/tPictures/so_2_helloworld_two_16.jpg)
+[![Finished job](tPictures/so_2_helloworld_two_4.jpg)](content/tPictures/so_2_helloworld_two_16.jpg)
 
 Once it's complete, you may wish to [document it on the wiki](http://www.shapeoko.com/wiki/index.php/Hello_World).
 
