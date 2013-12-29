@@ -144,6 +144,7 @@ OK, here we go. Take a deep breath and click the 'Send' button.
 
 ![Run Job](http://placehold.it/800x400&text=image+of+running+job)
 
+If you have any difficulties see [Operation Troubleshooting](http://www.shapeoko.com/wiki/index.php/Operation_Troubleshooting). See also [Fine Tuning](www.shapeoko.com/wiki/index.php/Tuning).
 
 
 To express concerns, post on the [forums](http://www.shapeoko.com/forum/index.php), to suggest improvements without using github, edit [this wiki page](http://www.shapeoko.com/wiki/index.php?title=Firstjob_1&action=edit&redlink=1).
