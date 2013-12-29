@@ -26,7 +26,7 @@ The 3 plates with stepper motors are identical and interchangeable. The plates a
 
 It might be easier and more straight-forward to assemble all four of them to match the Z-axis motor carriage mount plate, then set one aside for that, and add smooth idler wheels to make the other three.
 
-When attaching V-wheels and Smooth Idlers, push them away from the center of the plate --- this will maximize the available space and minimize the chance of the wheels slipping. Similarly, turn the eccentric nuts to move the dynamic V-wheel as far as possible from the matching static one, so as to have the widest possible gap to make it easier to mount each assembly on the MakerSlide.
+When attaching V-wheels and Smooth Idlers, push them away from the horizontal centerline of the plate --- this will maximize the available space and minimize the chance of the wheels slipping. Similarly, turn the eccentric nuts to move the dynamic V-wheel as far as possible from the matching static one, so as to have the widest possible gap to make it easier to mount each assembly on the MakerSlide.
  
  
 ##Motor Mount Carriages (PS20022) - 3 total
