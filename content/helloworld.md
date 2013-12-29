@@ -147,4 +147,8 @@ Your machine will now run the hello world job. Keep close to your computer, and 
 
 Once it's complete, you may wish to [document it on the wiki](http://www.shapeoko.com/wiki/index.php/Hello_World).
 
+If you have any difficulties see [Assembly Troubleshooting on the wiki](www.shapeoko.com/wiki/index.php/Assembly_troubleshooting). See also [Fine Tuning](www.shapeoko.com/wiki/index.php/Tuning) and [Operation Troubleshooting](http://www.shapeoko.com/wiki/index.php/Operation_Troubleshooting).
+
+###Next Step [Work Area](http://docs.shapeoko.com/firstjob.html)
+
 To express concerns, post on the [forums](http://www.shapeoko.com/forum/index.php), to suggest improvements without using github, edit [this wiki page](http://www.shapeoko.com/wiki/index.php?title=Helloworld_1&action=edit&redlink=1).
