@@ -74,6 +74,8 @@ Your grbl settings should look like this:
 
 ![shapeoko 2 grbl settigns](helloworld/check_grbl_settings.png)
 
+**Except $5 should be set to 500, not 2500.**
+
 To change a setting, type $ then the setting number, an equals sign, and the desired value:
 
 		$1=40.020
