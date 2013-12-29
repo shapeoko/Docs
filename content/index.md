@@ -21,7 +21,7 @@ _Never operate the machine without adequate safety gear for the current task. Ne
 3. Install your [software](software.html)
 4. Test Your [Electronics](electronics.html)
 5. Review the [wiring options](wiring.html)
-6. Assemble your machine (see the side bar for assemblies)
+6. Assemble your machine ([wheels](wheels.html), [carriages](carriages.html), [Z-axis](zaxis.html), [gantry](gantry.html), [Y-axis](yaxis.html), [work area](workarea.html), and [electrical wiring](wiring.html))
 7. Run [Hello, World!](helloworld.html)
 8. Run your [First Job!](firstjob.html)
 
