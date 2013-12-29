@@ -84,7 +84,7 @@ These are the correct Grbl settings for the stock full kit machine.
 
 ![Grbl Settings](helloworld/check_grbl_settings.png)
 
-**Note: There has been one report of difficulty with the Z-axis caused by the $5=2500 setting (this should be okay with a certain jumper configuration) --- if your Z-axis doesn't move reliably, try the original smaller value $5=500.**
+**Note: There has been one report of difficulty with the Z-axis caused by the $5=2500 setting --- if your Z-axis doesn't move reliably (please test it thoroughly before running a cutting job), try the original smaller value $5=500.**
 
 If you have sourced your own electronics, you can easily determine your own settings by using this [Grbl settings calculator.](http://homepage.ntlworld.com/r.j.noble/ShapeOko/grblcalc/)
 
