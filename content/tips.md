@@ -55,7 +55,7 @@ For the most part, it's obvious which size screw is used for what, but the M5 8m
 
 ###Tapping
 
-Tapping means to cut threads on the inside of a hole.  There is an entire industry based around this process, and some people take it very seriously. If you look around the internet you can find 1,000s of site with "drill and tap" charts. These charts tell a person how big of a hole is required to be tapped to a certain thread size. There is an article on Wikipedia describing [Tap and Die](http://en.wikipedia.org/wiki/Tap_and_die).
+Tapping means to cut threads on the inside of a hole.  There is an entire industry based around this process, and some people take it very seriously. If you look around the internet you can find 1,000s of sites with "drill and tap" charts. These charts tell a person how big of a hole is required to be tapped to a certain thread size. There is an article on Wikipedia describing [Tap and Die](http://en.wikipedia.org/wiki/Tap_and_die).
 
 The holes are already formed as part of the extrusion process (as opposed to being drilled) and should be the correct size. If you encounter difficulties, measure the holes. If they are out-of-spec, check on the wiki and forums.
 
