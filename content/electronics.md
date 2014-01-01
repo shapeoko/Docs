@@ -143,7 +143,7 @@ Connect it to the Arduino. There are two leads, one a solid black wire, the othe
 * black == (-)
 * black/white == (+) (or red)
 
-Please connect each lead to the appropriate side of the gShield's blue power connector.
+Please connect each lead to the appropriate side of the gShield's blue power connector (it may also be green as in the photos above).
 
 ![Power connections](tPictures/so_e_arduino_usb_4.jpg)
 
@@ -156,7 +156,7 @@ Plug the barrel connector into the matching connector from the power supply, plu
 
 Attaching tape to the motor shafts makes it easier to see the rotation.
 
-Load up a Communication / Control program and use its jog functionality to test each Axis.
+Load up a Communication / Control program and use its jog functionality to test each Axis.  For the Universal GcodeSender, this would typically involve opening the connection on the correct COM port, switching to the "Machine Control" tab, then using the buttons to move the X, Y, and Z axes.
 
 
 ###Go For a Spin###
