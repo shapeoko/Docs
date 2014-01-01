@@ -143,7 +143,7 @@ Connect it to the Arduino. There are two leads, one a solid black wire, the othe
 * black == (-)
 * black/white == (+) (or red)
 
-Please connect each lead to the appropriate side of the gShield's blue power connector.
+Please connect each lead to the appropriate side of the gShield's blue power connector (it may also be green as in the photos above).
 
 ![Power connections](tPictures/so_e_arduino_usb_4.jpg)
 
