@@ -106,7 +106,7 @@ One should also attach the motor for the Z-axis at this time.
 
  - 13mm (or 1/2") open end wrenches x 2 pcs.
  - M3 Hex Key (for the M5 BHCS)
- - M2.5 Hex Key (for the M3 SHCS)
+ - M2.5 Hex Key (for the M3 SHCS and coupler set screws)
  - 5mm open end wrench, adjustable crescent wrench or pliers (ideally nylon-jaw parallel) to tighten the M3 brass standoffs
 
 **Note:** Depending on how deeply tapped on the stepper motor and how long the threads are on the brass standoffs, it may be necessary to add additional M3 washers when attaching the motor using the brass standoffs.
@@ -133,11 +133,11 @@ Assemble this from the inside out, starting with the smallest pieces.
 
 Compare the threaded rod (**\#6**) to the assembly thread on one M8 Hex Nut (**\#14**) threading the latter far enough down to allow room for the flanged bearing, a second hex nut and for the threaded rod (and the stepper motor shaft) to be just short of half-way into the flexible coupler (**\#2**). Insert the threaded rod into the bearing, add the second M8 hex nut and tighten them with two wrenches, being careful not to bend the rod. 
 
-If the flexible coupler doesn't securely grip the threaded rod, wrap the end of the rod in some sort of metal foil or tape to ensure coupler holds it securely. Make certain the coupler holds the rod squarely.
+Tighten the coupler set screw holding the threaded rod using the 2.5mm hex key. If the flexible coupler doesn't securely grip the threaded rod, wrap the end of the rod in some sort of metal foil or tape to ensure coupler holds it securely. Make certain the coupler holds the rod squarely.
 
 ####Stepper Motor
 
-If possible, attach the stepper motor, place M3 washers on the brass M3 standoffs --- if the standoffs bottom out, add sets of M3 washers to ensure the threads are well-engaged and not bottoming out. Ensure that the motor shaft will also fit just short of half-way into the flexible coupler and that the rod and motor shaft have a gap which will allow the flexible coupler to function without interference or binding.
+If possible, attach the stepper motor, place M3 washers on the brass M3 standoffs --- if the standoffs bottom out, add sets of M3 washers to ensure the threads are well-engaged and not bottoming out. Ensure that the motor shaft will also fit just short of half-way into the flexible coupler and that the rod and motor shaft have a gap which will allow the flexible coupler to function without interference or binding. Tighten the coupler set screw holding the motor shaft using the 2.5mm hex key.
 
 Tighten everything.
 
