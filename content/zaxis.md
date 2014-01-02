@@ -176,7 +176,7 @@ Turn the eccentric nuts on the Spindle Carriage Assembly (**\#3**) so that they 
 - PS20002 3/8" x 1-1/4" x #12 bore, **Aluminum Spacer** x 6pcs.
 - PS20006 **M5 x 70mm SHCS** x 4 pcs.
 - 25287-02 **M5 Flat Washer** x 12 pcs.
-- 25312-20 1-1/4" #12 Bore, **Aluminum Spacer** x 6 pcs.
+- 25312-20 3/8" x 1" #12 Bore, **Aluminum Spacer** x 6 pcs.
 - 25284-02 **M5 Hex Nut** x 6 pcs.
 - PS20030 **Complete Z-Axis Assembly** x 1 pcs. (not enumerated in the diagram)
 
