@@ -1,6 +1,6 @@
 # Z-Axis Assembly
 
-![exploded view of Gantry Carriage](tPictures/PS20031_2.png)
+[![exploded view of Gantry Carriage](tPictures/PS20031_2.png)](tPictures/PS20031_16.png)
 ![](tPictures/so_gantry_carriage_2.jpg)
 ![](tPictures/so_z_axis_parts_2.jpg)
 ![](tPictures/so_assembly_gantry_carriage_2.jpg)
