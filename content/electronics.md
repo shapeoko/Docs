@@ -154,19 +154,19 @@ Plug the barrel connector into the matching connector from the power supply, plu
 
 ##Testing##
 
-Attaching tape to the motor shafts makes it easier to see the rotation.
+Attaching tape to the motor shafts makes it easier to see the rotation when testing before the machine is assembled. Once the machine is assembled, it is a good idea to retest so as to verify the connections and direction of rotation. When initially testing a machine, place it in a neutral position with space to move up, down and to all four sides, so as to prevent a crash if it should move in the wrong direction or farther than expected.
 
 Load up a Communication / Control program and use its jog functionality to test each Axis.  For the Universal GcodeSender, this would typically involve opening the connection on the correct COM port, switching to the "Machine Control" tab, then using the buttons to move the X, Y, and Z axes.
 
 
 ###Go For a Spin###
 
-Z-Axis
+Z-Axis. Note that when testing, the Z-axis should turn for a longer duration than the other axes since the screw requires more revolutions to move a given distance than the belts used on the X- and Y-axes.
 
 
 ###Another Spin###
 
-X-Axis
+X-Axis --- the X- and Y-axis should move fort the same duration for a given degree of movement.
 
 
 ###And a Final Spin###
