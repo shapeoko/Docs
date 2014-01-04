@@ -6,7 +6,7 @@ At this point, we should have a fully assembled machine, capable of making amazi
 
 Before we begin, let's make sure we are ready to go:
 
-1. Electronics tested?
+1. Electronics tested? (You may wish to return to the [electronics page](electronics.html) and verify your wiring)
 2. Machine Assembled?
 3. Software Installed?
 4. Work area cleaned up?
