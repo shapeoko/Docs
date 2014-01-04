@@ -50,7 +50,7 @@ This is the plate the Z-axis will attach to (it is identical to the Motor Mount 
 
 1. 30287-01 **Spindle Mount Plate** (12ga) x 1 pcs.
 - PS20010 13mm x 35mm x 20mm **Delrin Lead nut** x 1 pcs.
-- 25287-02 **M5 Flat Washer** x 12 pcs.
+- 25287-02 **M5 Flat Washer** x 10 pcs.
 - 25284-02 **M5 Hex Nut** x 6 pcs.
 - PS20012 **Universal Spindle Mount** x 2 pcs.
 - 30158-01 **Eccentric Nut** x 2 pcs.
