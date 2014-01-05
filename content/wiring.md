@@ -20,9 +20,14 @@ In all scenarios, your stepper wires should be initially be routed as such:
 
 Please note that the Z-axis leads should come down to the X-axis motor mount carriage so as to minimize the wear on the connectors and to begin consolidating the wires.
 
+Be careful when making connections to not confuse leads from one motor with another, especially when wiring up the reversed Y-axis.
+
+The motor lead wiring is very fragile --- even if you have a lead connected and secured, consider the possibility that the wires may break resulting in faulty connections. Always verify the integrity of all connections (and mechanical connectors) before operating the machine.
+
 ---
 
 ## Option #1 - Soldering
+
 This is the direct wire method that requires (modest) soldering skills to complete (and stepper motors with leads long enough to make a run all the way off the machine). You can assemble the entire machine before doing this step.
 
 ###You will need the following tools and parts to complete this option
