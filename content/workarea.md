@@ -56,6 +56,8 @@ Carefully center and square everything up, then tighten the bolts. Square up the
 
 [![Assembled machine diagram](tPictures/Shapeoko_2_4.png)](content/tPictures/Shapeoko_2_16.png)
 
+Note, the diagram shows the gantry MakerSlide shifted to the front of the machine ---to better balance the gantry, it's best to have them shifted towards the back as shown in the photos.
+
 [![](tPictures/so_gantry_half_carriage_parts_4.jpg)](content/tPictures/so_gantry_half_carriage_parts_8.jpg)
 
 Place the 10mm M5 bolts (**\#4**) with washers (**\#6**) into the bottom holes on the open end plates which are attached to the MakerSlide, thread on the insertion nuts (**\#5**), then carefully slide the rail assemblies (**\#2**) onto the wasteboard extrusion. Tighten the bolts enough to be certain the threads won't pull free.
@@ -99,9 +101,10 @@ At this point, you will need to adjust the machine's V-wheels. These should be t
 You should now mount the belts on the belt anchors.
 
 * Divide the belt into thirds (one-third for the X-axis, two equal lengths for the two sides of the Y-axis)
-* Loop the belts into the belt anchors
-* Tighten one end of each belt
-* Use some technique which allows you to tension the other end of each belt and tighten it down (see below). 
+* Loop each belt into a belt anchor at one end and tighten it
+* Loop each belt under a smooth idler, over the pulley and under the other smooth idler
+* Loop each belt into the remaining belt anchor
+* Use some technique which allows you to tension the loose end of each belt and tighten it down (see below). 
 
 The belts get routed through the belt clips by:
 
