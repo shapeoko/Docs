@@ -27,7 +27,8 @@ The 3 plates with stepper motors are identical and interchangeable. The plates a
 It might be easier and more straight-forward to assemble all four of them to match the Z-axis motor carriage mount plate, then set one aside for that, and add smooth idler wheels to make the other three.
 
 When attaching V-wheels and Smooth Idlers, push them away from the horizontal centerline of the plate --- this will maximize the available space and minimize the chance of the wheels slipping. Similarly, turn the eccentric nuts to move the dynamic V-wheel as far as possible from the matching static one, so as to have the widest possible gap to make it easier to mount each assembly on the MakerSlide.
- 
+
+Note that the eccentric nuts have a centered rounded portion which mates with a matching hole on the plates --- it is that placement which allows them to function to adjust the spacing of the V-wheels.
  
 ##Motor Mount Carriages (PS20022) - 3 total
 
@@ -75,7 +76,7 @@ These are the plates that will mount on either end of the gantry and on the rear
 
 1. Connect V-Wheels (**\#3**) to the plate (**\#1**)
 	- two static at the top (using M5 Hex Nuts (**\#6**))
-	- two eccentric at the bottom in the larger holes (using Eccentric Nuts (**\#2**))
+	- two eccentric at the bottom in the larger holes (using Eccentric Nuts (**\#2**)) --- note that the eccentric nuts have a round portion which should fit completely into these holes --- ensure that the nuts are inserted evenly and squarely and not canted at an angle.
 2. Connect the smooth idlers (**\#7**) to plate
 	- two total, these will need an aluminum spacer (**\#9**) (**Note:** You may want to sandwich the spacer in between two washers (**\#5**), rather than placing both washers against the plate as shown.)
 	- take note of the orientation of the bolt (**\#4**)
@@ -107,4 +108,4 @@ Motor orientation is as follows:
 
 ###Next step [Z-axis](http://docs.shapeoko.com/zaxis.html)
 
-To express concerns, post on the [forums](http://www.shapeoko.com/forum/index.php), to suggest improvements without using github, edit [this wiki page](http://www.shapeoko.com/wiki/index.php?title=Carriages_1&action=edit&redlink=1).
+To express concerns, post on the [forums](http://www.shapeoko.com/forum/index.php), to suggest improvements without using github, edit [this wiki page](http://www.shapeoko.com/wiki/index.php?title=Carriages_2&action=edit&redlink=1).
