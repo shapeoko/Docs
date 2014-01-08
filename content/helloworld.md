@@ -90,6 +90,8 @@ These are the correct Grbl settings for the stock full kit machine.
 
 If you have sourced your own electronics, you can easily determine your own settings by using this [Grbl settings calculator.](http://homepage.ntlworld.com/r.j.noble/ShapeOko/grblcalc/)
 
+Ensure that the machine moves the correct distance/direction for each axis. Revisit the [electronics page](electronics.html) if need be to re-wire the machine, or re-configure Grbl (while a reversal of the X- and Y-axes will merely result in mirrored or upside-down prints (once one gets the origin set), a reversal of the Z-axis can be disastrous, resulting in a crash into the wasteboard).
+
 
 ##Open File
 
