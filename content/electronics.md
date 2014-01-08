@@ -181,6 +181,7 @@ Y-Axis --- make certain that the two motors for the Y-axis are rotating in oppos
 
 Once everything has been successfully tested you should dismantle at least the terminal block connections and carefully set everything aside until it's needed.
 
+Once everything has been successfully assembled you should re-test jogging all the axes to ensure that movement is properly calibrated in terms of direction/rotation and distanfe travelled/number of steps/revolutions.
 
 ###Next step [Wheels & Idlers](wheels.html)
 
