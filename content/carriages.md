@@ -62,7 +62,7 @@ These are the plates that will mount on either end of the gantry and on the rear
 
  *   M3 SHCS x 12 pcs
  *   M3 Flat Washer x 12 pcs
- *   GT2 pulley
+ *   GT2 pulley (note that the set screw end goes on first)
 
 
 ####Tools
