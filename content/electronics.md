@@ -185,4 +185,4 @@ Once everything has been successfully assembled you should re-test jogging all t
 
 ###Next step [Wheels & Idlers](wheels.html)
 
-To express concerns, post on the [forums](http://www.shapeoko.com/forum/index.php), to suggest improvements without using github, edit [this wiki page](http://www.shapeoko.com/wiki/index.php?title=Electronics_1&action=edit&redlink=1).
+To express concerns, post on the [forums](http://www.shapeoko.com/forum/index.php), to suggest improvements without using github, edit [this wiki page](http://www.shapeoko.com/wiki/index.php?title=Electronics_2&action=edit&redlink=1).
