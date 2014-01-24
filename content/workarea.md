@@ -98,7 +98,7 @@ At this point, you will need to adjust the machine's V-wheels. These should be t
 
 ## Mount the Belts
 
-You should now mount the belts on the belt anchors.
+You should now mount the belts on the belt anchors. Note that the pulleys should be mounted with the set screws toward the motor housing and the pulley itself at the end of the shaft so as to move the belt away from the carriage plate and line up properly with the idler wheels and the slot at the top of the MakerSlide.
 
 * Divide the belt into thirds (one-third for the X-axis, two equal lengths for the two sides of the Y-axis)
 * Loop each belt into a belt anchor at one end and tighten it
