@@ -154,7 +154,7 @@ Plug the barrel connector into the matching connector from the power supply, plu
 
 ##Testing##
 
-Attaching tape to the motor shafts makes it easier to see the rotation when testing before the machine is assembled. Once the machine is assembled, it is a good idea to retest so as to verify the connections and direction of rotation. When initially testing a machine, place it in a neutral position with space to move up, down and to all four sides, so as to prevent a crash if it should move in the wrong direction or farther than expected.
+Attaching tape to the motor shafts makes it easier to see the rotation when testing before the machine is assembled, or you could attach the pulleys (these are mounted so that the flat portion is at the end of the shaft and the set screw is closer to the motor housing). Once the machine is assembled, it is a good idea to retest so as to verify the connections and direction of rotation. When initially testing a machine, place it in a neutral position with space to move up, down and to all four sides, so as to prevent a crash if it should move in the wrong direction or farther than expected.
 
 Load up a Communication / Control program and use its jog functionality to test each Axis. For the Universal GcodeSender, this would typically involve opening the connection on the correct COM port, selecting baud rate of 9600, then switching to the "Machine Control" tab, and using the buttons to move the X, Y, and Z axes. 
 
