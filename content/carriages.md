@@ -106,6 +106,10 @@ Motor orientation is as follows:
 (If using [wiring option \#2](http://docs.shapeoko.com/wiring_2.html), attach two terminal blocks to this plate)
 
 
+[![Assembled Motor Mount Carriages with motor added](tPictures/so_carriage_finished.jpg)](content/tPictures/so_carriage_finished.jpg)
+
+The above photograph does not show the stepper motor in place, with the GT2 pulley.
+
 ###Next step [Z-axis](http://docs.shapeoko.com/zaxis.html)
 
 To express concerns, post on the [forums](http://www.shapeoko.com/forum/index.php), to suggest improvements without using github, edit [this wiki page](http://www.shapeoko.com/wiki/index.php?title=Carriages_2&action=edit&redlink=1).
