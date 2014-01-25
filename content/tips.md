@@ -13,6 +13,10 @@ Take a look at the [wiring page](wiring.html) before beginning assembly. Dependi
 
 The assembly instructions have these two steps separated. The first step is for _testing_ your electronics. As noted in the details of that step, it's easier to troubleshoot, and if there's a major problem, you won't have to disassemble the machine. It is best to partially disassemble the electronics after testing them in order to mount the motors onto the appropriate motor mount carriage plates.
 
+####Pulleys and Shafts
+
+Please note that the pulley attaches with the set screw toward the motor housing and the flat portion at the end of the shaft. Some people have experienced difficulties with the pulley spinning on the shaft --- the GT2 pulleys, with two set screws should be less likely to have this difficulty, but one option would be to grind a small flat on the shaft using a fine metal file or sharpening stone (clean up any metal filings afterwards) --- then one would position the pulley so that a set screw engages said flat. See the [forums](http://www.shapeoko.com/forum/viewtopic.php?f=10&t=2502&p=18993#p18950) for further discussion.
+
 ###Tools
 
 Only basic tools are required to assemble the Shapeoko 2. The following tools are included with the full kits [sold through inventables.com](https://www.inventables.com/technologies/desktop-cnc-mill-kit-shapeoko-2). If you are rolling your own full kit (you bought the mechanical kit), use the following list as a guideline for [what you will need to assemble the machine](http://www.shapeoko.com/wiki/index.php/Tools).
