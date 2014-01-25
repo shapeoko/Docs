@@ -117,7 +117,7 @@ Assemble this from the inside out, starting with the smallest pieces.
 
 1. Take one Z-Axis Motor Mount Plate (**\#3**, this will become the bottom)
 - place M3 washers (**\#13**) onto the 12mm M3 screws (**\#12**) and place them in the appropriate holes
-- stack the Nylon Spacers (PS20015) (**\#11**) onto the screws
+- stack the Nylon Spacers (PS20015) (**\#11**) onto the screws (note that an equal number of spacers is used for each screw)
 - place the Wave Disc Spring (**\#15**, not shown in the diagram) onto the narrow part of the flanged bearing (**\#4**) --- it would be to the right in the diagram
 - insert that into the second Z-axis Motor Mount Plate (**\#3**)
 - insert the two M5 bolts (**\#10**) and M5 washers (**\#7**) from the other side
@@ -139,7 +139,7 @@ Tighten the coupler set screw holding the threaded rod using the 2.5mm hex key. 
 
 If possible, attach the stepper motor, place M3 washers on the brass M3 standoffs --- if the standoffs bottom out, add sets of M3 washers to ensure the threads are well-engaged and not bottoming out. Ensure that the motor shaft will also fit just short of half-way into the flexible coupler and that the rod and motor shaft have a gap which will allow the flexible coupler to function without interference or binding. Tighten the coupler set screw holding the motor shaft using the 2.5mm hex key.
 
-Tighten everything.
+Tighten everything. If the M3 screws bottom out in the stand-offs, add washers one at a time until everything is secure.
 
 ###Z-Axis
 
