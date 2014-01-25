@@ -118,7 +118,7 @@ Assemble this from the inside out, starting with the smallest pieces.
 1. Take one Z-Axis Motor Mount Plate (**\#3**, this will become the bottom)
 - place M3 washers (**\#13**) onto the 12mm M3 screws (**\#12**) and place them in the appropriate holes
 - stack the Nylon Spacers (PS20015) (**\#11**) onto the screws
-- place the Wave Disc Spring (**\#15**, not shown in the diagram) onto the flanged bearing (**\#4**)
+- place the Wave Disc Spring (**\#15**, not shown in the diagram) onto the narrow part of the flanged bearing (**\#4**) --- it would be to the right in the diagram
 - insert that into the second Z-axis Motor Mount Plate (**\#3**)
 - insert the two M5 bolts (**\#10**) and M5 washers (**\#7**) from the other side
 - add the last two Nylon Spacers (**\#9**) to the bolts and slide the top and bottom Z-axis Motor Mount Plates together
