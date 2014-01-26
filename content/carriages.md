@@ -89,7 +89,7 @@ These are the plates that will mount on either end of the gantry and on the rear
 
 Please note that the above photograph does not show the stepper motor in place. As previously noted, one should attach at least one stepper motor for the X-axis plate, as it's difficult to attach it once the gantry carriage is assembled. Use 4 M3 screws, 4 M3 washers and also attach the GT2 pulley (You should attach the pulley before mounting the motor.). If using [Wiring Option \#2](http://docs.shapeoko.com/wiring_2.html), attach the terminal blocks now to the appropriate plates, while the inner sides are readily accessible.
 
-[![inventables completed view of Motor Mount Carriages](tPictures/inventables_Shapeoko_v2_carriage_closeup_4.jpg)](content/tPictures/inventables_Shapeoko_v2_carriage_closeup_o.jpg)
+[![inventables completed view of Motor Mount Carriages](tPictures/inventables_Shapeoko_v2_carriage_closeup_4.jpg)](content/oPictures/inventables_Shapeoko_v2_carriage_closeup_o.jpg)
 
 Motor orientation is as follows:
 
