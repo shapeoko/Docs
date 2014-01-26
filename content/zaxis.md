@@ -108,6 +108,7 @@ One should also attach the motor for the Z-axis at this time.
  - M3 Hex Key (for the M5 BHCS)
  - M2.5 Hex Key (for the M3 SHCS and coupler set screws)
  - 5mm open end wrench, adjustable crescent wrench or pliers (ideally nylon-jaw parallel) to tighten the M3 brass standoffs
+ - Tapping tool, including tap bit (if you have not already tapped one end of the Z Axis Rail MakerSlide Extrusion 200mm (**\#1**) )
 
 **Note:** Depending on how deeply tapped on the stepper motor and how long the threads are on the brass standoffs, it may be necessary to add additional M3 washers when attaching the motor using the brass standoffs.
 
@@ -121,8 +122,9 @@ Assemble this from the inside out, starting with the smallest pieces.
 - place the Wave Disc Spring (**\#15**, not shown in the diagram) onto the narrow part of the flanged bearing (**\#4**) --- it would be to the right in the diagram
 - insert that into the second Z-axis Motor Mount Plate (**\#3**)
 - insert the two M5 bolts (**\#10**) and M5 washers (**\#7**) from the other side
-- add the last two Nylon Spacers (**\#9**) to the bolts and slide the top and bottom Z-axis Motor Mount Plates together
+- add two Nylon Spacers (**\#9**) to the end of each bolt (**\#10**) and slide the top and bottom Z-axis Motor Mount Plates together
 - Loosely thread on the M3 Brass Standoff spacer (**\#8**) onto the M3 screws
+- Tapped one end of the Z Axis Rail MakerSlide Extrusion 200mm (**\#11**). Tapping means to cut threads on the inside of a hole. At one end of Z Axis (**\#11**) tap two threads for each of the M5 washers (**\#7**) to fit. [See Video](http://www.youtube.com/watch?v=ajg_kjLj5tY)
 - Place the Z-axis Shim Plate (**\#5**) on top of the Z Axis Rail  (**\#1**, 200mm MakerSlide) and attach it using the M5 bolts
 
 ####Threaded Rod
@@ -184,7 +186,8 @@ If possible, select a Motor Mount Carriage (PS20022) which has a stepper motor a
 
 [![exploded view of sub gantry](tPictures/PS20031_4.png)](content/tPictures/PS20031_16.png)
 
-Place washers on the M5 x 70 mm SHCS (**\#4**) and place them in the outer holes of the Z-Assembly Carriage (**\#1**) from the side opposite the V-wheels. Place one each of the Aluminum Spacers (**\#3**,  and **\#6**) on each bolt, place the Motor Mount Carriage (**\#2**) onto the bolts and attach using an M5 washer (**\#5**) and M5 hex nut (**\#7**).
+
+For each M5 x 70 mm SHCS (**\#4**), place a washer (**\#5**) then place them in the outer holes of of the Z-Assembly Carriage (**\#1**) from the side opposite the V-wheels. Then for each M5 bolt (**\#4**), add the spacers (**\#3**) & (**\#6**). Then once all six bolts are in place, attach the Motor Mount Carriage (**\#2**) onto the bolts, then for each M5 bolt (**\#4**), add the M5 washer (**\#5**) and M5 hex nut (**\#7**).
 
 [![](tPictures/so_carriage_4.jpg)](content/tPictures/so_carriage_8.jpg)
 
