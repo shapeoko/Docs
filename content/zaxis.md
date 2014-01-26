@@ -192,4 +192,4 @@ For each M5 x 70 mm SHCS (**\#4**), place a washer (**\#5**) then place them in 
 
 ###Next Step [Gantry](http://docs.shapeoko.com/gantry.html)
 
-To express concerns, post on the [forums](http://www.shapeoko.com/forum/index.php), to suggest improvements without using github, edit [this wiki page](http://www.shapeoko.com/wiki/index.php?title=Zaxis_1&action=edit&redlink=1).
+To express concerns, post on the [forums](http://www.shapeoko.com/forum/index.php), to suggest improvements without using github, edit [this wiki page](http://www.shapeoko.com/wiki/index.php?title=Zaxis_2&action=edit&redlink=1).
