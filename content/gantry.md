@@ -1,24 +1,30 @@
 # Gantry
 
 
+**Note:** The MakerSlide must have threads in it, cut by tapping. If you have not yet finished tapping your MakerSlide, you can put this off no longer.
+
+
 ## Belt Clip Assembly (PS20020)
 
-![](tPictures/so_belt_anchors_2.jpg)
-![](tPictures/so_belt_anchors_parts_2.jpg)
+![Assembled belt anchors](tPictures/so_belt_anchors_2.jpg)
+![array of parts for belt anchors](tPictures/so_belt_anchors_parts_2.jpg)
+![Inventables belt anchor in use](tPictures/inventables_Shapeoko_v2_beltanchor_2.jpg)
 
 1. PS20003 **M5 x 8mm, BHCS** x 1 pcs.
 - 26016-01 **M5 insertion nut** x 1 pcs.
 - 26051-01 **Fiberglass Clip** x 1 pcs.
 
-The Belt Clip Assemblies are used to fasten and tension the GT2 belts (this is detailed later). There are 6 total, which should be assembled at this point, and which should be placed in the MakerSlide slots during assembly. See the PS20025 diagram below for details on orientation. At a minimum you just need to remember to put the insertion nuts into the back piece of MakerSlide (on the top slot) before attaching the second motor mount carriage. Once the carriage is in place, you will no longer have access to the slot. **Note** the clips may have loose splinters along the cut edges --- carefully buff any such off with a paper towel (and promptly dispose of the towel to avoid splinters).
+The Belt Clip Assemblies are used to fasten and tension the GT2 belts (this is detailed later). There are 6 total, which should be assembled at this point, and which should be placed in the MakerSlide slots during assembly. See the PS20025 diagram below for details on orientation. Test for fit into the MakerSlide after assembling the first one, if they don't fit, remove the insertion nut and flip it over. At a minimum you just need to remember to put the insertion nuts into the back piece of MakerSlide (on the top slot) before attaching the second motor mount carriage (it is possible to assemble the belt anchor with the insertion nut in the MakerSlide). Once the carriage is in place, you will no longer have access to the slot. **Note** the clips may have loose splinters along the cut edges --- carefully buff any such off with a paper towel (and promptly dispose of the towel to avoid splinters).
+
+[![Assembled belt anchors](tPictures//so_belt_anchors_2.jpg)](content/tPictures/so_belt_anchors_32.jpg)
 
 
 ##Sub Gantry (PS20023)
 
 ![exploded view of Gantry Carriage](tPictures/PS20023_2.png) 
-![](tPictures/so_gantry_2.jpg)
-![](tPictures/so_gantry_parts_2.jpg)
-![](tPictures/so_gantry_parts_tool_2.jpg)
+![assembled gantry sans Z-axis sub-gantry which will have to be dis-assembled](tPictures/so_gantry_2.jpg)
+![array of gantry parts](tPictures/so_gantry_parts_2.jpg)
+![array of gantry parts, tools with carriage plates with motors in place](tPictures/so_gantry_parts_tool_2.jpg)
 
 
 ###Requirements
@@ -32,13 +38,21 @@ The Belt Clip Assemblies are used to fasten and tension the GT2 belts (this is d
 - 25287-02 **M5 Flat Washer** x 8 pcs.
 - PS20008 X/Y Axis Rail **MakerSlide Extrusion 500mm** x 2 pcs. (not called out on the diagram)
 
-**Note:** Do not attach one end plate during this step (despite the photograph showing this). Slide the Z-Axis Assembly gantry carriage (PS20031) from the previous step onto the gantry (see below) before attaching the second motor mount plate.
+**Note:** Do not attach one end plate during this step (despite the photograph showing this), you must slide the Z-Axis Assembly gantry carriage (PS20031) from the previous step onto the gantry (see below) before attaching the second motor mount plate.
 
 This is evident in the next step.
 
+**Note:** The diagram shows the assembly from the rear.
+
 [![exploded view of Gantry Carriage](tPictures/PS20023_4.png)](content/tPictures/PS20023_16.png)
 
-Push the MakerSlide as far as is possible to one end of the slot which the 12mm M5 bolts fit through. Only tighten the pair of bolts on the MakerSlide which is snugged up against the end of the slot, the other should be slightly loose. Note that there is a space in-between the two pieces of MakerSlide. This spacing will be set in a following step.
+Place the first piece of MakerSlide (**\#5**)against a Motor Mount Carriage (**\#1**). Place a washer (**\#4**) onto an M5 BHCS (**\#3**) and screw it into one of the holes which you have tapped into the MakerSlide. Repeat for the other hole. Make note of the orientation of the V-rails on the MakerSlide as shown in the diagram, add the second piece of MakerSlide so that the V-rails are opposite from each other, on the outside.
+
+Push the rear piece of MakerSlide as far as is possible to the back end of the slot which the 12mm M5 bolts fit through. Only tighten the pair of bolts on the MakerSlide which is snugged up against the end of the slot, the other should be slightly loose. Note that there is a space in-between the two pieces of MakerSlide. This spacing will be set in a following step.
+
+Place two belt anchors in the top channel of the rear piece of MakerSlide (or at least two insertion nuts) as shown in the diagram.
+
+[![array of gantry parts, tools with carriage plates with motors in place](tPictures//so_gantry_parts_tool_4.jpg)](content/tPictures/so_gantry_parts_tool_32.jpg)
 
 
 ##Complete Gantry (PS20025)
@@ -82,4 +96,4 @@ Turn the eccentric nuts on the V-wheels on the Gantry Carriage (**\#2**) so that
 
 ###Next step [Y-axis](http://docs.shapeoko.com/yaxis.html)
 
-To express concerns, post on the [forums](http://www.shapeoko.com/forum/index.php), to suggest improvements without using github, edit [this wiki page](http://www.shapeoko.com/wiki/index.php?title=Gantry_1&action=edit&redlink=1).
+To express concerns, post on the [forums](http://www.shapeoko.com/forum/index.php), to suggest improvements without using github, edit [this wiki page](http://www.shapeoko.com/wiki/index.php?title=Gantry_2&action=edit&redlink=1).
