@@ -82,8 +82,8 @@ These are the plates that will mount on either end of the gantry and on the rear
 	- take note of the orientation of the bolt (**\#4**)
 	- take note of the orientation of the bearings/idler
 3. Attach your stepper motor
-	- Use four M3x6mm SHCS to attach each stepper motor
-	- Use an M3 washer between the SHCS and the plate (**Note:** You may need more than one washer per bolt, depending upon the depth of the threads in the motor. Use an equal number of washers per motor. Be careful not to strip out the threads in the motor.) When you tighten the motor into place, do so in an X pattern. You want the face of the motor to be equally tight against the plate.
+	- Use four M3 SHCS to attach each stepper motor
+	- Use an M3 washer between the SHCS and the plate (**Note:** You may need more than one washer per bolt, depending upon the depth of the threads in the motor and the length of your bolt (6mm was initially specced, 8mm is shipping in current kits). Use an equal number of washers per motor. Be careful not to strip out the threads in the motor.) When you tighten the motor into place, do so in an X pattern. You want the face of the motor to be equally tight against the plate.
 
 [![Assembled Motor Mount Carriages](tPictures/so_motor_mount_carriage_4.jpg)](content/tPictures/so_motor_mount_carriage_8.jpg)
 
