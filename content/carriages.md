@@ -81,13 +81,15 @@ These are the plates that will mount on either end of the gantry and on the rear
 	- two total, these will need an aluminum spacer (**\#9**) (**Note:** You may want to sandwich the spacer in between two washers (**\#5**), rather than placing both washers against the plate as shown.)
 	- take note of the orientation of the bolt (**\#4**)
 	- take note of the orientation of the bearings/idler
-3. Attach your stepper motor
+3. Attach your stepper motor (it is probably easier to attach the pulley before attaching the motor)
 	- Use four M3 SHCS to attach each stepper motor
 	- Use an M3 washer between the SHCS and the plate (**Note:** You may need more than one washer per bolt, depending upon the depth of the threads in the motor and the length of your bolt (6mm was initially specced, 8mm is shipping in current kits). Use an equal number of washers per motor. Be careful not to strip out the threads in the motor.) When you tighten the motor into place, do so in an X pattern. You want the face of the motor to be equally tight against the plate.
 
 [![Assembled Motor Mount Carriages](tPictures/so_motor_mount_carriage_4.jpg)](content/tPictures/so_motor_mount_carriage_8.jpg)
 
 Please note that the above photograph does not show the stepper motor in place. As previously noted, one should attach at least one stepper motor for the X-axis plate, as it's difficult to attach it once the gantry carriage is assembled. Use 4 M3 screws, 4 M3 washers and also attach the GT2 pulley (You should attach the pulley before mounting the motor.). If using [Wiring Option \#2](http://docs.shapeoko.com/wiring_2.html), attach the terminal blocks now to the appropriate plates, while the inner sides are readily accessible.
+
+[![inventables completed view of Motor Mount Carriages](tPictures/inventables_Shapeoko_v2_carriage_closeup_4.jpg)](content/tPictures/inventables_Shapeoko_v2_carriage_closeup_o.jpg)
 
 Motor orientation is as follows:
 

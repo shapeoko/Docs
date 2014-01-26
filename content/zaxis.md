@@ -121,9 +121,9 @@ Assemble this from the inside out, starting with the smallest pieces.
 - place the Wave Disc Spring (**\#15**, not shown in the diagram) onto the narrow part of the flanged bearing (**\#4**) --- it would be to the right in the diagram
 - insert that into the second Z-axis Motor Mount Plate (**\#3**)
 - insert the two M5 bolts (**\#10**) and M5 washers (**\#7**) from the other side
-- add the last two Nylon Spacers (**\#9**) to the bolts and slide the top and bottom Z-axis Motor Mount Plates together
+- add the last two Nylon Spacers (**\#9**) to the end of each bolt (**\#10**) and slide the top and bottom Z-axis Motor Mount Plates together
 - Loosely thread on the M3 Brass Standoff spacer (**\#8**) onto the M3 screws
-- Place the Z-axis Shim Plate (**\#5**) on top of the Z Axis Rail  (**\#1**, 200mm MakerSlide) and attach it using the M5 bolts
+- Place the Z-axis Shim Plate (**\#5**) on top of the Z Axis Rail  (**\#1**, 200mm MakerSlide) and attach it using the M5 bolts (as noted above, the Z-axis must threads for these bolts at this point, cut in by tapping as noted above)
 
 ####Threaded Rod
 
@@ -184,7 +184,7 @@ If possible, select a Motor Mount Carriage (PS20022) which has a stepper motor a
 
 [![exploded view of sub gantry](tPictures/PS20031_4.png)](content/tPictures/PS20031_16.png)
 
-Place washers on the M5 x 70 mm SHCS (**\#4**) and place them in the outer holes of the Z-Assembly Carriage (**\#1**) from the side opposite the V-wheels. Place one each of the Aluminum Spacers (**\#3**,  and **\#6**) on each bolt, place the Motor Mount Carriage (**\#2**) onto the bolts and attach using an M5 washer (**\#5**) and M5 hex nut (**\#7**).
+For each M5 x 70 mm SHCS (**\#4**), place a washer (**\#5**) then place them in the outer holes of of the Z-Assembly Carriage (**\#1**) from the side opposite the V-wheels. Then for each M5 bolt (**\#4**), add the spacers (**\#3**, & **\#6**). Add the Z-Assembly Carriage, then for each M5 bolt, add an M5 washer) and M5 hex nut (**\#7**).
 
 [![](tPictures/so_carriage_4.jpg)](content/tPictures/so_carriage_8.jpg)
 
