@@ -117,6 +117,10 @@ The belts get routed through the belt clips by:
 
 ![belt clip routing 2](belt-routing/67-so_wiring-066.jpg)
 
+As noted above, each belt goes under a smooth idler, over the pulley and then under the other smooth idler and is secured at each end by a belt anchor clip.
+
+[![inventables completed view of Motor Mount Carriages](tPictures/inventables_Shapeoko_v2_carriage_closeup_4.jpg)](content/oPictures/inventables_Shapeoko_v2_carriage_closeup_o.jpg)
+
 ##Tighten the belt
 
 With the Allen wrench inserted into the button head cap screw, adjust the screw so it's **almost** tight. Then, gripping the Allen wrench, pull it back towards the end plate so it's very tight, once it's tight, rotate the Allen wrench clockwise to finish tightening the screw. Like so:
