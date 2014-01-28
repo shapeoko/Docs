@@ -138,7 +138,7 @@ First, strip the leads from the raw end of the barrel connector plug, it may als
 
 ![Stripped lead for barrel connector](tPictures/power_connection.jpg)
 
-Connect it to the Arduino. There are two leads, one a solid black wire, the other black w/ a white stripe. 
+Connect it to the gShield (which is attached to the top of the Arduino). There are two leads, one a solid black wire, the other black w/ a white stripe. 
 
 * black == (-)
 * black/white == (+) (or red)
@@ -147,7 +147,7 @@ Please connect each lead to the appropriate side of the gShield's blue power con
 
 ![Power connections](tPictures/so_e_arduino_usb_4.jpg)
 
-Plug the barrel connector into the matching connector from the power supply, plug it into a grounded outlet. Your gShield should light up blue and be ready for operation.
+Plug the barrel connector into the matching connector from the power supply, plug the power supply's power connector into a grounded outlet. Your gShield should light up blue and be ready for operation.
 
 ![image of required components](tPictures/so_e_arduino_usb_lit_4.jpg)
 
