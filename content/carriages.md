@@ -60,7 +60,7 @@ These are the plates that will mount on either end of the gantry and on the rear
 
 ####Parts for attaching stepper motors
 
- *   M3 SHCS x 12 pcs
+ *   M3 SHCS x 12 pcs 8mm (may vary with motor thread depth, use shorter screws (6mm) if threads bottom out, or additional washers) 
  *   M3 Flat Washer x 12 pcs
  *   GT2 pulley (note that the set screw end goes on first)
 
