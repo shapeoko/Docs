@@ -111,6 +111,8 @@ One should also attach the motor for the Z-axis at this time.
 
 **Note:** Depending on how deeply tapped on the stepper motor and how long the threads are on the brass standoffs, it may be necessary to add additional M3 washers when attaching the motor using the brass standoffs.
 
+**Note:** Check your rod's straightness (one way is by rolling it on a flat surface) before assembly and check to see that the threaded rod runs smoothly on the Delrin Lead nut --- if it doesn't, run the nut along the rod until it does. Using a drill is one option. Be certain the nut is free of debris or other materials. 
+
 [![exploded view of Z-Axis Rail Assembly](tPictures/PS20028_4.png)](content/tPictures/PS20028_16.png)
 
 Assemble this from the inside out, starting with the smallest pieces. 
@@ -128,8 +130,6 @@ Assemble this from the inside out, starting with the smallest pieces.
 ####Threaded Rod
 
 [![threaded rod, flexible coupler and nuts shown with ruler](tPictures/so_z_axis_dimensions_4.jpg)](content/tPictures/so_z_axis_dimensions_8.jpg)
-
-**Note:** Check your rod's straightness (one way is by rolling it on a flat surface) before assembly and check to see that the threaded rod runs smoothly on the Delrin Lead nut --- if it doesn't, run the nut along the rod until it does. Using a drill is one option. Be certain the nut is free of debris or other materials. 
 
 Compare the threaded rod (**\#6**) to the assembly thread on one M8 Hex Nut (**\#14**) threading the latter far enough down to allow room for the flanged bearing, a second hex nut and for the threaded rod (and the stepper motor shaft) to be just short of half-way into the flexible coupler (**\#2**). Insert the threaded rod into the bearing, add the second M8 hex nut and tighten them with two wrenches, being careful not to bend the rod. 
 
