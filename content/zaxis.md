@@ -135,6 +135,8 @@ Compare the threaded rod (**\#6**) to the assembly thread on one M8 Hex Nut (**\
 
 Tighten the coupler set screw holding the threaded rod using the 2.5mm hex key. If the flexible coupler doesn't securely grip the threaded rod, wrap the end of the rod in some sort of metal foil or tape to ensure coupler holds it securely. Make certain the coupler holds the rod squarely.
 
+**Note** the nuts are commodity / off-the-shelf parts and have a fairly wide manufacturing tolerance. If your threaded rod wobbles unduly after assembly, mark the nuts so as to indicate their orientation and try swapping them around in terms of orientation and positioning, keeping notes on which you have tried --- you should hit upon an arrangement which allows the rod to run fairly true, or at worst case, not hit any other parts. If nothing works, contact Inventables customer service, or try sourcing new nuts (one option is to take the bearing and threaded rod into a hardware store and try different nuts until you find a pair which works).
+
 ####Stepper Motor
 
 If possible, attach the stepper motor, place M3 washers on the brass M3 standoffs --- if the standoffs bottom out, add sets of M3 washers to ensure the threads are well-engaged and not bottoming out. Ensure that the motor shaft will also fit just short of half-way into the flexible coupler and that the rod and motor shaft have a gap which will allow the flexible coupler to function without interference or binding. Tighten the coupler set screw holding the motor shaft using the 2.5mm hex key.
