@@ -80,7 +80,7 @@ These are the plates that will mount on either end of the gantry and on the rear
 2. Connect the smooth idlers (**\#7**) to plate
 	- two total, these will need an aluminum spacer (**\#9**) (**Note:** You may want to sandwich the spacer in between two washers (**\#5**), rather than placing both washers against the plate as shown.)
 	- take note of the orientation of the bolt (**\#4**)
-	- take note of the orientation of the bearings/idler
+	- take note of the orientation of the bearings/idler (the plastic part is away from the carriage plate, while the metal bearing is to the plate)
 3. Attach your stepper motor (it is probably easier to attach the pulley before attaching the motor)
 	- Attach the GT2 pulley (it is easier to attach the pulley before mounting the motor.)
 	- Use four M3 SHCS to attach each stepper motor
