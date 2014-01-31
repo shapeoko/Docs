@@ -99,7 +99,7 @@ One should also attach the motor for the Z-axis at this time.
 
 ####Electronics
 
-- **Stepper Motor** (if at all possible, you should attach the stepper motor at this time, doing it later will probably require some disassembly)
+- **Stepper Motor** (it is all-but impossible to attach the motor after the fact without disassembly)
 - 25287-03 **M3 Flat Washer** x 3 (or more, see below) pcs.
 
 ####Tools
@@ -115,7 +115,7 @@ One should also attach the motor for the Z-axis at this time.
 
 [![exploded view of Z-Axis Rail Assembly](tPictures/PS20028_4.png)](content/tPictures/PS20028_16.png)
 
-Assemble this from the inside out, starting with the smallest pieces. 
+The Z-Axis Rail Assembly is the most intricate and complex assembly, and requires patience to assemble. One way to do this is to assemble it from the inside out, starting with the smallest pieces. 
 
 1. Take one Z-Axis Motor Mount Plate (**\#3**, this will become the bottom)
 - place M3 washers (**\#13**) onto the 12mm M3 screws (**\#12**) and place them in the appropriate holes
@@ -123,8 +123,13 @@ Assemble this from the inside out, starting with the smallest pieces.
 - place the Wave Disc Spring (**\#15**, not shown in the diagram) onto the narrow part of the flanged bearing (**\#4**) --- it would be to the right in the diagram
 - insert that into the second Z-axis Motor Mount Plate (**\#3**)
 - insert the two M5 bolts (**\#10**) and M5 washers (**\#7**) from the other side
-- add the last two Nylon Spacers (**\#9**) to the end of each bolt (**\#10**) and slide the top and bottom Z-axis Motor Mount Plates together
-- Loosely thread on the M3 Brass Standoff spacer (**\#8**) onto the M3 screws
+- add the last two Nylon Spacers (**\#9**) to the end of each bolt (**\#10**) and slide the top and bottom Z-axis Motor Mount Plates together --- carefully set this sub-sub-assembly aside
+- Attach the Flexible Coupler (**\#2**) to the stepper motor
+- Place an M3 Washer (**\#13**) onto a Brass Standoff Spacer (**\#8**) and test fit it into the stepper motor --- if it bottoms out, add another washer and try again. Use an equal number of M3 Washers when attaching the Brass Standoff Spacers to the stepper motor
+- After determining the spacing for the Threaded Rod (**\#6**) (see below) thread on one M8 Hex Nut (**\#14**) to the top position on the Threaded Rod
+- Slip the Threaded Rod through the Flanged Bearing of the sub-sub-assembly from Step #6 above
+- Thread on the second M8 Hex Nut
+- Fasten the stepper motor using the M3 Brass Standoff Spacer (**\#8**) onto the M3 screws
 - Place the Z-axis Shim Plate (**\#5**) on top of the Z Axis Rail  (**\#1**, 200mm MakerSlide) and attach it using the M5 bolts (as noted above, the Z-axis must threads for these bolts at this point, cut in by tapping as noted above)
 
 ####Threaded Rod
@@ -139,7 +144,7 @@ Tighten the coupler set screw holding the threaded rod using the 2.5mm hex key. 
 
 ####Stepper Motor
 
-If possible, attach the stepper motor, place M3 washers on the brass M3 standoffs --- if the standoffs bottom out, add sets of M3 washers to ensure the threads are well-engaged and not bottoming out. Ensure that the motor shaft will also fit just short of half-way into the flexible coupler and that the rod and motor shaft have a gap which will allow the flexible coupler to function without interference or binding. Tighten the coupler set screw holding the motor shaft using the 2.5mm hex key.
+Attach the stepper motor. Place M3 washers on the brass M3 standoffs --- if the standoffs bottom out, add sets of M3 washers to ensure the threads are well-engaged and not bottoming out. Ensure that the motor shaft will also fit just short of half-way into the flexible coupler and that the rod and motor shaft have a gap which will allow the flexible coupler to function without interference or binding. Tighten the coupler set screw holding the motor shaft using the 2.5mm hex key.
 
 Tighten everything. If the M3 screws bottom out in the stand-offs, add washers one at a time until everything is secure.
 
