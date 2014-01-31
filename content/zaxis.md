@@ -127,7 +127,7 @@ The Z-Axis Rail Assembly is the most intricate and complex assembly, and require
 - Attach the Flexible Coupler (**\#2**) to the stepper motor
 - Place an M3 Washer (**\#13**) onto a Brass Standoff Spacer (**\#8**) and test fit it into the stepper motor --- if it bottoms out, add another washer and try again. Use an equal number of M3 Washers when attaching the Brass Standoff Spacers to the stepper motor
 - After determining the spacing for the Threaded Rod (**\#6**) (see below) thread on one M8 Hex Nut (**\#14**) to the top position on the Threaded Rod
-- Slip the Threaded Rod through the Flanged Bearing of the sub-sub-assembly from Step #6 above
+- Slip the Threaded Rod through the Flanged Bearing of the sub-sub-assembly from Step #7 above
 - Thread on the second M8 Hex Nut
 - Fasten the stepper motor using the M3 Brass Standoff Spacer (**\#8**) onto the M3 screws
 - Place the Z-axis Shim Plate (**\#5**) on top of the Z Axis Rail  (**\#1**, 200mm MakerSlide) and attach it using the M5 bolts (as noted above, the Z-axis must threads for these bolts at this point, cut in by tapping as noted above)
