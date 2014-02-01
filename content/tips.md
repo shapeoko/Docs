@@ -113,6 +113,8 @@ Made of aluminum, it is (relatively) soft and easily dinged or even twisted or b
 
 There is a page on [workholding on the wiki](http://www.shapeoko.com/wiki/index.php/Workholding). Since the ShapeOko 2 uses an MDF wasteboard work area, one straight-forward option is to use T-nuts which can then be matched with SHCS which can then be fitted with plastic handles (all available from your local hardware store).
 
+Alternately, Inventables has begun selling a [silk-screened Waste Board with Threaded Inserts](https://www.inventables.com/technologies/waste-board-with-threaded-inserts) and [Clamp Set](https://www.inventables.com/technologies/clamp-set).
+
 ---
 
 To express concerns, post on the [forums](http://www.shapeoko.com/forum/index.php), to suggest improvements without using github, edit [this wiki page](http://www.shapeoko.com/wiki/index.php?title=Tips_1&action=edit&redlink=1).
