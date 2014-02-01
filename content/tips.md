@@ -30,7 +30,7 @@ Only basic tools are required to assemble the Shapeoko 2. The following tools ar
 * M5x0.8mm Tap and handle
 * Safety glasses
 * cable ties (100)
-* thread lock
+* thread lock --- one can either use this after the fact to secure any nut which begins to loosen, or, if one isn't planning on upgrading the machine, one could use it everywhere (this may make fine-tuning more difficult --- use extra care in the assembly if going that route). An alternative would be to instead use lock washers or replace the nuts with nylon insert lock nuts. 
 * razor blade (for stripping / cutting wires)
 
 There is one additional item:
@@ -47,6 +47,8 @@ Additional useful tools include:
 * 5.5 mm open end wrench for M3 nuts (if using a wiring option which requires them)
 * #2 Philips screwdriver (or 9/32" flat-bladed screwdriver)
 * Multimeter to test continuity
+* Squares to check for squareness or plumb
+* pinch sticks to check the assembled machine's diagonals for squareness
 
 ----
 
