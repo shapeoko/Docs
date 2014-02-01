@@ -90,7 +90,40 @@ These are the correct Grbl settings for the stock full kit machine.
 
 If you have sourced your own electronics, you can easily determine your own settings by using this [Grbl settings calculator.](http://homepage.ntlworld.com/r.j.noble/ShapeOko/grblcalc/)
 
-Ensure that the machine moves the correct distance/direction for each axis. Revisit the [electronics page](electronics.html) if need be to re-wire the machine, or re-configure Grbl (while a reversal of the X- and Y-axes will merely result in mirrored or upside-down prints (once one gets the origin set), a reversal of the Z-axis can be disastrous, resulting in a crash into the wasteboard).
+Ensure that the machine moves the correct distance/direction for each axis. Revisit the [electronics page](electronics.html) if need be to re-wire the machine, or [re-configure Grbl](http://www.shapeoko.com/wiki/index.php/Grbl#Invert_Bits) (while a reversal of the X- and Y-axes will merely result in mirrored or upside-down prints (once one gets the origin set), a reversal of the Z-axis can be disastrous, resulting in a crash into the wasteboard).
+
+If one has started with the suggested value of
+
+		$6=28
+		
+Then if the Z-axis is reversed you should enter
+
+		$6=156
+		
+If the X-axis is reversed you should enter
+
+		$6=60
+		
+If the Y-axis is reversed you should enter
+
+		$6=92
+		
+If X- and Y-axes are reversed
+
+		$6=124
+		
+If X- and Z-axes are reversed
+
+		$6=188
+		
+If Y- and Z-axes are reversed
+
+		$6=220
+		
+And lastly, to reverse all three axes
+
+		$6=252
+
 
 
 ##Open File
