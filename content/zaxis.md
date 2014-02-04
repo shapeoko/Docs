@@ -123,7 +123,7 @@ The Z-Axis Rail Assembly is the most intricate and complex assembly, and require
 - place the Wave Disc Spring (**\#15**, not shown in the diagram) onto the narrow part of the flanged bearing (**\#4**) --- it would be to the right in the diagram
 - insert that into the second Z-axis Motor Mount Plate (**\#3**)
 - insert the two M5 bolts (**\#10**) and M5 washers (**\#7**) from the other side
-- add the last two Nylon Spacers (**\#9**) to the end of each bolt (**\#10**) and slide the top and bottom Z-axis Motor Mount Plates together --- carefully set this sub-sub-assembly aside
+- add the last Nylon Spacers (**\#9**) to the end of each bolt (**\#10**) and slide the top and bottom Z-axis Motor Mount Plates together --- carefully set this sub-sub-assembly aside
 - Attach the Flexible Coupler (**\#2**) to the stepper motor
 - Place an M3 Washer (**\#13**) onto a Brass Standoff Spacer (**\#8**) and test fit it into the stepper motor --- if it bottoms out, add another washer and try again. Use an equal number of M3 Washers when attaching the Brass Standoff Spacers to the stepper motor
 - After determining the spacing for the Threaded Rod (**\#6**) (see below) thread on one M8 Hex Nut (**\#14**) to the top position on the Threaded Rod
