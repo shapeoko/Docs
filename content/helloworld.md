@@ -48,7 +48,7 @@ Using a piece of tape, affix your sharpie to the z-axis spindle carriage assembl
 
 ##Position Sharpie
 
-Lower your sharpie so it is about 1 inch above the paper.
+Lower your sharpie so it is about 1 inch above the paper (remember that the previous running of this file left the machine in inch mode --- if accustomed to using metric to jog the machine issue G21 to switch back).
 
 
 ##Open Software
