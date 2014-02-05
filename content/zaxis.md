@@ -119,7 +119,7 @@ The Z-Axis Rail Assembly is the most intricate and complex assembly, and require
 
 1. Take one Z-Axis Motor Mount Plate (**\#3**, this will become the bottom)
 - place M3 washers (**\#13**) onto the 12mm M3 screws (**\#12**) and place them in the appropriate holes
-- stack the Nylon Spacers (PS20015) (**\#11**) onto the screws (note that an equal number of spacers is used for each screw)
+- stack the Nylon Spacers (PS20015) (**\#11**) onto the screws (note that an equal number of spacers is used for each screw, including the M5 bolts which will go into the other plate from the other side)
 - place the Wave Disc Spring (**\#15**, not shown in the diagram) onto the narrow part of the flanged bearing (**\#4**) --- it would be to the right in the diagram
 - insert that into the second Z-axis Motor Mount Plate (**\#3**)
 - insert the two M5 bolts (**\#10**) and M5 washers (**\#7**) from the other side
@@ -131,6 +131,7 @@ The Z-Axis Rail Assembly is the most intricate and complex assembly, and require
 - Thread on the second M8 Hex Nut
 - Fasten the stepper motor using the M3 Brass Standoff Spacer (**\#8**) onto the M3 screws
 - Place the Z-axis Shim Plate (**\#5**) on top of the Z Axis Rail  (**\#1**, 200mm MakerSlide) and attach it using the M5 bolts (as noted above, the Z-axis must have threads for these bolts at this point, cut in by tapping)
+
 
 ####Threaded Rod
 
