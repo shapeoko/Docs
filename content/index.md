@@ -44,7 +44,7 @@ Before we can control our machine, we need to install and/or configure some soft
 ---
 
 ##Electronics
-[Goto the Instructions](electronics.html)]
+[Goto the Instructions](electronics.html)
 
 In this step, we will *test* our electronics setup. It's beneficial to do this prior to assembling the machine, as some issues are more easily addressed before assembly takes place. If a problem were to occur, it's much easier to troubleshoot without having to disassemble the machine!
 
