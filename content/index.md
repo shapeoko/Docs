@@ -17,7 +17,7 @@ _Never operate the machine without adequate safety gear for the current task. Ne
 ###Overview
 
 1. Review the parts in your kit and the instructions
-2. Read the [Pro Tips](tips.html) and make sure you have all the required [Tools](tips.html#Tools) 
+2. Read the [Pro Tips](tips.html) and make sure you have all the required [Tools](tips.html#Tools)
 3. Install your [software](software.html)
 4. Test Your [Electronics](electronics.html)
 5. Review the [wiring options](wiring.html)
@@ -32,7 +32,7 @@ If you are interested in contributing to the docs pages, please see [this page](
 
 ##Assembly Steps
 
-The first thing to do is to compare what you have received w/ the inventory sheet included w/ your kit. For reference, there is also a b.o.m. (bill of materials) in the initial announcement [Shapeoko 2 Now Available For Pre-order!](http://blog.inventables.com/2013/10/shapeoko-2-now-available-for-preorder.html). If anything in your kit is missing or damaged, contact [Inventables Customer Service](https://www.inventables.com/about): [help@inventables.com](mailto:help@inventables.com).
+The first thing to do is to compare what you have received w/ the inventory sheet included w/ your kit. For reference, there is also a b.o.m. (bill of materials) in the initial announcement [Shapeoko 2 Now Available For Pre-order!](http://blog.inventables.com/2013/10/shapeoko-2-now-available-for-preorder.html). Please note that part specifications / sizes may change with different kit batches, especially for aspects which do not affect functionality and fit. If anything in your kit is missing or damaged, contact [Inventables Customer Service](https://www.inventables.com/about): [help@inventables.com](mailto:help@inventables.com).
 
 ##Software
 [Goto the Instructions](software.html)
