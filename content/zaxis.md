@@ -115,37 +115,38 @@ One should also attach the motor for the Z-axis at this time.
 
 [![exploded view of Z-Axis Rail Assembly](tPictures/PS20028_4.png)](content/tPictures/PS20028_16.png)
 
-The Z-Axis Rail Assembly is the most intricate and complex assembly, and requires patience to assemble. One way to do this is to assemble it from the inside out, starting with the smallest pieces. 
+The Z-Axis Rail Assembly is the most intricate and complex assembly, and requires patience to assemble. One way to do this is to assemble it from the inside out, starting with the smallest pieces. One could of course try top-to-bottom or bottom-to-top --- just follow the diagram (and remember to add the Wave Disc Spring) and be careful to use equal numbers of spacers/washers for each connector and to not damage or bend the brass stand-offs.
 
 1. Take one Z-Axis Motor Mount Plate (**\#3**, this will become the bottom)
 - place M3 washers (**\#13**) onto the 12mm M3 screws (**\#12**) and place them in the appropriate holes
-- stack the Nylon Spacers (PS20015) (**\#11**) onto the screws (note that an equal number of spacers is used for each screw, including the M5 bolts which will go into the other plate from the other side)
+- stack the Nylon Spacers (PS20015) (**\#11**) onto the screws (note that an equal number of spacers is used for each screw, including the M5 bolts which will go into the other plate from the other side in a later step)
 - place the Wave Disc Spring (**\#15**, not shown in the diagram) onto the narrow part of the flanged bearing (**\#4**) --- it would be to the right in the diagram
 - insert that into the second Z-axis Motor Mount Plate (**\#3**)
-- insert the two M5 bolts (**\#10**) and M5 washers (**\#7**) from the other side
+- insert the two M5 bolts (**\#10**) and M5 washers (**\#7**) from the other side of that plate
 - add the last Nylon Spacers (**\#9**) to the end of each bolt (**\#10**) and slide the top and bottom Z-axis Motor Mount Plates together --- carefully set this sub-sub-assembly aside
 - Attach the Flexible Coupler (**\#2**) to the stepper motor
-- Place an M3 Washer (**\#13**) onto a Brass Standoff Spacer (**\#8**) and test fit it into the stepper motor --- if it bottoms out, add another washer and try again. Use an equal number of M3 Washers when attaching the Brass Standoff Spacers to the stepper motor.  Make sure not to force anything when tightening the standoffs, remember it's only brass and can snap off inside the motor if you're not careful enough.  The standoffs need only to be snug, as the screws on the other end prevent the standoffs from rotating
+- Place an M3 Washer (**\#13**) onto a Brass Standoff Spacer (**\#8**) and test fit it into the stepper motor --- if it bottoms out, add another washer and try again. Use an equal number of M3 Washers when attaching the Brass Standoff Spacers to the stepper motor.  Make sure not to force anything when tightening the standoffs, remember it's only brass and can snap off inside the motor if you're not careful enough.  The standoffs should need only to be snug, as the screws on the other end prevent the standoffs from rotating. Be careful of the orientation of the sub-sub-assembly, not to lose the M5 bolts and plastic spacers
 - After determining the spacing for the Threaded Rod (**\#6**) (see below) thread on one M8 Hex Nut (**\#14**) to the top position on the Threaded Rod
 - Slip the Threaded Rod through the Flanged Bearing of the sub-sub-assembly from Step #7 above
 - Thread on the second M8 Hex Nut
 - Fasten the stepper motor using the M3 screws onto the Brass Standoff Spacer (**\#8**) 
 - Place the Z-axis Shim Plate (**\#5**) on top of the Z Axis Rail  (**\#1**, 200mm MakerSlide) and attach it using the M5 bolts (as noted above, the Z-axis must have threads for these bolts at this point, cut in by tapping)
 
+Review all connectors to make certain that everything is tight --- be careful not to bend the threaded rod or strip any screws.
 
 ####Threaded Rod
 
 [![threaded rod, flexible coupler and nuts shown with ruler](tPictures/so_z_axis_dimensions_4.jpg)](content/tPictures/so_z_axis_dimensions_8.jpg)
 
-Compare the threaded rod (**\#6**) to the assembly thread on one M8 Hex Nut (**\#14**) threading the latter far enough down to allow room for the flanged bearing, a second hex nut and for the threaded rod (and the stepper motor shaft) to be just short of half-way into the flexible coupler (**\#2**). Insert the threaded rod into the bearing, add the second M8 hex nut and tighten them with two wrenches, being careful not to bend the rod. 
+Compare the threaded rod (**\#6**) to the assembly, thread on one M8 Hex Nut (**\#14**), threading the latter far enough down to allow room for the flanged bearing, a second hex nut, and for the threaded rod (and the stepper motor shaft) to be just short of half-way into the flexible coupler (**\#2**). Insert the threaded rod into the bearing, add the second M8 hex nut and tighten them with two wrenches, being careful not to bend the rod. Note 
 
-Tighten the coupler set screw holding the threaded rod using the 2.5mm hex key. If the flexible coupler doesn't securely grip the threaded rod, wrap the end of the rod in some sort of metal foil or tape to ensure coupler holds it securely. Make certain the coupler holds the rod squarely.
+Tighten the coupler set screw holding the threaded rod using the 2.5mm hex key. If the flexible coupler doesn't securely grip the threaded rod, wrap the end of the rod in some sort of metal, foil or tape to ensure coupler holds it securely. Make certain the coupler holds the rod squarely. One inexpensive source for metal shims is aluminum drink cans which are easily cut with appropriate tools (and wearing appropriate safety gear).
 
-**Note** the nuts are commodity / off-the-shelf parts and have a fairly wide manufacturing tolerance. If your threaded rod wobbles unduly after assembly, mark the nuts so as to indicate their orientation and try swapping them around in terms of orientation and positioning, keeping notes on which you have tried --- you should hit upon an arrangement which allows the rod to run fairly true, or at worst case, not hit any other parts. If nothing works, contact Inventables customer service, or try sourcing new nuts (one option is to take the bearing and threaded rod into a hardware store and try different nuts until you find a pair which works).
+**Note** the nuts are commodity / off-the-shelf parts and have a fairly wide manufacturing tolerance. If your threaded rod wobbles unduly after assembly, mark the nuts so as to indicate their orientation and try swapping them around in terms of orientation and positioning, keeping notes on which you have tried --- you should hit upon an arrangement which allows the rod to run fairly true, or at worst case, not hit any other parts (some whipping is inevitable --- one simply wants to achieve a state where nothing will be damaged by the rod end). If nothing works, contact Inventables customer service, or try sourcing new nuts (one option is to take the bearing and threaded rod into a hardware store and try different nuts until you find a pair which works).
 
 ####Stepper Motor
 
-Attach the stepper motor. Place M3 washers on the brass M3 standoffs --- if the standoffs bottom out, add sets of M3 washers to ensure the threads are well-engaged and not bottoming out. Ensure that the motor shaft will also fit just short of half-way into the flexible coupler and that the rod and motor shaft have a gap which will allow the flexible coupler to function without interference or binding. Tighten the coupler set screw holding the motor shaft using the 2.5mm hex key.
+As noted above, one should attach the stepper motor during the course of the assembly if at all possible. If not... place M3 washers on the brass M3 standoffs --- if the standoffs bottom out, add sets of M3 washers to ensure the threads are well-engaged and not bottoming out. Ensure that the motor shaft will also fit just short of half-way into the flexible coupler and that the rod and motor shaft have a gap which will allow the flexible coupler to function without interference or binding. Tighten the coupler set screw holding the motor shaft using the 2.5mm hex key.
 
 Tighten everything. If the M3 screws bottom out in the stand-offs, add washers one at a time until everything is secure.
 
