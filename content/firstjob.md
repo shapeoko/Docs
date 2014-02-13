@@ -41,7 +41,7 @@ Take the pointer tool with the circle on the end, and start working your letter 
 
 ##Engrave Your Letter
 
-Select your letter with the pointer tool. Once it's selected, the border will turn orange. Now, take a deep breath, we're going to make our first toolpath! Click CAM -> Pocket. Fill in the following values then click OK. Your letter should look like it's filled in with a hatch pattern.
+Select your letter with the pointer tool. Once it's selected, the border will turn orange. Now, take a deep breath, we're going to make our first toolpath! Click CAM -> Pocket. Fill in the following values then click OK (You should use feed and speed and plunge rates, step over and step down appropriate to your spindle, bit and material, see the [wiki page on feeds and speeds](http://www.shapeoko.com/wiki/index.php/Materials) c.f., the [MakerCAM Tutorial](http://www.makercam.com/tutorial.html) for a set of Imperial values). Your letter should look like it's filled in with a hatch pattern.
 
 ![rectangle](firstjob/mc_engrave_letter.png)
 
