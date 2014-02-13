@@ -57,7 +57,7 @@ Alternate, assembly-line procedure for the V-Wheels:
 
 1. 5x16x5mm **Bearings** (25196-01) x 12pcs
 * **Precision (Shim) Washers** (25201-01) x 6pcs
-* **Smooth Idler Drum** (25197-01) x 6pcs
+* **Smooth Idler Wheel (Drum)** (25197-01) x 6pcs
 
 ####Tools
 
