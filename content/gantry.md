@@ -52,7 +52,7 @@ Push the rear piece of MakerSlide as far as is possible to the back end of the s
 
 Place two belt anchors in the top channel of the rear piece of MakerSlide (or at least two insertion nuts) as shown in the diagram.
 
-[![array of gantry parts, tools with carriage plates with motors in place](tPictures//so_gantry_parts_tool_4.jpg)](content/tPictures/so_gantry_parts_tool_32.jpg)
+[![array of gantry parts, tools with carriage plates with motors in place](tPictures//so_gantry_parts_tool_4.jpg)](content/tPictures/so_gantry_parts_tool_16.jpg)
 
 
 ##Complete Gantry (PS20025)
