@@ -142,7 +142,7 @@ Lower your Z-axis so the tip of the end mill mounted in the spindle *just* ***to
 
 OK, here we go. Take a deep breath and click the 'Send' button.
 
-![Run Job](tpictures/inventables_Shapeoko_v2_milling_x800.jpg)
+![Run Job](tPictures/inventables_Shapeoko_v2_milling_x800.jpg)
 
 ![Finished piece](firstjob/finished_2_x800.png)
 
