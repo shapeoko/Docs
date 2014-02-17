@@ -86,7 +86,7 @@ These are the correct Grbl settings for the stock full kit machine.
 
 ![Grbl Settings](helloworld/check_grbl_settings.png)
 
-**Note: Previously, the above image showed the Z-axis set to $5=2500, this has been set back to the original 500 --- if you machine doesn't move reliably you may wish to try further reducing it to 250. Once your machine is assembled and working, you can fine tune it per the instructions on the wiki.**
+**Note: Previously, the above image showed the Z-axis set to $5=2500, this has been set back to the original 500 --- if your machine doesn't move reliably you may wish to try further reducing it to 250. Once your machine is assembled and working, you can fine tune it per the instructions on the wiki.**
 
 If you have sourced your own electronics, you can easily determine your own settings by using this [Grbl settings calculator.](http://homepage.ntlworld.com/r.j.noble/ShapeOko/grblcalc/)
 
