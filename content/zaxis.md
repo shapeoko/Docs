@@ -49,7 +49,7 @@ This is the plate the Z-axis will attach to (it is identical to the Motor Mount 
 ####Parts
 
 1. 30287-01 **Spindle Mount Plate** (12ga) x 1 pcs.
-- PS20010 13mm x 35mm x 20mm **Delrin Lead nut** x 1 pcs.
+- PS20010 13mm x 35mm x 20mm **Delrin Lead nut** x 1 pcs. --- check that the threaded rod fits (see below)
 - 25287-02 **M5 Flat Washer** x 10 pcs.
 - 25284-02 **M5 Hex Nut** x 6 pcs.
 - PS20012 **Universal Spindle Mount** x 2 pcs.
@@ -65,7 +65,7 @@ This is the plate the Z-axis will attach to (it is identical to the Motor Mount 
 
 [![exploded view of Spindle Carriage Assembly](tPictures/PS20029_4.png)](content/tPictures/PS20029_16.png)
 
-Place the V-wheels (**\#7**) and the Delrin Lead nut (**\#2**, for the Z-axis Rail Assembly, see below) on one side of the Spindle Mount Plate (**\#1**) and the Universal Spindle Mount (**\#5**) and Straps  (**\#13**)on the other. Be careful when tightening the M5 SHCs which hold the Delrin Lead Nut so that you do not deform the plastic nut. The Eccentric Nuts (**\#6**) go in the larger holes. **Note:** Be certain to use the aluminum spacers (**\#10**) which set this plate off from the Z-axis rail assembly, allowing room for the threaded rod) and ensure that all V-wheels are vertically aligned with each other (be careful of washer placement/order).
+Place the V-wheels (**\#7**) and the Delrin Lead nut (**\#2**, for the Z-axis Rail Assembly, see below) on one side of the Spindle Mount Plate (**\#1**) and the Universal Spindle Mount (**\#5**) and Straps (**\#13**) on the other. Be careful when tightening the M5 SHCs which hold the Delrin Lead Nut so that you do not deform the plastic nut --- probably best to not tighten them fully until the Z-Axis Rail Assembly's threaded rod is inserted. The Eccentric Nuts (**\#6**) go in the larger holes. **Note:** Be certain to use the aluminum spacers (**\#10**) which set this plate off from the Z-axis rail assembly, allowing room for the threaded rod) and ensure that all V-wheels are vertically aligned with each other (be careful of washer placement/order).
 
 ##Z-Axis Rail Assembly (PS20028)
 
