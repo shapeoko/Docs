@@ -26,7 +26,7 @@ The 3 plates with stepper motors are identical and interchangeable. The plates a
 
 It might be easier and more straight-forward to assemble all four of them to match the Z-axis motor carriage mount plate, then set one aside for that, and add smooth idler wheels to make the other three.
 
-When attaching V-wheels and Smooth Idlers, push them away from the horizontal centerline of the plate --- this will maximize the available space and minimize the chance of the wheels slipping. Similarly, turn the eccentric nuts to move the dynamic V-wheel as far as possible from the matching static one, so as to have the widest possible gap to make it easier to mount each assembly on the MakerSlide.
+When attaching V-wheels and Smooth Idlers, push them away from the horizontal centerline of the plate (towards what will be the top of the machine for the static wheels and smooth idlers) --- this will maximize the available space and minimize the chance of the wheels slipping. Similarly, turn the eccentric nuts to move the dynamic V-wheel as far as possible from the matching static one (towards the bottom of the machine), so as to have the widest possible gap to make it easier to mount each assembly on the MakerSlide.
 
 Note that the eccentric nuts have a centered rounded portion which mates with a matching hole on the plates --- it is that placement which allows them to function to adjust the spacing of the V-wheels.
  
@@ -49,7 +49,7 @@ These are the plates that will mount on either end of the gantry and on the rear
 ####Parts
 
  1.   **Motor Mount Plate** (12ga) (26029-01) x 3pcs
- *   **Eccentric Nut** (30158-01) x 6pcs
+ *   **Eccentric Nut** (30158-01) x 6pcs (these will be used in the larger holes at the bottom of the plates to allow for adjustment)
  *   (from previous step) - **Dual Bearing V-Wheel** (25203-02) x 12pcs
  *   **M5 x 20mm Button Head Cap Screw** (PS20004) x 12pcs
  *   **M5 Flat Washer** (25287-02) x 36pcs
