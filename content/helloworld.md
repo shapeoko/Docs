@@ -27,7 +27,7 @@ Tape a piece of paper down to your work area. The paper should be taped in lands
 
 ##Download Files
 
-Download [this file](http://docs.shapeoko.com/content/helloworld/helloworld2.nc) and save it somewhere to your computer that you will remember, e.g., the Desktop or your Documents folder. 
+Download [this file](http://docs.shapeoko.com/content/helloworld/helloworld2.nc) (you could right-click or control-click on the link to bring up a menu to force the saving) and save it somewhere to your computer that you will remember, e.g., the Desktop or your Documents folder. 
 
 [![Hello, World](helloworld/file.png)](http://docs.shapeoko.com/content/helloworld/helloworld2.nc)
 
