@@ -136,12 +136,12 @@ First, strip the leads from the raw end of the barrel connector plug, it may als
 
 ![Stripped lead for barrel connector](tPictures/power_connection.jpg)
 
-Connect it to the gShield (which is attached to the top of the Arduino). There are two leads, one a solid black wire, the other black w/ a white stripe. 
+Connect it to the gShield (which is attached to the top of the Arduino). There are two leads, one a solid black wire, the other black w/ a white stripe (or red). 
 
 * black == (-)
 * black/white == (+) (or red)
 
-Please connect each lead to the appropriate side of the gShield's blue power connector (it may also be green as in the photos above).
+Please connect each lead to the appropriate side of the gShield's power connector.
 
 ![Power connections](tPictures/so_e_arduino_usb_4.jpg)
 
@@ -158,8 +158,7 @@ Load up a Communication / Control program and use its jog functionality to test 
 
 If one or more motors don't move smoothly, you may need to adjust the trim pots on the gShield, see [the wiki](http://www.shapeoko.com/wiki/index.php/Tuning#Motor_Current).
 
-As viewed with the shaft pointing toward you, when moving the respective axis in the positive direction, the motors of a Shapeoko 2 should turn counterclockwise with the exception of the 
-Y-axis right motor which should turn clockwise.
+As viewed with the shaft pointing toward you, when moving the respective axis in the positive direction, the motors of a Shapeoko 2 should turn counterclockwise with the exception of the Y-axis right motor which should turn clockwise.
  
 Note that once the machine is assembled, the positive direction for X is right, for Y it's away from you, and for Z it's up.
 
@@ -181,7 +180,7 @@ Y-Axis --- make certain that the two motors for the Y-axis are rotating in oppos
 
 Once everything has been successfully tested you should dismantle at least the terminal block connections and carefully set everything aside until it's needed.
 
-Once everything has been successfully assembled you should re-test jogging all the axes to ensure that movement is properly calibrated in terms of direction/rotation and distanfe travelled/number of steps/revolutions.
+Once everything has been successfully assembled you should re-test jogging all the axes to ensure that movement is properly calibrated in terms of direction/rotation and distance travelled/number of steps/revolutions.
 
 ###Next step [Wheels & Idlers](wheels.html)
 
