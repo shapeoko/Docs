@@ -105,8 +105,6 @@ Since the ShapeOko 2 uses two motors on the Y-Axis and the gShield only has 3 st
 
 ![Wiring Y-Axis motors to terminal block](tPictures/so_e_steppermotor_tb_y_4.jpg)
 
-(red and blue to make purple was selected was selected for the photo, but green and black are reversed in the wiring diagram)
-
 Carefully make each connection. Be careful not to lose any screws. If necessary, trim wires and re-strip so as to achieve a good connection.
 
 ![image of required components](tPictures/so_e_steppermotors_wired_4.jpg)
