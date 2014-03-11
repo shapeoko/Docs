@@ -82,11 +82,39 @@ The default values need to be changed in order for your machine to function prop
 
 		$0=40.020
 
-These are the correct Grbl settings for the stock full kit machine.
+These are the correct Grbl settings for the stock full kit machine:
 
 ![Grbl Settings](helloworld/check_grbl_settings.png)
 
+
 **Note: Previously, the above image showed the Z-axis set to $5=2500, this has been set back to the original 500 --- if your machine doesn't move reliably you may wish to try further reducing it to 250. Once your machine is assembled and working, you can fine tune it per the instructions on the wiki.**
+
+To save typing: 
+
+    $0=40.000 
+    $1=40.000 
+    $2=320.000 
+    $3=30 
+    $4=250.000 
+    $5=250.000
+    $6=192 
+    $7=255 
+    $8=25.000
+    $9=0.050 
+    $10=0.100 
+    $11=25 
+    $12=3 
+    $13=0 
+    $14=1 
+    $15=0 
+    $16=0 
+    $17=0 
+    $18=0 
+    $19=25.000 
+    $20=250.000 
+    $21=100
+    $22=1.000 
+
 
 If you have sourced your own electronics, you can easily determine your own settings by using this [Grbl settings calculator.](http://homepage.ntlworld.com/r.j.noble/ShapeOko/grblcalc/)
 
