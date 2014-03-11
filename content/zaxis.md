@@ -32,8 +32,8 @@ This is the plate the Z-axis will attach to (it is identical to the Motor Mount 
 [![exploded view of Z Assembly Carriage](tPictures/PS20021_4.png)](content/tPictures/PS20021_16.png)
 
  - Connect V-Wheels (**\#3**) to the plate (**\#1**)
-	- two static at the top (using M5 Hex Nuts (**\#6**))
-	- two eccentric at the bottom in the larger holes (using Eccentric Nuts (**\#2**))
+	- two static at the top (using M5 x 20mm BHCS (**\#4**), a pair of M5 Flat washers (**\#5**), and M5 Hex Nuts (**\#6**))
+	- two eccentric at the bottom in the larger holes (using M5 x 20mm BHCS (**\#4**), a pair of M5 Flat washers (**\#5**), and using Eccentric Nuts (**\#2**))
 
 
 ##Spindle Carriage Assembly (PS20029)
