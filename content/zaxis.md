@@ -65,7 +65,17 @@ This is the plate the Z-axis will attach to (it is identical to the Motor Mount 
 
 [![exploded view of Spindle Carriage Assembly](tPictures/PS20029_4.png)](content/tPictures/PS20029_16.png)
 
-Place the V-wheels (**\#7**) and the Delrin Lead nut (**\#2**, for the Z-axis Rail Assembly, see below) on one side of the Spindle Mount Plate (**\#1**) and the Universal Spindle Mount (**\#5**) and Straps (**\#13**) on the other. Be careful when tightening the M5 SHCs which hold the Delrin Lead Nut so that you do not deform the plastic nut --- probably best to not tighten them fully until the Z-Axis Rail Assembly's threaded rod is inserted. The Eccentric Nuts (**\#6**) go in the larger holes. **Note:** Be certain to use the aluminum spacers (**\#10**) which set this plate off from the Z-axis rail assembly, allowing room for the threaded rod) and ensure that all V-wheels are vertically aligned with each other (be careful of washer placement/order).
+1. Take the Spindle Mount Plate (**\#1**) and orient it so the large holes are to the right.
+2. Using an M5 x 30mm BHCS (**\#11**), attach a V-wheel (**\#7**) to the left top corner hole, using an aluminum spacer (**\#10**) to set it off from the plate, fastening it from the other side using an M5 Flat Washer (**\#3**) and an M5 Hex Nut (**\#4**)
+3. Repeat the above step w/ another V-wheel for the bottom left corner hole
+4. Using an M5 x 30mm BHCS (**\#11**), attach a V-wheel (**\#7**) to the right top corner hole, using an aluminum spacer (**\#10**) to set it off from the plate, fastening it from the other side using an Eccentric Nut (**\#6**)
+5. Repeat the above step w/ another V-wheel for the bottom right corner hole
+6. Attach the Delrin Lead nut to the center of the plate using two 12mm M5 BHCS (**\#12**) --- be careful not to over-tighten the bolts --- they should be tightened after the plate is mounted onto the balance of the Z-axis
+7. Using four 12mm M5 BHCS (**\#12**) fasten the Universal Spindle Mounts (**\#5**) to the top and bottom of the plate
+8. Using four M5 x 45mm, SHCS (**\#14**) and four M5 Flat Washers, fasten a Universal Spindle Mount strap (**\#13**) to each universal spindle mount.
+
+**Note:** Be certain to use the aluminum spacers (**\#10**) which set this plate off from the Z-axis rail assembly, allowing room for the threaded rod) and ensure that all V-wheels are vertically aligned with each other (be careful of washer placement/order). Remember to turn the eccentric nuts so as to move the V-wheels towards the outside of the carriage plate, making room for them to fit onto the MakerSlide.
+
 
 ##Z-Axis Rail Assembly (PS20028)
 
