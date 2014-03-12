@@ -26,7 +26,8 @@ You may need to create a "/var/lock" directory on OSX to fix a bug in the serial
 		sudo mkdir /var/lock 
 		sudo chmod 777 /var/lock 
 
-
+### First run
+You may want to run the program before connecting the Arduino --- this will allow you to check and see if your system has any pre-existing ports --- make note of any, once the Arduino is loaded it should be on a new port.
 
 ##grbl
 
