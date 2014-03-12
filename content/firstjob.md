@@ -19,7 +19,7 @@ Select Insert -> Rounded Rectangle. When the dialog box comes up, input 3.5 for 
 
 ##Another Rectangle
 
-Select Insert -> Rounded Rectangle. When the dialog box comes up, input 3.125 for both the length and width. leave the radius as 0.2. Click OK. You now have another rounded rectangle! Move the rounded rectangle so the bottom left corner is slightly inside of the bigger rectangle. Like this:
+Select Insert -> Rounded Rectangle. When the dialog box comes up, input 3.125 for both the length and width. leave the radius as 0.2. Click OK. You now have another rounded rectangle! If necessary, move the rounded rectangle so the smaller one is inside of the bigger rectangle. Like this:
 
 ![rectangle](firstjob/mc_rr2.png)
 
@@ -33,7 +33,11 @@ Select the pencil tool from the toolbar in the top left corner of the screen. Us
 
 #Prettify Your Freehand
 
-Take the pointer tool with the circle on the end, and start working your letter into shape. Zoom in, and hover over one of the corners. See the red dot? Now you can click and drag that red dot until your line is straight (or in the shape you want it). If you put that red dot onto another one, it will join the two lines together. Now we're getting somewhere! Once you're happy with the letter, go ahead and center it inside the rectangles.
+Take the pointer tool with the circle on the end, and start working your letter into shape. Zoom in, and hover over one of the corners. See the red dot? Now you can click and drag that red dot until your line is straight (or in the shape you want it). If you put that red dot onto another one, it will join the two lines together. Now we're getting somewhere! 
+
+If necessary, draw a second path (and if need be a third) for a counter (if you've drawn an A, B, D, O, P, Q, or R).
+
+Once you're happy with the letter, go ahead and center it inside the rectangles.
 
 ![rectangle](firstjob/mc_initial2.png)
 ![rectangle](firstjob/mc_initial3.png)
@@ -41,21 +45,61 @@ Take the pointer tool with the circle on the end, and start working your letter 
 
 ##Engrave Your Letter
 
-Select your letter with the pointer tool. Once it's selected, the border will turn orange. Now, take a deep breath, we're going to make our first toolpath! Click CAM -> Pocket. Fill in the following values then click OK (You should use feed and speed and plunge rates, step over and step down appropriate to your spindle, bit and material, see the [wiki page on feeds and speeds](http://www.shapeoko.com/wiki/index.php/Materials) c.f., the [MakerCAM Tutorial](http://www.makercam.com/tutorial.html) for a set of Imperial values). Your letter should look like it's filled in with a hatch pattern.
+Click on the solid black arrow in the toolbar (in-between the hand and the node-editor (arrow w/ a circle at the tip). Select all the path(s) which make up your letter with the pointer tool. Once it's selected, the border will turn red (may seem orange on some displays). Now, take a deep breath, we're going to make our first toolpath! Click CAM -> Pocket. Fill in the following values then click OK:
+
+  Name:                Letter_pocket
+  Tool Diameter:       0.125
+  Target Depth:        -0.03125
+  Safety Height:       0.25
+  Stock Surface:       0
+  Step Over:           40
+  Step Down:           0.3125
+  Roughing Clearance:  0
+  Feed Rate:           30
+  Plunge Rate:         10
+  Direction:           Counter Clockwise
+
+
+Your letter should look like it's filled in with a hatch pattern.
 
 ![rectangle](firstjob/mc_engrave_letter.png)
 
 
 ##Engrave the Border
 
-Select the inside rounded rectangle (the one we made in step #3). Click CAM -> Follow Path Operation. Fill in the following values, then click OK. Your line will be highlighted yellow.
+Select the inside rounded rectangle (the one we made in step #3). Click CAM -> Follow Path Operation. Fill in the following values, then click OK:
+
+  Name:                trim_engrave
+  Tool Diameter:       0.125
+  Target Depth:        -0.03125
+  Safety Height:       0.25
+  Stock Surface:       0
+  Step Down:           0.3125
+  Feed Rate:           30
+  Plunge Rate:         10
+  Direction:           Counter
+  
+Your line will be highlighted yellow.
 
 ![rectangle](firstjob/mc_engrave_edge.png)
 
 
 ##Create a Profile
 
-Select the outside rounded rectangle (the one we made in Step #2). Click CAM -> Profile Operation. Fill in the following values, then click OK.
+Select the outside rounded rectangle (the one we made in Step #2). Click CAM -> Profile Operation. Fill in the following values, then click OK:
+
+  Name:                coaster_cut_out
+  Tool Diameter:       0.125
+  Target Depth:        -0.26
+  Inside/outside:      Outside
+  Safety Height:       0.25
+  Stock Surface:       0
+  Step Down:           0.3125
+  Roughing Clearance:  0
+  Feed Rate:           30
+  Plunge Rate:         10
+  Direction:           Clockwise
+
 
 ![rectangle](firstjob/mc_profile.png)
 
@@ -77,6 +121,13 @@ It's time to generate your G-code! If you check the "view cuts" option in the to
 ##Export G-Code
 
 Export Your g-code! Your coaster should look a little goofy right now, with colors and curves representing the toolpaths. That's OK, imagine those toolpaths as a map for your bit to follow. Once you have calculated all toolpaths, let's go ahead an export the file. Click CAM -> export g-code. A couple of things to remember on this screen.
+
+    The order should go:
+    letter_pocket
+    trim_engrave
+    coaster_cutout
+
+As long as that's OK, then click 'all' (will highlight all of your operations), then click "Export Selected Toolpaths". A file dialog box will prompt your for a location to save your file. let's name it 'monogram_coaster.nc' and save it somewhere that you will remember. After the file is exported (it'll only take a split second), go ahead and save the svg file from makerCAM. Click file -> save SVG. Save it somewhere that you will remember. 
 
 ![rectangle](firstjob/mc_export.png)
 
@@ -116,7 +167,7 @@ If your file visualization looks correct, close the visualizer and click the 'ma
 
 Jog your machine to the lower left side of your work surface using the different axis control buttons. Click the 'Reset Zero' button to tell your machine that you are at 0,0. You should notice on the left of the panel your work position coordinates will be set to X:0, Y:0, Z:0
 
-**Note:** This assumes that one has mounted a spindle and secured an appropriate endmill (see the documentation for the rotary tool for the details on how to use a collet and how to tighten it). This should be straight-forward, but the Altocraft rotary tool currently bundled with the ShapeOko 2 is asymmetric (narrower at the bottom than at the top) and will mount at a slight angle. This can be ameliorated by wrapping a reasonably large/thick zip tie around the narrower bottom portion of the tool and positioning that under the lower universal spindle mount when mounting the tool. Doing so will result in better, more perpendicular cuts. One should probably design and cut a custom mount out of HDPE or UHMW or Delrin or some other appropriate material.
+**Note:** This assumes that one has mounted a spindle and secured an appropriate endmill (see the documentation for the rotary tool for the details on how to use a collet and how to tighten it). This should be straight-forward, but the Altocraft rotary tool currently bundled with the ShapeOko 2 is asymmetric (narrower at the bottom than at the top) and will mount at a slight angle. This can be ameliorated by wrapping a reasonably large/thick zip tie around the narrower bottom portion of the tool and positioning that under the lower universal spindle mount when mounting the tool. Doing so will result in better, more perpendicular cuts. One should probably find or design and cut a custom mount out of HDPE or UHMW or Delrin or some other appropriate material (see [Spindle Options](http://www.shapeoko.com/wiki/index.php/Spindle_Options) on the wiki.
 
 ![Set Zero](helloworld/ugs4.png)
 
@@ -136,7 +187,7 @@ You should see Universal Gcode Sender start streaming the file, and your machine
 
 First, make sure that you have adequate safety gear, eye protection (safety glasses), hearing protection (at least a pair of foam ear plugs, better is to combine foam ear plugs with noise-reducing ear muffs). Second, review the [operating checklist](http://www.shapeoko.com/wiki/index.php/Operating_Checklist). Third, **never** operate the machine without safety gear. 
 
-Lower your Z-axis so the tip of the end mill mounted in the spindle *just* ***touching*** the material. Make certain the bit is securely held by the collet, per the instructions for your spindle. If necessary, use a bit of plumber's silicon thread tape on the collet of your rotary tool to ensyee this.
+Lower your Z-axis so the tip of the end mill mounted in the spindle *just* ***touching*** the material. Make certain the bit is securely held by the collet, per the instructions for your spindle. If necessary, use a bit of plumber's silicon thread tape on the collet of your rotary tool to ensure this.
 
 ![Just above work surface](firstjob/zero_Z.png)
 
