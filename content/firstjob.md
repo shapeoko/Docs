@@ -47,17 +47,17 @@ Once you're happy with the letter, go ahead and center it inside the rectangles.
 
 Click on the solid black arrow in the toolbar (in-between the hand and the node-editor (arrow w/ a circle at the tip). Select all the path(s) which make up your letter with the pointer tool. Once it's selected, the border will turn red (may seem orange on some displays). Now, take a deep breath, we're going to make our first toolpath! Click CAM -> Pocket. Fill in the following values then click OK:
 
-  Name:                Letter_pocket
-  Tool Diameter:       0.125
-  Target Depth:        -0.03125
-  Safety Height:       0.25
-  Stock Surface:       0
-  Step Over:           40
-  Step Down:           0.3125
-  Roughing Clearance:  0
-  Feed Rate:           30
-  Plunge Rate:         10
-  Direction:           Counter Clockwise
+    Name:                Letter_pocket
+    Tool Diameter:       0.125
+    Target Depth:        -0.03125
+    Safety Height:       0.25
+    Stock Surface:       0
+    Step Over:           40
+    Step Down:           0.3125
+    Roughing Clearance:  0
+    Feed Rate:           30
+    Plunge Rate:         10
+    Direction:           Counter Clockwise
 
 
 Your letter should look like it's filled in with a hatch pattern.
@@ -69,15 +69,15 @@ Your letter should look like it's filled in with a hatch pattern.
 
 Select the inside rounded rectangle (the one we made in step #3). Click CAM -> Follow Path Operation. Fill in the following values, then click OK:
 
-  Name:                trim_engrave
-  Tool Diameter:       0.125
-  Target Depth:        -0.03125
-  Safety Height:       0.25
-  Stock Surface:       0
-  Step Down:           0.3125
-  Feed Rate:           30
-  Plunge Rate:         10
-  Direction:           Counter
+    Name:                trim_engrave
+    Tool Diameter:       0.125
+    Target Depth:        -0.03125
+    Safety Height:       0.25
+    Stock Surface:       0
+    Step Down:           0.3125
+    Feed Rate:           30
+    Plunge Rate:         10
+    Direction:           Counter
   
 Your line will be highlighted yellow.
 
@@ -88,17 +88,17 @@ Your line will be highlighted yellow.
 
 Select the outside rounded rectangle (the one we made in Step #2). Click CAM -> Profile Operation. Fill in the following values, then click OK:
 
-  Name:                coaster_cut_out
-  Tool Diameter:       0.125
-  Target Depth:        -0.26
-  Inside/outside:      Outside
-  Safety Height:       0.25
-  Stock Surface:       0
-  Step Down:           0.3125
-  Roughing Clearance:  0
-  Feed Rate:           30
-  Plunge Rate:         10
-  Direction:           Clockwise
+    Name:                coaster_cut_out
+    Tool Diameter:       0.125
+    Target Depth:        -0.26
+    Inside/outside:      Outside
+    Safety Height:       0.25
+    Stock Surface:       0
+    Step Down:           0.3125
+    Roughing Clearance:  0
+    Feed Rate:           30
+    Plunge Rate:         10
+    Direction:           Clockwise
 
 
 ![rectangle](firstjob/mc_profile.png)
