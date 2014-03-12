@@ -59,6 +59,7 @@ Click on the solid black arrow in the toolbar (in-between the hand and the node-
     Plunge Rate:         10
     Direction:           Counter Clockwise
 
+(Please note that the Feed (30) and Plunge (10) rates are set for cork --- if you are using some other material for your coaster, please select an appropriate value from the [Feeds and Speeds page](http://www.shapeoko.com/wiki/index.php/Materials) on the wiki.)
 
 Your letter should look like it's filled in with a hatch pattern.
 
