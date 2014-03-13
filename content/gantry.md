@@ -1,7 +1,7 @@
 # Gantry
 
 
-**Note:** The MakerSlide must have threads in it, cut by tapping. If you have not yet finished tapping your MakerSlide, you can put this off no longer.
+**Note:** At least two pieces of MakerSlide must have threads in it, cut by tapping. If you have not yet finished tapping at least two pieces MakerSlide, you can put this off no longer.
 
 
 ## Belt Clip Assembly (PS20020)
