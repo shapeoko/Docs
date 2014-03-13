@@ -2,17 +2,19 @@
 
 Welcome to Your New Life! After completing this step, you'll be a pro! OK, maybe not a pro, but you will be capable of designing a simple part, generating appropriate toolpaths, and cutting said toolpaths on your Shapeoko 2. This is exciting, get ready!
 
+Our first job will be to design and cut a coaster out of some suitable material --- cork is one good choice, and the feed and plunge rates below assume that. You can purchase cork from [inventables.com](https://www.inventables.com/categories/materials/cork) or a craft or office supply store.
+
 
 ##Find the Origin
 
-Step #1: Open makerCAM.com. Zoom out until you can see the origin. The origin is 0,0 in the cartesian coordinate system, it's where the X and Y axis meet. In the CAM world, the origin is where your machine is going to start from.
+Step #1: Open [makerCAM.com](http://www.makercam.com) (you'll need to have Adobe Flash installed, if you don't, install it from [adobe.com](http://www.adobe.com/support/flashplayer/downloads.html). Zoom out until you can see the origin. The origin is 0,0 in the cartesian coordinate system, it's where the X and Y axis meet. In the CAM world, the origin is where your machine is going to start from.
 
 ![find the origin](firstjob/mc_origin.png)
 
 
 ##Create a Rectangle
 
-Select Insert -> Rounded Rectangle. When the dialog box comes up, input 3.5 for both the length and width. leave the radius as 0.2. Click OK. You now have a rounded rectangle!
+Select Insert -> Rounded Rectangle. When the dialog box comes up, input 3.5 (inches) for both the length and width. leave the radius as 0.2. Click OK. You now have a rounded rectangle!
 
 ![rectangle](firstjob/mc_rr1.png)
 
@@ -47,7 +49,7 @@ Once you're happy with the letter, go ahead and center it inside the rectangles.
 
 Click on the solid black arrow in the toolbar (in-between the hand and the node-editor (arrow w/ a circle at the tip). Select all the path(s) which make up your letter with the pointer tool. Once it's selected, the border will turn red (may seem orange on some displays). Now, take a deep breath, we're going to make our first toolpath! Click CAM -> Pocket. Fill in the following values then click OK:
 
-    Name:                Letter_pocket
+    Name:                letter_pocket
     Tool Diameter:       0.125
     Target Depth:        -0.03125
     Safety Height:       0.25
@@ -68,7 +70,7 @@ Your letter should look like it's filled in with a hatch pattern.
 
 ##Engrave the Border
 
-Select the inside rounded rectangle (the one we made in step #3). Click CAM -> Follow Path Operation. Fill in the following values, then click OK:
+Select the inside rounded rectangle (the second one we made). Click CAM -> Follow Path Operation. Fill in the following values, then click OK:
 
     Name:                trim_engrave
     Tool Diameter:       0.125
@@ -87,7 +89,7 @@ Your line will be highlighted yellow.
 
 ##Create a Profile
 
-Select the outside rounded rectangle (the one we made in Step #2). Click CAM -> Profile Operation. Fill in the following values, then click OK:
+Select the outside rounded rectangle (the first one we made). Click CAM -> Profile Operation. Fill in the following values, then click OK:
 
     Name:                coaster_cut_out
     Tool Diameter:       0.125
@@ -138,6 +140,7 @@ Just like we did in the Hello World section, plug the power in to your machine a
 
 ![Open The Software](helloworld/ugs1.png)
 
+If Java isn't an option for you, you may use some other [communication/control program](http://www.shapeoko.com/wiki/index.php/Communication_/_Control).
 
 ##Open Connection Between Computer and Machine
 
@@ -159,6 +162,8 @@ Click the visualize button, located just below the browse button, to see what th
 
 ![Visualize](http://placehold.it/800x400&text=image+of+visualizer)
 
+If you aren't using a control program with a visualizer, you should find one and use it. There is a list of open source previewers on the wiki in the [software section](http://www.shapeoko.com/wiki/index.php/Previewing_G-Code).
+
 
 ##Set Zero Position
 
@@ -168,7 +173,7 @@ If your file visualization looks correct, close the visualizer and click the 'ma
 
 Jog your machine to the lower left side of your work surface using the different axis control buttons. Click the 'Reset Zero' button to tell your machine that you are at 0,0. You should notice on the left of the panel your work position coordinates will be set to X:0, Y:0, Z:0
 
-**Note:** This assumes that one has mounted a spindle and secured an appropriate endmill (see the documentation for the rotary tool for the details on how to use a collet and how to tighten it). This should be straight-forward, but the Altocraft rotary tool currently bundled with the ShapeOko 2 is asymmetric (narrower at the bottom than at the top) and will mount at a slight angle. This can be ameliorated by wrapping a reasonably large/thick zip tie around the narrower bottom portion of the tool and positioning that under the lower universal spindle mount when mounting the tool. Doing so will result in better, more perpendicular cuts. One should probably find or design and cut a custom mount out of HDPE or UHMW or Delrin or some other appropriate material (see [Spindle Options](http://www.shapeoko.com/wiki/index.php/Spindle_Options) on the wiki.
+**Note:** This assumes that one has mounted a spindle and secured an appropriate end mill (see the documentation for the rotary tool for the details on how to use a collet and how to tighten it). This should be straight-forward, but the Altocraft rotary tool currently bundled with the ShapeOko 2 is asymmetric (narrower at the bottom than at the top) and will mount at a slight angle. This can be ameliorated by wrapping a reasonably large/thick zip tie around the narrower bottom portion of the tool and positioning that under the lower universal spindle mount when mounting the tool. Doing so will result in better, more perpendicular cuts. One should probably find or design and cut a custom mount out of HDPE or UHMW or Delrin or some other appropriate material (see [Spindle Options](http://www.shapeoko.com/wiki/index.php/Spindle_Options) on the wiki.
 
 ![Set Zero](helloworld/ugs4.png)
 
