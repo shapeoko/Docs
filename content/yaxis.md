@@ -2,6 +2,8 @@
 
 ##Y-Axis Rail Assembly (PS20026)
 
+**Note:** The remaining two pieces of MakerSlide must have threads in it, cut by tapping. If you have not yet finished tapping your MakerSlide, you can put this off no longer.
+
 ### Overview
 
 ![exploded view of End Plates](tPictures/PS20026_2.png) 
