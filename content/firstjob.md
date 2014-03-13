@@ -103,6 +103,7 @@ Select the outside rounded rectangle (the first one we made). Click CAM -> Profi
     Plunge Rate:         10
     Direction:           Clockwise
 
+Please adjust the value for Target Depth to be equal to the thickness of the material which you have selected for your coaster.
 
 ![rectangle](firstjob/mc_profile.png)
 
@@ -173,7 +174,9 @@ If your file visualization looks correct, close the visualizer and click the 'ma
 
 Jog your machine to the lower left side of your work surface using the different axis control buttons. Click the 'Reset Zero' button to tell your machine that you are at 0,0. You should notice on the left of the panel your work position coordinates will be set to X:0, Y:0, Z:0
 
-**Note:** This assumes that one has mounted a spindle and secured an appropriate end mill (see the documentation for the rotary tool for the details on how to use a collet and how to tighten it). This should be straight-forward, but the Altocraft rotary tool currently bundled with the ShapeOko 2 is asymmetric (narrower at the bottom than at the top) and will mount at a slight angle. This can be ameliorated by wrapping a reasonably large/thick zip tie around the narrower bottom portion of the tool and positioning that under the lower universal spindle mount when mounting the tool. Doing so will result in better, more perpendicular cuts. One should probably find or design and cut a custom mount out of HDPE or UHMW or Delrin or some other appropriate material (see [Spindle Options](http://www.shapeoko.com/wiki/index.php/Spindle_Options) on the wiki.
+**Note:** This assumes that one has mounted a spindle and secured an appropriate end mill (any straight end mill will work, 1, 2 or 4 flutes will be fine). See the documentation for the rotary tool for the details on how to use a collet and how to tighten it.  Make certain the bit is securely held by the collet, per the instructions for your spindle. If necessary, use a bit of plumber's silicon thread tape on the collet of your rotary tool to ensure this.
+
+Mounting the spindle should be straight-forward, but the Altocraft rotary tool currently bundled with the ShapeOko 2 is asymmetric (narrower at the bottom than at the top) and will mount at a slight angle. This can be ameliorated by wrapping a reasonably large/thick zip tie around the narrower bottom portion of the tool and positioning that under the lower universal spindle mount when mounting the tool. Doing so will result in better, more perpendicular cuts. One should probably find or design and cut a custom mount out of HDPE or UHMW or Delrin or some other appropriate material (see [Spindle Options](http://www.shapeoko.com/wiki/index.php/Spindle_Options) on the wiki. 
 
 ![Set Zero](helloworld/ugs4.png)
 
@@ -193,7 +196,12 @@ You should see Universal Gcode Sender start streaming the file, and your machine
 
 First, make sure that you have adequate safety gear, eye protection (safety glasses), hearing protection (at least a pair of foam ear plugs, better is to combine foam ear plugs with noise-reducing ear muffs). Second, review the [operating checklist](http://www.shapeoko.com/wiki/index.php/Operating_Checklist). Third, **never** operate the machine without safety gear. 
 
-Lower your Z-axis so the tip of the end mill mounted in the spindle *just* ***touching*** the material. Make certain the bit is securely held by the collet, per the instructions for your spindle. If necessary, use a bit of plumber's silicon thread tape on the collet of your rotary tool to ensure this.
+1. Cut 4 pieces of double sided tape that are approximately 2" long each. Stick those pieces around the perimeter of your wood. Make sure they're on there nice and tight!
+2. Move your machine all the way to the front/left corner of the work area. If the machine is off, you can just grab the spindle and pull it over into position. Take note of roughly where that location is. OK, now move the spindle out of the way.
+3. Stick your piece of material down onto the waste board. Give it a nice firm press to make sure it's going to stay. The last thing we want is for the material get thrown out of the machine and hit you in the face!
+4. Move your machine back to the position you noted earlier. Keep in mind that it doesn't need to be in the *exact* same place, we're just putting it in the front/left corner. This is going to be our 0,0 position.
+
+5. Lower your Z-axis so the tip of the end mill mounted in the spindle *just* ***touching*** the material. A good way to gauge is to lower it down onto a single sheet of paper. As the bit gets close to the paper, try moving the paper around slightly. When the bit prevents the paper from moving, then you're at the right height! This also usually works out to leaving a paper-thin thickness connecting the cut-out part to the balance of the material. 
 
 ![Just above work surface](firstjob/zero_Z.png)
 
@@ -203,9 +211,11 @@ OK, here we go. Take a deep breath and click the 'Send' button.
 
 ![Finished piece](firstjob/finished_2_x800.png)
 
+If things work out well your coaster should be held in place by the paper-thin thickness of cork mentioned above. If not, once the machine has been moved out of the way and the spindle has been turned off and completely stopped spinning, use a suitable tool to cut it free and remove the balance of the material from the work area.
+
 
 If you have any difficulties see [Operation Troubleshooting](http://www.shapeoko.com/wiki/index.php/Operation_Troubleshooting). See also [Fine Tuning](www.shapeoko.com/wiki/index.php/Tuning).
 
-MakerCAM has some on-line pages for a [tutorial](http://www.makercam.com/tutorial.html) and [help](http://www.makercam.com/help.html), and more information is available [on the wiki](http://www.shapeoko.com/wiki/index.php/MakerCAM).
+MakerCAM has some on-line pages for the original version of this [tutorial](http://www.makercam.com/tutorial.html) (which has some interesting additional commentary) as well as a [help page](http://www.makercam.com/help.html), and more information is available [on the wiki](http://www.shapeoko.com/wiki/index.php/MakerCAM).
 
 To express concerns, post on the [forums](http://www.shapeoko.com/forum/index.php), to suggest improvements without using github, edit [this wiki page](http://www.shapeoko.com/wiki/index.php?title=Firstjob_1&action=edit&redlink=1).
