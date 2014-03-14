@@ -11,7 +11,7 @@
 
 This is the terminal block method. This method is quite easy, but requires that you make some preparations **WHILE** you are assembling the machine (mounting the terminal blocks). It is especially suited if you have short motor leads, or want to expand your machine beyond the reach of your motor leads.
 
-**Note:** The photographs show one way to do the wiring, but it would be better to follow the electronics layout svg wiring diagram. Eventually the photographs will be re-taken.
+**Note:** The photographs are in greyscale, so as to not influence how one wires things up. Please follow the wiring diagram.
 
 ![Z-axis wiring with terminal blocks](wiring/rear_rendered_with_tb.png)
 
@@ -118,7 +118,7 @@ Re-connect the wires to the Arduino per the wiring diagram and zip tie them in p
 
 If desired, fashion an enclosure and mount it to the machine. 
 
-Jog each axis, checking the direction and distance of the machine's movement. If any movement is in the wrong direction, reverse a pair of wires at the Arduino or reconfigure Grbl. If movement is more or less than expected, check the gShield micro-stepping jumpers for that axis --- if necessary re-calculate Grbl's settings.
+Jog each axis, checking the direction and distance of the machine's movement. If any movement is in the wrong direction, reverse a pair of wires at the Arduino or reconfigure Grbl (the specific values for doing so are in the next section). If movement is more or less than expected, check the gShield micro-stepping jumpers for that axis --- if necessary re-calculate Grbl's settings.
 
 If any aspect of your machine doesn't function properly, see the wiki pages [assembly troubleshooting](http://www.shapeoko.com/wiki/index.php/Assembly_troubleshooting) and [fine tuning](http://www.shapeoko.com/wiki/index.php/Tuning).
 
