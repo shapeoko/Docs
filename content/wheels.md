@@ -31,7 +31,7 @@ Pixel parts diagram (click on it to open a larger version):
 
 Interactive SVG version (click on a part number to highlight or unhighlight the matching part(s):
 
-![V-Wheel Assembly](tPictures/25203-02-js.svc)
+![V-Wheel Assembly](tPictures/25203-02-js.svg)
 
 ###Assemble all of the V-Wheels (20 wheels total)
 1. Take one bearing (**\#2**), and insert it into the Delrin V-Wheel (**\#1**)
