@@ -179,7 +179,7 @@ Insert the 10mm M5 bolts (**\#6**) with an M5 washer (**\#4**) into the Z-Assemb
 
 [![exploded view of Z-axis](tPictures/PS20030_4.png)](content/tPictures/PS20030_16.png)
 
-Turn the eccentric nuts on the Spindle Carriage Assembly (**\#3**) so that they move the matching V-wheels as far as possible from the opposing static V-wheels. Slide the Spindle Carriage Assembly onto the Z-Axis Rail Assembly, match it up with the Delrin Lead nut and turning the threaded rod using the flexible coupler, bring the Spindle Carriage Assembly up so that the V-wheels are completely on the MakerSlide V-rail. Be careful not to nick or damage the Delrin V-wheels, or to cross-thread the Delrin Lead nut.
+Turn the eccentric nuts on the Spindle Carriage Assembly (**\#3**) so that they move the matching V-wheelsas far as possible from the opposing static V-wheels (think of them as pairs, one movable with an eccentric nut, the other unmoving). Slide the Spindle Carriage Assembly onto the Z-Axis Rail Assembly, match it up with the Delrin Lead nut and turning the threaded rod using the flexible coupler, bring the Spindle Carriage Assembly up so that the V-wheels are completely on the MakerSlide V-rail. Be careful not to nick or damage the Delrin V-wheels, or to cross-thread the Delrin Lead nut. Carefully adjust the eccentric nuts so that the MakerSlide is held in place firmly, but not so tight as to damage the Delrin V-wheels --- they should turn when one rotates the coupler/threaded rod.
 
 ##Sub Gantry (PS20023)
 
