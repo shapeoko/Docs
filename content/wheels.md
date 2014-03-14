@@ -29,7 +29,7 @@ Pixel parts diagram (click on it to open a larger version):
 
 [![V-Wheel Assembly](tPictures/25203-02_4.png)](content/tPictures/25203-02_16.png)
 
-Interactive SVG version (click on a part number to highlight or unhighlight the matching part(s):
+SVG version (If you right- or option-click on the image and open it in its own tab or window, you will then be able to click on a part number to highlight or unhighlight the matching part(s):
 
 ![V-Wheel Assembly](tPictures/25203-02-js.svg)
 
