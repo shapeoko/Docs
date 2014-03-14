@@ -27,11 +27,7 @@ The belts which the stepper motors drive the X- and Y-axes  require smooth idler
 
 Pixel parts diagram (click on it to open a larger version):
 
-[![V-Wheel Assembly](tPictures/25203-02_4.png)](content/tPictures/25203-02_16.png)
-
-SVG version (If you right- or option-click on the image and open it in its own tab or window, you will then be able to click on a part number to highlight or unhighlight the matching part(s):
-
-![V-Wheel Assembly](tPictures/25203-02-js.svg)
+[![V-Wheel Assembly](tPictures/25203-02-js.svg)](25203-02.html)
 
 ###Assemble all of the V-Wheels (20 wheels total)
 1. Take one bearing (**\#2**), and insert it into the Delrin V-Wheel (**\#1**)
