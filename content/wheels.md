@@ -63,7 +63,13 @@ Alternate, assembly-line procedure for the V-Wheels:
 
 * one M5 bolt to align the pieces during assembly
 
+Pixel parts diagram (click on it to open a larger version):
+
 [![Smooth Idler Assembly](tPictures/25197-02_4.png)](content/tPictures/25197-02_16.png)
+
+Interactive SVG version (click on a part number to highlight or unhighlight the matching part(s):
+
+![Smooth Idler Assembly](tPictures/25197-02-js.svg)]
 
 ###Assemble all of the smooth idlers (6 idlers total)
 
