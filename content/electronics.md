@@ -156,7 +156,7 @@ Attaching tape to the motor shafts makes it easier to see the rotation when test
 
 Load up a Communication / Control program and use its jog functionality to test each Axis. For the Universal GcodeSender, this would typically involve opening the connection on the correct COM port, selecting baud rate of 9600, then switching to the "Machine Control" tab, and using the buttons to move the X, Y, and Z axes. 
 
-If one or more motors don't move smoothly, you may need to adjust the trim pots on the gShield, see [the wiki](http://www.shapeoko.com/wiki/index.php/Tuning#Motor_Current).
+If one or more motors don't move or don't move smoothly, you may need to adjust the trim pots on the gShield, see [the Motor Current section of the Tuning page on the wiki](http://www.shapeoko.com/wiki/index.php/Tuning#Motor_Current).
 
 As viewed with the shaft pointing toward you, when moving the respective axis in the positive direction, the motors of a Shapeoko 2 should turn counterclockwise with the exception of the Y-axis right motor which should turn clockwise.
  
@@ -165,7 +165,7 @@ Note that once the machine is assembled, the positive direction for X is right, 
 
 ###Go For a Spin###
 
-Z-Axis. Note that when testing, the Z-axis should turn for a longer duration than the other axes since the screw requires more revolutions to move a given distance than the belts used on the X- and Y-axes. With the standard drive (M8 on Z, 20-tooth GT2 on X and Y), for the same distance travelled, the Z motor turns 32 times more than the X and Y motors.
+Z-Axis. Note that when testing, the Z-axis should turn for a longer duration than the other axes since the screw requires more revolutions to move a given distance than the belts used on the X- and Y-axes. With the standard drive (M8 on Z, 20-tooth GT2 on X and Y), for the same distance travelled, the Z motor turns 8 times more than the X and Y motors.
 
 ###Another Spin###
 
