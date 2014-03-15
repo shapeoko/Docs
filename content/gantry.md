@@ -46,7 +46,7 @@ This is evident in the next step.
 
 [![exploded view of Gantry Carriage](tPictures/PS20023_4.png)](content/tPictures/PS20023_16.png)
 
-Place the first piece of MakerSlide (**\#5**)against a Motor Mount Carriage (**\#1**). Place a washer (**\#4**) onto an M5 BHCS (**\#3**) and screw it into one of the holes which you have tapped into the MakerSlide. Repeat for the other hole. Make note of the orientation of the V-rails on the MakerSlide as shown in the diagram, add the second piece of MakerSlide so that the V-rails are opposite from each other, on the outside.
+Place the first piece of MakerSlide (**\#5**) against a Motor Mount Carriage (**\#1**). Place a washer (**\#4**) onto an M5 BHCS (**\#3**) and screw it into one of the holes which you have tapped into the MakerSlide. Repeat for the other hole. Make note of the orientation of the V-rails on the MakerSlide as shown in the diagram, add the second piece of MakerSlide so that the V-rails are opposite from each other, on the outside.
 
 Push the rear piece of MakerSlide as far as is possible to the back end of the slot which the 12mm M5 bolts fit through. Only tighten the pair of bolts on the MakerSlide which is snugged up against the end of the slot, the other should be slightly loose. Note that there is a space in-between the two pieces of MakerSlide. This spacing will be set in a following step.
 
@@ -77,13 +77,15 @@ Place two belt anchors in the top channel of the rear piece of MakerSlide (or at
 4. PS20022 **Motor Mount Carriage** x 2 pcs.
 5. (un-enumerated part)
 6. 25286-02 **M5 x 12mm, BHCS** x 8 pcs.
-7. 25287-02 **M5 Flat Washer** x 10 pcs.
+7. 25287-02 **M5 Flat Washer** x 8 pcs. (10 if adding an M5 washer to each belt clip anchor as shown in the diagram)
 8. 26051-01 fiberglass in-line belt clip (these are part of PS20020 below) x 2 pcs.
 9. PS20003 M5 x 08mm, BHCS (these are part of PS20020 below) x 2 pcs.
 10. 26016-01 M5 insertion nut (these are part of PS20020 below) x 2 pcs.
 11. PS20020 **Belt Clip Assembly** x 2 pcs. (called out as individual parts #7--10)
 
 [![exploded view of Gantry Carriage](tPictures/PS20025_4.png)](content/tPictures/PS20025_16.png)
+
+(Note: the diagram shows an M5 washer being added to each belt clip anchor --- this is optional, and may make it more difficult to assemble the belt clip anchor)
 
 The gantry has a space between the rails, rather than try to set it mechanically, we allow the Z-axis Gantry Carriage to establish it.
 
