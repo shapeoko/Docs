@@ -16,11 +16,11 @@
 
 ####Parts
 
-1. **End Plate** (12ga) 26028-01 x 2 pcs.
-* **M5 x 12mm, BHCS** 25286-02 x 4 pcs.
-* **M5 Flat Washer** 25287-02 x 4 pcs.
-* **Belt Clip Assembly** PS20020 x 2 pcs.
-* X/Y Axis Rail - **MakerSlide Extrusion - 500mm** PS20008 x 1 pcs.
+1. 26028-01 **End Plate** (12ga) x 2 pcs.
+* 25286-02 **M5 x 12mm, BHCS** x 4 pcs.
+* 25287-02 **M5 Flat Washer** x 4 pcs.
+* PS20020 **Belt Clip Assembly** x 2 pcs.
+* PS20008 X/Y Axis Rail - **MakerSlide Extrusion - 500mm** x 1 pcs.
  
 (You will need to assemble two PS20026 Y-Axis Rail Assemblies)
 

@@ -48,15 +48,15 @@ These are the plates that will mount on either end of the gantry and on the rear
 
 ####Parts
 
- 1.   **Motor Mount Plate** (12ga) (26029-01) x 3pcs
- *   **Eccentric Nut** (30158-01) x 6pcs (these will be used in the larger holes at the bottom of the plates to allow for adjustment)
- *   (from previous step) - **Dual Bearing V-Wheel** (25203-02) x 12pcs
- *   **M5 x 20mm Button Head Cap Screw** (PS20004) x 12pcs
- *   **M5 Flat Washer** (25287-02) x 36pcs
- *   **M5 Hex Nut** (25284-02) x 12pcs
- *   (from previous step) - **Smooth Idler** (25197-02) x 6pcs
- *   **M5 x 30mm Button Head Cap Screw** (25286-05) x 6pcs
- *   3/8" x 5/16" x #12 bore **Aluminum Spacer** (25312-14) x 6pcs
+ 1.  26029-01 **Motor Mount Plate** (12ga) x 3pcs
+ *   30158-01 **Eccentric Nut** x 6pcs (these will be used in the larger holes at the bottom of the plates to allow for adjustment)
+ *   25203-02 (from previous step) - **Dual Bearing V-Wheel** x 12pcs
+ *   PS20004 **M5 x 20mm Button Head Cap Screw** x 12pcs
+ *   25287-02 **M5 Flat Washer** x 36pcs
+ *   25284-02 **M5 Hex Nut** x 12pcs
+ *   25197-02 (from previous step) - **Smooth Idler** x 6pcs
+ *   25286-05 **M5 x 30mm Button Head Cap Screw** x 6pcs
+ *   25312-14 3/8" x 5/16" x #12 bore **Aluminum Spacer** x 6pcs
 
 ####Parts for attaching stepper motors
 
