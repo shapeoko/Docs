@@ -147,21 +147,21 @@ If Java isn't an option for you, you may use some other [communication/control p
 
 Select the correct com port and baud rate from the drop down menus on the left.  Click 'Open' to establish a connection with the Arduino.  GRBL says hello by displaying its version number.
 
-![Make Connection](http://placehold.it/800x400&text=image+of+open+connection+with+GRBL+version+displayed)
+![Make Connection](helloworld/open_connection.png)
 
 
 ##Open File
 
 Browse for the file you just exported from makerCAM.
 
-![Open The File](http://placehold.it/800x400&text=image+of+open+file)
+![Open The File](firstjob/ugs2.png)
 
 
 ##Verify File
 
 Click the visualize button, located just below the browse button, to see what the file will look like. After a few seconds, a screen similar to the one below will display, which you can interact with by left clicking and dragging your mouse around.
 
-![Visualize](http://placehold.it/800x400&text=image+of+visualizer)
+![Visualize](firstjob/gview_preview.png)
 
 If you aren't using a control program with a visualizer, you should find one and use it. There is a list of open source previewers on the wiki in the [software section](http://www.shapeoko.com/wiki/index.php/Previewing_G-Code). Alternately, you could use the on-line previewer [gview at buildlog.net](http://www.buildlog.net/gview/) --- [gview tutorial on the wiki](http://www.shapeoko.com/wiki/index.php/Gview_tutorial).
 
@@ -185,11 +185,9 @@ Mounting the spindle should be straight-forward, but the Altocraft rotary tool c
 
 Just to make sure, lets draw this in the air.  Click the 'File Mode' tab at the top of the program window. With the spindle ~1" above the work surface, click the 'Send' button just below the file path.
 
-![Send File](http://placehold.it/800x400&text=image+of+sending+file)
+![Run Job](helloworld/ugs5.png)
 
 You should see Universal Gcode Sender start streaming the file, and your machine should start moving around.
-
-![Sent File](http://placehold.it/800x400&text=image+of+streaming+gcode)
 
 
 ##Run Job!
