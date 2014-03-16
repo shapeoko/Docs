@@ -17,7 +17,7 @@
    height="100%"
    viewBox="0 0 800 400"
    xml:space="preserve"
-   sodipodi:docname="25203-02.svg"><metadata
+   sodipodi:docname="25203-02-100.svg"><metadata
      id="metadata8"><rdf:RDF><cc:Work
          rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title /></cc:Work></rdf:RDF></metadata><defs
@@ -143,17 +143,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1087"
-     inkscape:window-height="817"
+     inkscape:window-width="1440"
+     inkscape:window-height="838"
      id="namedview4"
      showgrid="false"
      inkscape:zoom="0.83"
      inkscape:cx="470.73785"
      inkscape:cy="200"
-     inkscape:window-x="14"
-     inkscape:window-y="7"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g10" /><g
+     inkscape:current-layer="layer1" /><g
      id="g10"
      inkscape:groupmode="layer"
      inkscape:label="25203-02"
@@ -6280,6 +6280,7 @@
 
 
 
+
 <path
    d="m 419.236,380.479 0,-9.121"
    style="fill:none;stroke:#000000;stroke-width:0.43099999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
@@ -6535,6 +6536,7 @@
      x="0"
      y="0"
      id="tspan3220">1</tspan></text>
+
 
 
 
@@ -6796,6 +6798,7 @@
 
 
 
+
 <path
    d="m 298.76,365.601 0,-9.122"
    style="fill:none;stroke:#000000;stroke-width:0.43099999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
@@ -7054,10 +7057,11 @@
 
 
 
+
 </g></g><text
    xml:space="preserve"
    style="font-size:32px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
-   x="363.67456"
+   x="359.2561"
    y="-183.98834"
    id="ButtonVW"
    sodipodi:linespacing="200%"
@@ -7066,24 +7070,25 @@
    onmouseover="this.style.cursor='pointer' "
    inkscape:label="#text3069"><tspan
      sodipodi:role="line"
-     x="363.67456"
+     x="359.2561"
      y="-183.98834"
      id="tspan3075"
      style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">1. Delrin <tspan
    style="font-size:8px;font-weight:bold;fill:#ff0000;-inkscape-font-specification:Ubuntu Bold"
    id="tspan3017">V-Wheels</tspan> (25202-01) x 20pcs</tspan><tspan
      sodipodi:role="line"
-     x="363.67456"
+     x="359.2561"
      y="-167.98834"
      id="tspan3077"
      style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;font-family:Ubuntu;-inkscape-font-specification:Ubuntu" /></text>
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:32px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
-   x="363.97852"
+   x="359.56006"
    y="-135.05382"
    id="Button.PSW"
    sodipodi:linespacing="200%"
@@ -7092,27 +7097,28 @@
    onclick="document.getElementById(&quot;Highlight.PSW&quot;).style.opacity=&quot;0.0&quot;;document.getElementById(&quot;Showthe.PSW&quot;).style.display=&quot;inline&quot;;  "
    inkscape:label="#text3069-1"><tspan
      sodipodi:role="line"
-     x="363.97852"
+     x="359.56006"
      y="-135.05382"
      id="tspan3073-0"
      style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;font-family:Ubuntu;-inkscape-font-specification:Ubuntu" /><tspan
      sodipodi:role="line"
-     x="363.97852"
+     x="359.56006"
      y="-119.05382"
      id="tspan3075-4"
      style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">3. <tspan
    style="font-size:8px;font-weight:bold;fill:#ff0000;-inkscape-font-specification:Ubuntu Bold"
    id="tspan3021-8">Precision (Shim) Washers</tspan> (25201-01) x 20pcs</tspan><tspan
      sodipodi:role="line"
-     x="363.97852"
+     x="359.56006"
      y="-103.05382"
      id="tspan3077-8"
      style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;font-family:Ubuntu;-inkscape-font-specification:Ubuntu" /></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:32px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
-   x="363.97046"
+   x="359.552"
    y="-167.53305"
    id="Button.Bearings"
    sodipodi:linespacing="200%"
@@ -7122,26 +7128,27 @@
    inkscape:label="#text3069-2"><tspan
      sodipodi:role="line"
      id="tspan3071-4"
-     x="363.97046"
+     x="359.552"
      y="-167.53305"
      style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;font-family:Ubuntu;-inkscape-font-specification:Ubuntu" /><tspan
      sodipodi:role="line"
-     x="363.97046"
+     x="359.552"
      y="-151.53305"
      id="tspan3073-5"
      style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">2. 5x16x5mm <tspan
    style="font-size:8px;font-weight:bold;fill:#ff0000;-inkscape-font-specification:Ubuntu Bold"
    id="tspan3019-1">Bearings</tspan> (25196-01) x 40pcs</tspan><tspan
      sodipodi:role="line"
-     x="363.97046"
+     x="359.552"
      y="-135.53305"
      id="tspan3075-7"
      style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;font-family:Ubuntu;-inkscape-font-specification:Ubuntu" /><tspan
      sodipodi:role="line"
-     x="363.97046"
+     x="359.552"
      y="-119.53305"
      id="tspan3077-1"
      style="font-size:8px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;font-family:Ubuntu;-inkscape-font-specification:Ubuntu" /></text>
+
 
 </g><g
      inkscape:groupmode="layer"
@@ -7200,7 +7207,7 @@
    inkscape:label="#circle3973-2-5" /><text
    xml:space="preserve"
    style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
-   x="454.5932"
+   x="449.07013"
    y="170.01457"
    id="Showthe.VW"
    sodipodi:linespacing="200%"
@@ -7208,22 +7215,23 @@
    onmouseover="this.style.cursor='pointer' "
    inkscape:label="#text3069-5"><tspan
      sodipodi:role="line"
-     x="454.5932"
+     x="449.07013"
      y="170.01457"
      id="tspan3075-2"
      style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">1. Delrin <tspan
    style="font-size:10px;font-weight:bold;-inkscape-font-specification:Ubuntu Bold"
    id="tspan3017-7">V-Wheels</tspan> (25202-01) x 20pcs</tspan><tspan
      sodipodi:role="line"
-     x="454.5932"
+     x="449.07013"
      y="190.01457"
      id="tspan3077-6"
      style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;font-family:Ubuntu;-inkscape-font-specification:Ubuntu" /></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
-   x="454.97314"
+   x="449.45007"
    y="231.18272"
    id="Showthe.PSW"
    sodipodi:linespacing="200%"
@@ -7231,27 +7239,28 @@
    onmouseover="this.style.cursor='pointer' "
    inkscape:label="#text3069-1-1"><tspan
      sodipodi:role="line"
-     x="454.97314"
+     x="449.45007"
      y="231.18272"
      id="tspan3073-0-4"
      style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;font-family:Ubuntu;-inkscape-font-specification:Ubuntu" /><tspan
      sodipodi:role="line"
-     x="454.97314"
+     x="449.45007"
      y="251.18272"
      id="tspan3075-4-2"
      style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">3. <tspan
    style="font-size:10px;font-weight:bold;-inkscape-font-specification:Ubuntu Bold"
    id="tspan3021-8-3">Precision (Shim) Washers</tspan> (25201-01) x 20pcs</tspan><tspan
      sodipodi:role="line"
-     x="454.97314"
+     x="449.45007"
      y="271.18274"
      id="tspan3077-8-2"
      style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;font-family:Ubuntu;-inkscape-font-specification:Ubuntu" /></text>
 
+
 <text
    xml:space="preserve"
    style="font-size:40px;font-style:normal;font-weight:normal;line-height:200%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Bitstream Vera Sans"
-   x="454.96307"
+   x="449.44"
    y="190.58369"
    id="Showthe.Bearings"
    sodipodi:linespacing="200%"
@@ -7260,25 +7269,26 @@
    inkscape:label="#text3069-2-2"><tspan
      sodipodi:role="line"
      id="tspan3071-4-1"
-     x="454.96307"
+     x="449.44"
      y="190.58369"
      style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;font-family:Ubuntu;-inkscape-font-specification:Ubuntu" /><tspan
      sodipodi:role="line"
-     x="454.96307"
+     x="449.44"
      y="210.58369"
      id="tspan3073-5-6"
      style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">2. 5x16x5mm <tspan
    style="font-size:10px;font-weight:bold;-inkscape-font-specification:Ubuntu Bold"
    id="tspan3019-1-8">Bearings</tspan> (25196-01) x 40pcs</tspan><tspan
      sodipodi:role="line"
-     x="454.96307"
+     x="449.44"
      y="230.58369"
      id="tspan3075-7-5"
      style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;font-family:Ubuntu;-inkscape-font-specification:Ubuntu" /><tspan
      sodipodi:role="line"
-     x="454.96307"
+     x="449.44"
      y="250.58369"
      id="tspan3077-1-7"
      style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:200%;writing-mode:lr-tb;text-anchor:start;font-family:Ubuntu;-inkscape-font-specification:Ubuntu" /></text>
+
 
 </g></svg>
