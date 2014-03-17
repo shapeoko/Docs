@@ -216,4 +216,6 @@ If you have any difficulties see [Operation Troubleshooting](http://www.shapeoko
 
 MakerCAM has some on-line pages for the original version of this [tutorial](http://www.makercam.com/tutorial.html) (which has some interesting additional commentary) as well as a [help page](http://www.makercam.com/help.html), and more information is available [on the wiki](http://www.shapeoko.com/wiki/index.php/MakerCAM).
 
+There is one persistent issue with MakerCAM --- under certain circumstances, it emits lines which are too-long for Grbl to handle (Grbl truncates lines after 50--70 characters). Some Communications/Control programs will trim such lines when sending them (this may be an option which will need to be enabled).
+
 To express concerns, post on the [forums](http://www.shapeoko.com/forum/index.php), to suggest improvements without using github, edit [this wiki page](http://www.shapeoko.com/wiki/index.php?title=Firstjob_1&action=edit&redlink=1).
