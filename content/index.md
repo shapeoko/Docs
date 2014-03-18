@@ -32,7 +32,7 @@ If you are interested in contributing to the docs pages, please see [this page](
 
 ##Assembly Steps
 
-The first thing to do is to compare what you have received w/ the inventory sheet included w/ your kit. For reference, there is also a b.o.m. (bill of materials) in the initial announcement [Shapeoko 2 Now Available For Pre-order!](http://blog.inventables.com/2013/10/shapeoko-2-now-available-for-preorder.html). Please note that part specifications / sizes may change with different kit batches, especially for aspects which do not affect functionality and fit. If anything in your kit is missing or damaged, contact [Inventables Customer Service](https://www.inventables.com/about): [help@inventables.com](mailto:help@inventables.com).
+The first thing to do is to compare what you have received w/ the inventory sheet included w/ your kit. For reference, there is also a [b.o.m. (bill of materials) w/ sortable columns and (some) options on the wiki](http://www.shapeoko.com/wiki/index.php/BOM). Please note that part specifications / sizes may change with different kit batches, especially for aspects which do not affect functionality and fit. If anything in your kit is missing or damaged, contact [Inventables Customer Service](https://www.inventables.com/about): [help@inventables.com](mailto:help@inventables.com).
 
 ##Software
 [Goto the Instructions](software.html)
