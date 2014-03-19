@@ -15,7 +15,7 @@
    id="svg4787"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 2">
+   sodipodi:docname="highlight.svg">
   <defs
      id="defs4789">
     <radialGradient
@@ -58,7 +58,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="5.5"
-     inkscape:cx="32"
+     inkscape:cx="3.6363636"
      inkscape:cy="32"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -77,7 +77,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -87,7 +87,7 @@
      inkscape:groupmode="layer">
     <circle
        transform="matrix(0.19404038,0,0,0.19404038,-39.757877,-0.43986472)"
-       style="opacity:0;fill:url(#radialGradient4785);display:inline"
+       style="opacity:1;fill:url(#radialGradient4785);display:inline"
        sodipodi:ry="154.60699"
        sodipodi:rx="154.60699"
        sodipodi:cy="167.181"
