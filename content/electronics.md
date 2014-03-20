@@ -52,7 +52,7 @@ Now that we have everything gathered up, you should find yourself with a setup s
 
 ![image of required components](tPictures/so_electronics_parts_4.jpg)
 
-First thing that we do is plug our Arduino into the computer and test it. If this has already been done (see  [Software](http://docs.shapeoko.com/software.html) skip to **Hook Stuff Up** below.
+First thing that we do is plug our Arduino into the computer and test it. If this has already been done (see [Software](http://docs.shapeoko.com/software.html) skip to **Hook Stuff Up** below.
 
 ![Arduino plugged into USB cable](tPictures/so_e_arduino_lit_4.jpg)
 
