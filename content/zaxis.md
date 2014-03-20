@@ -29,7 +29,7 @@ The Z-axis assembly is comprised of several sub-assemblies. When assembling it, 
 
 This is the plate the Z-axis will attach to (it is identical to the Motor Mount Carriage (PS20022) assembled in the previous step, but without smooth idlers. It sits on the front of the gantry and will be connected to the X-axis motor mount plate via rigid aluminum spacers. We will build the plate first, and then attach the two together.
 
-[![exploded view of Z Assembly Carriage](tPictures/PS20021_4.png)](content/tPictures/PS20021_16.png)
+[![exploded view of Z Assembly Carriage](tPictures/PS20021.svg)](content/tPictures/PS20021-100.svg)
 
  - Connect V-Wheels (**\#3**) to the plate (**\#1**)
 	- two static at the top (using M5 x 20mm BHCS (**\#4**), a pair of M5 Flat washers (**\#5**), and M5 Hex Nuts (**\#6**))
