@@ -72,7 +72,7 @@ These are the plates that will mount on either end of the gantry and on the rear
  * 1.5mm Hex Key (used for the set screws in the pulley)
  * 8mm (5/16") wrench
 
-[![exploded view of Motor Mount Carriages](tPictures/PS20022_4.png)](content/tPictures/PS20022_16.png)
+[![exploded view of Motor Mount Carriages](tPictures/PS20022.svg)](content/tPictures/PS20022-100.svg)
 
 1. Connect V-Wheels (**\#3**) to the plate (**\#1**)
 	- two static at the top (using M5 Hex Nuts (**\#6**))
