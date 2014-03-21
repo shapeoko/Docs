@@ -121,7 +121,7 @@ One should also attach the motor for the Z-axis at this time.
 
 **Note:** Depending on how deeply tapped on the stepper motor and how long the threads are on the brass standoffs, it may be necessary to add additional M3 washers when attaching the motor using the brass standoffs.
 
-**Note:** Check your rod's straightness (one way is by rolling it on a flat surface) before assembly and check to see that the threaded rod runs smoothly on the Delrin Lead nut --- if it doesn't, run the nut along the rod until it does. Using a drill is one option. Be certain the nut is free of debris or other materials. It's also possible that the rod may be out-of-spec rather than the nut --- you may want to consider taking the nut to a local hardware store and trying it on their stock of M8 all-thread to see if it works better on one of them.
+**Note:** Check your rod's straightness (one way is by rolling it on a flat surface) before assembly and check to see that the threaded rod runs smoothly on the Delrin Lead nut --- if it doesn't, run the nut along the rod until it does. Using a drill is one option. Be certain the threads of the nut are free of debris or other materials. It's also a remote possibility that the rod may be out-of-spec rather than the nut --- you may want to consider taking the nut to a local hardware store and trying it on their stock of M8 all-thread to see if it works better on one of them.
 
 [![exploded view of Z-Axis Rail Assembly](tPictures/PS20028.svg)](content/tPictures/PS20028-100.svg)
 
