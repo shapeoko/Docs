@@ -49,7 +49,7 @@ This is the plate the Z-axis will attach to (it is identical to the Motor Mount 
 ####Parts
 
 1. 30287-01 **Spindle Mount Plate** (12ga) x 1 pcs.
-- PS20010 13mm x 35mm x 20mm **Delrin Lead nut** x 1 pcs. --- check that the threaded rod fits (see below)
+- PS20010 13mm x 35mm x 20mm **Delrin Lead Nut** x 1 pcs. --- check that the threaded rod fits (see below)
 - 25287-02 **M5 Flat Washer** x 10 pcs.
 - 25284-02 **M5 Hex Nut** x 6 pcs.
 - PS20012 **Universal Spindle Mount** x 2 pcs.
@@ -105,7 +105,7 @@ One should also attach the motor for the Z-axis at this time.
 - 25285-10 **M3 x 12mm, SHCS** x 3 pcs.
 - 25287-03 **M3 Flat Washer** x 3 pcs. 
 - PS20007 **M8, Hex Nut** x 2 pcs.
-- PS20017 **Wave Disc Spring**, .901"ID, 1.159" OD, .013" thickness (please note that this is *not* shown in the diagram, it is placed on top of the flanged bearing)
+- PS20017 **Wave Disc Spring**, .901"ID, 1.159" OD, .013" thickness
 
 ####Electronics
 
@@ -123,14 +123,14 @@ One should also attach the motor for the Z-axis at this time.
 
 **Note:** Check your rod's straightness (one way is by rolling it on a flat surface) before assembly and check to see that the threaded rod runs smoothly on the Delrin Lead nut --- if it doesn't, run the nut along the rod until it does. Using a drill is one option. Be certain the nut is free of debris or other materials. It's also possible that the rod may be out-of-spec rather than the nut --- you may want to consider taking the nut to a local hardware store and trying it on their stock of M8 all-thread to see if it works better on one of them.
 
-[![exploded view of Z-Axis Rail Assembly](tPictures/PS20028_4.png)](content/tPictures/PS20028_16.png)
+[![exploded view of Z-Axis Rail Assembly](tPictures/PS20028.svg)](content/tPictures/PS20028-100.svg)
 
 The Z-Axis Rail Assembly is the most intricate and complex assembly, and requires patience to assemble. One way to do this is to assemble it from the inside out, starting with the smallest pieces. One could of course try top-to-bottom or bottom-to-top --- just follow the diagram (and remember to add the Wave Disc Spring) and be careful to use equal numbers of spacers/washers for each connector and to not damage or bend the brass stand-offs.
 
 1. Take one Z-Axis Motor Mount Plate (**\#3**, this will become the bottom)
 - place M3 washers (**\#13**) onto the 12mm M3 screws (**\#12**) and place them in the appropriate holes
 - stack the Nylon Spacers (PS20015) (**\#11**) onto the screws (note that an equal number of spacers is used for each screw, including the M5 bolts which will go into the other plate from the other side in a later step)
-- place the Wave Disc Spring (**\#15**, not shown in the diagram) onto the narrow part of the flanged bearing (**\#4**) --- it would be to the right in the diagram
+- place the Wave Disc Spring (**\#15**) onto the narrow part of the flanged bearing (**\#4**)
 - insert that into the second Z-axis Motor Mount Plate (**\#3**)
 - insert the two M5 bolts (**\#10**) and M5 washers (**\#7**) from the other side of that plate
 - add the last Nylon Spacers (**\#9**) to the end of each bolt (**\#10**) and slide the top and bottom Z-axis Motor Mount Plates together --- carefully set this sub-sub-assembly aside
