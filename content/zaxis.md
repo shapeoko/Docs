@@ -163,7 +163,7 @@ As noted above, one should attach the stepper motor during the course of the ass
 
 Tighten everything. If the M3 screws bottom out in the stand-offs, add washers one at a time until everything is secure.
 
-###Z-Axis
+###Z-Axis Sub-Assembly (PS20030)
 
 ![exploded view of Z-axis](tPictures/PS20030_2.png)
 ![bolts, washers and insertion nuts](tPictures/so_z_axis_bolts_washers_nuts_2.jpg)
@@ -183,7 +183,7 @@ Insert the 10mm M5 bolts (**\#6**) with an M5 washer (**\#4**) into the Z-Assemb
 
 Turn the eccentric nuts on the Spindle Carriage Assembly (**\#3**) so that they move the matching V-wheels as far as possible from the opposing static V-wheels (think of them as pairs, one movable with an eccentric nut, the other unmoving). Slide the Spindle Carriage Assembly onto the Z-Axis Rail Assembly, match it up with the Delrin Lead nut and turning the threaded rod using the flexible coupler, bring the Spindle Carriage Assembly up so that the V-wheels are completely on the MakerSlide V-rail. Be careful not to nick or damage the Delrin V-wheels, or to cross-thread the Delrin Lead nut. Carefully adjust the eccentric nuts so that the MakerSlide is held in place firmly, but not so tight as to damage the Delrin V-wheels --- they should turn when one rotates the coupler/threaded rod.
 
-##Sub Gantry (PS20023)
+##Sub Gantry (PS20031)
 
 ![](tPictures/PS20031_2.png)
 ![](tPictures/so_gantry_carriage_2.jpg)
@@ -193,20 +193,19 @@ Turn the eccentric nuts on the Spindle Carriage Assembly (**\#3**) so that they 
 
 ####Parts
 
-1. PS20021 **Z-Assembly Carriage** x 1 pcs.
-- PS20022 **Motor Mount Carriage** x 1 pcs.
+1. PS20022 **Motor Mount Carriage** x 1 pcs.
+2. PS20030 **Z-Axis Sub-Assembly** x 1 pcs.
 - PS20002 3/8" x 1-1/4" x #12 bore, **Aluminum Spacer** x 6pcs.
 - PS20006 **M5 x 70mm SHCS** x 6 pcs.
 - 25287-02 **M5 Flat Washer** x 12 pcs.
 - 25312-20 3/8" x 1" #12 Bore, **Aluminum Spacer** x 6 pcs.
 - 25284-02 **M5 Hex Nut** x 6 pcs.
-- PS20030 **Complete Z-Axis Assembly** x 1 pcs. (not enumerated in the diagram)
 
 If possible, select a Motor Mount Carriage (PS20022) which has a stepper motor attached. If using wiring option #2, there should be a terminal block attached to the right (on the side opposite the V-wheels and smooth idlers).
 
-[![exploded view of sub gantry](tPictures/PS20031_4.png)](content/tPictures/PS20031_16.png)
+[![exploded view of sub gantry](tPictures/PS20031.svg)](content/tPictures/PS20031-100.svg)
 
-For each M5 x 70 mm SHCS (**\#4**), place a washer (**\#5**) then place them in the outer holes of of the Z-Assembly Carriage (**\#1**) from the side opposite the V-wheels. Then for each M5 bolt (**\#4**), add the spacers (**\#3**, & **\#6**). Add the Motor Mount Carriage, then for each M5 bolt, add an M5 washer, and M5 hex nut (**\#7**).
+For each M5 x 70 mm SHCS (**\#4**), add a washer (**\#5**) then place them in the outer holes of the Z-Axis Sub-Assembly (**\#1**) from the side opposite the V-wheels. Then for each M5 bolt (**\#4**), add each pair of spacers (one each of **\#3**, & **\#6**). Add the Motor Mount Carriage, then for each M5 bolt, add an M5 washer, and M5 hex nut (**\#7**).
 
 [![](tPictures/so_carriage_4.jpg)](content/tPictures/so_carriage_8.jpg)
 
