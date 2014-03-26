@@ -86,7 +86,7 @@ The Z-axis is comprised of 3 separate assemblies, and will require some time (an
 ##Gantry
 [Goto the Instructions](gantry.html)
 
-The gantry continues the process of taking assemblies and combining them.
+The gantry continues the process of taking assemblies and combining them. You will have needed to finish tapping two pieces of MakerSlide before beginning this step.
 
 ![Gantry Image](tPictures/so_gantry_parts_4.jpg)
 
@@ -95,7 +95,7 @@ The gantry continues the process of taking assemblies and combining them.
 ##Y-Axis
 [Goto the Instructions](yaxis.html)
 
-The Y-axis makes up the frame of the machine along with the last component in the next step.
+The Y-axis makes up the frame of the machine along with the last component in the next step. You will have needed to finish tapping the last two pieces of MakerSlide before beginning this step.
 
 ![Y Axis Image](tPictures/so_y_axis_rail_parts_4.jpg)
 
