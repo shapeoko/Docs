@@ -1,6 +1,6 @@
 #Pro Tips!
 
-Take your time, read the instructions and examine the diagrams (the diagrams and most photos are linked to larger versions which will display when one clicks on them, if necessary, examine the relevant .pdf --- see below) until one is confident of how to proceed. Don't force anything and be careful when tightening not to strip any threads. If things seem to require significant effort, back off, pause and reconsider.
+Take your time, read the instructions in their entirety and examine all of the the diagrams carefully (the diagrams and most photos are linked to larger versions which will display when one clicks on them, if necessary, examine the relevant .pdf --- see below) until one is confident of how to proceed. Don't force anything, and be careful when tightening not to strip any threads. If things seem to require significant effort, back off, pause and reconsider.
 
 ###Printable .pdfs
 
