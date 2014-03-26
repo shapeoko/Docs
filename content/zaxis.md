@@ -93,7 +93,7 @@ One should also attach the motor for the Z-axis at this time.
 
 ####Parts
 
-1. 25142-07 Z Axis **Rail MakerSlide Extrusion 200mm** x 1 pcs.
+1. 25142-07 Z Axis **Rail MakerSlide Extrusion 200mm** x 1 pcs. (Please note that one end must have both holes tapped w/ M5x0.8 threads)
 - 25772-02 Z-Axis **Flexible Coupler 5mm--8mm bore** x 1 pcs.
 - 30288-01 **Z-Axis Motor Mount Plate** (12ga) x 2 pcs.
 - 30169-01 8x22x7mm **flanged bearing** x 1 pcs.
