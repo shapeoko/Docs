@@ -139,7 +139,7 @@ First, strip the leads from the raw end of the barrel connector plug, it may als
 Connect it to the gShield (which is attached to the top of the Arduino). There are two leads, one a solid black wire, the other black w/ a white stripe (or red). 
 
 * black == (-)
-* black/white == (+) (or red)
+* black/white (or red) == (+)
 
 Please connect each lead to the appropriate side of the gShield's power connector.
 
