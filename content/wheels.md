@@ -63,8 +63,6 @@ Alternate, assembly-line procedure for the V-Wheels:
 
 * one M5 bolt to align the pieces during assembly
 
-SVG parts diagram (click on it to open the SVG in its own window where it will be interactive --- clicking on the parts list text will highlight the matching part(s) in the diagram). If it doesn't work, right/option-click or tap-hold on it to open a copy of the original svg in a new window/tab:
-
 [![Smooth Idler Assembly](tPictures/25197-02.svg)](content/tPictures/25197-02-100.svg)
 
 
