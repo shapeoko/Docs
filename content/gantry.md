@@ -36,13 +36,13 @@ The Belt Clip Assemblies are used to fasten and tension the GT2 belts (this is d
 - PS20020 **Belt Clip Assembly** x 2 pcs.
 - 25286-02 **M5 x 12mm, BHCS** x 8 pcs.
 - 25287-02 **M5 Flat Washer** x 8 pcs.
-- PS20008 X/Y Axis Rail **MakerSlide Extrusion 500mm** x 2 pcs. (not called out on the diagram)
+- PS20008 X/Y Axis Rail **MakerSlide Extrusion 500mm** x 2 pcs. (Please note that all holes on the remaining MakerSlide must be tapped w/ M5x0.8 threads)
 
 **Note:** Do not attach one end plate during this step (despite the photograph showing this), you must slide the Z-Axis Assembly gantry carriage (PS20031) from the previous step onto the gantry (see below) before attaching the second motor mount plate.
 
 This is evident in the next step.
 
-**Note:** The diagram shows the assembly from the rear.
+**Note:** The diagram shows the assembly from the rear. The light grey end plate is not to be attached as-of-yet.
 
 [![exploded view of Gantry Carriage](tPictures/PS20023.svg)](content/tPictures/PS20023-100.svg)
 
