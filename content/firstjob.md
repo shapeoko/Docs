@@ -63,6 +63,8 @@ Click on the solid black arrow in the toolbar (in-between the hand and the node-
 
 (Please note that the Feed (30) and Plunge (10) rates are set for cork --- if you are using some other material for your coaster, please select an appropriate value from the [Feeds and Speeds page](http://www.shapeoko.com/wiki/index.php/Materials) on the wiki. Please note that the default values are far too fast for a stock, un-tuned machine.)
 
+If any of the terminology is unclear or confusing, please consult the [Glossary](http://www.shapeoko.com/wiki/index.php/Glossary).
+
 Your letter should look like it's filled in with a hatch pattern.
 
 ![rectangle](firstjob/mc_engrave_letter.png)
@@ -124,7 +126,7 @@ It's time to generate your G-code! If you check the "view cuts" option in the to
 
 ##Export G-Code
 
-Export Your g-code! Your coaster should look a little goofy right now, with colors and curves representing the toolpaths. That's OK, imagine those toolpaths as a map for your bit to follow. Once you have calculated all toolpaths, let's go ahead an export the file. Click CAM -> export g-code. A couple of things to remember on this screen.
+Export Your g-code! Your coaster should look a little goofy right now, with colors and curves representing the toolpaths. That's OK, imagine those toolpaths as a map for your bit to follow. Once you have calculated all toolpaths, let's go ahead and export the file. Click CAM -> export g-code. A couple of things to remember on this screen.
 
     The order should go:
     letter_pocket
@@ -137,11 +139,9 @@ As long as that's OK, then click 'all' (will highlight all of your operations), 
 
 
 ##Open Software
-Just like we did in the Hello World section, plug the power in to your machine and open Universal Gcode Sender on your computer. Once the program has loaded, plug in the USB cord to your computer and you should hear the stepper motors engage.
+Just like we did in the Hello World section, plug the power in to your machine and open Universal Gcode Sender (or whichever [communication/control program](http://www.shapeoko.com/wiki/index.php/Communication_/_Control) you have chosen to use) on your computer. Once the program has loaded, plug in the USB cord to your computer and you should hear the stepper motors engage.
 
 ![Open The Software](helloworld/ugs1.png)
-
-If Java isn't an option for you, you may use some other [communication/control program](http://www.shapeoko.com/wiki/index.php/Communication_/_Control).
 
 ##Open Connection Between Computer and Machine
 
