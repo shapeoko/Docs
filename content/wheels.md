@@ -25,8 +25,6 @@ The belts which the stepper motors drive the X- and Y-axes  require smooth idler
 
 * one M5 bolt to align the pieces during assembly
 
-This section has experimental SVG parts diagrams (click on the larger diagrams and matching parts lists to open the SVG in its own window where it will enlarge to fill the screen and be interactive --- clicking on the parts list text will highlight the matching part(s) in the diagram). If it doesn't work, right/option-click or tap-hold on it to open a copy of the original svg in a new window/tab:
-
 [![V-Wheel Assembly](tPictures/25203-02.svg)](content/tPictures/25203-02-100.svg)
 
 ###Assemble all of the V-Wheels (20 wheels total)

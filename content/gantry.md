@@ -44,7 +44,7 @@ This is evident in the next step.
 
 **Note:** The diagram shows the assembly from the rear.
 
-[![exploded view of Gantry Carriage](tPictures/PS20023_4.png)](content/tPictures/PS20023_16.png)
+[![exploded view of Gantry Carriage](tPictures/PS20023.svg)](content/tPictures/PS20023-100.svg)
 
 Place the first piece of MakerSlide (**\#5**) against a Motor Mount Carriage (**\#1**). Place a washer (**\#4**) onto an M5 BHCS (**\#3**) and screw it into one of the holes which you have tapped into the MakerSlide. Repeat for the other hole. Make note of the orientation of the V-rails on the MakerSlide as shown in the diagram, add the second piece of MakerSlide so that the V-rails are opposite from each other, on the outside.
 

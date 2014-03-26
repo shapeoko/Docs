@@ -21,7 +21,7 @@ The final assembly will be assembled, then the balance of the machine put togeth
 - PS20001 **MDF wasteboard** (1/2") x 2 pcs.
 - PS20009 20mm x 20mm x 550mm **aluminum extrusion, black anodized** x 2 pcs.
 
-[![exploded view of wasteboard and extrusion assembly](tPictures/PS20024_4.png)](content/tPictures/PS20024_16.png)
+[![exploded view of wasteboard and extrusion assembly](tPictures/PS20024.svg)](content/tPictures/PS20024-100.svg)
 
 Start with the captive nuts in the holes (shown in the back right of the diagram). 
 

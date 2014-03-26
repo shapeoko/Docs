@@ -10,11 +10,11 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="1024"
-   height="768"
+   height="640"
    id="svg58092"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 21">
+   sodipodi:docname="wiring_3_frontview.svg">
   <defs
      id="defs58094" />
   <sodipodi:namedview
@@ -30,8 +30,8 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1018"
+     inkscape:window-width="1440"
+     inkscape:window-height="838"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
@@ -43,7 +43,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -51,7 +51,8 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="machine"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(0,-128)">
     <g
        id="g61689"
        transform="matrix(0.67870781,0,0,1.5738442,-20.866018,-780.83733)">
@@ -8998,7 +8999,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-284.36218)">
+     transform="translate(0,-412.36218)">
     <path
        style="fill:none;stroke:#000000;stroke-width:1.96730518;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
        d="m 117.55117,817.63933 -1.58982,-40.29567 48.34846,-7.23584"
@@ -9055,7 +9056,7 @@
        sodipodi:cy="616.44556"
        sodipodi:rx="1.4836615"
        sodipodi:ry="1.4836615"
-       d="m 947.39681,616.44556 a 1.4836615,1.4836615 0 1 1 -2.96732,0 1.4836615,1.4836615 0 1 1 2.96732,0 z"
+       d="m 947.39681,616.44556 c 0,0.8194 -0.66426,1.48366 -1.48366,1.48366 -0.81941,0 -1.48366,-0.66426 -1.48366,-1.48366 0,-0.81941 0.66425,-1.48366 1.48366,-1.48366 0.8194,0 1.48366,0.66425 1.48366,1.48366 z"
        transform="matrix(0.74637117,0,0,0.74637117,196.35588,393.03259)" />
     <path
        sodipodi:type="arc"
@@ -9065,7 +9066,7 @@
        sodipodi:cy="616.44556"
        sodipodi:rx="1.4836615"
        sodipodi:ry="1.4836615"
-       d="m 947.39681,616.44556 a 1.4836615,1.4836615 0 1 1 -2.96732,0 1.4836615,1.4836615 0 1 1 2.96732,0 z"
+       d="m 947.39681,616.44556 c 0,0.8194 -0.66426,1.48366 -1.48366,1.48366 -0.81941,0 -1.48366,-0.66426 -1.48366,-1.48366 0,-0.81941 0.66425,-1.48366 1.48366,-1.48366 0.8194,0 1.48366,0.66425 1.48366,1.48366 z"
        transform="matrix(0.74637117,0,0,0.74637117,196.35588,383.57036)" />
     <path
        sodipodi:type="arc"
@@ -9075,7 +9076,7 @@
        sodipodi:cy="616.44556"
        sodipodi:rx="1.4836615"
        sodipodi:ry="1.4836615"
-       d="m 947.39681,616.44556 a 1.4836615,1.4836615 0 1 1 -2.96732,0 1.4836615,1.4836615 0 1 1 2.96732,0 z"
+       d="m 947.39681,616.44556 c 0,0.8194 -0.66426,1.48366 -1.48366,1.48366 -0.81941,0 -1.48366,-0.66426 -1.48366,-1.48366 0,-0.81941 0.66425,-1.48366 1.48366,-1.48366 0.8194,0 1.48366,0.66425 1.48366,1.48366 z"
        transform="matrix(0.74637117,0,0,0.74637117,196.35588,388.30147)" />
     <path
        sodipodi:type="arc"
@@ -9085,7 +9086,7 @@
        sodipodi:cy="616.44556"
        sodipodi:rx="1.4836615"
        sodipodi:ry="1.4836615"
-       d="m 947.39681,616.44556 a 1.4836615,1.4836615 0 1 1 -2.96732,0 1.4836615,1.4836615 0 1 1 2.96732,0 z"
+       d="m 947.39681,616.44556 c 0,0.8194 -0.66426,1.48366 -1.48366,1.48366 -0.81941,0 -1.48366,-0.66426 -1.48366,-1.48366 0,-0.81941 0.66425,-1.48366 1.48366,-1.48366 0.8194,0 1.48366,0.66425 1.48366,1.48366 z"
        transform="matrix(0.74637117,0,0,0.74637117,196.35588,397.76372)" />
   </g>
 </svg>

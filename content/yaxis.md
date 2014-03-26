@@ -24,7 +24,7 @@
  
 (You will need to assemble two PS20026 Y-Axis Rail Assemblies)
 
-[![exploded view of End Plates](tPictures/PS20026_4.png)](content/tPictures/PS20026_16.png)
+[![exploded view of End Plates](tPictures/PS20026.svg)](content/tPictures/PS20026-100.svg)
 
 Slide two Belt Clip Anchor Assemblies (**\#4**) into the top slot of the MakerSlide (**\#5**).
 
