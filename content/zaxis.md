@@ -85,8 +85,6 @@ There is a dynamic version (~15MB) of the above diagram at: [PS20029.svg --- Spi
 ![Z-Axis Rail Assembly Parts](tPictures/so_z_axis_rail_parts_2.jpg)
 ![Z-Axis Rail Assembly](tPictures/so_z_axis_rail_2.jpg)
 
-**Note:** The above exploded view does not show the wavy washer (PS20017) which goes on top of the flanged bearing.
-
 One should also attach the motor for the Z-axis at this time.
 
 ###Requirements
@@ -127,7 +125,7 @@ One should also attach the motor for the Z-axis at this time.
 
 [![exploded view of Z-Axis Rail Assembly](tPictures/PS20028.svg)](content/tPictures/PS20028-100.svg)
 
-The Z-Axis Rail Assembly is the most intricate and complex assembly, and requires patience to assemble. One way to do this is to assemble it from the inside out, starting with the smallest pieces. One could of course try top-to-bottom or bottom-to-top --- just follow the diagram (and remember to add the Wave Disc Spring) and be careful to use equal numbers of spacers/washers for each connector and to not damage or bend the brass stand-offs.
+The Z-Axis Rail Assembly is the most intricate and complex assembly, and requires patience to assemble. One way to do this is to assemble it from the inside out, starting with the smallest pieces. One could of course try top-to-bottom or bottom-to-top --- just follow the diagram and be careful to use equal numbers of spacers/washers for each connector and to not damage or bend the brass stand-offs.
 
 1. Take one Z-Axis Motor Mount Plate (**\#3**, this will become the bottom)
 - place M3 washers (**\#13**) onto the 12mm M3 screws (**\#12**) and place them in the appropriate holes
@@ -181,7 +179,7 @@ Insert the 10mm M5 bolts (**\#6**) with an M5 washer (**\#4**) into the Z-Assemb
 
 [![exploded view of Z-axis](tPictures/PS20030.svg)](content/tPictures/PS20030-100.svg)
 
-Turn the eccentric nuts on the Spindle Carriage Assembly (**\#3**) so that they move the matching V-wheels as far as possible from the opposing static V-wheels (think of them as pairs, one movable with an eccentric nut, the other unmoving). Slide the Spindle Carriage Assembly onto the Z-Axis Rail Assembly, match it up with the Delrin Lead nut and turning the threaded rod using the flexible coupler, bring the Spindle Carriage Assembly up so that the V-wheels are completely on the MakerSlide V-rail. Be careful not to nick or damage the Delrin V-wheels, or to cross-thread the Delrin Lead nut. Carefully adjust the eccentric nuts so that the MakerSlide is held in place firmly, but not so tight as to damage the Delrin V-wheels --- they should turn when one rotates the coupler/threaded rod.
+Turn the eccentric nuts on the Spindle Carriage Assembly (**\#3**) so that they move the matching V-wheels as far as possible from the opposing static V-wheels (think of them as pairs, one movable with an eccentric nut, the other unmoving). Slide the Spindle Carriage Assembly onto the Z-Axis Rail Assembly, match it up with the Delrin Lead nut and turning the threaded rod using the flexible coupler, bring the Spindle Carriage Assembly up so that the V-wheels are completely on the MakerSlide V-rail. Be careful not to nick or damage the Delrin V-wheels, or to cross-thread the Delrin Lead nut. Carefully adjust the eccentric nuts so that the MakerSlide is held in place firmly, but not so tight as to damage the Delrin V-wheels --- they should turn when one rotates the coupler/threaded rod, moving the spindle carriage assembly up or down.
 
 ##Sub Gantry (PS20031)
 
@@ -205,7 +203,7 @@ If possible, select a Motor Mount Carriage (PS20022) which has a stepper motor a
 
 [![exploded view of sub gantry](tPictures/PS20031.svg)](content/tPictures/PS20031-100.svg)
 
-For each M5 x 70 mm SHCS (**\#4**), add a washer (**\#5**) then place them in the outer holes of the Z-Axis Sub-Assembly (**\#1**) from the side opposite the V-wheels. Then for each M5 bolt (**\#4**), add each pair of spacers (one each of **\#3**, & **\#6**). Add the Motor Mount Carriage, then for each M5 bolt, add an M5 washer, and M5 hex nut (**\#7**).
+For each M5 x 70 mm SHCS (**\#4**), add a washer (**\#5**) then place them in the outer holes of the Z-Axis Sub-Assembly (**\#1**) from the side opposite the V-wheels. Then for each M5 bolt (**\#4**), add each pair of spacers (one each of **\#3**, & **\#6**). Add the Motor Mount Carriage, then for each M5 bolt, add an M5 washer, and M5 hex nut (**\#7**). Ensure the sub gantry is square and tighten everything.
 
 [![](tPictures/so_carriage_4.jpg)](content/tPictures/so_carriage_8.jpg)
 
