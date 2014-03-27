@@ -7,21 +7,23 @@ Our first job will be to design and cut a coaster out of some suitable material 
 
 ##Find the Origin
 
-Step #1: Open [makerCAM.com](http://www.makercam.com) (you'll need to have Adobe Flash installed, if you don't, install it from [adobe.com](http://www.adobe.com/support/flashplayer/downloads.html). Zoom out until you can see the origin. The origin is 0,0 in the cartesian coordinate system, it's where the X and Y axis meet. In the CAM world, the origin is where your machine is going to start from.
+Step #1: Open [makerCAM.com](http://www.makercam.com) (you'll need to have Adobe Flash installed, if you don't, install it from [adobe.com](http://www.adobe.com/support/flashplayer/downloads.html). [MakerCAM](http://www.shapeoko.com/wiki/index.php/MakerCAM) is a Computer Aided Manufacturing (CAM) program with some basic vector drawing capabilities. Vector drawing is like to drafting with rules, triangles, compasses and a French curve, while pixel editing is more akin to colouring in spaces on a grid. Vector drawing uses lines (a straight path between two "nodes" which are x,y coordinates, one is the beginning, the other the ending), regular geometric forms (defined by nodes which denote each point at which lines meet), arcs and circles (defined by the central point of rotation and the radius therefrom) and Bézier curves (a mathematical description of an arbitrary curve which has four "nodes", one on-the-path, two off-the-path and one on-the-path) to allow it to express pretty much any shape or form.
+
+Zoom out until you can see the origin. The origin is 0,0 in the cartesian coordinate system, it's where the X and Y axis meet. In the CAM world, the origin is where your machine is going to start from.
 
 ![find the origin](firstjob/mc_origin.png)
 
 
 ##Create a Rectangle
 
-Select Insert -> Rounded Rectangle. When the dialog box comes up, input 3.5 (inches) for both the length and width. leave the radius as 0.2. Click OK. You now have a rounded rectangle!
+Select Insert -> Rounded Rectangle. When the dialog box comes up, input 3.5 (inches) for both the length and width. leave the radius as 0.2. Click OK. You now have a rounded rectangle! Note that this is a combination of lines, a regular geometric form and arcs (each described as a Bézier curve).
 
 ![rectangle](firstjob/mc_rr1.png)
 
 
 ##Another Rectangle
 
-Select Insert -> Rounded Rectangle. When the dialog box comes up, input 3.125 for both the length and width. leave the radius as 0.2. Click OK. You now have another rounded rectangle! If necessary, move the rounded rectangle so the smaller one is inside of the bigger rectangle. Like this:
+Select Insert -> Rounded Rectangle. When the dialog box comes up, input 3.125 for both the length and width. Leave the radius as 0.2. Click OK. You now have another rounded rectangle! If necessary, move the rounded rectangle so the smaller one is inside of the bigger rectangle. Like this:
 
 ![rectangle](firstjob/mc_rr2.png)
 
@@ -63,7 +65,7 @@ Click on the solid black arrow in the toolbar (in-between the hand and the node-
 
 (Please note that the Feed (30) and Plunge (10) rates are set for cork --- if you are using some other material for your coaster, please select an appropriate value from the [Feeds and Speeds page](http://www.shapeoko.com/wiki/index.php/Materials) on the wiki. Please note that the default values are far too fast for a stock, un-tuned machine.)
 
-If any of the terminology is unclear or confusing, please consult the [Glossary](http://www.shapeoko.com/wiki/index.php/Glossary).
+If any of the terminology is unclear or confusing, please consult the [Glossary](http://www.shapeoko.com/wiki/index.php/Glossary) and the [MakerCAM documentation](http://www.shapeoko.com/wiki/index.php/MakerCAM).
 
 Your letter should look like it's filled in with a hatch pattern.
 
@@ -112,34 +114,34 @@ Please adjust the value for Target Depth to be equal to the thickness of the mat
 
 ##Position Coaster at Origin
 
-In makerCAM, position your coaster just off of the origin point.
+In MakerCAM, position your coaster just off of the origin point.
 
 ![rectange](firstjob/mc_origin_shapes.png)
 
 
 ##Generate G-Code
 
-It's time to generate your G-code! If you check the "view cuts" option in the top right portion of the screen, your toolpaths will be filled with nice colors representing the operations. If everything looks OK, go ahead and click CAM -> calculate all. Nice work.
+It's time to generate your G-Code! If you check the "view cuts" option in the top right portion of the screen, your toolpaths will be filled with nice colors representing the operations. If everything looks OK, go ahead and click CAM -> calculate all. Nice work.
 
 ![rectangle](firstjob/mc_calculate.png)
 
 
 ##Export G-Code
 
-Export Your g-code! Your coaster should look a little goofy right now, with colors and curves representing the toolpaths. That's OK, imagine those toolpaths as a map for your bit to follow. Once you have calculated all toolpaths, let's go ahead and export the file. Click CAM -> export g-code. A couple of things to remember on this screen.
+Export Your G-Code! Your coaster should look a little goofy right now, with colors and curves representing the toolpaths. That's OK, imagine those toolpaths as a map for your bit to follow. Once you have calculated all toolpaths, let's go ahead and export the file. Click CAM -> export g-code. A couple of things to remember on this screen.
 
     The order should go:
     letter_pocket
     trim_engrave
     coaster_cutout
 
-As long as that's OK, then click 'all' (will highlight all of your operations), then click "Export Selected Toolpaths". A file dialog box will prompt your for a location to save your file. let's name it 'monogram_coaster.nc' and save it somewhere that you will remember. After the file is exported (it'll only take a split second), go ahead and save the svg file from makerCAM. Click file -> save SVG. Save it somewhere that you will remember. 
+As long as that's OK, then click 'all' (will highlight all of your operations), then click "Export Selected Toolpaths". A file dialog box will prompt your for a location to save your file. let's name it 'monogram_coaster.nc' and save it somewhere that you will remember. After the file is exported (it'll only take a split second), go ahead and save the svg file from MakerCAM. Click file -> save SVG. Save it somewhere that you will remember. 
 
 ![rectangle](firstjob/mc_export.png)
 
 
 ##Open Software
-Just like we did in the Hello World section, plug the power in to your machine and open Universal Gcode Sender (or whichever [communication/control program](http://www.shapeoko.com/wiki/index.php/Communication_/_Control) you have chosen to use) on your computer. Once the program has loaded, plug in the USB cord to your computer and you should hear the stepper motors engage.
+Just like we did in the Hello World section, plug the power in to your machine and open Universal G-Code Sender (or whichever [communication/control program](http://www.shapeoko.com/wiki/index.php/Communication_/_Control) you have chosen to use) on your computer. Once the program has loaded, plug in the USB cord to your computer and you should hear the stepper motors engage.
 
 ![Open The Software](helloworld/ugs1.png)
 
@@ -152,7 +154,7 @@ Select the correct com port and baud rate from the drop down menus on the left. 
 
 ##Open File
 
-Browse for the file you just exported from makerCAM.
+Browse for the file you just exported from MakerCAM.
 
 ![Open The File](firstjob/ugs2.png)
 
@@ -195,10 +197,9 @@ You should see Universal Gcode Sender start streaming the file, and your machine
 First, make sure that you have adequate safety gear, eye protection (safety glasses), hearing protection (at least a pair of foam ear plugs, better is to combine foam ear plugs with noise-reducing ear muffs). Second, review the [operating checklist](http://www.shapeoko.com/wiki/index.php/Operating_Checklist). Third, **never** operate the machine without safety gear. 
 
 1. Cut 4 pieces of double sided tape that are approximately 2" long each. Stick those pieces around the perimeter of your wood. Make sure they're on there nice and tight!
-2. Move your machine all the way to the front/left corner of the work area. If the machine is off, you can just grab the spindle and pull it over into position. Take note of roughly where that location is. OK, now move the spindle out of the way.
+2. Move your machine all the way to the front/left corner of the work area. If the machine is off, you can just grab the spindle and pull it over into position. Take note of roughly where that location is. OK, now move the spindle out of the way. (If you jog the machine, remember that the test run of the file will have left it in Imperial (inch) mode.)
 3. Stick your piece of material down onto the waste board. Give it a nice firm press to make sure it's going to stay. The last thing we want is for the material get thrown out of the machine and hit you in the face!
-4. Move your machine back to the position you noted earlier. Keep in mind that it doesn't need to be in the *exact* same place, we're just putting it in the front/left corner. This is going to be our 0,0 position.
-
+4. Move your machine back to the position you noted earlier. Keep in mind that it doesn't need to be in the *exact* same place, we're just putting it in the front/left corner. This is going to be our 0,0 position. (If you jog the machine, remember that the test run of the file will have left it in Imperial (inch) mode.)
 5. Lower your Z-axis so the tip of the end mill mounted in the spindle *just* ***touching*** the material. A good way to gauge is to lower it down onto a single sheet of paper. As the bit gets close to the paper, try moving the paper around slightly. When the bit prevents the paper from moving, then you're at the right height! This also usually works out to leaving a paper-thin thickness connecting the cut-out part to the balance of the material. 
 
 ![Just above work surface](firstjob/zero_Z.png)
@@ -210,7 +211,6 @@ OK, here we go. Take a deep breath and click the 'Send' button.
 ![Finished piece](firstjob/finished_2_x800.png)
 
 If things work out well your coaster should be held in place by the paper-thin thickness of cork mentioned above. If not, once the machine has been moved out of the way and the spindle has been turned off and completely stopped spinning, use a suitable tool to cut it free and remove the balance of the material from the work area.
-
 
 If you have any difficulties see [Operation Troubleshooting](http://www.shapeoko.com/wiki/index.php/Operation_Troubleshooting). See also [Fine Tuning](www.shapeoko.com/wiki/index.php/Tuning).
 
