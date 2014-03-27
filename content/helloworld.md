@@ -31,7 +31,7 @@ Download [this file](http://docs.shapeoko.com/content/helloworld/helloworld2.nc)
 
 [![Hello, World](helloworld/file.png)](http://docs.shapeoko.com/content/helloworld/helloworld2.nc)
 
-Please note that it is in imperial, and will leave your machine in inch mode. Use the command G21 to switch back to metric if accustomed to using that system when jogging the machine. It also has different begin/end points for the paths than the original file, but the problems which those exposed are addressed by the Y-axis dual motor.
+Please note that it is in Imperial, and will leave your machine in inch mode. Use the command G21 to switch back to metric if accustomed to using that system when jogging the machine. It also has different begin/end points for the paths than the original file, but the problems which those exposed are addressed by the Y-axis dual motor.
 
 
 ##Position Machine
@@ -196,7 +196,7 @@ You should see Universal G-Code Sender start streaming the text file line by lin
 
 ##Run Job!
 
-Lower your sharpie so it is *just* barely above the paper. (Remember that the previous running of the file will have left it in Imperial mode --- if need be, issue G21 to switch to metric.)
+Lower your Sharpie so it is *just* barely above the paper. (Remember that the previous running of the file will have left it in Imperial mode --- if need be, issue G21 to switch to metric.)
 
 ![Just above work surface](helloworld/sharpie_close.jpg)
 
