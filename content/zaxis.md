@@ -1,10 +1,10 @@
 # Z-Axis Assembly
 
-![exploded view of Gantry Carriage](tPictures/PS20031_2.png)
-![](tPictures/so_gantry_carriage_2.jpg)
-![](tPictures/so_z_axis_parts_2.jpg)
-![](tPictures/so_assembly_gantry_carriage_2.jpg)
-![](tPictures/so_gantry_sc_x_y_axes2.jpg)
+[![exploded view of Gantry Carriage](tPictures/PS20031_2.png)](content/tPictures/PS20031_16.png)
+[![](tPictures/so_gantry_carriage_2.jpg)](content/tPictures/so_gantry_carriage_32.jpg)
+[![](tPictures/so_z_axis_parts_2.jpg)](content/tPictures/so_z_axis_parts_32.jpg)
+[![](tPictures/so_assembly_gantry_carriage_2.jpg)](content/tPictures/so_assembly_gantry_carriage_32.jpg)
+[![](tPictures/so_gantry_sc_x_y_axes2.jpg)](content/tPictures/so_gantry_sc_x_y_axes_16.jpg)
 
 The Z-axis assembly is comprised of several sub-assemblies. When assembling it, it is best to select a Motor Mount Carriage (PS20022) which already has a stepper motor in place.
 
@@ -12,9 +12,9 @@ The Z-axis assembly is comprised of several sub-assemblies. When assembling it, 
 
 ##Z Assembly Carriage (PS20021)
 
-![exploded view of Z Assembly Carriage](tPictures/PS20021_2.png)
-![Assembled Z Assembly Carriage](tPictures/so_z_assembly_carriage_2.jpg)
-![Assembled Z Assembly Carriage Parts and Tools](tPictures/so_z_assembly_carriage_parts_2.jpg)
+[![exploded view of Z Assembly Carriage](tPictures/PS20021_2.png)](content/tPictures/PS20021_16.png)
+[![Assembled Z Assembly Carriage](tPictures/so_z_assembly_carriage_2.jpg)](content/tPictures/so_z_assembly_carriage_32.jpg)
+[![Assembled Z Assembly Carriage Parts and Tools](tPictures/so_z_assembly_carriage_parts_2.jpg)](content/tPictures/so_z_assembly_carriage_parts_32.jpg)
 
 ###Requirements
 
@@ -38,11 +38,11 @@ This is the plate the Z-axis will attach to (it is identical to the Motor Mount 
 
 ##Spindle Carriage Assembly (PS20029)
 
-![exploded view of Spindle Carriage Assembly](tPictures/PS20029_2.png)
-![](tPictures/so_spindle_carriage_2.jpg)
-![](tPictures/so_spindle_carriage_parts_2.jpg)
-![](tPictures/so_vwi_vwheel_spacer_tools_2.jpg)
-![](tPictures/so_vwi_smoothidler_tools_2.jpg)
+[![exploded view of Spindle Carriage Assembly](tPictures/PS20029_2.png)](content/tPictures/PS20029_16.png)
+[![](tPictures/so_spindle_carriage_2.jpg)](content/tPictures/so_spindle_carriage_32.jpg)
+[![](tPictures/so_spindle_carriage_parts_2.jpg)](content/tPictures/so_spindle_carriage_parts_32.jpg)
+[![](tPictures/so_vwi_vwheel_spacer_tools_2.jpg)](content/tPictures/so_vwi_vwheel_spacer_tools_16.jpg)
+[![](tPictures/so_vwi_smoothidler_tools_2.jpg)](content/tPictures/so_vwi_smoothidler_tools_16.jpg)
 
 ###Requirements
 
@@ -81,9 +81,9 @@ There is a dynamic version (~15MB) of the above diagram at: [PS20029.svg --- Spi
 
 ##Z-Axis Rail Assembly (PS20028)
 
-![exploded view of Z-Axis Rail Assembly](tPictures/PS20028_2.png)
-![Z-Axis Rail Assembly Parts](tPictures/so_z_axis_rail_parts_2.jpg)
-![Z-Axis Rail Assembly](tPictures/so_z_axis_rail_2.jpg)
+[![exploded view of Z-Axis Rail Assembly](tPictures/PS20028_2.png)](content/tPictures/PS20028_16.png)
+[![Z-Axis Rail Assembly Parts](tPictures/so_z_axis_rail_parts_2.jpg)](content/tPictures/so_z_axis_rail_parts_32.jpg)
+[![Z-Axis Rail Assembly](tPictures/so_z_axis_rail_2.jpg)](content/tPictures/so_z_axis_rail_32.jpg)
 
 One should also attach the motor for the Z-axis at this time.
 
@@ -147,7 +147,7 @@ Review all connectors to make certain that everything is tight --- be careful no
 
 ####Threaded Rod
 
-[![threaded rod, flexible coupler and nuts shown with ruler](tPictures/so_z_axis_dimensions_4.jpg)](content/tPictures/so_z_axis_dimensions_8.jpg)
+[![threaded rod, flexible coupler and nuts shown with ruler](tPictures/so_z_axis_dimensions_4.jpg)](content/tPictures/so_z_axis_dimensions_32.jpg)
 
 Compare the threaded rod (**\#6**) to the assembly, thread on one M8 Hex Nut (**\#14**), threading the latter far enough down to allow room for the flanged bearing, a second hex nut, and for the threaded rod (and the stepper motor shaft) to be just short of half-way into the flexible coupler (**\#2**). Insert the threaded rod into the bearing, add the second M8 hex nut and tighten them with two wrenches, being careful not to bend the rod. Note that the motor shaft should go far enough in to the flexible coupler as to be certain of gripping firmly, and less than half the length of the flexible coupler (the two ends should **not** interfere with each other).
 
@@ -163,10 +163,10 @@ Tighten everything. If the M3 screws bottom out in the stand-offs, add washers o
 
 ###Z-Axis Sub-Assembly (PS20030)
 
-![exploded view of Z-axis](tPictures/PS20030_2.png)
-![bolts, washers and insertion nuts](tPictures/so_z_axis_bolts_washers_nuts_2.jpg)
-![sub-assemblies shown with hardware](tPictures/so_assembly_pre_gantry_carriage_2.jpg)
-![two Z-axis sub-assemblies](tPictures/so_assembly_gantry_carriage_2.jpg)
+[![exploded view of Z-axis](tPictures/PS20030_2.png)](content/tPictures/PS20030_16.png)
+[![bolts, washers and insertion nuts](tPictures/so_z_axis_bolts_washers_nuts_2.jpg)](content/tPictures/so_z_axis_bolts_washers_nuts_16.jpg)
+[![sub-assemblies shown with hardware](tPictures/so_assembly_pre_gantry_carriage_2.jpg)](content/tPictures/so_assembly_pre_gantry_carriage_32.jpg)
+[![two Z-axis sub-assemblies](tPictures/so_assembly_gantry_carriage_2.jpg)](content/tPictures/so_assembly_gantry_carriage_32.jpg)
 
 1. PS20021 **Z-Assembly Carriage** x 1 pcs.
 - PS20028 **Z-Axis Rail Assembly** x 1 pcs.
@@ -183,9 +183,9 @@ Turn the eccentric nuts on the Spindle Carriage Assembly (**\#3**) so that they 
 
 ##Sub Gantry (PS20031)
 
-![](tPictures/PS20031_2.png)
-![](tPictures/so_gantry_carriage_2.jpg)
-![](tPictures/so_gantry_sc_carriage_2.jpg)
+[![](tPictures/PS20031_2.png)](content/tPictures/PS20031_16.png)
+[![](tPictures/so_gantry_carriage_2.jpg)](content/tPictures/so_gantry_carriage_32.jpg)
+[![](tPictures/so_gantry_sc_carriage_2.jpg)](content/tPictures/so_gantry_sc_carriage_16.jpg)
 
 ###Requirements
 
