@@ -4,7 +4,7 @@
 
 ![glamour photo of ShapeOko 2 front right diagonal](tPictures/shapeoko_2.jpg)
 
-Thank you for supporting Project Shapeoko, an opensource CNC machine which may be used for milling, lasercutting, 3D printing, cutting fabric, &c. The work area is approximately 12" x 12" x 2.5" (but can be [enlarged](http://www.shapeoko.com/wiki/index.php/Scaling_Up), and the Z-axis can be extended to ~3.5" by replacing the universal spindle mounts with user-cut mounts which increase the clearance) and precision is dependent upon the belts, pulleys, motors and electronics which are selected (for the default SO2, that is 1/40th of a mm along X and Y, 1/320th of a mm along Z ([ShapeOko 2 Grbl Configuration page](http://www.shapeoko.com/wiki/index.php/Grbl_Configuration)). ShapeOko is named after the **Shape**ways 3D printing and the Pon**oko** laser cutting services and was initially launched on [Kickstarter](http://www.kickstarter.com/projects/edwardrford/project-shapeoko-a-300-complete-cnc-machine?ref=live).
+Thank you for supporting Project Shapeoko, an opensource CNC machine which may be used for milling, lasercutting, 3D printing, cutting fabric, etc. The work area is approximately 12" x 12" x 2.5" (but can be [enlarged](http://www.shapeoko.com/wiki/index.php/Scaling_Up), and the Z-axis can be extended to ~3.5" by replacing the universal spindle mounts with user-cut mounts which increase the clearance) and precision is dependent upon the belts, pulleys, motors and electronics which are selected (for the default SO2, that is 1/40th of a mm along X and Y, 1/320th of a mm along Z ([ShapeOko 2 Grbl Configuration page](http://www.shapeoko.com/wiki/index.php/Grbl_Configuration)). ShapeOko is named after the **Shape**ways 3D printing and the Pon**oko** laser cutting services and was initially launched on [Kickstarter](http://www.kickstarter.com/projects/edwardrford/project-shapeoko-a-300-complete-cnc-machine?ref=live).
 
 The following pages are filled with the information you need to assemble your Shapeoko 2 desktop CNC machine. Please read through them in advance, and make note of things to check and verify before beginning assembly. If you have any difficulties with assembly, please check the ShapeOko [wiki](http://www.shapeoko.com/wiki) and [forums](http://www.shapeoko.com/forum/index.php). **Please note** that there is a page on [assembly troubleshooting](http://www.shapeoko.com/wiki/index.php/Assembly_troubleshooting) on the wiki.
 
@@ -20,10 +20,10 @@ _Never operate the machine without adequate safety gear for the current task. Ne
 
 1. Review the parts in your kit and the instructions
 2. Read the [Pro Tips](tips.html) and make sure you have all the required [Tools](tips.html#Tools)
-3. Install your [software](software.html)
+3. Install your [Software](software.html)
 4. Test Your [Electronics](electronics.html)
-5. Review the [wiring options](wiring.html)
-6. Assemble your machine ([wheels](wheels.html), [carriages](carriages.html), [Z-axis](zaxis.html), [gantry](gantry.html), [Y-axis](yaxis.html), [work area](workarea.html), and [electrical wiring](wiring.html))
+5. Review the [Wiring Options](wiring.html)
+6. Assemble your machine ([Wheels](wheels.html), [Carriages](carriages.html), [Z-axis](zaxis.html), [Gantry](gantry.html), [Y-axis](yaxis.html), [Work Area](workarea.html), and [Electrical Wiring](wiring.html))
 7. Run [Hello, World!](helloworld.html)
 8. Run your [First Job!](firstjob.html)
 
@@ -34,7 +34,7 @@ If you are interested in contributing to the docs pages, please see [this page](
 
 ##Assembly Steps
 
-The first thing to do is to compare what you have received w/ the inventory sheet included w/ your kit. For reference, there is also a [B.O.M. (Bill of Materials) w/ sortable columns and (some) options on the wiki](http://www.shapeoko.com/wiki/index.php/BOM). Please note that part specifications / sizes may change with different kit batches, especially for aspects which do not affect functionality and fit, also, any bags which don't have a part number and quantity should be sorted out and matched against the B.O.M. If anything in your kit is missing or damaged after your initial review, contact [Inventables Customer Service](https://www.inventables.com/about): [help@inventables.com](mailto:help@inventables.com) to make arrangements all-at-once for everything, so that one doesn't have to wait on multiple shipments.
+The first thing to do is to compare what you have received with the inventory sheet included with your kit. For reference, there is also a [B.O.M. (Bill of Materials) with sortable columns and (some) options on the wiki](http://www.shapeoko.com/wiki/index.php/BOM). Please note that part specifications / sizes may change with different kit batches, especially for aspects which do not affect functionality and fit, also, any bags which don't have a part number and quantity should be sorted out and matched against the B.O.M. If anything in your kit is missing or damaged after your initial review, contact [Inventables Customer Service](https://www.inventables.com/about): [help@inventables.com](mailto:help@inventables.com) to make arrangements all-at-once for everything, so that one doesn't have to wait on multiple shipments.
 
 ##Software
 [Goto the Instructions](software.html)
