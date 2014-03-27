@@ -39,7 +39,7 @@ And then you can start threading both groups (simultaneously) through the expand
 
 ####Routing Wires
 
-After the wires are pulled through the braiding, continue pulling until both wires are tight. They will be uneven lengths (because the z-axis is further away!).
+After the wires are pulled through the braiding, continue pulling until both wires are tight. They will be uneven lengths (because the Z-axis is further away!).
 
 ![rear view pulled through](wiring/43-so_wiring-042.jpg)
 
@@ -63,7 +63,7 @@ Once that is finished, you are done (for now) with the X and Z stepper motor wir
 
 ###Y Axis
 
-Here is an overview of how the Y-axis wires are routed. From the front, you can see the second Y stepper motor (the one on the left side of the machine) has it's wires routed through the MakerSlide. 
+Here is an overview of how the Y-axis wires are routed. From the front, you can see the second Y stepper motor (the one on the left side of the machine) has its wires routed through the MakerSlide. 
 
 ![front view svg](wiring/wiring_3_frontview.svg);
 
@@ -75,11 +75,11 @@ Once you have pushed the wires past the gantry, grab the bundle and pull it out 
 
 ![keep threading](wiring/28-so_wiring-027.jpg)
 
-At the opposite side of what you started, thread the wires through the carriage plate's top slot. Like this:
+At the opposite side of where you started, thread the wires through the carriage plate's top slot. Like this:
 
 ![keep threading](wiring/29-so_wiring-028.jpg)
 
-Now pull the wires so they are fairly taught on the other side. Be careful not to pull too hard!
+Now pull the wires so they are fairly taut on the other side. Be careful not to pull too hard!
 
 ![keep threading](wiring/31-so_wiring-030.jpg)
 ![keep threading](wiring/30-so_wiring-029.jpg)
