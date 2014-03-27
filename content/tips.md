@@ -15,7 +15,7 @@ The assembly instructions have these two steps separated. The first step is for 
 
 ####Pulleys and Shafts
 
-Please note that the pulley attaches with the set screws toward the motor housing and the flat portion at the end of the shaft. Some people have experienced difficulties with the pulley spinning on the shaft --- the GT2 pulleys, with two set screws should be less likely to have this difficulty than tne MXL pulleys on the original machine, but one option would be to grind one (or two small flats at 90 degrees to each other) on the shaft, using a fine metal file or sharpening stone (clean up any metal filings afterwards) --- then one would position the pulley so that the set screw(s) engage said flat(s). See the [forums](http://www.shapeoko.com/forum/viewtopic.php?f=10&t=2502&p=18993#p18950) for further discussion. Note that while the set screws should take a 1.5mm hex key, a 1/16", which is slightly larger may also work, and being a snugger fit, will allow for applying more torque.
+Please note that the pulley attaches with the set screws toward the motor housing and the flat portion at the end of the shaft. Some people have experienced difficulties with the pulley spinning on the shaft --- the GT2 pulleys, with two set screws should be less likely to have this difficulty than the MXL pulleys on the original machine, but one option would be to grind one (or two small flats at 90 degrees to each other) on the shaft, using a fine metal file or sharpening stone (clean up any metal filings afterwards) --- then one would position the pulley so that the set screw(s) engage said flat(s). See the [forums](http://www.shapeoko.com/forum/viewtopic.php?f=10&t=2502&p=18993#p18950) for further discussion. Note that while the set screws should take a 1.5mm hex key, a 1/16", which is slightly larger may also work, and being a snugger fit, will allow for applying more torque.
 
 ###Tools
 
@@ -55,7 +55,7 @@ Additional useful tools include:
 ###Screw Sizes (lengths)
 
 
-For the most part, it's obvious which size screw is used for what, but the M5 8mm and 12mm BHCS (button head cap screws) are easily confused with the 10mm length --- while it's not noticeable when the shorter 10mm length is used where one ought to use a 12mm, the 8mm and 10mm screws are intended for use with MakerSlide insertion nuts and a screw which is too long will bottom out before beginning to hold anything in place.
+For the most part, it's obvious which size screw is used for what, but the M5 8mm and 12mm BHCS (button head cap screws) are easily confused with the 10mm length --- while it's not noticeable when the shorter 10mm length is used where one ought to use a 12mm, the 8mm and 10mm screws are intended for use with MakerSlide insertion nuts and a screw which is too long and will bottom out before beginning to hold anything in place.
 
 ----
 
@@ -81,7 +81,7 @@ Lubricating will reduce the amount of friction produced while tapping, making th
 
 #####Take Your Time --- this is not a race.
 
-No, seriously this is not a race. You don't want to break one of these things. Not only will you be really mad at yourself, but you'll also have to buy a new piece of MakerSlide (or use kitchen chemistry to dissolve the broken tap, see the wiki), a new tap, and possibly anything else that you break during your resultant outburst. So, take your time and go slow.
+No, seriously this is not a race. You don't want to break one of these things. Not only will you be really mad at yourself, but you'll also have to buy a new piece of MakerSlide (or [use kitchen chemistry to dissolve the broken tap, see the wiki](http://www.shapeoko.com/wiki/index.php/Makerslide#Breaking_a_Tap)), a new tap, and possibly anything else that you break during your resultant outburst. So, take your time and go slow.
 
 
 #####You're a Breaker now --- a chip breaker that is.
