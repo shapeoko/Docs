@@ -182,7 +182,7 @@ Once everything has been successfully tested you should dismantle at least the t
 
 Once everything has been successfully assembled you should re-test jogging all the axes to ensure that movement is properly calibrated in terms of direction/rotation and distance travelled/number of steps/revolutions.
 
-For troubleshooting possible issues with your steppers, see [the stepper section of the Assembly Troubleshooting page](http://www.shapeoko.com/wiki/index.php/Assembly_troubleshooting#Motors_Spin_in_Wrong_Direction) for information on wiring stepper motors)
+For troubleshooting possible issues with your steppers, see [the stepper section of the Assembly Troubleshooting page](http://www.shapeoko.com/wiki/index.php/Assembly_troubleshooting#Motors_Spin_in_Wrong_Direction) for information on wiring stepper motors.
  
 ###Next step [Wheels & Idlers](wheels.html)
 
