@@ -113,7 +113,7 @@ Next, connect the grey wires from the terminal blocks to the stepper motors. Mak
 
 ![image of required components](tPictures/so_e_steppermotors_ar_4.jpg)
 
-Please note the gShield takes two different sizes of screwdriver. 1/8" for the screws in the blue power connector, 3/32" for the screws in the green stepper motor connectors.
+Please note the gShield takes two different sizes of screwdriver. 1/8" for the screws in the blue power connector(2 screws, may be green), 3/32" for the screws in the green stepper motor connectors (4 screws).
 
 The green stepper motor connectors should be unscrewed so as to open them up as the right-most connector is below.
 
@@ -136,7 +136,7 @@ Lastly one must connect the power. First, strip the leads from the raw end of th
 
 ![Stripped lead for barrel connector](tPictures/power_connection.jpg)
 
-Connect it to the gShield (which is attached to the top of the Arduino). There are two leads, one a solid black wire, the other black w/ a white stripe (or red). 
+Connect it to the gShield (which is attached to the top of the Arduino). There are two leads, one a solid black wire, the other black with a white stripe (or red). 
 
 * black == (-)
 * black/white (or red) == (+)
@@ -182,7 +182,7 @@ Once everything has been successfully tested you should dismantle at least the t
 
 Once everything has been successfully assembled you should re-test jogging all the axes to ensure that movement is properly calibrated in terms of direction/rotation and distance travelled/number of steps/revolutions.
 
-For troubleshooting possible issues with your steppers, see [the stepper section of the Assembly Troubleshooting page](http://www.shapeoko.com/wiki/index.php/Assembly_troubleshooting#Motors_Spin_in_Wrong_Direction) for information on wiring stepper motors)
+For troubleshooting possible issues with your steppers, see [the stepper section of the Assembly Troubleshooting page](http://www.shapeoko.com/wiki/index.php/Assembly_troubleshooting#Motors_Spin_in_Wrong_Direction) for information on wiring stepper motors.
  
 ###Next step [Wheels & Idlers](wheels.html)
 
