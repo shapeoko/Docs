@@ -1,6 +1,6 @@
 ##Getting Set Up
 
-At this point, we should have a fully assembled machine, capable of making amazing things. BUT, first, we need make sure everything is in good working order.  To achieve that, we're going to run a job, that we in the ShapeOko community call "Hello, World". When it's finished, it will look like this:
+At this point, we should have a fully assembled machine, capable of making amazing things. BUT, first, we need to make sure everything is in good working order.  To achieve that, we're going to run a job that we in the ShapeOko community call "Hello, World". When it's finished it will look like this:
 
 [![successful job](tPictures/so_2_helloworld_two_4.jpg)](Docs/content/tPictures/so_2_helloworld_two_16.jpg)
 
@@ -43,17 +43,17 @@ With the machine turned off, move your gantry to the front left corner of the pa
 
 ##Attach Sharpie
 
-Using a piece of tape, affix your sharpie to the z-axis spindle carriage assembly. (Optionally you can mount the pen in-between two blocks of material which have matching grooves on them --- see the hello world at the top of this page. Forum user Claudio used shorter bolts to attach the spindle straps, then used rubber bands to attach the pen to them. Other users have used criss-crossed Zip ties. The better secured the pen is, the better the plot will look.)
+Using a piece of tape, affix a pen or marker to the Z-axis spindle carriage assembly. (Optionally you can mount the pen in-between two blocks of material which have matching grooves on them --- see the hello world at the top of this page. Forum user Claudio used shorter bolts to attach the spindle straps, then used rubber bands to attach the pen to them. Other users have used criss-crossed Zip ties. The better secured the pen is, the better the plot will look.)
 
 
 ##Position Sharpie
 
-Lower your sharpie so it is about 1 inch above the paper (remember that the previous running of this file left the machine in inch mode --- if accustomed to using metric to jog the machine issue G21 to switch back).
+Lower your pen (or marker) so it is about 1 inch above the paper (Remember to check whether your machine is using Imperial or metric units --- if accustomed to using metric, issue G21; if accustomed to Imperial, issue G20 to switch).
 
 
 ##Open Software
 
-Plug the power in to your machine and open Universal Gcode Sender on your computer. Once the program has loaded, plug in the USB cord to your computer and you should hear the stepper motors engage.
+Plug the power in to your machine and open Universal G-Code Sender on your computer. Once the program has loaded, plug in the USB cord to your computer and you should hear the stepper motors engage.
 
 ![Open The Software](helloworld/ugs1.png)
 
@@ -67,7 +67,7 @@ Select the correct com port and baud rate from the drop down menus on the left. 
 
 ##Verify Grbl Settings
 
-In the command line at the top of Universal Gcode Sender, type $ and press enter.  Grbl should respond with a help message.
+In the command line at the top of Universal G-Code Sender, type $ and press enter.  Grbl should respond with a help message.
 
 ![$ Command Response](helloworld/grbl_settings.png)
 
@@ -78,7 +78,7 @@ In the same command line, type $$ to view the current Grbl settings.
 
 ##Configure Grbl Settings
 
-The default values need to be changed in order for your machine to function properly.  To do this, simply enter the correct value for each setting into the command line and press enter.  For example, to change the x-axis steps/mm to 40.020 you would type this, followed by an enter:
+The default values need to be changed in order for your machine to function properly.  To do this, simply enter the correct value for each setting into the command line and press enter.  For example, to change the X-axis steps/mm to 40.020 you would type this, followed by an enter:
 
 		$0=40.020
 
@@ -123,35 +123,35 @@ Ensure that the machine moves the correct distance/direction for each axis. Revi
 
 If one has started with the suggested value of
 
-		$6=28
+    $6=28
 		
 Then if the Z-axis is reversed you should enter
 
-		$6=156
+    $6=156
 		
 If the X-axis is reversed you should enter
 
-		$6=60
+    $6=60
 		
 If the Y-axis is reversed you should enter
 
-		$6=92
+    $6=92
 		
 If X- and Y-axes are reversed
 
-		$6=124
+    $6=124
 		
 If X- and Z-axes are reversed
 
-		$6=188
+    $6=188
 		
 If Y- and Z-axes are reversed
 
-		$6=220
+    $6=220
 		
 And lastly, to reverse all three axes
 
-		$6=252
+    $6=252
 
 
 
@@ -185,18 +185,18 @@ Click the 'Reset Zero' Button, to tell your machine that you are at 0,0. You sho
 
 ##Air Print
 
-To make sure there are no mistakes, lets draw some stuff in the air.  Click the 'File Mode' tab at the top of the program window. With the sharpie ~1" above the work surface, click the 'Send' button just below the file path.
+To make sure there are no mistakes, lets draw some stuff in the air.  Click the 'File Mode' tab at the top of the program window. With the Sharpie ~1" above the work surface, click the 'Send' button just below the file path.
 
 ![Send File](helloworld/run_job.png)
 
-You should see Universal Gcode Sender start streaming the text file line by line to the Arduino, and your machine should start moving around.
+You should see Universal G-Code Sender start streaming the text file line by line to the Arduino, and your machine should start moving around.
 
 ![Sent File](helloworld/grbl_stream.png)
 
 
 ##Run Job!
 
-Lower your sharpie so it is *just* barely above the paper.
+Lower your sharpie so it is *just* barely above the paper. (Remember that the previous running of the file will have left it in Imperial mode --- if need be, issue G21 to switch to metric.)
 
 ![Just above work surface](helloworld/sharpie_close.jpg)
 
