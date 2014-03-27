@@ -1,8 +1,8 @@
 #Software
 
-There are two pieces of software that you will need to be aware of while assembling and testing your machine. The first software is to be installed on your computer and is called "Universal G-Code Sender" (written in Java, if Java isn't an option for your machine, there are other [Communication/Control programs, see the wiki](http://www.shapeoko.com/wiki/index.php/Communication_/_Control)). Details for obtaining and installing the software can be found below. The second software is actually a 'firmware' that is installed on your Arduino. The firmware is called 'grbl'. 
+There are two pieces of software that you will need to be aware of while assembling and testing your machine. The first software is to be installed on your computer and is called "Universal G-Code Sender" (written in Java, if Java isn't an option for your machine, there are other [Communication/Control programs, see the wiki](http://www.shapeoko.com/wiki/index.php/Communication_/_Control)). Details for obtaining and installing the software can be found below. The second software is actually a 'firmware' that is installed on your Arduino. The firmware is called '[Grbl](http://www.shapeoko.com/wiki/index.php/Grbl)'. 
 
-#####If you bought the full kit from Inventables, then your Arduino came pre-loaded with grbl.
+#####If you bought the full kit from Inventables, then your Arduino came pre-loaded with Grbl.
 
 In addition to the software proper, you will also need driver files for your Arduino (which will make it appear as a serial device although connected to your computer using a USB cable) --- these may be automatically installed via plug-and-play, if they are not, the instructions for manually installing the drivers are below.
 
@@ -29,7 +29,7 @@ You may need to create a "/var/lock" directory on OSX to fix a bug in the serial
 ### First run
 You may want to run the program before connecting the Arduino --- this will allow you to check and see if your system has any pre-existing ports --- make note of any, once the Arduino is loaded it should be on a new port.
 
-##grbl
+##Grbl
 
 ### Overview ###
 
@@ -37,10 +37,9 @@ You may want to run the program before connecting the Arduino --- this will allo
 
 Grbl is a no-compromise, high performance, low cost alternative to parallel-port-based motion control for CNC milling. It will run on a vanilla Arduino (Duemillanove/Uno) as long as it sports an Atmega 328.
 
-
 The controller is written in highly optimized C utilizing every clever feature of the AVR-chips to achieve precise timing and asynchronous operation. It is able to maintain more than 30kHz of stable, jitter free control pulses.
 
-It accepts standards-compliant G-code and has been tested with the output of several CAM tools with no unsolvable problems [see the wiki](http://www.shapeoko.com/wiki/index.php/GRBL). Arcs, circles and helical motion are fully supported, as well as, other basic functional G-code commands. Functions and variables are not currently supported, but may be included in future releases in a form of a pre-processor.
+It accepts standards-compliant G-code and has been tested with the output of a number of CAM tools [see the wiki for details on Grbl](http://www.shapeoko.com/wiki/index.php/GRBL). Arcs, circles and helical motion are fully supported, as well as other basic functional G-code commands. [See the wiki for a list of commands which are supported](http://www.shapeoko.com/wiki/index.php/G-Code#G-code_supported_by_Grbl).
 
 Grbl includes full acceleration management with look ahead. That means the controller will look up to 18 motions into the future and plan its velocities ahead to deliver smooth acceleration and jerk-free cornering if the communication program sends them (this may be an option or default, depending on the program, check the preferences).
 
