@@ -23,8 +23,8 @@ There is no installation required for this software. Simply download the zip fil
 #####Mac Users
 You may need to create a "/var/lock" directory on OSX to fix a bug in the serial library. To do this open the Terminal application and run the following two commands: 
 
-		sudo mkdir /var/lock 
-		sudo chmod 777 /var/lock 
+    sudo mkdir /var/lock 
+    sudo chmod 777 /var/lock 
 
 ### First run
 You may want to run the program before connecting the Arduino --- this will allow you to check and see if your system has any pre-existing ports --- make note of any, once the Arduino is loaded it should be on a new port.
@@ -73,17 +73,15 @@ and you'll be all set to configure it. Please note that while 115200 baud is use
 
 ### Configuring ###
 
-Your grbl settings should look like this:
+To view your settings type in the command type $$ (see screen shot below of settings):
 
 ![shapeoko 2 grbl settigns](helloworld/check_grbl_settings.png)
 
-*Note that in previous versions of that image, $5 was set to 2500, not 500.*
-
 To change a setting, type $ then the setting number, an equals sign, and the desired value:
 
-		$1=40.020
+    $1=40.020
 
-will set the X-axis.
+will set the Y-axis. Further details are [on the wiki under Grbl Configuration](http://www.shapeoko.com/wiki/index.php/Grbl_Configuration).
 
 ###Next step [Electronics](electronics.html)
 
