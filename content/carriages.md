@@ -24,7 +24,7 @@ The 3 plates with stepper motors are identical and interchangeable. The plates a
 
 **Note:** The plates are laser-cut and powder-coated --- please examine the holes to ensure that M5 bolts and the eccentric nuts will fit --- if there are any holes with obstructions, clear these using a knife blade, round file or other tool.
 
-It might be easier and more straight-forward to assemble all four of them to match the Z-axis motor carriage mount plate, (see the first, slightly more detailed diagram on the [Z-axis](http://docs.shapeoko.com/zaxis.html) page, [exploded view of Z Assembly Carriage](tPictures/PS20021-100.svg)) then set one aside for that, and add smooth idler wheels to make the other three.
+It might be easier and more straight-forward to assemble all four of them to match the Z-axis motor carriage mount plate, (see the first, slightly more detailed diagram on the [Z-axis](http://docs.shapeoko.com/zaxis.html) page, [exploded view of Z Assembly Carriage](http://docs.shapeoko.com/content/tPictures/PS20021-100.svg)) then set one aside for that, and add smooth idler wheels to make the other three.
 
 When attaching V-wheels and Smooth Idlers, push them away from the horizontal centerline of the plate (towards what will be the top of the machine for the static wheels and smooth idlers) --- this will maximize the available space and minimize the chance of the wheels slipping. Similarly, turn the eccentric nuts to move the dynamic V-wheel as far as possible from the matching static one (towards the bottom of the machine), so as to have the widest possible gap to make it easier to mount each assembly on the MakerSlide.
 
