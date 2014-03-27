@@ -15,7 +15,7 @@ _For simplicity, the above wiring diagram omits the (optional) terminal blocks f
 
 **N.B., stepper driver chips are fragile and may be damaged by applying power without a motor connected --- always wire things up completely, and verify all connections each time before applying power.**
 
-Please note that stepper motors can be wired up in many different ways and still function, though the motors may turn in the reverse of the desired direction (stepper motors are reversed by swapping pairs of wires). The diagram shows one such method, which should result in correct motor rotation. The idea is to follow the wiring diagram which should "just work" --- the important thing is to follow one consistent technique when wiring the machine initially, being certain to maintain the pairing of the wires (see [this page](http://www.shapeoko.com/wiki/index.php/Assembly_troubleshooting#Motors_Spin_in_Wrong_Direction) for information on wiring stepper motors), then if need be, one can alter the wiring to correct the direction of rotation, or [change the settings in Grbl](http://www.shapeoko.com/wiki/index.php/Grbl#Invert_Bits).
+Please note that stepper motors can be wired up in many different ways and still function, though the motors may turn in the reverse of the desired direction (stepper motors are reversed by swapping pairs of wires). The diagram shows one such method, which should result in correct motor rotation. The idea is to follow the wiring diagram which should "just work" --- the important thing is to follow one consistent technique when wiring the machine initially, being certain to maintain the pairing of the wires, then if need be, one can alter the wiring to correct the direction of rotation, or [change the settings in Grbl](http://www.shapeoko.com/wiki/index.php/Grbl#Invert_Bits).
 
 ## Requirements
 
@@ -52,7 +52,7 @@ Now that we have everything gathered up, you should find yourself with a setup s
 
 ![image of required components](tPictures/so_electronics_parts_4.jpg)
 
-First thing that we do is plug our Arduino into the computer and test it. If this has already been done (see [Software](http://docs.shapeoko.com/software.html) skip to **Hook Stuff Up** below.
+First thing that we do is plug our Arduino into the computer and test it. If you are confident your Arduino works, skip to **Hook Stuff Up** below.
 
 ![Arduino plugged into USB cable](tPictures/so_e_arduino_lit_4.jpg)
 
@@ -70,9 +70,9 @@ Launch your selected Communication/Control program on your computer. Connect to 
 ![Arduino and gShield on edge](tPictures/so_e_arduino_gshield_oe_2.jpg)
 ![Arduino and gShield assembled](tPictures/so_e_arduino_gshield_aa_2.jpg)
 
-The next step is to plug the Arduino into the gShield. The Arduino will run Grbl, while the gShield will be connected to the stepper motors and will control them. Be careful of the electronics, not to bend any pins, or to allow static electricity to damage them.
+The next step is to plug the Arduino into the gShield. Be careful of the electronics, not to bend any pins, or to allow static electricity to damage them.
 
-You will need to connect the gShield to the terminal blocks (using the 4 conductor grey wire) and the terminal blocks to the motors. If you have very long wires coming off of the stepper motors you will have the option of choosing where the terminal blocks are placed, either on the gantry, or connected to the electronics. If the wires are short, then the terminal blocks will need to be attached to the gantry. On the gantry minimizes the wear and tear on the motor leads, limiting it to the 4 conductor grey wire (this is easily sourced at any home improvement store), while hiding the terminal blocks away, or directly connecting the leads if long enough, provides for a neater appearance.
+You will need to connect the gShield to the terminal blocks (using the 4 conductor grey wire). The stepper motors will be connected to the terminal blocks using the lead wires. If your stepper motor has very long wires you will have the option of choosing where the terminal blocks are placed, either on the gantry, or connected to the electronics. If the wires are short, then the terminal blocks will need to be attached to the gantry. Wiring your stepper motors to terminal blocks on the gantry minimizes the wear and tear on the motor leads, limiting it to the 4 conductor grey wire, while hiding the terminal blocks away, or directly connecting the leads if long enough, provides for a neater appearance.
 
 ![Stepper motor, terminal block, screwdriver](tPictures/so_e_stepper_motor_tb_2.jpg)
 ![Stripped wires](tPictures/so_e_wire_stripped_2.jpg)
@@ -119,20 +119,20 @@ The green stepper motor connectors should be unscrewed so as to open them up as 
 
 ![Open connector on gShield](tPictures/so_e_arduino_open_4.jpg)
 
-Connect the grey wires from the stepper motors. Lastly one must connect the power. Note that each green block represents one axis. Be certain to connect the dual-motor Y-Axis to the correct block.
+Carefully connect the grey wires from the stepper motors (be gentle since you do not want to crack the circuit boards or dislodge any components). Note that each green block represents one axis. Be certain to connect the dual-motor Y-Axis to the correct block. 
 
 Once completed, all wires will be connected and none will be loose. It is important that the wires be connected securely since the various parts will be in motion, and applying power to a stepper driver which is not connected to a motor may damage the driver.
 
-If you have a multimeter you may wish to test the connections for continuity.
+Examine the connections once you are done for possible shorts and remake any connections which do not seem safe and secure. If you have a multimeter you may wish to test the connections for continuity.
 
 
 ###Power###
 
-_Be careful with the power supply, and don't work on power wires when the power supply is plugged in._
+**Be careful with the power supply, and don't work on power wires when the power supply is plugged in.**
 
 **Caution:** Please note that the 12V power supply has a connector which matches the Arduino's 5V power supply connection --- it must not be plugged into said connector. The Arduino is able to draw its power over the USB connection, so the power connector on the Arduino is not used.
 
-First, strip the leads from the raw end of the barrel connector plug, it may also be necessary to split the lead at the end so as to allow it to neatly connect to the power connector on the gShield.
+Lastly one must connect the power. First, strip the leads from the raw end of the barrel connector plug, it may also be necessary to split the lead at the end so as to allow it to neatly connect to the power connector on the gShield.
 
 ![Stripped lead for barrel connector](tPictures/power_connection.jpg)
 
@@ -182,6 +182,8 @@ Once everything has been successfully tested you should dismantle at least the t
 
 Once everything has been successfully assembled you should re-test jogging all the axes to ensure that movement is properly calibrated in terms of direction/rotation and distance travelled/number of steps/revolutions.
 
+For troubleshooting possible issues with your steppers, see [the stepper section of the Assembly Troubleshooting page](http://www.shapeoko.com/wiki/index.php/Assembly_troubleshooting#Motors_Spin_in_Wrong_Direction) for information on wiring stepper motors)
+ 
 ###Next step [Wheels & Idlers](wheels.html)
 
 To express concerns, post on the [forums](http://www.shapeoko.com/forum/index.php), to suggest improvements without using github, edit [this wiki page](http://www.shapeoko.com/wiki/index.php?title=Electronics_2&action=edit&redlink=1).
