@@ -4,9 +4,11 @@
 
 ![glamour photo of ShapeOko 2 front right diagonal](tPictures/shapeoko_2.jpg)
 
-Thank you for supporting Project Shapeoko, an opensource CNC machine which may be used for milling, lasercutting, 3D printing, cutting fabric, etc. The work area is approximately 12" x 12" x 2.5" (but can be [enlarged](http://www.shapeoko.com/wiki/index.php/Scaling_Up), and the Z-axis can be extended to ~3.5" by replacing the universal spindle mounts with user-cut mounts which increase the clearance) and precision is dependent upon the belts, pulleys, motors and electronics which are selected (for the default SO2, that is 1/40th of a mm along X and Y, 1/320th of a mm along Z ([ShapeOko 2 Grbl Configuration page](http://www.shapeoko.com/wiki/index.php/Grbl_Configuration)). ShapeOko is named after the **Shape**ways 3D printing and the Pon**oko** laser cutting services and was initially launched on [Kickstarter](http://www.kickstarter.com/projects/edwardrford/project-shapeoko-a-300-complete-cnc-machine?ref=live).
+Thank you for supporting Project Shapeoko, an opensource CNC machine which may be used for milling, lasercutting, 3D printing, cutting fabric, etc. The work area is approximately 12" x 12" x 2.5" (but can be [enlarged](http://www.shapeoko.com/wiki/index.php/Scaling_Up), and the Z-axis can easily be extended to ~3.5", or more by replacing the MakerSlide and threaded rod) and precision is dependent upon the belts, pulleys, motors and electronics which are selected (for the default SO2, that is 1/40th of a mm along X and Y, 1/320th of a mm along Z ([ShapeOko 2 Grbl Configuration page](http://www.shapeoko.com/wiki/index.php/Grbl_Configuration)). ShapeOko is named after the **Shape**ways 3D printing and the Pon**oko** laser cutting services and was initially launched on [Kickstarter](http://www.kickstarter.com/projects/edwardrford/project-shapeoko-a-300-complete-cnc-machine?ref=live).
 
 The following pages are filled with the information you need to assemble your Shapeoko 2 desktop CNC machine. Please read through them in advance, and make note of things to check and verify before beginning assembly. If you have any difficulties with assembly, please check the ShapeOko [wiki](http://www.shapeoko.com/wiki) and [forums](http://www.shapeoko.com/forum/index.php). **Please note** that there is a page on [assembly troubleshooting](http://www.shapeoko.com/wiki/index.php/Assembly_troubleshooting) on the wiki.
+
+###A note on diagrams
 
 Where possible, diagrams and illustrations are linked to larger versions which should fill your browser window. Most of the parts diagrams are in SVG format which will allow you to magnify them if using a tablet which supports such. When the SVG diagrams are opened in a browser window, they are interactive --- clicking on the parts list text will highlight the matching part(s) in the diagram). Please note that each SVG diagram comes in two versions, one intended for viewing *in situ* at a typical size, the other, with a suffix of "-100" which is set to fill a browser window --- each image's link is of course to that latter version.
 
@@ -34,7 +36,7 @@ If you are interested in contributing to the docs pages, please see [this page](
 
 ##Assembly Steps
 
-The first thing to do is to compare what you have received with the inventory sheet included with your kit. For reference, there is also a [B.O.M. (Bill of Materials) with sortable columns and (some) options on the wiki](http://www.shapeoko.com/wiki/index.php/BOM). Please note that part specifications / sizes may change with different kit batches, especially for aspects which do not affect functionality and fit, also, any bags which don't have a part number and quantity should be sorted out and matched against the B.O.M. If anything in your kit is missing or damaged after your initial review, contact [Inventables Customer Service](https://www.inventables.com/about): [help@inventables.com](mailto:help@inventables.com) to make arrangements all-at-once for everything, so that one doesn't have to wait on multiple shipments.
+The first thing to do is to compare what you have received with the inventory sheet included with your kit. For reference, there is also a [B.O.M. (Bill of Materials) with sortable columns and (some) options on the wiki](http://www.shapeoko.com/wiki/index.php/BOM). Please note that part specifications / sizes may change with different kit batches, especially for aspects which do not affect functionality and fit. Also, any bags which don't have a part number and quantity should be sorted out and matched against the B.O.M. If anything in your kit is missing or damaged after your initial review, contact [Inventables Customer Service](https://www.inventables.com/about): [help@inventables.com](mailto:help@inventables.com) to make arrangements all-at-once for everything, so that one doesn't have to wait on multiple shipments.
 
 ##Software
 [Goto the Instructions](software.html)
@@ -68,7 +70,7 @@ A lot of the "work" required to assemble the machine is done in this step. It's 
 ##Carriages
 [Goto the Instructions](carriages.html)
 
-This is the most labor intensive part of the assembly. You will be assembling 3 motor mount plates. Please note that before beginning this section you must decide which wiring option you will use.
+This is the most labor intensive part of the assembly. You will be assembling 3 motor mount plates. Please note that before finishing this step you must decide which wiring option you will use.
 
 ![exploded view of carriage](tPictures/so_motor_mount_carriages_parts_4.jpg)
 
@@ -113,7 +115,7 @@ The work area integrates the last component with the previous assemblies, comple
 ##Electrical Wiring##
 [Goto the Instructions](wiring.html)
 
-The machine is complete when the electronics are wired up to the motors and the belts are installed, allowing movement. There are three wiring options, one must be decided on.
+The machine is complete when the electronics are wired up to the motors and the belts are installed, allowing movement. One must make a decision about which wiring option one will use before beginning to assemble the machine.
 
 ---
 
