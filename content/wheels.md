@@ -23,7 +23,7 @@ The belts which the stepper motors drive the X- and Y-axes  require smooth idler
 
 ####Tools
 
-* one M5 bolt to align the pieces during assembly
+* one M5 x 30mm Button Head Cap Screw (BHCS) to align the pieces during assembly
 
 [![V-Wheel Assembly](tPictures/25203-02.svg)](content/tPictures/25203-02-100.svg)
 
@@ -61,7 +61,7 @@ Alternate, assembly-line procedure for the V-Wheels:
 
 ####Tools
 
-* one M5 bolt to align the pieces during assembly
+* one M5 x 30mm Button Head Cap Screw (BHCS) to align the pieces during assembly
 
 [![Smooth Idler Assembly](tPictures/25197-02.svg)](content/tPictures/25197-02-100.svg)
 
