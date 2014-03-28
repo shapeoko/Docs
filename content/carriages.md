@@ -5,9 +5,9 @@
 
 Before beginning this section, you will have needed to select a [wiring option](http://docs.shapeoko.com/wiring.html), either one of your own devising, or one of the three options as noted below. 
 
-* [Option \#1](wiring_1.html) (soldering), needs no special attention at this step other than noting the motor orientations shown in the steps below.
-* If you are going to use the terminal block method [option \#2](wiring_2.html), you will need to attach those terminal blocks at the end of this step.
-* [Option \#3](wiring_3.html), although not necessary at this step, it could make life easier to attach your Arduino to the *right* Y axis motor mount plate.
+* [Option \#1](wiring_1.html) (Soldering), needs no special attention at this step other than noting the motor orientations shown in the steps below.
+* [Option \#2](wiring_2.html) (Terminal Blocks), if you are going to use the this method, you will need to attach those terminal blocks at the end of this step.
+* [Option \#3](wiring_3.html) (Experimental!), although not necessary at this step, it could make life easier to attach your Arduino to the *right* Y axis motor mount plate.
 
 _See those specific options for more details._
 
@@ -60,9 +60,9 @@ These are the plates that will mount on either end of the gantry and on the rear
 
 ####Parts for attaching stepper motors
 
- *   M3 x 8mm SHCS x 12 pcs (may vary with motor thread depth, use shorter screws (6mm) if threads bottom out, or additional washers) 
- *   M3 Flat Washer x 12 pcs
- *   GT2 pulley (note that the set screw end goes on first and the pulley must align with the Smooth Idler Wheels)
+ *   **M3 x 8mm Socket Head Cap Screws (SHCS)** x 12 pcs (may vary with motor thread depth, use shorter screws (6mm) if threads bottom out, or additional washers) 
+ *   **M3 Flat Washer** x 12 pcs
+ *   **GT2 pulley** x 3 pcs (note that the set screw end goes on first and the pulley must align with the Smooth Idler Wheels)
 
 
 ####Tools
@@ -81,7 +81,7 @@ These are the plates that will mount on either end of the gantry and on the rear
 	- two total, these will need an aluminum spacer (**\#9**) (**Note:** You should sandwich the spacer in between the two washers (**\#5**), for the sake of symmetry and to ensure the bearings rotate freely.)
 	- take note of the orientation of the bolt (**\#4**)
 	- take note of the orientation of the bearings/idler (the plastic part is away from the carriage plate, while the metal bearing is to the plate --- in theory, it would have been possible to have foregone the idler sub-assembly and instead: a. place the smooth idler onto the bolt/bearings, b. place a bearing onto the bolt on top of the smooth idler, c. place a precision shim washer onto the bearing, d. add the second bearing, e. add a washer, the spacer and another washer before placing the bolt and its sub-assembly into the proper hole, then adding the final washer and nut on the other side)
-3. Attach your stepper motor
+3. Attach your stepper motor - suggested orientations are shown at the bottom of this page
 	- Attach the GT2 pulley (it is easier to attach the pulley before mounting the motor.)
 	- Use four M3 SHCS and four M3 flat washers to attach each stepper motor (**Note:** You may need more than one washer per bolt, depending upon the depth of the threads in the motor and the length of your bolt (6mm was initially specced, 8mm is shipping in current kits). Use an equal number of washers per motor. Be careful not to strip out the threads in the motor.) When you tighten the motor into place, do so in an X pattern. You want the face of the motor to be equally tight against the plate.
 
