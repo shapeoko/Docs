@@ -57,7 +57,7 @@ Then, zip tie that to the side motor mount
 
 Now that the bundle has been tied to the motor mount plate, go ahead and route the wires around the stepper motor as shown below. 
 
-![side view svg](wiring/wiring_3_sideview.svg);
+![side view svg](wiring/wiring_3_sideview.svg)
 
 Once that is finished, you are done (for now) with the X and Z stepper motor wires. Just move those out of the way. Now it's time to wire up the Y-axis!
 
@@ -65,7 +65,7 @@ Once that is finished, you are done (for now) with the X and Z stepper motor wir
 
 Here is an overview of how the Y-axis wires are routed. From the front, you can see the second Y stepper motor (the one on the left side of the machine) has its wires routed through the MakerSlide. 
 
-![front view svg](wiring/wiring_3_frontview.svg);
+![front view svg](wiring/wiring_3_frontview.svg)
 
 It's easiest if you slide the gantry all the way towards the left side. Then twist the wires together (like we did to get them through the expandable braiding earlier), then thread the wires through the horizontal slot on the carriage plates. Like this:
 
