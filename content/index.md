@@ -68,7 +68,7 @@ A lot of the "work" required to assemble the machine is done in this step. It's 
 ##Carriages
 [Goto the Instructions](carriages.html)
 
-This is the most labor intensive part of the assembly. You will be assembling 3 motor mount plates.
+This is the most labor intensive part of the assembly. You will be assembling 3 motor mount plates. Please note that before beginning this section you must decide which wiring option you will use.
 
 ![exploded view of carriage](tPictures/so_motor_mount_carriages_parts_4.jpg)
 
@@ -113,7 +113,7 @@ The work area integrates the last component with the previous assemblies, comple
 ##Electrical Wiring##
 [Goto the Instructions](wiring.html)
 
-The machine is complete when the electronics are wired up to the motors and the belts are installed, allowing movement.
+The machine is complete when the electronics are wired up to the motors and the belts are installed, allowing movement. There are three wiring options, one must be decided on.
 
 ---
 
