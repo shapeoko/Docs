@@ -69,7 +69,7 @@ Alternate, assembly-line procedure for the V-Wheels:
 ###Assemble all of the smooth idlers (6 idlers total)
 
 1. Take one bearing (**\#1**), and insert it into the open end of the smooth idler (**\#3**)
-2. using one of the M5 x 30mm BHCS, slide the idler over the screw
+2. Using one of the M5 x 30mm BHCS, slide the idler over the screw
 3. Slide a single precision washer (**\#2**) over the screw, down onto the bearing
 4. Slide another bearing around the screw
 5. Using your thumbs, squeeze the assembly together. A small portion of the second bearing will be protruding from the edge of the smooth idler. This is normal. We will tighten the entire assembly when the idlers gets bolted to the motor mount plate (the bearing will still show at the side facing the plate).
