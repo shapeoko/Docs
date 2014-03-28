@@ -2,7 +2,7 @@
 
 ##Y-Axis Rail Assembly (PS20026)
 
-**Note:** The remaining two pieces of MakerSlide must have threads in it, cut by tapping. If you have not yet finished tapping your MakerSlide, you can put this off no longer.
+**Note:** The two pieces of MakerSlide used in the following steps must have threads in them, cut by tapping. If you have not yet finished tapping your MakerSlide, you can put this off no longer.
 
 ### Overview
 
