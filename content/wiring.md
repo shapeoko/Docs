@@ -63,7 +63,7 @@ The following are used to mount the terminal blocks, but zip ties (or foam adhes
 
 * 2.5mm Hex key
 * 5.5mm wrench
-* M3 x 16mm SHCS x 6 pcs.
+* M3 x 16mm Socket Head Cap Screw (SHCS) x 6 pcs.
 * M3 flat washer x 12 pcs.
 * M3 hex nut x 6 pcs.
 
