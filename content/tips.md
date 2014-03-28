@@ -93,6 +93,10 @@ Anyway, the flutes keep the chips out of the way so the teeth can keep cutting. 
 
 The awesome news is that you can hone your tapping skillz (with a z!) by practicing on the Z-axis MakerSlide (the short one that measures 200mm). We only need 1 end of that piece tapped, so if you were to make a mistake while learning, no big deal. Just flip the piece over and use the other side. But, you only get 2 practice holes! Use them wisely. (In theory, one could also practice tapping on the holes at each end of the square aluminum extrusion used for the base.) All of the other pieces of MakerSlide must have all four holes tapped, and those tapped holes will be needed to assemble the machine.
 
+
+#####What needs tapping?
+You need to tap both holes in both ends of each long piece of MakerSlide (4 holes), the short piece for the Z-Axis only needs one end tapped (2 holes). You will have to tap 18 holes in total.
+
 Please see the section below and the [wiki link](http://www.shapeoko.com/wiki/index.php/Makerslide) for more information.
 
 ---
