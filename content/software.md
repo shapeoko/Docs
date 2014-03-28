@@ -72,7 +72,7 @@ and you'll be all set to configure it. Please note that while 115200 baud is use
 
 ### Configuring ###
 
-To view your settings type in the command type $$ (see screen shot below of settings):
+To view your settings type in the command  $$ (see the screen shot below for typical settings):
 
 ![shapeoko 2 grbl settigns](helloworld/check_grbl_settings.png)
 
