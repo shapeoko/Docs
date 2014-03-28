@@ -4,11 +4,11 @@
 
 ![schematic](sketches/electronics_layout.svg)
 
-The ShapeOko 2 electrical wiring is, like the rest of the machine, flexible. There are 3 documented options to wire the machine easily. Each option has been broken out into a separate page for clarity. Depending on your setup, and skill set, one option may be better for you than another (or you may want to work up a totally different option which is suited to your needs --- one word of warning, you will see photos of machines which have terminal blocks or wiring directly connected to the stepper motors --- this is potentially unsafe, since the motors may heat up to the point of deforming the plastic of the terminal block allowing a wire to come loose). 
+The ShapeOko 2 electrical wiring is, like the rest of the machine, decided upon by the user. There are 3 documented options to wire the machine easily. Each option has been broken out into a separate page for clarity. Depending on your setup, and skill set, one option may be better for you than another (or you may want to work up a totally different option which is suited to your needs --- one word of warning, you will see photos of machines which have terminal blocks or wiring directly connected to the stepper motors --- this is potentially unsafe, since the motors may heat up to the point of deforming the plastic of the terminal block allowing a wire to come loose). 
 
 Chose your option by evaluating the requirements of your machine, its ultimate size ([if scaling up](http://www.shapeoko.com/wiki/index.php/Scaling_Up)), how you intend to use it and your skill-set and available tools and aesthetic. While the default ShapeOko 2 size can make use of expandable braiding to manage the wiring, you may wish to look at other [cable management options](http://www.shapeoko.com/wiki/index.php/Cable_Management).
 
-If you tested your electronics with terminal blocks it might suffice to merely detach the grey stepper motors from them, but it would probably be better to disconnect them completely and re-strip any leads with broken wires.
+If you tested your electronics with terminal blocks it might suffice to merely detach the grey stepper motors from them, but it would probably be better to disconnect them completely, check the wiring carefully and re-strip any leads with broken wires.
 
 **Remember, stepper driver chips are fragile and may be damaged by applying power without a motor connected --- always wire things up completely, and verify all connections each time before applying power.**
 
@@ -46,7 +46,7 @@ This is the direct wire method that requires (modest) soldering skills to comple
 
 ## Option #2 - Terminal Blocks
 
-This is the terminal block method. This method is easy (no soldering or other special skills), but requires that you make preparations **WHILE** you are assembling the machine (attaching the terminal blocks to the carriages). While it is possible to attach the terminal blocks after assembly, it is very difficult and potentially frustrating, far better to do it in advance. It is especially well-suited for machines which will be scaled up in size, or for motors which have short leads.
+This is the terminal block method. This method is easy (no soldering or other special skills), but requires that you make preparations **WHILE** you are assembling the machine (attaching the terminal blocks to the carriages), or come up with some alternative technique for mounting the terminal blocks. While it is possible to attach the terminal blocks after assembly, it is very difficult and potentially frustrating, far better to do it in advance. It is especially well-suited for machines which will be scaled up in size, or for motors which have short leads.
 
 ###You will need the following tools and parts to complete this option
 
@@ -59,7 +59,7 @@ This is the terminal block method. This method is easy (no soldering or other sp
 * 4-conductor wire (shielded, in addition to the 4 color-coded copper conductors there is a steel "drain wire" which may _optionally_ be connected to ground at the controller end, but should be trimmed off with the shielding at the motor end)
 * Razor Blade (wire stripper)
 
-The following are used to mount the terminal blocks, but zip ties may be used instead.
+The following are used to mount the terminal blocks, but zip ties (or foam adhesive picture mounting strips) may be used instead.
 
 * 2.5mm Hex key
 * 5.5mm wrench
