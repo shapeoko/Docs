@@ -62,7 +62,7 @@ Note, the diagram shows the gantry MakerSlide shifted to the front of the machin
 
 Place the 10mm M5 bolts (**\#4**) with washers (**\#6**) into the bottom holes on the open end plates which are attached to the MakerSlide, thread on the insertion nuts (**\#5**), then carefully slide the rail assemblies (**\#2**) onto the wasteboard extrusion. Tighten the bolts enough to be certain the threads won't pull free.
 
-Turn the eccentric nuts on the V-wheels on the Complete Gantry (**\#1**) so that they are as far from the static V-wheels as is possible. Drive the Complete Gantry onto the two Y-Axis Rail Assemblies (PS20026), then attach the remaining open end plates. Make certain that a pair of Belt Anchor Clips is in each length of Makerslid before fastening the end plates.
+Turn the eccentric nuts on the V-wheels on the Complete Gantry (**\#1**) so that they are as far from the static V-wheels as is possible. Drive the Complete Gantry onto the two Y-Axis Rail Assemblies (PS20026), then attach the remaining open end plates. Make certain that a pair of Belt Anchor Clips is in each length of Makerslide before fastening the end plates.
 
 [![](tPictures/so_gantry_half_carriage_mounted_parts_4.jpg)](content/tPictures/so_gantry_half_carriage_mounted_parts_8.jpg)
 
