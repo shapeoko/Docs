@@ -5,7 +5,7 @@
 
 ![Arduino, gShield, wiring, stepper motors, lit](tPictures/so_e_arduino_wired_li_2.jpg) ![image of required components](tPictures/so_electronics_parts_2.jpg)
 
-Before we get all crazy bolting our new machine together, let's give our electronics a test run. It's frustrating to have the machine fully assembled, only to find there is a problem with your electronics that may require disassembly! Let's cut that off at the pass and give everything a thorough checking first.
+Before we get all crazy bolting our new machine together, let's give our electronics a test run. It would be frustrating to have the machine fully assembled, only to find that there is a problem with your electronics that may require disassembly! Let's cut that off at the pass and give everything a thorough checking first.
 
 For reference, the image below shows the concept of wiring Shapeoko 2.
 
@@ -101,7 +101,7 @@ Make all connections in the same colour order. Shown in the wiring diagram is:
 
 ![Stepper motor connected to terminal block, connected to grey wire](tPictures/so_e_steppermotor_tb_wired_4.jpg)
 
-Since the ShapeOko 2 uses two motors on the Y-Axis and the gShield only has 3 stepper drivers, it is necessary to wire the two motors to one terminal block as shown below. Note that it is necessary to reverse one pair of wires so that the motors will run in opposite directions when placed on the gantry in opposite orientations.
+Since the ShapeOko 2 uses two motors on the Y-Axis and the gShield only has 3 stepper drivers, it is necessary to wire the two motors to one stepper connector block (or terminal block as shown below). Note that it is necessary to reverse one pair of wires so that the motors will run in opposite directions when placed on the gantry in opposite orientations.
 
 ![Wiring Y-Axis motors to terminal block](tPictures/so_e_steppermotor_tb_y_4.jpg)
 
@@ -113,15 +113,15 @@ Next, connect the grey wires from the terminal blocks to the stepper motors. Mak
 
 ![image of required components](tPictures/so_e_steppermotors_ar_4.jpg)
 
-Please note the gShield takes two different sizes of screwdriver. 1/8" for the screws in the blue power connector(2 screws, may be green), 3/32" for the screws in the green stepper motor connectors (4 screws).
+Please note the gShield takes two different sizes of screwdriver. 1/8" for the screws in the power connector (2 screws, may be blue or green), 3/32" for the screws in the stepper motor connectors (4 screws, should be green).
 
-The green stepper motor connectors should be unscrewed so as to open them up as the right-most connector is below.
+The stepper motor connectors should be unscrewed so as to open them up as the right-most connector is below.
 
 ![Open connector on gShield](tPictures/so_e_arduino_open_4.jpg)
 
-Carefully connect the grey wires from the stepper motors (be gentle since you do not want to crack the circuit boards or dislodge any components). Note that each green block represents one axis. Be certain to connect the dual-motor Y-Axis to the correct block. 
+Carefully connect the grey wires from the stepper motors (be gentle since you do not want to crack the circuit boards or dislodge any components). Note that each such block represents one axis. Be certain to connect the dual-motor Y-Axis to the correct block. 
 
-Once completed, all wires will be connected and none will be loose. It is important that the wires be connected securely since the various parts will be in motion, and applying power to a stepper driver which is not connected to a motor may damage the driver.
+Once completed, all wires will be connected and none will be loose. It is important that the wires be connected securely since the various parts will be in motion, and applying power to a stepper driver which is not connected to a motor may damage the gShield (or the stepper driver if using a shield which uses discrete stepper drivers).
 
 Examine the connections once you are done for possible shorts and remake any connections which do not seem safe and secure. If you have a multimeter you may wish to test the connections for continuity.
 
@@ -154,7 +154,7 @@ Plug the barrel connector into the matching connector from the power supply, plu
 
 Attaching tape to the motor shafts makes it easier to see the rotation when testing before the machine is assembled, or you could attach the pulleys (these are mounted so that the flat portion is at the end of the shaft and the set screw is closer to the motor housing). Once the machine is assembled, it is a good idea to retest so as to verify the connections and direction of rotation. When initially testing a machine, place it in a neutral position with space to move up, down and to all four sides, so as to prevent a crash if it should move in the wrong direction or farther than expected.
 
-Load up a Communication / Control program and use its jog functionality to test each Axis. For the Universal GcodeSender, this would typically involve opening the connection on the correct COM port, selecting baud rate of 9600, then switching to the "Machine Control" tab, and using the buttons to move the X, Y, and Z axes. 
+Load up a Communication / Control program and use its jog functionality to test each Axis. For the Universal G-Code Sender, this would typically involve opening the connection on the correct COM port, selecting baud rate of 9600, then switching to the "Machine Control" tab, and using the buttons to move the X-, Y-, and Z-axes. 
 
 If one or more motors don't move or don't move smoothly, you may need to adjust the trim pots on the gShield, see [the Motor Current section of the Tuning page on the wiki](http://www.shapeoko.com/wiki/index.php/Tuning#Motor_Current).
 
@@ -165,7 +165,7 @@ Note that once the machine is assembled, the positive direction for X is right, 
 
 ###Go For a Spin###
 
-Z-Axis. Note that when testing, the Z-axis should turn for a longer duration than the other axes since the screw requires more revolutions to move a given distance than the belts used on the X- and Y-axes. With the standard drive (M8 on Z, 20-tooth GT2 on X and Y), for the same distance travelled, the Z motor turns 8 times more than the X and Y motors.
+Z-Axis --- Note that when testing, the Z-axis should turn for a longer duration than the other axes since the screw requires more revolutions to move a given distance than the belts used on the X- and Y-axes. With the standard drive (M8 on Z, 20-tooth GT2 on X and Y), for the same distance travelled, the Z motor turns 8 times more than the X and Y motors.
 
 ###Another Spin###
 
