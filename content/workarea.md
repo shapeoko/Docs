@@ -78,7 +78,7 @@ Congratulations! You've built a ShapeOko!
 
 ### Squaring the Machine
 
-Check that each component is square to the others using a known-to-be-good square. If you don't have a square, measure the diagonals and compare the distances. Loosen bolts, adjust and re-tighten as needed until everything is true and moves linearly.
+Check that each component is square to the others using a known-to-be-good square. If you don't have a square, measure the diagonals and compare the distances. Loosen bolts, adjust and re-tighten as needed until everything is true and moves linearly. See (Calibration: Squaring the Machine on the wiki)[http://www.shapeoko.com/wiki/index.php/Calibration_and_Squaring_the_Machine#Squaring_the_Machine] for further details.
 
 ### Adjusting the V-Wheels
 
