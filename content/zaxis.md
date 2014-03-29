@@ -125,7 +125,7 @@ One should also attach the motor for the Z-axis at this time.
 
 [![exploded view of Z-Axis Rail Assembly](tPictures/PS20028.svg)](content/tPictures/PS20028-100.svg)
 
-The Z-Axis Rail Assembly is the most intricate and complex assembly, and requires patience to assemble. One way to do this is to assemble it from the inside out, starting with the smallest pieces. One could of course try top-to-bottom or bottom-to-top --- just follow the diagram and be careful to use equal numbers of spacers/washers for each connector and to not damage or bend the brass stand-offs.
+The Z-Axis Rail Assembly is the most intricate and complex assembly, and requires patience to assemble. One way to do this is to assemble it from the inside out, starting with the smallest pieces as described below. One could of course try top-to-bottom or bottom-to-top --- just follow the diagram and be careful to use equal numbers of spacers/washers for each connector and to not damage or bend the brass stand-offs.
 
 1. Take one Z-Axis Motor Mount Plate (**\#3**, this will become the bottom)
 - place M3 washers (**\#13**) onto the 12mm M3 screws (**\#12**) and place them in the appropriate holes
@@ -134,14 +134,13 @@ The Z-Axis Rail Assembly is the most intricate and complex assembly, and require
 - insert that into the second Z-axis Motor Mount Plate (**\#3**)
 - insert the two M5 bolts (**\#10**) and M5 washers (**\#7**) from the other side of that plate
 - add the last Nylon Spacers (**\#9**) to the end of each bolt (**\#10**) and slide the top and bottom Z-axis Motor Mount Plates together --- carefully set this sub-sub-assembly aside
-- Attach the Flexible Coupler (**\#2**) to the stepper motor
-- Place an M3 Washer (**\#13**) onto a Brass Standoff Spacer (**\#8**) and test fit it into the stepper motor --- if it bottoms out, add another washer and try again --- repeat for the other brass standoffs. Use an equal number of M3 Washers when attaching the Brass Standoff Spacers to the stepper motor --- if a brass standoff doesn't seat as deeply as it should, because the threads aren't well-formed, use a die (or very carefully, a steel nut) to re-thread.  
-- After the successful test-fitting, attach the brass standoffs to the sub-sub-assembly from Step \#7 --- make sure not to force anything when tightening the standoffs, remember it's only brass and can snap off inside the motor if you're not careful enough.  The standoffs should need only to be snug, as the screws on the other end prevent the standoffs from rotating. Be careful of the orientation of the sub-sub-assembly, not to lose the M5 bolts and plastic spacers.
+- Attach the Flexible Coupler (**\#2**) to the stepper motor (the shaft should fall just short of half the length of the coupler)
+- Place an M3 Washer (**\#13**) onto a Brass Standoff Spacer (**\#8**) and fasten it to the stepper motor --- if it bottoms out, add another washer and try again --- repeat for the other brass standoffs. Use an equal number of M3 Washers to attach the three Brass Standoff Spacers to the stepper motor --- if a brass standoff doesn't seat as deeply as it should, because the threads aren't well-formed, use a die (or very carefully, a steel nut) to re-thread.  
+- Attach the stepper motor and brass standoffs to the sub-sub-assembly from Step \#7 using the M3 SHCS and M3 washers --- make sure not to force anything when tightening the standoffs, remember it's only brass and can snap off inside the motor if you're not careful enough.  The standoffs should need only to be snug, as the screws on the other end prevent the standoffs from rotating. Be careful of the orientation of the sub-sub-assembly, not to lose the M5 bolts and plastic spacers.
+- Place the Z-axis Shim Plate (**\#5**) on top of the Z Axis Rail  (**\#1**, 200mm MakerSlide) and attach it using the M5 bolts (as noted above, the Z-axis must have threads for these bolts at this point, cut in by tapping) --- be careful of the orientation of the MakerSlide, the V-rails must be oriented as shown in the diagram so that the Spindle Carriage Assembly (see below) V-wheels will fit.
 - After determining the spacing for the Threaded Rod (**\#6**) (see below) thread on one M8 Hex Nut (**\#14**) to the top position on the Threaded Rod
 - Slip the Threaded Rod through the Flanged Bearing of the sub-sub-assembly from Step #7 above
 - Thread on the second M8 Hex Nut
-- Fasten the stepper motor using the M3 screws onto the Brass Standoff Spacer (**\#8**) 
-- Place the Z-axis Shim Plate (**\#5**) on top of the Z Axis Rail  (**\#1**, 200mm MakerSlide) and attach it using the M5 bolts (as noted above, the Z-axis must have threads for these bolts at this point, cut in by tapping) --- be careful of the orientation of the MakerSlide, the V-rails must be oriented as shown in the diagram so that the Spindle Carriage Assembly (see below) V-wheels will fit.
 
 Review all connectors to make certain that everything is tight --- be careful not to bend the threaded rod or strip any screws.
 
