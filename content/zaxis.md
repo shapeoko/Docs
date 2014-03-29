@@ -129,7 +129,7 @@ The Z-Axis Rail Assembly is the most intricate and complex assembly, and require
 
 1. Take one Z-Axis Motor Mount Plate (**\#3**, this will become the bottom)
 - place M3 washers (**\#13**) onto the 12mm M3 screws (**\#12**) and place them in the appropriate holes
-- stack the Nylon Spacers (PS20015) (**\#11**) onto the screws (note that an equal number of spacers is used for each screw, including the M5 bolts which will go into the other plate from the other side in a later step)
+- stack the Nylon Spacers (PS20015) (**\#11**) onto the screws (note that an equal number of spacers is used for each screw, including the M5 bolts which will go into the other plate from the other side in a later step) --- set the beginnings of this sub-sub-assembly aside carefully
 - place the Wave Disc Spring (**\#15**) onto the narrow part of the flanged bearing (**\#4**)
 - insert that into the second Z-axis Motor Mount Plate (**\#3**)
 - insert the two M5 bolts (**\#10**) and M5 washers (**\#7**) from the other side of that plate
