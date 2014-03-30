@@ -30,7 +30,7 @@ Only basic tools are required to assemble the Shapeoko 2. The following tools ar
 * M5x0.8mm Tap and handle
 * Safety glasses
 * cable ties (100)
-* thread lock --- one can either use this after the fact to secure any nut which begins to loosen, or, if one isn't planning on upgrading the machine, one could use it everywhere (this may make fine-tuning more difficult --- use extra care in the assembly if going that route). An alternative would be to instead use lock washers or replace the nuts with nylon insert lock nuts. 
+* thread lock --- one can either use this after the fact to secure any nut which begins to loosen, or, if one isn't planning on upgrading the machine, one could use it everywhere (this may make fine-tuning more difficult --- use extra care in the assembly if going that route). An alternative would be to instead use lock washers or replace the nuts with nylon insert lock nuts. Note that thread locker must not be used on the cylindrical portion of the eccentric nuts --- these must be able to rotate to adjust the machine
 * razor blade (for stripping / cutting wires)
 
 There is one additional item:
@@ -112,6 +112,12 @@ Please see the section below and the [wiki link](http://www.shapeoko.com/wiki/in
 Extrusion profiles and other CAD data are available at [makerslide.com](http://www.makerslide.com/).
 
 Made of aluminum, it is (relatively) soft and easily dinged or even twisted or bent. Be careful of it, especially the rails. If your rails should become nicked or have a flaw which might damage the V-wheels, use a flat fine file, or emery board or very fine sandpaper attached to a sanding block to remove the protrusion without creating a low depression which would cause problems.
+
+####Eccentric Nuts
+
+The ShapeOko 2 switches to eccentric nuts from eccentric spacers. These are used to allow adjustment of the V-wheels so that the linear motion for a given axis is constrained to only that axis.
+
+Unlike the original spacers which were held in place by a separate hex nut set off by a washer, they serve a dual-purpose of also holding things together. When adjusting, one must be careful not to loosen things --- when adjusting clockwise this is not an issue, but if one must make an adjustment counter-clockwise it may be appropriate to use a hex key to to ensure that the M5 bolt rotates to match.
 
 ---
 
