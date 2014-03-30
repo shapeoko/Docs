@@ -91,10 +91,17 @@ At this point, you will need to adjust the machine's V-wheels. These should be t
 
 ####Steps for Silky Smooth Motion
 
+For the X- and Y-axes:
+
 1. Make certain that the four V-Wheels that are mounted with the eccentric nuts are loose. You should notice some slight play once loosened.
 2. Slide the gantry back and fourth. It should feel as if it is gliding freely and smoothly. Remember how this feels as this is what we are striving to reach.
 3. Taking one V-Wheel at a time, adjust the eccentric spacer and fully tighten it. The suggested technique for this is, "Loosen the eccentric spacer until the V-wheel does not rotate when the carriage is moving and then tighten just (and no more!) until the V-wheel rotates when moving the carriage. Overtightening will lead to the V-wheel wearing out.". Slide the gantry back and fourth, is it still how it felt from step 2? If yes, then move on to step 4. If no, then repeat this step until you achieve smooth, gliding motion.
-4. Repeat step 3 until all V-Wheels are properly adjusted. 
+4. Repeat step 3 until all V-Wheels are properly adjusted for each of these axes. 
+
+For the Z-axis:
+
+* Tighten the V-wheels as described above, except that you will have to move the Spindle Mount Carriage by rotating the threaded rod, either by turning the flexible coupler, or by attaching and turning a (knob with crank)[https://www.inventables.com/technologies/knob-with-crank].
+
 
 ## Mount the Belts
 
