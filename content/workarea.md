@@ -82,7 +82,7 @@ Check that each component is square to the others using a known-to-be-good squar
 
 ### Adjusting the V-Wheels
 
-At this point, you will need to adjust the machine's V-wheels. These should be tight enough to hold things in alignment, but loose enough that the machine moves freely and smoothly. The suggested technique for this is, "Loosen the eccentric spacer until the V-wheel does not rotate when the carriage is moving and then tighten just (and no more!) until the V-wheel rotates when moving the carriage. Overtightening will lead to the V-wheel wearing out."
+At this point, you will need to adjust the machine's V-wheels. These should be tight enough to hold things in alignment, but loose enough that the machine moves freely and smoothly. 
 
 * Slide the gantry back and fourth a couple of times to even out the rails and get everything roughly lined up. It may still feel stiff when sliding, but you can adjust that later.
 * Slide the gantry to the back of the machine. Both V-wheels should be touching or at least be the same distance from the belt anchors. Carefully snug up the four screws on the back end plates.
@@ -93,7 +93,7 @@ At this point, you will need to adjust the machine's V-wheels. These should be t
 
 1. Make certain that the four V-Wheels that are mounted with the eccentric nuts are loose. You should notice some slight play once loosened.
 2. Slide the gantry back and fourth. It should feel as if it is gliding freely and smoothly. Remember how this feels as this is what we are striving to reach.
-3. Taking one V-Wheel at a time, adjust the eccentric spacer and fully tighten it. Slide the gantry back and fourth, is it still how it felt from step 2? If yes, then move on to step 4. If no, then repeat this step until you achieve smooth, gliding motion.
+3. Taking one V-Wheel at a time, adjust the eccentric spacer and fully tighten it. The suggested technique for this is, "Loosen the eccentric spacer until the V-wheel does not rotate when the carriage is moving and then tighten just (and no more!) until the V-wheel rotates when moving the carriage. Overtightening will lead to the V-wheel wearing out.". Slide the gantry back and fourth, is it still how it felt from step 2? If yes, then move on to step 4. If no, then repeat this step until you achieve smooth, gliding motion.
 4. Repeat step 3 until all V-Wheels are properly adjusted. 
 
 ## Mount the Belts
