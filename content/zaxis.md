@@ -142,7 +142,7 @@ The Z-Axis Rail Assembly is the most intricate and complex assembly, and require
 - Slip the Threaded Rod through the Flanged Bearing of the sub-sub-assembly from Step #7 above
 - Thread on the second M8 Hex Nut
 
-Review all connectors to make certain that everything is tight --- be careful not to bend the threaded rod or strip any screws.
+Review all connectors to make certain that everything is tight --- be careful not to bend the threaded rod or strip any screws. 
 
 ####Threaded Rod
 
@@ -178,7 +178,11 @@ Insert the 10mm M5 bolts (**\#6**) with an M5 washer (**\#4**) into the Z-Assemb
 
 [![exploded view of Z-axis](tPictures/PS20030.svg)](content/tPictures/PS20030-100.svg)
 
-Turn the eccentric nuts on the Spindle Carriage Assembly (**\#3**) so that they move the matching V-wheels as far as possible from the opposing static V-wheels (think of them as pairs, one movable with an eccentric nut, the other unmoving). Slide the Spindle Carriage Assembly onto the Z-Axis Rail Assembly, match it up with the Delrin Lead nut and turning the threaded rod using the flexible coupler, bring the Spindle Carriage Assembly up so that the V-wheels are completely on the MakerSlide V-rail. Be careful not to nick or damage the Delrin V-wheels, or to cross-thread the Delrin Lead nut. Carefully adjust the eccentric nuts so that the MakerSlide is held in place firmly, but not so tight as to damage the Delrin V-wheels --- they should turn when one rotates the coupler/threaded rod, moving the spindle carriage assembly up or down.
+Turn the eccentric nuts on the Spindle Carriage Assembly (**\#3**) so that they move the matching V-wheels as far as possible from the opposing static V-wheels (think of them as pairs, one movable with an eccentric nut, the other unmoving). Slide the Spindle Carriage Assembly onto the Z-Axis Rail Assembly, match it up with the Delrin Lead nut and turning the threaded rod using the flexible coupler, bring the Spindle Carriage Assembly up so that the V-wheels are completely on the MakerSlide V-rail. Be careful not to nick or damage the Delrin V-wheels, or to cross-thread the Delrin Lead nut. 
+
+If necessary, loosen the bolts holding the Delrin Lead Nut and adjust it to hold the threaded rod as straight as is possible, testing to see how the M8 threaded rod turns.
+
+Carefully adjust the eccentric nuts so that the MakerSlide is held in place firmly, but not so tight as to damage the Delrin V-wheels --- they should turn when one rotates the coupler/threaded rod, moving the spindle carriage assembly up or down.
 
 ##Sub Gantry (PS20031)
 
