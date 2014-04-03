@@ -84,6 +84,7 @@ There is a dynamic version (~15MB) of the above diagram at: [PS20029.svg --- Spi
 ![exploded view of Z-Axis Rail Assembly](tPictures/PS20028_2.png)
 ![Z-Axis Rail Assembly Parts](tPictures/so_z_axis_rail_parts_2.jpg)
 ![Z-Axis Rail Assembly](tPictures/so_z_axis_rail_2.jpg)
+![close-up of bolt in insertion nut](tPictures/so_m5_x_12mm_bhcs_washer_insertion_nut_2.jpg)
 
 One should also attach the motor for the Z-axis at this time.
 
