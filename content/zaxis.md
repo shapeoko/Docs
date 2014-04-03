@@ -137,7 +137,7 @@ The Z-Axis Rail Assembly is the most intricate and complex assembly, and require
 - Attach the Flexible Coupler (**\#2**) to the stepper motor (the shaft should fall just short of half the length of the coupler)
 - Place an M3 Washer (**\#13**) onto a Brass Standoff Spacer (**\#8**) and fasten it to the stepper motor --- if it bottoms out, add another washer and try again --- repeat for the other brass standoffs. Use an equal number of M3 Washers to attach the three Brass Standoff Spacers to the stepper motor --- if a brass standoff doesn't seat as deeply as it should, because the threads aren't well-formed, use a die (or very carefully, a steel nut) to re-thread.  
 - Attach the stepper motor and brass standoffs to the sub-sub-assembly from Step \#7 using the M3 SHCS and M3 washers --- make sure not to force anything when tightening the standoffs, remember it's only brass and can snap off inside the motor if you're not careful enough.  The standoffs should need only to be snug, as the screws on the other end prevent the standoffs from rotating. Be careful of the orientation of the sub-sub-assembly, not to lose the M5 bolts and plastic spacers.
-- Place the Z-axis Shim Plate (**\#5**) on top of the Z Axis Rail  (**\#1**, 200mm MakerSlide) and attach it using the M5 bolts (as noted above, the Z-axis must have threads for these bolts at this point, cut in by tapping) --- be careful of the orientation of the MakerSlide, the V-rails must be oriented as shown in the diagram so that the Spindle Carriage Assembly (see below) V-wheels will fit.
+- Place the Z-axis Shim Plate (**\#5**) on top of the Z Axis Rail  (**\#1**, 200mm MakerSlide) and attach it using the M5 bolts (as noted above, the Z-axis must have threads for these bolts at this point, cut in by tapping) --- be careful of the orientation of the MakerSlide, the V-rails must be oriented as shown in the diagram so that the Spindle Carriage Assembly (see below) V-wheels will fit. ru
 - After determining the spacing for the Threaded Rod (**\#6**) (see below) thread on one M8 Hex Nut (**\#14**) to the top position on the Threaded Rod
 - Slip the Threaded Rod through the Flanged Bearing of the sub-sub-assembly from Step #7 above
 - Thread on the second M8 Hex Nut
@@ -174,7 +174,7 @@ Tighten everything. If the M3 screws bottom out in the stand-offs, add washers o
 - 26016-01 **M5 insertion nut** x 4 pcs.
 - 25286-01 **M5 x 10mm, BHCS** x 4 pcs.
 
-Insert the 10mm M5 bolts (**\#6**) with an M5 washer (**\#4**) into the Z-Assembly Carriage (**\#1**) from the side the V-wheels are on, thread on the M5 insertion nuts (**\#5**), then slide the MakerSlide of the Z-Axis Rail Assembly  (**\#2**) onto the nuts, align and center the assemblies and tighten.
+Insert the 10mm M5 bolts (**\#6**) with an M5 washer (**\#4**) into the Z-Assembly Carriage (**\#1**) from the side the V-wheels are on, thread on the M5 insertion nuts (**\#5**) --- these only mount one way, the smooth side goes toward the bolt head, while the side with the protruding circle goes at the "threaded end" (begin screwing the bolt into the nut on the plain side) --- see the [PS20025 diagram](http://docs.shapeoko.com/content/tPictures/PS20025_16.png) for details, then slide the MakerSlide of the Z-Axis Rail Assembly  (**\#2**) onto the nuts, align the assemblies at the bottom and center them left to right and tighten.
 
 [![exploded view of Z-axis](tPictures/PS20030.svg)](content/tPictures/PS20030-100.svg)
 
