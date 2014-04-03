@@ -33,7 +33,7 @@ Start with the captive nuts in the holes (shown in the back right of the diagram
 
 Repeat the above process with the slots, but instead assemble the bolt, washer, nut combinations, slide them into the aluminum extrusion, then slide the extrusion onto the wasteboard.
 
-Carefully center and square everything up, then tighten the bolts. Square up the wasteboard assembly carefully, since it will be the foundation for the balance of the machine.
+Carefully center and square everything up, then tighten the bolts. Square up the wasteboard assembly carefully, since it will be the foundation for the balance of the machine. The edges of the aluminum extrusion should align squarely and evenly with the front and back of the two pieces of the MDF wasteboard.
 
 ## Assemble the Frame
 
@@ -78,7 +78,7 @@ Congratulations! You've built a ShapeOko!
 
 ### Squaring the Machine
 
-Check that each component is square to the others using a known-to-be-good square. If you don't have a square, measure the diagonals and compare the distances. Loosen bolts, adjust and re-tighten as needed until everything is true and moves linearly. See (Calibration: Squaring the Machine on the wiki)[http://www.shapeoko.com/wiki/index.php/Calibration_and_Squaring_the_Machine#Squaring_the_Machine] for further details.
+Check that each component is square to the others using a known-to-be-good square. If you don't have a square, measure the diagonals and compare the distances. Loosen bolts, adjust and re-tighten as needed until everything is true and moves linearly. See (Calibration: Squaring the Machine on the wiki)[http://www.shapeoko.com/wiki/index.php/Calibration_and_Squaring_the_Machine#Squaring_the_Machine] for further details.  Check that the Delrin V-wheels are riding evenly on the V-rails at the top and bottom --- if they are not, then loosen rails, then tighten the eccentric nuts to bring the rails to the center of the V-wheels. Then tighten that end of the machine. Move the gantry to the other side to force that to the correct position and repeat. Loosen the V-wheels and then adjust as described below.
 
 ### Adjusting the V-Wheels
 
