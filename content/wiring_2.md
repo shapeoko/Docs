@@ -11,7 +11,9 @@
 
 This is the terminal block method. This method is quite easy, but requires that you make some preparations **WHILE** you are assembling the machine (mounting the terminal blocks). It is especially suited if you have short motor leads, or want to expand your machine beyond the reach of your motor leads.
 
-**Note:** The photographs are in greyscale, so as to not influence how one wires things up. Please follow the wiring diagram.
+**Note:** The photographs are in greyscale, so as to not influence how one wires things up. Please follow the wiring diagram. The photographs also depict a machine which has its terminal blocks on the right motor mount carriage plate, while the diagrams indicate the blocks should be on the left.
+
+Please mock up your layout and arrangement and make your own decisions about how you want the electronics arranged. Any placement will work, and there are different tradeoffs for all of the possibilites.
 
 ![Z-axis wiring with terminal blocks](wiring/rear_rendered_with_tb.png)
 
