@@ -20,7 +20,7 @@ Always review and follow the [operating checklist](http://www.shapeoko.com/wiki/
 
 ##Work Area
 
-Tape a piece of paper down to your work area. The paper should be taped in landscape orientation (wider than it is tall). Keep the paper towards the front/left of the machine.
+Tape a piece of paper down to your work area. The paper should be taped in landscape orientation (wider than it is tall). Keep the paper towards the front/left of the machine. If you are planning on using a permanent marker you may want to use several layers of paper, or add a layer of some other material such as aluminum foil, to prevent the marker from bleeding through.
 
 ![successful job](helloworld/paper_tape.jpg)
 
@@ -43,7 +43,7 @@ With the machine turned off, move your gantry to the front left corner of the pa
 
 ##Attach Sharpie
 
-Using a piece of tape, affix a pen or marker to the Z-axis spindle carriage assembly. (Optionally you can mount the pen in-between two blocks of material which have matching grooves on them --- see the hello world at the top of this page. Forum user Claudio used shorter bolts to attach the spindle straps, then used rubber bands to attach the pen to them. Other users have used criss-crossed Zip ties. The better secured the pen is, the better the plot will look.)
+Using a piece of tape, affix a pen or marker to the Z-axis spindle carriage assembly. (Optionally you can mount the pen in-between two blocks of material which have matching grooves on them --- see the hello world at the top of this page. Forum user Claudio used shorter bolts to attach the spindle straps, then used rubber bands to attach the pen to them. Other users have used criss-crossed Zip ties. The better secured the pen is, the better the plot will look.) If using a thick marker, please consider the possibility of bleed through as noted above.
 
 
 ##Position Sharpie
