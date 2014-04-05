@@ -23,13 +23,13 @@ The belts which the stepper motors drive the X- and Y-axes  require smooth idler
 
 ####Tools
 
-* One M5 x 30mm Button Head Cap Screw (BHCS) to align the pieces during assembly
+* One M5 x 20mm (or longer) Button Head Cap Screw (BHCS) to align the pieces during assembly
 
 [![V-Wheel Assembly](tPictures/25203-02.svg)](content/tPictures/25203-02-100.svg)
 
 ###Assemble all of the V-Wheels (20 wheels total)
 1. Take one bearing (**\#2**), and insert it into the Delrin V-Wheel (**\#1**)
-2. Using one of the M5 x 20mm BHCS, slide the wheel over the screw
+2. Using one of the M5 BHCS, slide the wheel over the screw
 3. Slide a single precision washer (**\#3**) over the screw, down onto the bearing
 4. Slide another bearing around the screw
 5. Using your thumbs, squeeze the assembly together. There will be a bit of friction getting the bearings settled into the wheel. These are force fit tolerances so you might have to push hard. When you tighten the wheel to the plate, you will squeeze the entire thing together tightly.
@@ -61,7 +61,7 @@ Alternate, assembly-line procedure for the V-Wheels:
 
 ####Tools
 
-* One M5 x 30mm Button Head Cap Screw (BHCS) to align the pieces during assembly
+* One M5 x 20mm (or longer) Button Head Cap Screw (BHCS) to align the pieces during assembly
 
 [![Smooth Idler Assembly](tPictures/25197-02.svg)](content/tPictures/25197-02-100.svg)
 
@@ -69,7 +69,7 @@ Alternate, assembly-line procedure for the V-Wheels:
 ###Assemble all of the smooth idlers (6 idlers total)
 
 1. Take one bearing (**\#1**), and insert it into the open end of the smooth idler (**\#3**)
-2. Using one of the M5 x 30mm BHCS, slide the idler over the screw
+2. Using one of the M5 BHCS, slide the idler over the screw
 3. Slide a single precision washer (**\#2**) over the screw, down onto the bearing
 4. Slide another bearing around the screw
 5. Using your thumbs, squeeze the assembly together. A small portion of the second bearing will be protruding from the edge of the smooth idler. This is normal. We will tighten the entire assembly when the idlers gets bolted to the motor mount plate (the bearing will still show at the side facing the plate).
