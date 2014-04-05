@@ -50,7 +50,7 @@ Place the first piece of MakerSlide (**\#5**) against a Motor Mount Carriage (**
 
 Push the rear piece of MakerSlide as far as is possible to the back end of the slot which the 12mm M5 bolts fit through. Only tighten the pair of bolts on the MakerSlide which is snugged up against the end of the slot, ensuring that the first piece of Makerslide is plumb and square to the plate, the other should be slightly loose. Note that there is a space in-between the two pieces of MakerSlide. This spacing will be set in a following step.
 
-Place two belt anchors in the top channel of the rear piece of MakerSlide (or at least two insertion nuts) as shown in the diagram.
+Place two belt anchors in the top channel of what will be the rear piece of MakerSlide (or at least two insertion nuts) as shown in the diagram.
 
 [![array of gantry parts, tools with carriage plates with motors in place](tPictures//so_gantry_parts_tool_4.jpg)](content/tPictures/so_gantry_parts_tool_16.jpg)
 
