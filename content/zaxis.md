@@ -161,7 +161,7 @@ As noted above, one should attach the stepper motor during the course of the ass
 
 Tighten everything. If the M3 screws bottom out in the stand-offs, add washers one at a time until everything is secure.
 
-###Z-Axis Sub-Assembly (PS20030)
+##Z-Axis Sub-Assembly (PS20030)
 
 ![exploded view of Z-axis](tPictures/PS20030_2.png)
 ![bolts, washers and insertion nuts](tPictures/so_z_axis_bolts_washers_nuts_2.jpg)
