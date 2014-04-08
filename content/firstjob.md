@@ -218,4 +218,13 @@ MakerCAM has some on-line pages for the original version of this [tutorial](http
 
 There is one persistent issue with MakerCAM --- under certain circumstances, it emits lines which are too-long for Grbl to handle (Grbl truncates lines after 50--70 characters). Some Communications/Control programs will trim such lines when sending them (this may be an option which will need to be enabled).
 
+Now that your machine and a simple workflow has been tested out, you are ready to continue:
+
+ - [Fine tune your machine](http://www.shapeoko.com/wiki/index.php/Tuning) for optimal seek rates by adjusting the voltage and your default seek values
+ - Experiment with different methods for [workholding](http://www.shapeoko.com/wiki/index.php/Workholding)
+ - Try cutting different [materials](http://www.shapeoko.com/wiki/index.php/Materials)
+ - Learn about [designing for fabrication](http://www.shapeoko.com/wiki/index.php/Designing_for_Fabrication)
+ - See if some other [CAD](http://www.shapeoko.com/wiki/index.php/CAD) or [CAM](http://www.shapeoko.com/wiki/index.php/CAM) program would better suit your needs
+ - Or see if you need to [upgrade your machine](http://www.shapeoko.com/wiki/index.php/Upgrade_Overview)
+
 To express concerns, post on the [forums](http://www.shapeoko.com/forum/index.php), to suggest improvements without using github, edit [this wiki page](http://www.shapeoko.com/wiki/index.php?title=Firstjob_1&action=edit&redlink=1).
