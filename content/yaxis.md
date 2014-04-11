@@ -28,7 +28,7 @@
 
 Slide two Belt Clip Anchor Assemblies (**\#4**) into the top slot of the MakerSlide (**\#5**).
 
-Attach one end plate (**\#1**) to each piece of MakerSlide using the 12mm M5 bolts (**\#2**) and M5 washers (**\#3**). Place what will be the top of each piece of Makerslide at the top of the channel (the two assemblies will have a slight mirror-imaged asymmetry).
+Attach one end plate (**\#1**) to each piece of MakerSlide using the 12mm M5 bolts (**\#2**) and M5 washers (**\#3**). Place what will be the top of each piece of Makerslide at the top of the channel --- the top of the MakerSlide should flush with the bottom of the horizontal slot (the two assemblies will have a slight mirror-imaged asymmetry).
 
 Do not attach the second end plate, that will be done in the next step.
 
