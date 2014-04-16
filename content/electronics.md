@@ -165,16 +165,16 @@ Note that once the machine is assembled, the positive direction for X is right, 
 
 ###Go For a Spin###
 
-Z-Axis --- Note that when testing, the Z-axis should turn for a longer duration than the other axes since the screw requires more revolutions to move a given distance than the belts used on the X- and Y-axes. With the standard drive (M8 on Z, 20-tooth GT2 on X and Y), for the same distance travelled, the Z motor turns 8 times more than the X and Y motors.
+Z-Axis --- (Counterclockwise) Note that when testing, the Z-axis should turn for a longer duration than the other axes since the screw requires more revolutions to move a given distance than the belts used on the X- and Y-axes. With the standard drive (M8 on Z, 20-tooth GT2 on X and Y), for the same distance travelled, the Z motor turns 8 times more than the X and Y motors.
 
 ###Another Spin###
 
-X-Axis --- the X- and Y-axis should move for the same duration for a given degree of movement.
+X-Axis --- (Counterclockwise) the X- and Y-axis should move for the same duration for a given degree of movement.
 
 
 ###And a Final Spin###
 
-Y-Axis --- make certain that the two motors for the Y-axis are rotating in opposite directions.
+Y-Axis --- (Both Clockwise and Counterclockwise) make certain that the two motors for the Y-axis are rotating in opposite directions --- the one which is for the right side of the gantry should turn clockwise, the one for the left should turn counter-clockwise.
 
 ---
 
