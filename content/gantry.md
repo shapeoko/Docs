@@ -44,6 +44,8 @@ This is evident in the next step.
 
 **Note:** The diagram shows the assembly from the rear. The light grey end plate is not to be attached as-of-yet.
 
+The Y-axis motors should turn in different directions --- the one which is for the right side of the gantry should turn clockwise, the one for the left should turn counter-clockwise.
+
 [![exploded view of Gantry Carriage](tPictures/PS20023.svg)](content/tPictures/PS20023-100.svg)
 
 Place the first piece of MakerSlide (**\#5**) against a Motor Mount Carriage (**\#1**). Place a washer (**\#4**) onto an M5 BHCS (**\#3**) and screw it into one of the holes which you have tapped into the MakerSlide. Repeat for the other hole. Make note of the orientation of the V-rails on the MakerSlide as shown in the diagram, add the second piece of MakerSlide so that the V-rails are opposite from each other, on the outside.
