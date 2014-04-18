@@ -1,6 +1,6 @@
 #Software
 
-There are two pieces of software that you will need to be aware of while assembling and testing your machine. The first software is to be installed on your computer and is called "Universal G-Code Sender" (written in Java, if Java isn't an option for your machine, there are other [Communication/Control programs, see the wiki](http://www.shapeoko.com/wiki/index.php/Communication_/_Control)). Details for obtaining and installing the software can be found below. The second software is actually a 'firmware' that is installed on your Arduino. The firmware is called '[Grbl](http://www.shapeoko.com/wiki/index.php/Grbl)'. 
+There are two pieces of software that you will need to be aware of while assembling and testing your machine. The first software is to be installed on your computer and is called "Universal G-Code Sender" (written in Java, it may require updating to at least Java 7, if Java isn't an option for your machine, there are other [Communication/Control programs, see the wiki](http://www.shapeoko.com/wiki/index.php/Communication_/_Control)). Details for obtaining and installing the software can be found below. The second software is actually a 'firmware' that is installed on your Arduino. The firmware is called '[Grbl](http://www.shapeoko.com/wiki/index.php/Grbl)'. 
 
 #####If you bought the full kit from Inventables, then your Arduino came pre-loaded with Grbl.
 
