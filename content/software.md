@@ -13,7 +13,7 @@ In addition to the software proper, you will also need driver files for your Ard
 
 *(universal gcode sender by will winder)*
 
-Universal G-Code Sender (UGS for short): a Java based, cross platform G-Code sender created to control grbl Based machines (like Shapeoko!). [Click here to download the program](http://bit.ly/16q7obd). The latest version can always be downloaded [from github](https://github.com/winder/Universal-G-Code-Sender).
+Universal G-Code Sender (UGS for short): a Java based, cross platform G-Code sender created to control grbl Based machines (like Shapeoko!). [Click here to download the program](http://bit.ly/1dNrLAy). The latest version can always be downloaded [from github](https://github.com/winder/Universal-G-Code-Sender).
 
 
 ### Installing ###
