@@ -132,7 +132,7 @@ Examine the connections once you are done for possible shorts and remake any con
 
 **Caution:** Please note that the 24V power supply has a connector which matches the Arduino's 5V power supply connection --- it must not be plugged into said connector. The Arduino is able to draw its power over the USB connection, so the power connector on the Arduino is not used.
 
-Lastly one must connect the power. First, strip the leads from the raw end of the barrel connector plug, it may also be necessary to split the lead at the end so as to allow it to neatly connect to the power connector on the gShield. If you don't have a Power Pigtail/barrel connector plug adapter (30313-01) then you will have to directly connect your power supply to the gShield.
+Lastly one must connect the power. First, strip the leads from the raw end of the Power Pigtail/barrel connector plug (30313-01), it may also be necessary to split the lead at the end so as to allow it to neatly connect to the power connector on the gShield. If you don't have a Power Pigtail/barrel connector plug adapter then you will have to directly connect your power supply to the gShield.
 
 ![Stripped lead for barrel connector](tPictures/power_connection.jpg)
 
