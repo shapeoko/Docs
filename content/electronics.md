@@ -7,7 +7,7 @@
 
 Before we get all crazy bolting our new machine together, let's give our electronics a test run. It would be frustrating to have the machine fully assembled, only to find that there is a problem with your electronics that may require disassembly! Let's cut that off at the pass and give everything a thorough checking first.
 
-**Please note that the following instructions assume one has purchased a full kit. If your electronics vary in any fashion from the standard parts, it is your responsibility to ensure that one doesn't damage the electronics.**
+**Please note that the following instructions assume one has purchased a full kit. If your electronics vary in any fashion from the standard parts, it is your responsibility to ensure that one doesn't damage the electronics. Please review the [Parts page on the wiki](http://www.shapeoko.com/wiki/index.php/Parts) and any other relevant documentation which is necessary for the parts which you have sourced.**
 
 For reference, the image below shows the concept of wiring Shapeoko 2.
 
