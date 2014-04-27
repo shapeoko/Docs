@@ -17,6 +17,8 @@ The assembly instructions have these two steps separated. The first step is for 
 
 Please note that the pulley attaches with the set screws toward the motor housing and the flat portion at the end of the shaft. Some people have experienced difficulties with the pulley spinning on the shaft --- the GT2 pulleys, with two set screws should be less likely to have this difficulty than the MXL pulleys on the original machine, but one option would be to grind one (or two small flats at 90 degrees to each other) on the shaft, using a fine metal file or sharpening stone (clean up any metal filings afterwards) --- then one would position the pulley so that the set screw(s) engage said flat(s). See the [forums](http://www.shapeoko.com/forum/viewtopic.php?f=10&t=2502&p=18993#p18950) for further discussion. Note that while the set screws should take a 1.5mm hex key, a 1/16", which is slightly larger may also work, and being a snugger fit, will allow for applying more torque.
 
+Be careful of the set screws, they are easily lost (though readily replaced at any hardware store) --- clear your workspace before opening the bag and work slowly and carefully until they're in-place.
+
 ###Tools
 
 Only basic tools are required to assemble the Shapeoko 2. The following tools are included with the full kits [sold through inventables.com](https://www.inventables.com/technologies/desktop-cnc-mill-kit-shapeoko-2). If you are rolling your own full kit (you bought the mechanical kit), use the following list as a guideline for [what you will need to assemble the machine](http://www.shapeoko.com/wiki/index.php/Tools).
