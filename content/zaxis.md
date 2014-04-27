@@ -151,4 +151,68 @@ Review all connectors to make certain that everything is tight --- be careful no
 
 Compare the threaded rod (**\#6**) to the assembly, thread on one M8 Hex Nut (**\#14**), threading the latter far enough down to allow room for the flanged bearing, a second hex nut, and for the threaded rod (and the stepper motor shaft) to be just short of half-way into the flexible coupler (**\#2**). Insert the threaded rod into the bearing, add the second M8 hex nut and tighten them with two wrenches, being careful not to bend the rod. Note that the motor shaft should go far enough in to the flexible coupler as to be certain of gripping firmly, and less than half the length of the flexible coupler (the two ends should **not** interfere with each other).
 
-Tighten the coupler set screw holding the threaded rod using the 2.5mm hex key. If the flexible coupler doesn't securely grip the threaded rod, wrap the end of the rod in some 
+Tighten the coupler set screw holding the threaded rod using the 2.5mm hex key. If the flexible coupler doesn't securely grip the threaded rod, wrap the end of the rod in some  sort of metal, foil or tape to ensure coupler holds it securely. Make certain the coupler holds the rod squarely. One inexpensive source for metal shims is aluminum drink cans which are easily cut with appropriate tools (and wearing appropriate safety gear).
+
+**Note** the nuts are commodity / off-the-shelf parts and have a fairly wide manufacturing tolerance. If your threaded rod wobbles unduly after assembly, mark the nuts so as to indicate their orientation and try swapping them around in terms of orientation and positioning, keeping notes on which you have tried --- you should hit upon an arrangement which allows the rod to run fairly true, or at worst case, not hit any other parts (some whipping is inevitable --- one simply wants to achieve a state where nothing will be damaged by the rod end). If nothing works, contact Inventables customer service, or try sourcing new nuts (one option is to take the bearing and threaded rod into a hardware store and try different nuts until you find a pair which works).
+
+####Stepper Motor
+
+As noted above, one should attach the stepper motor during the course of the assembly if at all possible. If not... place M3 washers on the brass M3 standoffs --- if the standoffs bottom out, add sets of M3 washers to ensure the threads are well-engaged and not bottoming out. Ensure that the motor shaft will also fit just short of half-way into the flexible coupler and that the rod and motor shaft have a gap which will allow the flexible coupler to function without interference or binding. Tighten the coupler set screw holding the motor shaft using the 2.5mm hex key.
+
+Tighten everything. If the M3 screws bottom out in the stand-offs, add washers one at a time until everything is secure.
+
+##Z-Axis Sub-Assembly (PS20030)
+
+![exploded view of Z-axis](tPictures/PS20030_2.png)
+![bolts, washers and insertion nuts](tPictures/so_z_axis_bolts_washers_nuts_2.jpg)
+![sub-assemblies shown with hardware](tPictures/so_assembly_pre_gantry_carriage_2.jpg)
+![two Z-axis sub-assemblies](tPictures/so_assembly_gantry_carriage_2.jpg)
+
+1. PS20021 **Z-Assembly Carriage** x 1 pcs.
+- PS20028 **Z-Axis Rail Assembly** x 1 pcs.
+- PS20029 **Spindle Carriage Assembly** x 1 pcs.
+- 25287-02 **M5 Flat Washer** x 4 pcs.
+- 26016-01 **M5 insertion nut** x 4 pcs.
+- 25286-01 **M5 x 10mm, BHCS** x 4 pcs.
+
+Insert the 10mm M5 bolts (**\#6**) with an M5 washer (**\#4**) into the Z-Assembly Carriage (**\#1**) from the side the V-wheels are on, thread on the M5 insertion nuts (**\#5**) --- these only mount one way, the smooth side goes toward the bolt head, while the side with the protruding circle goes at the "threaded end" (begin screwing the bolt into the nut on the plain side) --- see the [PS20025 diagram](http://docs.shapeoko.com/content/tPictures/PS20025_16.png) for details, then slide the MakerSlide of the Z-Axis Rail Assembly  (**\#2**) onto the nuts, align the assemblies at the bottom and center them left to right and tighten.
+
+[![exploded view of Z-axis](tPictures/PS20030.svg)](content/tPictures/PS20030-100.svg)
+
+Turn the eccentric nuts on the Spindle Carriage Assembly (**\#3**) so that they move the matching V-wheels as far as possible from the opposing static V-wheels (think of them as pairs, one movable with an eccentric nut, the other unmoving). Slide the Spindle Carriage Assembly onto the Z-Axis Rail Assembly, match it up with the Delrin Lead nut and turning the threaded rod using the flexible coupler, bring the Spindle Carriage Assembly up so that the V-wheels are completely on the MakerSlide V-rail. Be careful not to nick or damage the Delrin V-wheels, or to cross-thread the Delrin Lead nut. 
+
+If necessary, loosen the bolts holding the Delrin Lead Nut and adjust it to hold the threaded rod as straight as is possible, testing to see how the M8 threaded rod turns. It may be necessary to loosen other fasteners, such as the M5 bolts which hold the Z-axis Motor Mount plates and adjust the alignment and re-tighten. Adjust things until the Z-axis is properly aligned and everything moves as it should.
+
+Carefully adjust the eccentric nuts so that the MakerSlide is held in place firmly, but not so tight as to damage the Delrin V-wheels --- they should turn when one rotates the coupler/threaded rod, moving the spindle carriage assembly up or down.
+
+##Sub Gantry (PS20031)
+
+![](tPictures/PS20031_2.png)
+![](tPictures/so_gantry_carriage_2.jpg)
+![](tPictures/so_gantry_sc_carriage_2.jpg)
+
+###Requirements
+
+####Parts
+
+1. PS20022 **Motor Mount Carriage** x 1 pcs.
+2. PS20030 **Z-Axis Sub-Assembly** x 1 pcs.
+- PS20002 3/8" x 1-1/4" x #12 bore, **Aluminum Spacer** x 6pcs.
+- PS20006 **M5 x 70mm SHCS** x 6 pcs.
+- 25287-02 **M5 Flat Washer** x 12 pcs.
+- 25312-20 3/8" x 1" #12 Bore, **Aluminum Spacer** x 6 pcs.
+- 25284-02 **M5 Hex Nut** x 6 pcs.
+
+If possible, select a Motor Mount Carriage (PS20022) which has a stepper motor attached. If using wiring option #2, there should be a terminal block attached to the right (on the side opposite the V-wheels and smooth idlers).
+
+[![exploded view of sub gantry](tPictures/PS20031.svg)](content/tPictures/PS20031-100.svg)
+
+For each M5 x 70 mm SHCS (**\#4**), add a washer (**\#5**) then place them in the outer holes of the Z-Axis Sub-Assembly (**\#1**) from the side opposite the V-wheels. Then for each M5 bolt (**\#4**), add each pair of spacers (one each of **\#3**, & **\#6**). Add the Motor Mount Carriage, then for each M5 bolt, add an M5 washer, and M5 hex nut (**\#7**). Ensure the sub gantry is square and tighten everything.
+
+[![](tPictures/so_carriage_4.jpg)](content/tPictures/so_carriage_8.jpg)
+
+[![](tPictures/so_gantry_carriage_4.jpg)](content/tPictures/so_gantry_carriage_8.jpg)
+
+###Next Step [Gantry](http://docs.shapeoko.com/gantry.html)
+
+To express concerns, post on the [forums](http://www.shapeoko.com/forum/index.php), to suggest improvements without using github, edit [this wiki page](http://www.shapeoko.com/wiki/index.php?title=Zaxis_2&action=edit&redlink=1).
