@@ -137,3 +137,6 @@ A basic introduction to using the machine for milling.
 
 ![first job](firstjob/mc_export_4.png)
 
+###Next step [Pro Tips!](tips.html)
+
+To express concerns, post on the [forums](http://www.shapeoko.com/forum/index.php).
