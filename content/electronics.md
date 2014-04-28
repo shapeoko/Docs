@@ -23,16 +23,16 @@ Please note that stepper motors can be wired up in many different ways and still
 
 ![image of required components](tPictures/so_electronics_parts_4.jpg)
 
-* **Arduino with Grbl firmware** (contains an AVR processor, USB connector and I/O pins)
-* (Arduino) **gShield** (formerly GrblShield, takes the signals Grbl generates and drives the steppers. Small pots are used to adjust)
+* **(Arduino)[http://www.shapeoko.com/wiki/index.php/Arduino] with Grbl firmware** (contains an AVR processor, USB connector and I/O pins)
+* (Arduino) **gShield** (formerly [GrblShield](http://www.shapeoko.com/wiki/index.php/GrblShield), takes the electronic signals Grbl generates and sets the current from the power supply which [drives the steppers](http://www.shapeoko.com/wiki/index.php/Electronics#Pololu_A4988_Stepper_Drivers). Small pots are used to adjust. [More information about stepper shields is on the wiki](http://www.shapeoko.com/wiki/index.php/Electronics#Stepper_Shield).)
 * **Stepper motors** x 4 pcs
 * **Power Supply** with wall plug
 * **Barrel Connector** (for connecting the power supply to the gShield)
-* Computer with a **Grbl Communication/Control program** installed
+* Computer with a **Grbl Communication/Control program** and drivers for the Arduino installed (not included in the kit)
 * **USB Cable** (A to B)
 * Patience (just a little bit)
 
-Please note that the photos depict using terminal blocks to connect the wiring --- this is optional and included to cover the case of motors with short lead wires which would require them. The 4-conductor cable should be 18 or 20 gauge and shielded. Note that in addition to the 4 color-coded copper conductors there is a steel "drain wire" which may optionally be connected to ground at the controller end, but should be trimmed off with the shielding at the motor end.
+Please note that the photos depict using terminal blocks to connect the wiring --- this is optional and included to cover the case of motors with short lead wires which would require them --- it is more expedient to directly connect the motors, and it's pretty much impossible for there to be something wrong with the terminal blocks. The 4-conductor cable should be 18 or 20 gauge and shielded. Note that in addition to the 4 color-coded copper conductors there is a steel "drain wire" which may optionally be connected to ground at the controller end, but should be trimmed off with the shielding at the motor end.
 
 
 ## Tools
