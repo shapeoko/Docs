@@ -1,10 +1,12 @@
 #Software
 
-There are two pieces of software that you will need to be aware of while assembling and testing your machine. The first software is to be installed on your computer and is called "Universal G-Code Sender" (written in Java, it may require updating to at least Java 7, if Java isn't an option for your machine, there are other [Communication/Control programs, see the wiki](http://www.shapeoko.com/wiki/index.php/Communication_/_Control)). Details for obtaining and installing the software can be found below. The second software is actually a 'firmware' that is installed on your Arduino. The firmware is called '[Grbl](http://www.shapeoko.com/wiki/index.php/Grbl)'. 
+There are several pieces of software that you will need to be aware of while assembling and testing your machine. The first software is to be installed on your computer and is called "Universal G-Code Sender" (written in Java, it may require updating to at least Java 7, if Java isn't an option for your machine, there are other [Communication/Control programs, see the wiki](http://www.shapeoko.com/wiki/index.php/Communication_/_Control)). Details for obtaining and installing the software can be found below. The second software is actually a 'firmware' that is installed on your Arduino. The firmware is called '[Grbl](http://www.shapeoko.com/wiki/index.php/Grbl)'. 
 
 #####If you bought the full kit from Inventables, then your Arduino came pre-loaded with Grbl.
 
-In addition to the software proper, you will also need driver files for your Arduino (which will make it appear as a serial device although connected to your computer using a USB cable) --- these may be automatically installed via plug-and-play, if they are not, the instructions for manually installing the drivers are below.
+In addition to the software proper, you will also need driver files for your computer system for your Arduino (which will make it appear as a serial device connected to your computer using a USB cable) --- these may be automatically installed via plug-and-play, if they are not, the instructions for manually installing the drivers are below.
+
+For more information about the Arduino, [see the wiki](http://www.shapeoko.com/wiki/index.php/Arduino).
 
 
 ## Universal G-code Sender
@@ -46,7 +48,7 @@ Grbl includes full acceleration management with look ahead. That means the contr
 
 ###Installing Arduino Drivers###
 
-Chances are, the Arduino will be recognized by your computer. If not, download the appropriate drivers/software for your platform (do not proceed beyond Step #4 or you will erase Grbl):
+Chances are, the Arduino will be recognized by your computer. If not, download the appropriate drivers/software for your computer platform **(do not proceed beyond Step #4 or you will erase Grbl)**:
 
 * [Mac OS X](http://arduino.cc/en/Guide/MacOSX#toc2)
 * [Windows](http://arduino.cc/en/Guide/Windows#toc2)
@@ -55,7 +57,7 @@ Chances are, the Arduino will be recognized by your computer. If not, download t
 
 ###Installing Grbl onto the Arduino###
 
-As noted above, Grbl is pre-installed on Arduinos purchased from Inventables as part of a complete kit. If your board doesn't have it installed (or was erased because you downloaded the blinking lights program in Step #5 of the afore-mentioned installation directions), you can download another hex file here:
+As noted above, Grbl (along with the bootloader) is pre-installed on Arduinos purchased from Inventables as part of a complete kit. If your board doesn't have it installed (or was erased because you downloaded the blinking lights program in Step #5 of the afore-mentioned installation directions), you can download another hex file here:
 
 * [grbl v0.8c atmega328p 16mhz 9600.hex](https://github.com/downloads/grbl/grbl/grbl\_v0\_8c\_atmega328p\_16mhz\_9600.hex)
 
