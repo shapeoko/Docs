@@ -92,10 +92,10 @@ One should also attach the motor for the Z-axis at this time.
 
 ####Parts
 
-1. 25142-07 Z Axis **Rail MakerSlide Extrusion 200mm** x 1 pcs. (Please note that one end must have both holes tapped w/ M5x0.8 threads)
+1. 25142-07 Z Axis **Rail MakerSlide Extrusion 200mm** x 1 pcs. (Please note that one end must have both holes tapped w/ M5x0.8 threads, both if you are planning on an Acme screw upgrade.)
 - 25772-02 Z-Axis **Flexible Coupler 5mm--8mm bore** x 1 pcs.
 - 30288-01 **Z-Axis Motor Mount Plate** (12ga) x 2 pcs.
-- 30169-01 8x22x7mm **flanged bearing** x 1 pcs.
+- 30169-01 8x22x7mm **flanged bearing** x 1 pcs. (Test fit this in a plate first, if it doesn't fit, try the other plate, if neither works, use a file or sandpaper or knife blade to remove the powder coating until it does fit)
 - 30289-01 **Z-Axis Shim Plate** (12ga) x 1 pcs.
 - PS20011 **M8 Threaded Rod Stainless Steel, 200mm** x 1 pcs.
 - 25287-02 **M5 Flat Washer** x 2 pcs.
