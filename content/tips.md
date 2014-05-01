@@ -2,6 +2,8 @@
 
 Take your time, read the instructions in their entirety before beginning assembly, and examine all of the the diagrams carefully (the diagrams and most photos are linked to larger versions which will display when one clicks on them, if necessary, examine the relevant .pdf --- see below) until one is confident of how to proceed. Don't force anything, and be careful when tightening not to strip any threads. If things seem to require significant effort, back off, pause and reconsider. Strive for symmetry and alignment while assembling --- while there's no need to "clock" the various bolts and screws, if a part is held in alignment between two elements, it should be evenly spaced between them, if a part is supposed to be lined up at one end, make certain that it's aligned vertically and squarely.
 
+The steel plates are laser cut and powder coated. Tolerance for the laser is (roughly) +/- .02mm - .10mm. The thickness of the powder coat is .08mm to .127mm. If the laser errs on the minus side and the powder coating is on the thicker side, it may be necessary to remove the powder coating with a file, sandpaper or other tool.
+
 ###Printable .pdfs
 
 There are .pdf versions of the plans/diagrams on [github](https://github.com/shapeoko/Shapeoko_2/tree/master/Drawings_PDF).
