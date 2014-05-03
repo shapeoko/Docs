@@ -36,7 +36,7 @@ Please note that it is in Imperial, and will leave your machine in inch mode. Us
 
 ##Position Machine
 
-With the machine turned off, move your gantry to the front left corner of the paper that we taped down in step \#1.
+With the machine turned off, move your gantry to home (the origin, X=0,Y=0), the front left corner of the paper that we taped down in step \#1.
 
 ![Position Machine](helloworld/gantry_lower_left.jpg)
 
