@@ -213,7 +213,7 @@ Your machine will now run the hello world job. Keep close to your computer, and 
 
 Once it's complete, you may wish to [document it on the wiki](http://www.shapeoko.com/wiki/index.php/Hello_World).
 
-If you have any difficulties see [Assembly Troubleshooting on the wiki](www.shapeoko.com/wiki/index.php/Assembly_troubleshooting). See also [Fine Tuning](www.shapeoko.com/wiki/index.php/Tuning) and [Operation Troubleshooting](http://www.shapeoko.com/wiki/index.php/Operation_Troubleshooting).
+If you have any difficulties see [Assembly Troubleshooting on the wiki](http://www.shapeoko.com/wiki/index.php/Assembly_troubleshooting). See also [Fine Tuning](http://www.shapeoko.com/wiki/index.php/Tuning) and [Operation Troubleshooting](http://www.shapeoko.com/wiki/index.php/Operation_Troubleshooting).
 
 ###Next Step [First job](http://docs.shapeoko.com/firstjob.html)
 
