@@ -23,7 +23,7 @@ Please note that stepper motors can be wired up in many different ways and still
 
 ![image of required components](tPictures/so_electronics_parts_4.jpg)
 
-* **(Arduino)[http://www.shapeoko.com/wiki/index.php/Arduino] with Grbl firmware** (contains an AVR processor, USB connector and I/O pins)
+* **[Arduino](http://www.shapeoko.com/wiki/index.php/Arduino) with Grbl firmware** (contains an AVR processor, USB connector and I/O pins)
 * (Arduino) **gShield** (formerly [GrblShield](http://www.shapeoko.com/wiki/index.php/GrblShield), takes the electronic signals Grbl generates and sets the current from the power supply which [drives the steppers](http://www.shapeoko.com/wiki/index.php/Electronics#Pololu_A4988_Stepper_Drivers). Small pots are used to adjust. [More information about stepper shields is on the wiki](http://www.shapeoko.com/wiki/index.php/Electronics#Stepper_Shield).)
 * **Stepper motors** x 4 pcs
 * **Power Supply** with wall plug
@@ -156,7 +156,7 @@ Plug the barrel connector into the matching connector from the power supply, plu
 
 Attaching tape to the motor shafts makes it easier to see the rotation when testing before the machine is assembled, or you could attach the pulleys (these are mounted so that the flat portion is at the end of the shaft and the set screw is closer to the motor housing). Once the machine is assembled, it is a good idea to retest so as to verify the connections and direction of rotation. When initially testing a machine, place it in a neutral position with space to move up, down and to all four sides, so as to prevent a crash if it should move in the wrong direction or farther than expected.
 
-Load up a Communication / Control program and use its jog functionality to test each Axis. For the Universal G-Code Sender, this would typically involve opening the connection on the correct COM port, selecting baud rate of 9600, then switching to the "Machine Control" tab, and using the buttons to move the X-, Y-, and Z-axes. 
+Load up a Universal G-Code Sender (or some other Communication / Control program) and use its jog functionality to test each Axis. For the Universal G-Code Sender, this would typically involve opening the connection on the correct COM port, selecting baud rate of 9600, then switching to the "Machine Control" tab, and using the buttons to move the X-, Y-, and Z-axes. (There is no need to load a G-Code file at this time.)
 
 If one or more motors don't move or don't move smoothly, you may need to adjust the trim pots on the gShield, see [the Motor Current section of the Tuning page on the wiki](http://www.shapeoko.com/wiki/index.php/Tuning#Motor_Current).
 
