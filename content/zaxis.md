@@ -49,7 +49,7 @@ This is the plate the Z-axis will attach to (it is identical to the Motor Mount 
 ####Parts
 
 1. 30287-01 **Spindle Mount Plate** (12ga) x 1 pcs.
-- PS20010 13mm x 35mm x 20mm **Delrin Lead Nut** x 1 pcs. --- check that the threaded rod fits (see below)
+- PS20010 13mm x 35mm x 20mm **Delrin Lead Nut** x 1 pcs. --- check that the M8 x 1.25mm threaded rod fits (see below)
 - 25287-02 **M5 Flat Washer** x 10 pcs.
 - 25284-02 **M5 Hex Nut** x 6 pcs.
 - PS20012 **Universal Spindle Mount** x 2 pcs.
@@ -97,7 +97,7 @@ One should also attach the motor for the Z-axis at this time.
 - 30288-01 **Z-Axis Motor Mount Plate** (12ga) x 2 pcs.
 - 30169-01 8x22x7mm **flanged bearing** x 1 pcs. (Test fit this in a plate first, if it doesn't fit, try the other plate, if neither works, use a file or sandpaper or knife blade to remove the powder coating until it does fit)
 - 30289-01 **Z-Axis Shim Plate** (12ga) x 1 pcs.
-- PS20011 **M8 Threaded Rod Stainless Steel, 200mm** x 1 pcs.
+- PS20011 **M8 x 1.25mm Threaded Rod Stainless Steel, 200mm** x 1 pcs.
 - 25287-02 **M5 Flat Washer** x 2 pcs.
 - PS20014 **Standoff spacer** M3 male x M3 female 50mm x 3 pcs. (a single piece of machined brass on initial kits, currently this is threaded aluminum hex rod (30385-01) and steel M3 set screws (30384-01) --- please test assemble w/ the Z-axis stepper motor to determine the optimal length of thread which should show, then assemble and use threadlock to make up the assembly
 - PS20016 5mm x 10mm x 1mm thick, **Nylon Spacer** x 4 pcs. (these are used for the M5 BHCS (#10. below) which hold the Z-Axis Motor Mount Plate to the MakerSlide)
