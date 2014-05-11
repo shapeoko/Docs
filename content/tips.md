@@ -139,6 +139,6 @@ Alternately, Inventables has begun selling a [silk-screened Waste Board with Thr
 
 ---
 
-###Next step [Software](Software.html)
+###Next step [Software](software.html)
 
 To express concerns, post on the [forums](http://www.shapeoko.com/forum/index.php), to suggest improvements without using github, edit [this wiki page](http://www.shapeoko.com/wiki/index.php?title=Tips_1&action=edit&redlink=1).
