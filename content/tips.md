@@ -31,17 +31,17 @@ Only basic tools are required to assemble the Shapeoko 2. The following tools ar
 * Screw Driver 2.0mm blade
 * Wrench 13mm (1/2") Qty 2
 * Wrench 8mm (5/16")
-* M5x0.8mm Tap and handle
+* M5x0.8mm Tap and handle (an M8x1.25mm tap may be needed if the Delrin lead nut is too tight)
 * Safety glasses
 * cable ties (100)
-* thread lock --- one can either use this after the fact to secure any nut which begins to loosen, or, if one isn't planning on upgrading the machine, one could use it everywhere (this may make fine-tuning more difficult --- use extra care in the assembly if going that route). An alternative would be to instead use lock washers or replace the nuts with nylon insert lock nuts. Note that thread locker must not be used on the cylindrical portion of the eccentric nuts --- these must be able to rotate to adjust the machine
+* thread lock --- one can either use this after the fact to secure any nut which begins to loosen, or, if one isn't planning on upgrading the machine, one could use it everywhere (this may make fine-tuning more difficult --- use extra care in the assembly if going that route). An alternative would be to instead use lock washers or replace the nuts with nylon insert lock nuts. Note that thread locker must not be used on the cylindrical portion of the eccentric nuts --- these must be able to rotate to adjust the machine. Thread lock should be used if one has  hex rod and all thread to make up the posts for the Z-axis.
 * razor blade (for stripping / cutting wires)
 
 There is one additional item:
 
 * Spiral End Mill
 
-which is intended for use with the machine in the rotary tool once it is fully operational. (You could use it to drill holes in your wasteboard for T-nuts.)
+which is intended for use with the machine in the rotary tool once it is fully operational. (You could use it to drill holes in your wasteboard for T-nuts.) Please note that [endmills](http://www.shapeoko.com/wiki/index.php/Endmills) must be considered a consumable item --- it's inevitable that they will wear out (or break!) so one will need an on-going source for them.
 
 Additional useful tools include:
 
@@ -99,7 +99,7 @@ The awesome news is that you can hone your tapping skillz (with a z!) by practic
 
 
 #####What needs tapping?
-You need to tap both holes in both ends of each long piece of MakerSlide (4 holes), the short piece for the Z-Axis only needs one end tapped (2 holes). You will have to tap 18 holes in total.
+You need to tap both holes in both ends of each long piece of MakerSlide (4 holes), the short piece for the Z-Axis only needs one end tapped (2 holes). You will have to tap 18 holes in total --- 20 if you do a pair of practice holes in the Z-axis Makerslide, or if you are considering an Acme Z-axis.
 
 Please see the section below and the [wiki link](http://www.shapeoko.com/wiki/index.php/Makerslide) for more information.
 
@@ -123,7 +123,7 @@ Please check the pieces to ensure that all of them are well-formed --- it should
 
 The ShapeOko 2 switches to eccentric nuts from eccentric spacers. These are used to allow adjustment of the V-wheels so that the linear motion for a given axis is constrained to only that axis.
 
-Unlike the original spacers which were held in place by a separate hex nut set off by a washer, they serve a dual-purpose of also holding things together. When adjusting, one must be careful not to loosen things --- when adjusting clockwise this is not an issue, but if one must make an adjustment counter-clockwise it may be appropriate to use a hex key to to ensure that the M5 bolt rotates to match.
+Unlike the original spacers which were held in place by a separate hex nut set off by a washer, they serve a dual-purpose of allowing for adjustment and also holding things together. When adjusting, one must be careful not to loosen things or overtighten --- when making a small adjustment clockwise this is not an issue, but if one must make an adjustment counter-clockwise (or a larger adjustment clockwise) it may be appropriate to use a hex key to to ensure that the M5 bolt rotates to match.
 
 Please check the nuts to ensure that the central hole is off-center.
 
@@ -132,6 +132,8 @@ Please check the nuts to ensure that the central hole is off-center.
 ###Workholding
 
 There is a page on [workholding on the wiki](http://www.shapeoko.com/wiki/index.php/Workholding). Since the ShapeOko 2 uses an MDF wasteboard work area, one straight-forward option is to use T-nuts which can then be matched with SHCS which can then be fitted with plastic handles (all available from your local hardware store).
+
+Many projects are suitable for holding down with double-sided tape.
 
 Alternately, Inventables has begun selling a [silk-screened Waste Board with Threaded Inserts](https://www.inventables.com/technologies/waste-board-with-threaded-inserts) and [Clamp Set](https://www.inventables.com/technologies/clamp-set).
 
