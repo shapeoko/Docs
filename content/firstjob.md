@@ -218,7 +218,7 @@ MakerCAM has some on-line pages for the original version of this [tutorial](http
 
 There is one persistent issue with MakerCAM --- under certain circumstances, it emits lines which are too-long for Grbl to handle (Grbl truncates lines after 50--70 characters). Some Communications/Control programs will trim such lines when sending them (this may be an option which will need to be enabled).
 
-Now that your machine and a simple workflow has been tested out, you are ready to continue:
+Now that your machine and a simple workflow have been tested out, you are ready to continue:
 
  - [Fine tune your machine](http://www.shapeoko.com/wiki/index.php/Tuning) for optimal seek rates by adjusting the voltage and your default seek values
  - Experiment with different methods for [workholding](http://www.shapeoko.com/wiki/index.php/Workholding)
