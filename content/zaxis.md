@@ -99,7 +99,7 @@ One should also attach the motor for the Z-axis at this time.
 - 30289-01 **Z-Axis Shim Plate** (12ga) x 1 pcs.
 - PS20011 **M8 x 1.25mm Threaded Rod Stainless Steel, 200mm** x 1 pcs.
 - 25287-02 **M5 Flat Washer** x 2 pcs.
-- PS20014 **Standoff spacer** M3 male x M3 female 50mm x 3 pcs. (a single piece of machined brass on initial kits, currently this is threaded aluminum hex rod (30385-01) and steel M3 set screws (30384-01) --- please test assemble w/ the Z-axis stepper motor to determine the optimal length of thread which should show, then assemble and use threadlock to make up the assembly
+- PS20014 **Standoff spacer** M3 male x M3 female 50mm x 3 pcs. (a single piece of machined brass on initial kits, currently this is threaded aluminum hex rod (30385-01) and steel M3 set screws (30384-01) --- please test assemble w/ the Z-axis stepper motor to determine the optimal length of thread which should show, then assemble (using threadlock) to make up the PS20014 assembly.
 - PS20016 5mm x 10mm x 1mm thick, **Nylon Spacer** x 4 pcs. (these are used for the M5 BHCS (#10. below) which hold the Z-Axis Motor Mount Plate to the MakerSlide)
 - PS20004 **M5 x 20mm BHCS** x 2 pcs.
 - PS20015 3mm x 8mm x 1mm thick, **Nylon Spacer** x 6 pcs. (these are used with the M3 SHCS (#12. below) which attach to the Brass Standoff spacers)
