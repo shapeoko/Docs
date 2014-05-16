@@ -8,7 +8,7 @@ The V-Wheels and Makerslide work together to hold components of the machine in a
 
 The belts which the stepper motors drive the X- and Y-axes  require smooth idlers to route the belts so that they are held against the pulleys on the motor shafts.
 
-##V-Wheels
+##V-Wheels (25203-02)
 
 ![V-Wheel Assembly](tPictures/25203-02_2.png)
 ![V-Wheel Assembled](tPictures/so_v_wheel_2.jpg)
@@ -39,6 +39,8 @@ The belts which the stepper motors drive the X- and Y-axes  require smooth idler
 
 The precision washer in the wheel assemblies may get off-center while storing them --- if this happens, use a small tool to re-center them.
 
+Assembled, these make up **25203-02**.
+
 ![Idler Wheel Assembled](tPictures/so_v_wheel_4.jpg)
 
 Alternate, assembly-line procedure for the V-Wheels:
@@ -47,7 +49,7 @@ Alternate, assembly-line procedure for the V-Wheels:
 2. Place one bearing into each V-Wheel 
 3. Place a V-Wheel bearing side down onto the longest M5 bolt which is available, add a precision shim, then another bearing, press things together --- repeat until the bolt is full, clear the bolt and repeat until done
 
-##Smooth Idlers
+##Smooth Idlers (25197-02)
 ![Smooth Idler Assembly](tPictures/25197-02_2.png)
 ![Idler Wheel Assembled](tPictures/so_smooth_idler_2.jpg)
 
@@ -76,6 +78,9 @@ Alternate, assembly-line procedure for the V-Wheels:
 6. Repeat this procedure for the remaining smooth idlers (6 total)
 
 ![Smooth Idler Wheel Assembled](tPictures/so_smooth_idler_4.jpg)
+
+Assembled, these make up **25197-02**.
+
 
 ###Next step [Carriages](http://docs.shapeoko.com/carriages.html)
 
