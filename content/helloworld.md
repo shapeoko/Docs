@@ -115,6 +115,8 @@ To save typing:
     $21=100
     $22=1.000 
 
+Please verify that these settings work for your machine before using it in any way which may damage it. See below for reversing the axis of motion.
+
 Please note that there have been reports of pasting all settings en masse corrupting the Arduino's EEPROM. Either type the updates in manually, or paste them one line at a time.
 
 If you have sourced your own electronics, you can easily determine your own settings by using this [Grbl settings calculator.](http://homepage.ntlworld.com/r.j.noble/ShapeOko/grblcalc/)
