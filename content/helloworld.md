@@ -87,7 +87,7 @@ These are the correct Grbl settings for the stock full kit machine:
 ![Grbl Settings](helloworld/check_grbl_settings.png)
 
 
-**Note: Previously, the above image showed the Z-axis set to $5=2500, this has been set back to the original 500 --- if your machine doesn't move reliably you may wish to try further reducing it to 250. Once your machine is assembled and working, you can fine tune it per the instructions on the wiki.**
+**Note: Previously, the above image showed the Z-axis set to $5=2500, this has been set back to the original 500 --- if your machine doesn't move reliably you may wish to try further reducing it to 250. Once your machine is assembled and working, you can fine tune it per the instructions on the wiki. The text below has had the settings slightly adjusted back to what should be ideal / correct values. Please adjust them as needed to match your machine when you fine tune/calibrate it.**
 
 To save typing: 
 
