@@ -115,7 +115,7 @@ To save typing:
     $21=100
     $22=1.000 
 
-Please verify that these settings work for your machine before using it in any way which may damage it. See below for reversing the axis of motion.
+Please verify that these settings work for your machine before using it in any way which may damage it. See below for reversing the axis of motion. If necessary, you may need to [adjust your motor current](http://www.shapeoko.com/wiki/index.php/Tuning#Motor_Current).
 
 Please note that there have been reports of pasting all settings en masse corrupting the Arduino's EEPROM. Either type the updates in manually, or paste them one line at a time.
 
