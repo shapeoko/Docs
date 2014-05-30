@@ -4,6 +4,8 @@ There are several pieces of software that you will need to be aware of while ass
 
 #####If you bought the full kit from Inventables, then your Arduino came pre-loaded with Grbl.
 
+You should still read through this entire section --- there have been instances of unusual behaviour which have been addressed by re-flashing.
+
 In addition to the software proper, you will also need driver files for your computer system for your Arduino (which will make it appear as a serial device connected to your computer using a USB cable) --- these may be automatically installed via plug-and-play, if they are not, the instructions for manually installing the drivers are below.
 
 For more information about the Arduino, [see the wiki](http://www.shapeoko.com/wiki/index.php/Arduino).
