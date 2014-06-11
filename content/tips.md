@@ -85,7 +85,7 @@ Lubricating will reduce the amount of friction produced while tapping, making th
 
 #####Take Your Time --- this is not a race.
 
-No, seriously this is not a race. You don't want to break one of these things. Not only will you be really mad at yourself, but you'll also have to buy a new piece of MakerSlide (or [use kitchen chemistry to dissolve the broken tap, see the wiki](http://www.shapeoko.com/wiki/index.php/Makerslide#Breaking_a_Tap)), a new tap, and possibly anything else that you break during your resultant outburst. So, take your time and go slow.
+No, seriously this is not a race. You don't want to break one of these things. Not only will you be really mad at yourself, but you'll also have to buy a new piece of MakerSlide (or [remove the broken tap mechanically or use kitchen chemistry to dissolve it, see the wiki](http://www.shapeoko.com/wiki/index.php/Makerslide#Breaking_a_Tap)), a new tap, and possibly anything else that you break during your resultant outburst. So, take your time and go slow.
 
 
 #####You're a Breaker now --- a chip breaker that is.
