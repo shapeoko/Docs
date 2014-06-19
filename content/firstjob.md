@@ -65,7 +65,7 @@ Click on the solid black arrow in the toolbar (in-between the hand and the node-
 
 (Please note that the Feed (30) and Plunge (10) rates are set for cork --- if you are using some other material for your coaster, please select an appropriate value from the [Feeds and Speeds page](http://www.shapeoko.com/wiki/index.php/Materials) on the wiki. Please note that the default values are far too fast for a stock, un-tuned machine.)
 
-If any of the terminology is unclear or confusing, please consult the [Glossary](http://www.shapeoko.com/wiki/index.php/Glossary) and the [MakerCAM documentation](http://www.shapeoko.com/wiki/index.php/MakerCAM).
+Further, the Tool Diameter being used is the nominal diameter of the bit, as opposed to a measured or adjusted value which takes into account the machine/spindle's runout --- please consult the [Glossary](http://www.shapeoko.com/wiki/index.php/Glossary) for definitions of the terminology and the [MakerCAM documentation](http://www.shapeoko.com/wiki/index.php/MakerCAM) for a discussion of the underlying concepts.
 
 Your letter should look like it's filled in with a hatch pattern.
 
