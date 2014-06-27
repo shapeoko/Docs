@@ -117,7 +117,7 @@ Extrusion profiles and other CAD data are available at [makerslide.com](http://w
 
 Made of aluminum, it is (relatively) soft and easily dinged or even twisted or bent. Be careful of it, especially the rails. If your rails should become nicked or have a flaw which might damage the V-wheels, use a flat fine file, or emery board or very fine sandpaper attached to a sanding block to remove the protrusion without creating a low depression which would cause problems.
 
-Please check the pieces to ensure that all of them are well-formed --- it should be straight, have squarely cut ends, and the holes at the end should be similar diameters.
+Please check the pieces to ensure that all of them are well-formed --- it should be straight, have squarely cut ends, matching pairs should be the same length, and the holes at the end should be similar diameters.
 
 ####Eccentric Nuts
 
