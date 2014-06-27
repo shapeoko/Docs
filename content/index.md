@@ -22,6 +22,8 @@ _Never operate the machine without adequate safety gear for the current task. Ne
 
 Please read through the assembly instructions in their entirety. If you have any questions or concerns or problems, please contact [Inventables Customer Service](https://www.inventables.com/about): [help@inventables.com](mailto:help@inventables.com) or post a question on [the project wiki](http://www.shapeoko.com/forum/viewforum.php?f=10). Lots of people, from diverse backgrounds, many with no prior CNC or woodworking or machining experience have successfully assembled and operated machines. Like most things in life, what one gets out of it, reflects the effort and preparation and patience which one exerts.
 
+You may find it helpful to watch an [assembly video](https://www.youtube.com/watch?v=42wzq5vG5rU) (also linked to from the [wiki](http://www.shapeoko.com/wiki/index.php/ShapeOko_2#Assembly_Video)) --- there are a number of others, some of which are on the [Hello World](http://www.shapeoko.com/wiki/index.php/Hello_World) page.
+
 ###Overview
 
 1. Review the parts in your kit and the instructions
