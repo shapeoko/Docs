@@ -82,7 +82,7 @@ These are the plates that will mount on either end of the gantry and on the rear
 	- take note of the orientation of the bolt (**\#4**)
 	- take note of the orientation of the bearings/idler (the plastic part is away from the carriage plate, while the metal bearing is to the plate --- in theory, it would have been possible to have foregone the idler sub-assembly and instead: a. place the smooth idler onto the bolt/bearings, b. place a bearing onto the bolt on top of the smooth idler, c. place a precision shim washer onto the bearing, d. add the second bearing, e. add a washer, the spacer and another washer before placing the bolt and its sub-assembly into the proper hole, then adding the final washer and nut on the other side)
 
-	[![Assembled Motor Mount Carriages](tPictures/so_motor_mount_carriage_4.jpg)](content/tPictures/so_motor_mount_carriage_8.jpg)
+[![Assembled Motor Mount Carriages](tPictures/so_motor_mount_carriage_4.jpg)](content/tPictures/so_motor_mount_carriage_8.jpg)
 
 Lastly, attach your stepper motor - suggested orientations are shown at the bottom of this page
 	- Attach the GT2 pulley (it is easier to attach the pulley before mounting the motor.)
