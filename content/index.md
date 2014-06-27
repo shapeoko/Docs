@@ -18,6 +18,10 @@ Please refer to the ShapeOko [wiki](http://www.shapeoko.com/wiki) for additional
 
 _Never operate the machine without adequate safety gear for the current task. Never reach into the machine's operating envelope while it is running. Always have a means of safely disabling the machine's motion and spindle. Never leave the machine operating un-attended. There is an [operating checklist](http://www.shapeoko.com/wiki/index.php/Operating\_Checklist) which should always be followed._
 
+##Getting Started
+
+Please read through the assembly instructions in their entirety. If you have any questions or concerns or problems, please contact [Inventables Customer Service](https://www.inventables.com/about): [help@inventables.com](mailto:help@inventables.com) or post a question on [the project wiki](http://www.shapeoko.com/forum/viewforum.php?f=10). Lots of people, from diverse backgrounds, many with no prior CNC or woodworking or machining experience have successfully assembled and operated machines. Like most things in life, what one gets out of it, reflects the effort and preparation and patience which one exerts.
+
 ###Overview
 
 1. Review the parts in your kit and the instructions
