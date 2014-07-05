@@ -63,6 +63,15 @@ For the most part, it's obvious which size screw is used for what, but the M5 8m
 
 ----
 
+###Missing Parts
+
+Although the kits are counted carefully and weighed, some kits will have missing parts. Please inventory the kit in its entirety at your first chance after it arrives, so that you can make _one_ request for replacement parts --- doing so will save you time and preclude multiple shipments. You should be able to proceed with your machine assembly --- some stand-in parts:
+
+* Precision Shims --- use an M5 washer instead in the belt idler wheels (which are easily accessed after the machine is assembled) --- make note of which one(s) you do this for, so that they can be replaced
+* Aluminum Spacers --- the shorter ones are easily replaced with a stack of M5 washers --- again, use the replacements on spacers for idler wheels and other easily accessed parts.
+
+----
+
 ###Tapping
 
 Tapping means to cut threads on the inside of a hole.  There is an entire industry based around this process, and some people take it very seriously. If you look around the internet you can find 1,000s of sites with "drill and tap" charts. These charts tell a person how big of a hole is required to be tapped to a certain thread size. There is an article on Wikipedia describing [Tap and Die](http://en.wikipedia.org/wiki/Tap_and_die).
