@@ -156,8 +156,8 @@ Plug the barrel connector into the matching connector from the power supply, plu
 
 Attaching tape to the motor shafts makes it easier to see the rotation when testing before the machine is assembled, or you could attach the pulleys (these are mounted so that the flat portion is at the end of the shaft and the set screw is closer to the motor housing). Once the machine is assembled, it is a good idea to retest so as to verify the connections and direction of rotation. When initially testing a machine, place it in a neutral position with space to move up, down and to all four sides, so as to prevent a crash if it should move in the wrong direction or farther than expected.
 
-Load up a Universal G-Code Sender (or some other Communication / Control program) and use its jog functionality to test each Axis. For the Universal G-Code Sender, this would typically involve opening the connection on the correct COM port, selecting baud rate of 9600, then switching to the "Machine Control" tab, and using the buttons to move the X-, Y-, and Z-axes. (There is no need to load a G-Code file at this time.)
-
+Load up a Universal G-Code Sender (or some other Communication / Control program) and use its jog functionality to test each Axis. For the Universal G-Code Sender, this would typically involve opening the connection on the correct COM port, selecting baud rate of 9600, then switching to the "Machine Control" tab, and using the buttons to move the X-, Y-, and Z-axes. (There is no need to load a G-Code file at this time.) Please take note of whether one is using relative or absolute mode if typing actual G-Code commands.
+ 
 If one or more motors don't move or don't move smoothly, you may need to adjust the trim pots on the gShield, see [the Motor Current section of the Tuning page on the wiki](http://www.shapeoko.com/wiki/index.php/Tuning#Motor_Current).
 
 As viewed with the shaft pointing toward you, when moving the respective axis in the positive direction, the motors of a Shapeoko 2 should turn counterclockwise with the exception of the Y-axis right motor which should turn clockwise.
@@ -167,16 +167,16 @@ Note that once the machine is assembled, the positive direction for X is right, 
 
 ###Go For a Spin###
 
-Z-Axis --- (Counterclockwise) Note that when testing, the Z-axis should turn for a longer duration than the other axes since the screw requires more revolutions to move a given distance than the belts used on the X- and Y-axes. With the standard drive (M8 on Z, 20-tooth GT2 on X and Y), for the same distance travelled, the Z motor turns 8 times more than the X and Y motors.
+Z-Axis --- (Counterclockwise) Note that when testing, the Z-axis should turn for a longer duration than the other axes since the screw requires more revolutions to move a given distance than the belts used on the X- and Y-axes. With the standard drive (M8 on Z, 20-tooth GT2 on X and Y), for the same distance travelled, the Z motor turns 8 times more than the X and Y motors. Positive moves are up, negative are down.
 
 ###Another Spin###
 
-X-Axis --- (Counterclockwise) the X- and Y-axis should move for the same duration for a given degree of movement.
+X-Axis --- (Counterclockwise) the X- and Y-axis should move for the same duration for a given degree of movement. Positive moves will be to the right, negative towards the left.
 
 
 ###And a Final Spin###
 
-Y-Axis --- (Both Clockwise and Counterclockwise) make certain that the two motors for the Y-axis are rotating in opposite directions --- the one which is for the right side of the gantry should turn clockwise, the one for the left should turn counter-clockwise.
+Y-Axis --- (Both Clockwise and Counterclockwise) make certain that the two motors for the Y-axis are rotating in opposite directions --- the one which is for the right side of the gantry should turn clockwise, the one for the left should turn counter-clockwise. Positive moves will be away from the front of the machine, negative moves towards the front.
 
 ---
 
