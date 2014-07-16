@@ -72,7 +72,9 @@ Launch your selected Communication/Control program on your computer. Connect to 
 ![Arduino and gShield on edge](tPictures/so_e_arduino_gshield_oe_2.jpg)
 ![Arduino and gShield assembled](tPictures/so_e_arduino_gshield_aa_2.jpg)
 
-The next step is to plug the Arduino into the gShield. Be careful of the electronics, not to bend any pins, or to allow static electricity to damage them.
+The next step is to plug the Arduino into the gShield. Be careful of the electronics, not to bend any pins, or to allow static electricity to damage them. The connection should be keyed by the pair of connectors in the top row. The right will be fully occupied, the left will have empty pins and the wider space in the top row of connectors for the gShield is for the space between the pair of connectors.
+
+Note that your gShield should have one jumper installed for the Z-axis across M0 so as to set micro-stepping for that motor. Please see the gShield documentation for more details.
 
 You will need to connect the gShield to the stepper motors. This may be done using the terminal blocks and 4 conductor grey wire as shown in the photographs, or directly if your stepper motor leads are long enough. If your stepper motor has very long wires you will have the option of choosing whether to use the terminal blocks (placing them on the gantry), or directly connecting the motors to the electronics. If the wires are short, then the terminal blocks will need to be attached to the gantry. Wiring your stepper motors to terminal blocks on the gantry minimizes the wear and tear on the motor leads, limiting it to the 4 conductor grey wire, while directly connecting the leads provides for a neater appearance.
 
