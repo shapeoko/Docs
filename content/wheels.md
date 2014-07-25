@@ -8,6 +8,8 @@ The V-Wheels and Makerslide work together to hold components of the machine in a
 
 The belts which the stepper motors drive the X- and Y-axes  require smooth idlers to route the belts so that they are held against the pulleys on the motor shafts.
 
+Please check your wheels after assembly to be certain that they work smoothly and that the bearings stay aligned. If you have any difficulties, check that the plate is flat, and that the washers are okay. If necessary, take the V-wheel apart and check that the bearing is seated all the way in and that there is no debris between the outer race of the bearing and the lip inside the V-wheel, because that could cause the bearing to twist (and seize) as the bolt was tightened. Sometimes, a bearing will get two rubber shields on one face -- check for that too.[1](http://www.shapeoko.com/forum/viewtopic.php?f=10&t=3868&p=29096)
+
 ##V-Wheels (25203-02)
 
 ![V-Wheel Assembly](tPictures/25203-02_2.png)
