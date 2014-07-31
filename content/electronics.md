@@ -162,9 +162,10 @@ Load up a Universal G-Code Sender (or some other Communication / Control program
  
 If one or more motors don't move or don't move smoothly, you may need to adjust the trim pots on the gShield, see [the Motor Current section of the Tuning page on the wiki](http://www.shapeoko.com/wiki/index.php/Tuning#Motor_Current).
 
-As viewed with the shaft pointing toward you, when moving the respective axis in the positive direction, the motors of a Shapeoko 2 should turn counterclockwise with the exception of the Y-axis right motor which should turn clockwise.
+As viewed with the shaft pointing toward you, when moving the respective axis in the positive direction, the motors of a Shapeoko 2 should turn counterclockwise with the exception of the Y-axis right motor which should turn clockwise. (This is a change from the SO1 where the Z-axis was clockwise.)
  
-Note that once the machine is assembled, the positive direction for X is right, for Y it's away from you, and for Z it's up.
+Note that once the machine is assembled, the positive direction for X is right, for Y it's away from you, and for Z it's up. 
+Once a machine is in position, one may wish to re-wire it to match the physical orientation of parts (especially after [scaling up](http://www.shapeoko.com/wiki/index.php/Scaling_Up)) --- even after such re-wiring it is good practice to continue to refer to the physical parts using the nomenclature used in the documentation so as to minimize confusion.
 
 
 ###Go For a Spin###
