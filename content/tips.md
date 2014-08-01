@@ -63,9 +63,9 @@ For the most part, it's obvious which size screw is used for what, but the M5 8m
 
 ----
 
-###Missing Parts
+###Missing (or damaged) Parts
 
-Although the kits are counted carefully and weighed, some kits will have missing parts. Please inventory the kit in its entirety at your first chance after it arrives, so that you can make _one_ request for replacement parts --- doing so will save you time and preclude multiple shipments. You should be able to proceed with your machine assembly --- some stand-in parts:
+Although the kits are counted carefully and weighed, some kits will have missing parts. Please inventory the kit in its entirety at your first chance after it arrives, taking time to examine each piece and ensure that it is in good condition and shape for the intended usage, so that you can make _one_ request for replacement parts --- doing so will save you time and preclude multiple shipments. You should be able to proceed with your machine assembly --- some stand-in parts:
 
 * Precision Shims --- use an M5 washer instead in the belt idler wheels (which are easily accessed after the machine is assembled) --- make note of which one(s) you do this for, so that they can be replaced
 * Aluminum Spacers --- the shorter ones are easily replaced with a stack of M5 washers --- again, use the replacements on spacers for idler wheels and other easily accessed parts.
@@ -127,6 +127,8 @@ Extrusion profiles and other CAD data are available at [makerslide.com](http://w
 Made of aluminum, it is (relatively) soft and easily dinged or even twisted or bent. Be careful of it, especially the rails. If your rails should become nicked or have a flaw which might damage the V-wheels, use a flat fine file, or emery board or very fine sandpaper attached to a sanding block to remove the protrusion without creating a low depression which would cause problems.
 
 Please check the pieces to ensure that all of them are well-formed --- it should be straight, have squarely cut ends, matching pairs should be the same length, and the holes at the end should be similar diameters.
+
+If your pieces are not perfectly uniform, it's best to put the two best/most similar pieces on the X-axis gantry --- the Y-axis is easier to square up.
 
 ####Eccentric Nuts
 
