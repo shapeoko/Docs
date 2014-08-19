@@ -34,7 +34,7 @@ Please check your wheels after assembly to be certain that they work smoothly an
 2. Using one of the M5 BHCS, slide the wheel over the screw
 3. Slide a single precision washer (**\#3**) over the screw, down onto the bearing
 4. Slide another bearing around the screw
-5. Using your thumbs, squeeze the assembly together. There will be a bit of friction getting the bearings settled into the wheel. These are force fit tolerances so you might have to push hard. When you tighten the wheel to the plate, you will squeeze the entire thing together tightly.
+5. Squeeze the assembly together --- you can use your thumbs, a tool such as an arbor press, or you can add a washer and a nut to the bolt and tighten using a hex key and wrench. There will be a bit of friction getting the bearings settled into the wheel. These are force fit tolerances so you might have to push hard. When you tighten the wheel to the plate, you will squeeze the entire thing together tightly. 
 6. Repeat this procedure for the remaining V-Wheels (20 total)
 
 **Note:** You may want to consider marking the precision washers with a marker. If you run in to problems, the M5 Flat Washers and these precision washers are almost indistinguishable and very easy to mix up. If you mark them from the start, this shouldn't happen.
@@ -76,7 +76,7 @@ Alternate, assembly-line procedure for the V-Wheels:
 2. Using one of the M5 BHCS, slide the idler over the screw
 3. Slide a single precision washer (**\#2**) over the screw, down onto the bearing
 4. Slide another bearing around the screw
-5. Using your thumbs, squeeze the assembly together. A small portion of the second bearing will be protruding from the edge of the smooth idler. This is normal. We will tighten the entire assembly when the idlers gets bolted to the motor mount plate (the bearing will still show at the side facing the plate).
+5. Squeeze the assembly together --- you can use your thumbs, a tool such as an arbor press, or you can add a washer and a nut to the bolt and tighten using a hex key and wrench. A small portion of the second bearing will be protruding from the edge of the smooth idler. This is normal. We will tighten the entire assembly when the idlers gets bolted to the motor mount plate (the bearing will still show at the side facing the plate).
 6. Repeat this procedure for the remaining smooth idlers (6 total)
 
 ![Smooth Idler Wheel Assembled](tPictures/so_smooth_idler_4.jpg)
