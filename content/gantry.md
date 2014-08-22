@@ -3,6 +3,8 @@
 
 **Note:** The two pieces of MakerSlide used in these steps must have threads in them, cut by tapping. If you have not yet finished tapping at least two pieces MakerSlide, you can put this off no longer.
 
+**Further note:** Also, compare all of your pieces of Makerslide --- use the two which are the most equal in length and cut the most evenly / squarely for the X-axis gantry. The Y-axis can be left a bit off at the back end if need be w/o affecting the machine's operation or squareness.
+
 
 ## Belt Clip Assembly (PS20020)
 
