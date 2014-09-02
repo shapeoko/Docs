@@ -2,7 +2,7 @@
 
 Welcome to Your New Life! After completing this step, you'll be a pro! OK, maybe not a pro, but you will be capable of designing a simple part, generating appropriate toolpaths, and cutting said toolpaths on your Shapeoko 2. This is exciting, get ready!
 
-Our first job will be to design and cut a coaster out of some suitable material --- cork is one good choice, and the feed and plunge rates below assume that. You can purchase cork from [inventables.com](https://www.inventables.com/categories/materials/cork) or a craft or office supply store. Other options are plywood (as shown in the photographs below) and basswood.
+Our first job will be to design and cut a coaster out of some suitable material --- cork is one good choice, and the feed and plunge rates and step down values below assume that. You can purchase cork from [inventables.com](https://www.inventables.com/categories/materials/cork) or a craft or office supply store. Other options are plywood (as shown in the photographs below) and basswood.
 
 
 ##Find the Origin
@@ -107,7 +107,7 @@ Select the outside rounded rectangle (the first one we made). Click CAM -> Profi
     Plunge Rate:         10
     Direction:           Clockwise
 
-Please adjust the value for Target Depth to be equal to the thickness of the material which you have selected for your coaster.
+Please adjust the value for Target Depth to be equal to the thickness of the material which you have selected for your coaster. Note that the Step Down value is set to be greater than that of the material so as to cut it in a single pass --- if you are using some material other than cork, this value should be adjusted to suit the selected material.
 
 ![rectangle](firstjob/mc_profile.png)
 
