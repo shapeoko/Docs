@@ -57,7 +57,7 @@ Click on the solid black arrow in the toolbar (in-between the hand and the node-
     Safety Height:       0.25
     Stock Surface:       0
     Step Over:           40
-    Step Down:           0.3125
+    Step Down:           0.03125
     Roughing Clearance:  0
     Feed Rate:           30
     Plunge Rate:         10
@@ -81,7 +81,7 @@ Select the inside rounded rectangle (the second one we made). Click CAM -> Follo
     Target Depth:        -0.03125
     Safety Height:       0.25
     Stock Surface:       0
-    Step Down:           0.3125
+    Step Down:           0.03125
     Feed Rate:           30
     Plunge Rate:         10
     Direction:           Counter
@@ -101,7 +101,7 @@ Select the outside rounded rectangle (the first one we made). Click CAM -> Profi
     Inside/outside:      Outside
     Safety Height:       0.25
     Stock Surface:       0
-    Step Down:           0.3125
+    Step Down:           0.03125
     Roughing Clearance:  0
     Feed Rate:           30
     Plunge Rate:         10
