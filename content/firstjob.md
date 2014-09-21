@@ -4,7 +4,7 @@ Welcome to Your New Life! After completing this step, you'll be a pro! OK, maybe
 
 Our first job will be to design and cut a coaster out of some suitable material --- cork is one good choice, and the feed and plunge rates and step down values below assume that. You can purchase cork from [inventables.com](https://www.inventables.com/categories/materials/cork) or a craft or office supply store. Other options are plywood (as shown in the photographs below) and basswood.
 
-You will also need to remove the pen or marker used for [Hellow World](http://docs.shapeoko.com/helloworld.html) and mount the spindle. You may need to move the Z-axis Spindle Carriage Assembly down to the bottom of its travel so as to be able to place the spindle. Please tighten it securely in place using the SCHS bolts for the Universal Spindle Mount Straps. You will also need to insert an appropriate endmill and tighten it in place using the collet wrench (see the instructions for your rotary tool). Please ensure that the spindle is mounted plumb and vertical in both the X- and Y-axes and is secure.
+You will also need to remove the pen or marker used for [Hello World](http://docs.shapeoko.com/helloworld.html) and mount the spindle. You may need to move the Z-axis Spindle Carriage Assembly down to the bottom of its travel so as to be able to place the spindle. Please tighten it securely in place using the SCHS bolts for the Universal Spindle Mount Straps. You will also need to insert an appropriate endmill and tighten it in place using the collet wrench (see the instructions for your rotary tool). Please ensure that the spindle is mounted plumb and vertical in both the X- and Y-axes and is secure.
 
 
 ##Find the Origin
