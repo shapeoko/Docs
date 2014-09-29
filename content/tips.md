@@ -89,7 +89,7 @@ The tap has to be harder than the material it's tapping. Because of that hardeni
 
 #####Lubricate --- a little bit will go a long way.
 
-Lubricating will reduce the amount of friction produced while tapping, making the tap handle easier to turn. It could also aid in chip removal as there will be less friction keeping the chips in. You can use tapping fluid, motor oil, WD-40, butter, PAM, water, etc., or basically anything that's wet. You won't need a lot of whatever you chose. Whatever you choose, be careful to clean it up afterwards, especially if it's water-based which might create the possibility of corrosion, or oily which will stain the wasteboard.
+Lubricating will reduce the amount of friction produced while tapping, making the tap handle easier to turn. It also ameliorates the tendency of aluminum to ''gall'' (coating the steel tap in a layer of aluminum) which then interferes with cutting. It could also aid in chip removal as there will be less friction keeping the chips in. You can use tapping fluid, motor oil, WD-40, butter, PAM, water, etc., or basically anything that's wet. You won't need a lot of whatever you chose. The commercial "Tap Magic" brand of cutting fluid has been suggested by a number of people. Whatever you choose, be careful to clean it up afterwards, especially if it's water-based which might create the possibility of corrosion, or oily which will stain the wasteboard.
 
 
 #####Take Your Time --- this is not a race.
