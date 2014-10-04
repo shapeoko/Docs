@@ -8,8 +8,6 @@ Thank you for supporting Project Shapeoko, an opensource CNC machine which may b
 
 The following pages are filled with the information you need to assemble your Shapeoko 2 desktop CNC machine. Please read through them in advance, and make note of things to check and verify before beginning assembly. If you have any difficulties with assembly, please check the ShapeOko [wiki](http://www.shapeoko.com/wiki) and [forums](http://www.shapeoko.com/forum/index.php). **Please note** that there is a page on [assembly troubleshooting](http://www.shapeoko.com/wiki/index.php/Assembly_troubleshooting) on the wiki. If you've followed the instructions and nothing seems to match up on the wiki, please contact [help@inventables.com](mailto:help@inventables.com), providing them with your order number and machine serial number and a description of your difficulty --- it may be a problem specific to a given batch of kits.
 
-#Shapeoko.com will be down for maintenance the afternoon of Saturday, 4 October
-
 ###A note on diagrams
 
 Where possible, diagrams and illustrations are linked to larger versions which should fill your browser window. Most of the parts diagrams are in SVG format which will allow you to magnify them if using a tablet which supports such. When the SVG diagrams are opened in a browser window, they are interactive --- clicking on the parts list text will highlight the matching part(s) in the diagram). Please note that each SVG diagram comes in two versions, one intended for viewing *in situ* at a typical size, the other, with a suffix of "-100" which is set to fill a browser window --- each image's link is of course to that latter version.
