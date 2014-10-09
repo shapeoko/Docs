@@ -4,15 +4,13 @@
 
 ![glamour photo of ShapeOko 2 front right diagonal](tPictures/shapeoko_2.jpg)
 
-Thank you for supporting Project Shapeoko, an opensource CNC machine which may be used for milling, lasercutting, 3D printing, cutting fabric, etc. The work area is approximately 12" x 12" x 2.5" (but can be [enlarged](http://www.shapeoko.com/wiki/index.php/Scaling_Up), and the Z-axis can easily be extended to ~3.5", or more by replacing the MakerSlide and threaded rod) and precision is dependent upon the belts, pulleys, motors and electronics which are selected (for the default SO2, that is 1/40th of a mm along X and Y, 1/320th of a mm along Z ([ShapeOko 2 Grbl Configuration page](http://www.shapeoko.com/wiki/index.php/Grbl_Configuration)). ShapeOko is named after the **Shape**ways 3D printing and the Pon**oko** laser cutting services and was initially launched on [Kickstarter](http://www.kickstarter.com/projects/edwardrford/project-shapeoko-a-300-complete-cnc-machine?ref=live).
+Thank you for supporting Project Shapeoko, an open source CNC machine which may be used for milling, lasercutting, 3D printing, cutting fabric, etc. It has a 12" x 12" x 2.5" work volume that can be [enlarged](http://www.shapeoko.com/wiki/index.php/Scaling_Up) and a stock precision of 1/40mm along X and Y, 1/320mm along Z.
 
-The following pages are filled with the information you need to assemble your Shapeoko 2 desktop CNC machine. Please read through them in advance, and make note of things to check and verify before beginning assembly. If you have any difficulties with assembly, please check the ShapeOko [wiki](http://www.shapeoko.com/wiki) and [forums](http://www.shapeoko.com/forum/index.php). **Please note** that there is a page on [assembly troubleshooting](http://www.shapeoko.com/wiki/index.php/Assembly_troubleshooting) on the wiki. If you've followed the instructions and nothing seems to match up on the wiki, please contact [help@inventables.com](mailto:help@inventables.com), providing them with your order number and machine serial number and a description of your difficulty --- it may be a problem specific to a given batch of kits.
+ShapeOko is named after the **Shape**ways 3D printing and the Pon**oko** laser cutting services and was initially launched on [Kickstarter](http://www.kickstarter.com/projects/edwardrford/project-shapeoko-a-300-complete-cnc-machine?ref=live).
 
-###A note on diagrams
+The following pages are filled with the information you need to assemble your Shapeoko 2 desktop CNC machine. Please read through them in advance, and make note of things to check and verify before beginning assembly. If you have any difficulties with assembly, please check the ShapeOko [wiki](http://www.shapeoko.com/wiki) and [forums](http://www.shapeoko.com/forum/index.php).
 
-Where possible, diagrams and illustrations are linked to larger versions which should fill your browser window. Most of the parts diagrams are in SVG format which will allow you to magnify them if using a tablet which supports such. When the SVG diagrams are opened in a browser window, they are interactive --- clicking on the parts list text will highlight the matching part(s) in the diagram). Please note that each SVG diagram comes in two versions, one intended for viewing *in situ* at a typical size, the other, with a suffix of "-100" which is set to fill a browser window --- each image's link is of course to that latter version.
-
-Please refer to the ShapeOko [wiki](http://www.shapeoko.com/wiki) for additional information on using or upgrading your machine.
+**Please note:** there is a page on [assembly troubleshooting](http://www.shapeoko.com/wiki/index.php/Assembly_troubleshooting) on the wiki. If you've followed the instructions and nothing seems to match up on the wiki, please contact [help@inventables.com](mailto:help@inventables.com) and they will help you get everything sorted.
 
 ###A note on safety
 
@@ -20,9 +18,7 @@ _Never operate the machine without adequate safety gear for the current task. Ne
 
 ##Getting Started
 
-Please read through the assembly instructions in their entirety. If you have any questions or concerns or problems, please contact [Inventables Customer Service](https://www.inventables.com/about): [help@inventables.com](mailto:help@inventables.com) or post a question on [the project wiki](http://www.shapeoko.com/forum/viewforum.php?f=10). Lots of people, from diverse backgrounds, many with no prior CNC or woodworking or machining experience have successfully assembled and operated machines. Like most things in life, what one gets out of it, reflects the effort and preparation and patience which one exerts.
-
-You may find it helpful to watch an [assembly video](https://www.youtube.com/watch?v=42wzq5vG5rU) (also linked to from the [wiki](http://www.shapeoko.com/wiki/index.php/ShapeOko_2#Assembly_Video)) --- there are a number of others, some of which are on the [Hello World](http://www.shapeoko.com/wiki/index.php/Hello_World) page.
+It might be helpful to watch an [assembly video](https://www.youtube.com/watch?v=42wzq5vG5rU) (also linked to from the [wiki](http://www.shapeoko.com/wiki/index.php/ShapeOko_2#Assembly_Video)) --- there are a number of others, some of which are on the [Hello World](http://www.shapeoko.com/wiki/index.php/Hello_World) page.
 
 ###Overview
 
@@ -39,7 +35,6 @@ You may find it helpful to watch an [assembly video](https://www.youtube.com/wat
 
 If you are interested in contributing to the docs pages, please see [this page](contribute.html) for information on how to get started.
 
-
 ##Assembly Steps
 
 The first thing to do is to compare what you have received with the inventory sheet included with your kit. For reference, there is also a [B.O.M. (Bill of Materials) with sortable columns and (some) options on the wiki](http://www.shapeoko.com/wiki/index.php/BOM). Please note that part specifications / sizes may change with different kit batches, especially for aspects which do not affect functionality and fit. Also, any bags which don't have a part number and quantity should be sorted out and matched against the B.O.M. and [parts pages](http://www.shapeoko.com/wiki/index.php/Parts). Please compare one part to another (especially the MakerSlide) and check the instructions for specific things to check. If anything in your kit is missing or damaged after your initial review, contact [Inventables Customer Service](https://www.inventables.com/about): [help@inventables.com](mailto:help@inventables.com) to make arrangements all-at-once for everything, so that one doesn't have to wait on multiple shipments.
@@ -49,7 +44,7 @@ If your electronics vary in any fashion from the standard parts, it is your resp
 ##Software
 [Goto the Instructions](software.html)
 
-Before we can control our machine, we need to install and/or configure some software. If you're going to test your electronics, then you'll need to have this step done before you can complete that step. Otherwise, you'll need to complete this step before running Hello, World. 
+Before we can control our machine, we need to install and/or configure some software. If you're going to test your electronics, then you'll need to have this step done before you can complete that step. Otherwise, you'll need to complete this step before running Hello, World.
 
 ![Universal GCode Sender](helloworld/ugs1_4.png)
 
@@ -87,7 +82,7 @@ This is the most labor intensive part of the assembly. You will be assembling 3 
 ##Z-Axis
 [Goto the Instructions](zaxis.html)
 
-The Z-axis is comprised of 3 separate assemblies, and will require some time (and patience) to fully assemble. It will also require that you have begun tapping the MakerSlide (see the [Pro Tips](tips.html)). Once you are done with this step, your machine will really start to take shape. 
+The Z-axis is comprised of 3 separate assemblies, and will require some time (and patience) to fully assemble. It will also require that you have begun tapping the MakerSlide (see the [Pro Tips](tips.html)). Once you are done with this step, your machine will really start to take shape.
 
 ![z-axis exploded](tPictures/so_z_axis_parts_4.jpg)
 
@@ -111,7 +106,7 @@ The Y-axis makes up the frame of the machine along with the last component in th
 
 ---
 
-##Work Area##
+##Work Area
 [Goto the Instructions](workarea.html)
 
 The work area integrates the last component with the previous assemblies, completing the mechanicals of the machine.
@@ -120,7 +115,7 @@ The work area integrates the last component with the previous assemblies, comple
 
 ---
 
-##Electrical Wiring##
+##Electrical Wiring
 [Goto the Instructions](wiring.html)
 
 The machine is complete when the electronics are wired up to the motors and the belts are installed, allowing movement. One must make a decision about which wiring option one will use before beginning to assemble the machine.
@@ -130,7 +125,7 @@ The machine is complete when the electronics are wired up to the motors and the 
 ##Hello, World
 [Goto the Instructions](helloworld.html)
 
-Your very first run! 
+Your very first run!
 
 ![Hello World](helloworld/ugs_visualize_4.png)
 

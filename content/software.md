@@ -1,15 +1,14 @@
 #Software
 
-There are several pieces of software that you will need to be aware of while assembling and testing your machine. The first software is to be installed on your computer and is called "Universal G-Code Sender" (written in Java, it may require [installing or updating to at least Java 7](https://www.java.com/en/download/), if Java isn't an option for your machine, there are other [Communication/Control programs, see the wiki](http://www.shapeoko.com/wiki/index.php/Communication_/_Control)). Details for obtaining and installing the software can be found below. The second software is actually a 'firmware' that is installed on your Arduino. The firmware is called '[Grbl](http://www.shapeoko.com/wiki/index.php/Grbl)'. 
+There are several pieces of software that you will need to be aware of while assembling and testing your machine. The first software is to be installed on your computer and is called "Universal G-Code Sender" (written in Java, it may require [installing or updating to at least Java 7](https://www.java.com/en/download/), if Java isn't an option for your machine, there are other [Communication/Control programs, see the wiki](http://www.shapeoko.com/wiki/index.php/Communication_/_Control)). Details for obtaining and installing the software can be found below. The second software is actually a 'firmware' that is installed on your Arduino. The firmware is called '[Grbl](http://www.shapeoko.com/wiki/index.php/Grbl)'.
 
-#####If you bought the full kit from Inventables, then your Arduino came pre-loaded with Grbl.
+#####If you bought the full kit from Inventables, then your Arduino comes pre-loaded with Grbl.
 
-You should still read through this entire section --- there have been instances of unusual behaviour which have been addressed by re-flashing.
+There are 3 parts to controlling your machine from your computer:
 
-In addition to the software proper, you will also need driver files for your computer system for your Arduino (which will make it appear as a serial device connected to your computer using a USB cable) --- these may be automatically installed via plug-and-play, if they are not, the instructions for manually installing the drivers are below.
-
-For more information about the Arduino, [see the wiki](http://www.shapeoko.com/wiki/index.php/Arduino).
-
+1. Sending the machine instructions out of your computer through the USB port to the machine.
+2. Facilitate the USB connection between the machine and your computer.
+3. Consuming those instructions and turning them into electrical steps for the motors.
 
 ## Universal G-code Sender
 
@@ -23,19 +22,19 @@ Universal G-Code Sender (UGS for short): a Java based, cross platform G-Code sen
 ### Installing ###
 There is no installation required for this software. Simply download the zip file from the link above. Once downloaded, to run the software simply unzip the .zip file and double click the .jar file. On some platforms you will need to run an included start script. If you are using Microsoft Windows, just double click the .jar file.
 
-
 #####Mac Users
-You may need to create a "/var/lock" directory on OSX to fix a bug in the serial library. To do this open the Terminal application and run the following two commands: 
+You may need to create a "/var/lock" directory on OSX to fix a bug in the serial library. To do this open the Terminal application and run the following two commands:
 
-    sudo mkdir /var/lock 
-    sudo chmod 777 /var/lock 
+    sudo mkdir /var/lock
+    sudo chmod 777 /var/lock
 
 ### First run
 You may want to run the program before connecting the Arduino --- this will allow you to check and see if your system has any pre-existing ports --- make note of any, once the Arduino is loaded it should be on a new port.
 
 ##Grbl
 
-### Overview ###
+### Overview
+Grbl is the software that runs on the Arduino which translates g-code into stepper motor signals.
 
 #####From The Github Readme File:
 
@@ -63,7 +62,7 @@ As noted above, Grbl (along with the bootloader) is pre-installed on Arduinos pu
 
 * [grbl v0.8c atmega328p 16mhz 9600.hex](https://github.com/downloads/grbl/grbl/grbl\_v0\_8c\_atmega328p\_16mhz\_9600.hex)
 
-If that link isn't working, you can find the original file here: 
+If that link isn't working, you can find the original file here:
 
 * [github.com/grbl/grbl/downloads](https://github.com/grbl/grbl/downloads)
 
