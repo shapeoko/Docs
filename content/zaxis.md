@@ -141,7 +141,7 @@ The Z-Axis Rail Assembly is the most intricate and complex assembly, and require
 - Place the Z-axis Shim Plate (**\#5**) on top of the Z Axis Rail  (**\#1**, 200mm MakerSlide) and attach it using the M5 bolts (as noted above, the Z-axis must have threads for these bolts at this point, cut in by tapping) --- be careful of the orientation of the MakerSlide, the V-rails must be oriented as shown in the diagram so that the Spindle Carriage Assembly (see below) V-wheels will fit. ru
 - After determining the spacing for the Threaded Rod (**\#6**) (see below) thread on one M8 Hex Nut (**\#14**) to the top position on the Threaded Rod
 - Slip the Threaded Rod through the Flanged Bearing of the sub-sub-assembly from Step #7 above
-- Thread on the second M8 Hex Nut
+- Thread on the second M8 Hex Nut --- this will go on from the bottom, ensuring that all the threads are in good shape
 
 Review all connectors to make certain that everything is tight --- be careful not to bend the threaded rod or strip any screws. 
 
