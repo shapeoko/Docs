@@ -37,6 +37,10 @@
               return "content/" + name + ".md";
             };
 
+            var markdownFromUrl = function(url) {
+              return url.replace('#', '');
+            }
+
             var loadMarkdown = function(name, shouldRecord) {
               $.ajax({
                 url: markdownNameToUrl(name),
@@ -63,14 +67,22 @@
             var currentState = 'index';
 
             if (window.location.hash !== '') {
-              currentState = window.location.hash.replace('#', '');
+              currentState = markdownFromUrl(window.location.hash);
             }
 
             loadMarkdown(currentState);
 
             $(window).bind('popstate', function (event) {
-              if (event.originalEvent.state !== undefined && event.originalEvent.state.markdown) {
-                loadMarkdown(event.originalEvent.state.markdown);
+              var state = event.originalEvent.state;
+              if (state !== undefined) {
+                if (state === null) {
+                  loadMarkdown(markdownFromUrl(window.location.hash));
+                } else if (state.markdown) {
+                  loadMarkdown(event.originalEvent.state.markdown);
+                } else {
+                  console.log("Got popstate, don't know what to do")
+                  console.log(event.originalEvent)
+                }
               }
             });
           });
