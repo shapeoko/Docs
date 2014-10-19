@@ -175,7 +175,7 @@ Tighten everything. If the M3 screws bottom out in the stand-offs, add washers o
 - 26016-01 **M5 insertion nut** x 4 pcs.
 - 25286-01 **M5 x 10mm, BHCS** x 4 pcs.
 
-Insert the 10mm M5 bolts (**\#6**) with an M5 washer (**\#4**) into the Z-Assembly Carriage (**\#1**) from the side the V-wheels are on, thread on the M5 insertion nuts (**\#5**) --- these only mount one way, the smooth side goes toward the bolt head, while the side with the protruding circle goes at the "threaded end" (begin screwing the bolt into the nut on the plain side) --- see the [PS20025 diagram](http://docs.shapeoko.com/content/tPictures/PS20025_16.png) for details, then slide the MakerSlide of the Z-Axis Rail Assembly  (**\#2**) onto the nuts, align the assemblies at the bottom and center them left to right and tighten.
+Insert the 10mm M5 bolts (**\#6**) with an M5 washer (**\#4**) into the Z-Assembly Carriage (**\#1**) from the side the V-wheels are on, thread on the M5 insertion nuts (**\#5**) --- these only mount one way, the smooth side goes toward the bolt head, while the side with the protruding circle goes at the "threaded end" (begin screwing the bolt into the nut on the plain side) --- see the [PS20025 diagram](/content/tPictures/PS20025_16.png) for details, then slide the MakerSlide of the Z-Axis Rail Assembly  (**\#2**) onto the nuts, align the assemblies at the bottom and center them left to right and tighten.
 
 [![exploded view of Z-axis](tPictures/PS20030.svg)](content/tPictures/PS20030-100.svg)
 
@@ -213,6 +213,6 @@ For each M5 x 70 mm SHCS (**\#4**), add a washer (**\#5**) then place them in th
 
 [![](tPictures/so_gantry_carriage_4.jpg)](content/tPictures/so_gantry_carriage_8.jpg)
 
-###Next Step [Gantry](http://docs.shapeoko.com/gantry.html)
+###Next Step [Gantry](/#gantry)
 
 To express concerns, post on the [forums](http://www.shapeoko.com/forum/index.php), to suggest improvements without using github, edit [this wiki page](http://www.shapeoko.com/wiki/index.php?title=Zaxis_2&action=edit&redlink=1).

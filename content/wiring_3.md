@@ -134,6 +134,6 @@ If it's done right, you'll end up with something like this.
 
 ![rear view actual image](wiring/68-so_wiring-067.jpg)
 
-###Next Step [Hello, World](http://docs.shapeoko.com/helloworld.html)
+###Next Step [Hello, World](/#helloworld)
 
 To express concerns, post on the [forums](http://www.shapeoko.com/forum/index.php), to suggest improvements without using github, edit [this wiki page](http://www.shapeoko.com/wiki/index.php?title=Wiring_3_1&action=edit&redlink=1).

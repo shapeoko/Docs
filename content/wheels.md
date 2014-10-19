@@ -84,6 +84,6 @@ Alternate, assembly-line procedure for the V-Wheels:
 Assembled, these make up **25197-02**.
 
 
-###Next step [Carriages](http://docs.shapeoko.com/carriages.html)
+###Next step [Carriages](/#carriages)
 
 To express concerns, post on the [forums](http://www.shapeoko.com/forum/index.php), to suggest improvements without using github, edit [this wiki page](http://www.shapeoko.com/wiki/index.php?title=Wheels_1&action=edit&redlink=1).

@@ -27,9 +27,9 @@ Tape a piece of paper down to your work area. The paper should be taped in lands
 
 ##Download Files
 
-Download [this file for inches](http://docs.shapeoko.com/content/helloworld/helloworld2.nc) or [this file which switches to metric and returns to 3mm above home](http://docs.shapeoko.com/content/helloworld/helloworld2mm.nc) (you could right-click or control-click on the link to bring up a menu to force the saving) and save it somewhere to your computer that you will remember, e.g., the Desktop or your Documents folder. Please note that G-code is text, so you can examine the file with any text editor to verify it, or touch it up if need be. Please compare what you have downloaded with the image below to ensure that you have a good copy.
+Download [this file for inches](/content/helloworld/helloworld2.nc) or [this file which switches to metric and returns to 3mm above home](/content/helloworld/helloworld2mm.nc) (you could right-click or control-click on the link to bring up a menu to force the saving) and save it somewhere to your computer that you will remember, e.g., the Desktop or your Documents folder. Please note that G-code is text, so you can examine the file with any text editor to verify it, or touch it up if need be. Please compare what you have downloaded with the image below to ensure that you have a good copy.
 
-[![Hello, World](helloworld/file.png)](http://docs.shapeoko.com/content/helloworld/helloworld2.nc)
+[![Hello, World](helloworld/file.png)](/content/helloworld/helloworld2.nc)
 
 Please note that it is in Imperial, and will leave your machine in inch mode. Use the command G21 to switch back to metric if accustomed to using that system when jogging the machine. It also has different begin/end points for the paths than the original file, but the problems which those exposed are addressed by the Y-axis dual motor.
 
@@ -217,6 +217,6 @@ Once it's complete, you may wish to [document it on the wiki](http://www.shapeok
 
 If you have any difficulties see [Assembly Troubleshooting on the wiki](http://www.shapeoko.com/wiki/index.php/Assembly_troubleshooting). See also [Fine Tuning](http://www.shapeoko.com/wiki/index.php/Tuning) and [Operation Troubleshooting](http://www.shapeoko.com/wiki/index.php/Operation_Troubleshooting).
 
-###Next Step [First job](http://docs.shapeoko.com/firstjob.html)
+###Next Step [First job](/#firstjob)
 
 To express concerns, post on the [forums](http://www.shapeoko.com/forum/index.php), to suggest improvements without using github, edit [this wiki page](http://www.shapeoko.com/wiki/index.php?title=Helloworld_1&action=edit&redlink=1).

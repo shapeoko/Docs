@@ -3,7 +3,7 @@
 
 ##Wiring options
 
-Before beginning this section, you will have needed to select a [wiring option](http://docs.shapeoko.com/wiring.html), either one of your own devising, or one of the three options as noted below. 
+Before beginning this section, you will have needed to select a [wiring option](/#wiring), either one of your own devising, or one of the three options as noted below. 
 
 * [Option \#1](wiring_1.html) (Soldering), needs no special attention at this step other than noting the motor orientations shown in the steps below.
 * [Option \#2](wiring_2.html) (Terminal Blocks), if you are going to use the this method, you will need to attach those terminal blocks at the end of this step.
@@ -24,7 +24,7 @@ The 3 plates with stepper motors are identical and interchangeable. The plates a
 
 **Note:** The plates are laser-cut and powder-coated --- please examine the holes to ensure that M5 bolts and the eccentric nuts will fit --- if there are any holes with obstructions, clear these using a knife blade, round file or other tool.
 
-It might be easier and more straight-forward to assemble all four of them to match the Z-axis motor carriage mount plate, (see the first, slightly more detailed diagram on the [Z-axis](http://docs.shapeoko.com/zaxis.html) page, [exploded view of Z Assembly Carriage](http://docs.shapeoko.com/content/tPictures/PS20021-100.svg)) then set one aside for that, and add smooth idler wheels to make the other three.
+It might be easier and more straight-forward to assemble all four of them to match the Z-axis motor carriage mount plate, (see the first, slightly more detailed diagram on the [Z-axis](/#zaxis) page, [exploded view of Z Assembly Carriage](/content/tPictures/PS20021-100.svg)) then set one aside for that, and add smooth idler wheels to make the other three.
 
 When attaching V-wheels and Smooth Idlers, push them away from the horizontal centerline of the plate (towards what will be the top of the machine for the static wheels and smooth idlers) --- this will maximize the available space and minimize the chance of the wheels slipping. Similarly, turn the eccentric nuts to move the dynamic V-wheel as far as possible from the matching static one (towards the bottom of the machine), so as to have the widest possible gap to make it easier to mount each assembly on the MakerSlide.
 
@@ -88,7 +88,7 @@ Lastly, attach your stepper motor - suggested orientations are shown at the bott
 	- Attach the GT2 pulley (it is easier to attach the pulley before mounting the motor.)
 	- Use four M3 SHCS and four M3 flat washers to attach each stepper motor (**Note:** You may need more than one washer per bolt, depending upon the depth of the threads in the motor and the length of your bolt (6mm was initially specced, 8mm is shipping in current kits). Use an equal number of washers per motor. Be careful not to strip out the threads in the motor.) When you tighten the motor into place, do so in an X pattern. You want the face of the motor to be equally tight against the plate. The motor should be pushed up towards the top of the plate, so as to get a better angle and more engagement for the belts, and to improve clearance beneath the pulley.
 
-Please note that the above photograph does not show the stepper motor in place. As previously noted, one should attach at least the stepper motor for the X-axis plate, as it's difficult to attach it once the gantry carriage is assembled. If using [Wiring Option \#2](http://docs.shapeoko.com/wiring_2.html), attach the terminal blocks now to the appropriate plates, while the inner sides are readily accessible.
+Please note that the above photograph does not show the stepper motor in place. As previously noted, one should attach at least the stepper motor for the X-axis plate, as it's difficult to attach it once the gantry carriage is assembled. If using [Wiring Option \#2](/#wiring_2), attach the terminal blocks now to the appropriate plates, while the inner sides are readily accessible.
 
 [![inventables completed view of Motor Mount Carriages](tPictures/inventables_Shapeoko_v2_carriage_closeup_4.jpg)](content/oPictures/inventables_Shapeoko_v2_carriage_closeup_o.jpg)
 
@@ -98,16 +98,16 @@ Motor orientation is as follows:
 
 ![wire facing up](wiring/stepper_orientation_up.svg)
 
-(If using [wiring option \#2](http://docs.shapeoko.com/wiring_2.html), attach one terminal block to the right of the X-axis plate)
+(If using [wiring option \#2](/#wiring_2), attach one terminal block to the right of the X-axis plate)
 
 
 ###Right Y-axis
 
 ![wire facing up](wiring/stepper_orientation_left.svg)
 
-(If using [wiring option \#2](http://docs.shapeoko.com/wiring_2.html), attach two terminal blocks to this plate)
+(If using [wiring option \#2](/#wiring_2), attach two terminal blocks to this plate)
 
 
-###Next step [Z-axis](http://docs.shapeoko.com/zaxis.html)
+###Next step [Z-axis](/#zaxis)
 
 To express concerns, post on the [forums](http://www.shapeoko.com/forum/index.php), to suggest improvements without using github, edit [this wiki page](http://www.shapeoko.com/wiki/index.php?title=Carriages_2&action=edit&redlink=1).
