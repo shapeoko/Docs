@@ -78,7 +78,7 @@ Congratulations! You've built a ShapeOko!
 
 ### Squaring the Machine
 
-Check that each component is square to the others using a known-to-be-good square. If you don't have a square, measure the diagonals and compare the distances. Be sure to measure the heights of the Y-axis rails and ensure that they are parallel with the wasteboard and each other. Loosen bolts, adjust and re-tighten as needed until everything is true and moves linearly. See (Calibration: Squaring the Machine on the wiki)[http://www.shapeoko.com/wiki/index.php/Calibration_and_Squaring_the_Machine#Squaring_the_Machine] for further details.
+Check that each component is square to the others using a known-to-be-good square. If you don't have a square, measure the diagonals and compare the distances. Be sure to measure the heights of the Y-axis rails and ensure that they are parallel with the wasteboard and each other. Loosen bolts, adjust and re-tighten as needed until everything is true and moves linearly. See [Calibration: Squaring the Machine on the wiki](http://www.shapeoko.com/wiki/index.php/Calibration_and_Squaring_the_Machine#Squaring_the_Machine) for further details.
 
 ### Adjusting the V-Wheels
 
