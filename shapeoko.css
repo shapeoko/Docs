@@ -221,9 +221,9 @@ article img{
 }
 
 #contentWrapper {
-  width: 75%;
+  width: 65%;
   max-width: 960px;
-  margin-left: 15%;
-  padding: 0px 40px;
-  padding-top: 72px;
+  position: absolute;
+  left: 220px;
+  top: 80px;
 }
