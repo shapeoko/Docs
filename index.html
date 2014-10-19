@@ -1,40 +1,79 @@
 <!doctype html>
 <html>
     <head>
-            <!--change the title for each page-->
-            <title>Project Shapeoko</title>
-            
-            <!--include styles-->
-            <link href='http://fonts.googleapis.com/css?family=Ubuntu:300,400,700' rel='stylesheet' type='text/css'>
-            <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-            <link href="shapeoko.css" rel="stylesheet" />
+      <title>Project Shapeoko</title>
 
-            <!--include javascript-->
-            <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-            <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
-            <script src="js/markdown.js"></script>
+      <!--include styles-->
+      <link href='http://fonts.googleapis.com/css?family=Ubuntu:300,400,700' rel='stylesheet' type='text/css'>
+      <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+      <link href="css/shapeoko.css" rel="stylesheet" />
+
+      <!--include javascript-->
+      <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+      <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+      <script src="js/markdown.js"></script>
+
+      <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-11630357-11']);
+        _gaq.push(['_setDomainName', 'shapeoko.com']);
+        _gaq.push(['_trackPageview']);
+
+        (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+      </script>
     </head>
     <body>
-
         <script>
-            //load the navbar
-            $("body").load("include.html");
-        </script>
+          $(document).ready(function(){
+            var recordHistory = function(pageName) {
+              window.history.pushState({markdown: pageName}, '', '#' + pageName);
+            }
 
-        <script>
-            $(document).ready(function(){
-                $.ajax({
-                  //change this path to the appropriate markdown file
-                  url:"content/index.md",
-                  dataType: "text",
-                  success: function(response){
+            var markdownNameToUrl = function(name) {
+              return "content/" + name + ".md";
+            };
 
-                      //here is the magic. convert markdown to html, inject it into content div
-                      $("#content").append(markdown.toHTML(response));
-                    }
-                });
+            var loadMarkdown = function(name, shouldRecord) {
+              $.ajax({
+                url: markdownNameToUrl(name),
+                dataType: "text",
+                success: function(response){
+                  if (shouldRecord) {
+                    recordHistory(name);
+                  }
+                  $("#content").html('').append(markdown.toHTML(response));
+                }
+              });
+            };
 
+            $("body").load("navigation.html", function() {
+              $(this).on("click", "#side-nav a", function(e) {
+                e.preventDefault();
+
+                loadMarkdown($(this).data('markdown'), true);
+
+                return false;
+              });
             });
+
+            var currentState = 'index';
+
+            if (window.location.hash !== '') {
+              currentState = window.location.hash.replace('#', '');
+            }
+
+            loadMarkdown(currentState);
+
+            $(window).bind('popstate', function (event) {
+              if (event.originalEvent.state !== undefined && event.originalEvent.state.markdown) {
+                loadMarkdown(event.originalEvent.state.markdown);
+              }
+            });
+          });
         </script>
 
     </body>
