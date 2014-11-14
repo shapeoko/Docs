@@ -7,7 +7,7 @@
 
 Before we get all crazy bolting our new machine together, let's give our electronics a test run. It would be frustrating to have the machine fully assembled, only to find that there is a problem with your electronics that may require disassembly! Let's cut that off at the pass and give everything a thorough checking first.
 
-**Please note that the following instructions assume one has purchased a full kit. If your electronics vary in any fashion from the standard parts, it is your responsibility to ensure that one doesn't damage the electronics. Please review the [Parts page on the wiki](http://www.shapeoko.com/wiki/index.php/Parts) and any other relevant documentation which is necessary for the parts which you have sourced.**
+**Please note that the following instructions assume one has purchased a full kit. If your electronics vary in any fashion from the standard parts, it is your responsibility to ensure that one doesn't damage the electronics. It is strongly suggested that one assemble and use the machine initially in its stock configuration --- this makes troubleshooting via e-mail or on the forums easier, and provides one with valuable experience for implementing any planned upgrades. Please review the [Parts page on the wiki](http://www.shapeoko.com/wiki/index.php/Parts) and any other relevant documentation which is necessary for the parts which you have sourced.**
 
 For reference, the image below shows the concept of wiring Shapeoko 2.
 
@@ -23,21 +23,20 @@ Please note that stepper motors can be wired up in many different ways and still
 
 ![image of required components](tPictures/so_electronics_parts_4.jpg)
 
-* **Arduino with Grbl firmware** (contains an AVR processor, USB connector and I/O pins)
-* (Arduino) **gShield** (formerly GrblShield, takes the signals Grbl generates and drives the steppers. Small pots are used to adjust)
+* **[Arduino](http://www.shapeoko.com/wiki/index.php/Arduino) with Grbl firmware** (contains an AVR processor, USB connector and I/O pins)
+* (Arduino) **gShield** (formerly [GrblShield](http://www.shapeoko.com/wiki/index.php/GrblShield), takes the electronic signals Grbl generates and sets the current from the power supply which [drives the steppers](http://www.shapeoko.com/wiki/index.php/Electronics#Pololu_A4988_Stepper_Drivers). Small pots are used to adjust. [More information about stepper shields is on the wiki](http://www.shapeoko.com/wiki/index.php/Electronics#Stepper_Shield).)
 * **Stepper motors** x 4 pcs
 * **Power Supply** with wall plug
 * **Barrel Connector** (for connecting the power supply to the gShield)
-* Computer with a **Grbl Communication/Control program** installed
+* Computer with a **Grbl Communication/Control program** and drivers for the Arduino installed (not included in the kit)
 * **USB Cable** (A to B)
 * Patience (just a little bit)
 
-Please note that the photos depict using terminal blocks to connect the wiring --- this is optional and included to cover the case of motors with short lead wires which would require them. The 4-conductor cable should be 18 or 20 gauge and shielded. Note that in addition to the 4 color-coded copper conductors there is a steel "drain wire" which may optionally be connected to ground at the controller end, but should be trimmed off with the shielding at the motor end.
+Please note that the photos depict using terminal blocks to connect the wiring --- this is optional and included to cover the case of motors with short lead wires which would require them --- it is more expedient to directly connect the motors, and it's pretty much impossible for there to be something wrong with the terminal blocks. The 4-conductor cable should be 18 or 20 gauge and shielded. Note that in addition to the 4 color-coded copper conductors there is a steel "drain wire" which may optionally be connected to ground at the controller end, but should be trimmed off with the shielding at the motor end.
 
 
 ## Tools
 
-![Tools](tPictures/e_test_tools_1.jpg)
 ![Tools](tPictures/e_test_tools_2.jpg)
 
 * Screw Driver 2.0mm blade
@@ -48,23 +47,13 @@ Please note that the photos depict using terminal blocks to connect the wiring -
 The terminal blocks use a combination screw which will accept either a Phillips or flat blade screwdriver.
 
 
-##Connect Arduino
+##Connect Arduino to Control Program
 
 Now that we have everything gathered up, you should find yourself with a setup similar to this:
 
 ![image of required components](tPictures/so_electronics_parts_4.jpg)
 
-First thing that we do is plug our Arduino into the computer and test it. If you are confident your Arduino works, skip to **Hook Stuff Up** below.
-
-![Arduino plugged into USB cable](tPictures/so_e_arduino_lit_4.jpg)
-
-Remember, the big end of the cable goes into the Arduino. Loading the driver for the Arduino is documented in [Software](http://docs.shapeoko.com/software.html)
-
-
-##Communication / Control Program
-
 Launch your selected Communication/Control program on your computer. Connect to the Arduino and ensure that it works (see the [Software](software.html) page for details). Once you are certain your controller works, disconnect it.
-
 
 ##Hook Stuff Up##
 
@@ -72,7 +61,9 @@ Launch your selected Communication/Control program on your computer. Connect to 
 ![Arduino and gShield on edge](tPictures/so_e_arduino_gshield_oe_2.jpg)
 ![Arduino and gShield assembled](tPictures/so_e_arduino_gshield_aa_2.jpg)
 
-The next step is to plug the Arduino into the gShield. Be careful of the electronics, not to bend any pins, or to allow static electricity to damage them.
+The next step is to plug the Arduino into the gShield. Be careful of the electronics, not to bend any pins, or to allow static electricity to damage them. The connection should be keyed by the pair of connectors in the top row. The right will be fully occupied, the left will have empty pins and the wider space in the top row of connectors for the gShield is for the space between the pair of connectors.
+
+Note that your gShield should have one jumper installed for the Z-axis across M0 so as to set micro-stepping for that motor. Please see the gShield documentation for more details.
 
 You will need to connect the gShield to the stepper motors. This may be done using the terminal blocks and 4 conductor grey wire as shown in the photographs, or directly if your stepper motor leads are long enough. If your stepper motor has very long wires you will have the option of choosing whether to use the terminal blocks (placing them on the gantry), or directly connecting the motors to the electronics. If the wires are short, then the terminal blocks will need to be attached to the gantry. Wiring your stepper motors to terminal blocks on the gantry minimizes the wear and tear on the motor leads, limiting it to the 4 conductor grey wire, while directly connecting the leads provides for a neater appearance.
 
@@ -84,7 +75,6 @@ You will need to connect the gShield to the stepper motors. This may be done usi
 ![Open connector on gShield](tPictures/so_e_arduino_open_2.jpg)
 ![Arduino, gShield, terminal blocks, wiring, stepper motors](tPictures/so_e_arduino_usb_2.jpg)
 ![image of required components](tPictures/so_e_arduino_wired_lit_2.jpg)
-
 
 Start by cutting the grey wire to length (either equal thirds, or some proportion which takes into account the wire for the Y-axis having a slightly shorter run than the X- and Z-axes). If you have long leads, it is best to defer cutting the wire until it is mounted on the machine --- that will allow you to make a run with the un-trimmed wire and then cut it to the exact length. If you make a mistake and need more wire, this may be ordered from Inventables or sourced from any hardware store (just buy 4 conductor 20 (or 18) gauge security wire).
 
@@ -121,7 +111,7 @@ The stepper motor connectors should be unscrewed so as to open them up as the ri
 
 ![Open connector on gShield](tPictures/so_e_arduino_open_4.jpg)
 
-Carefully connect the grey wires from the stepper motors (be gentle since you do not want to crack the circuit boards or dislodge any components). Note that each such block represents one axis. Be certain to connect the dual-motor Y-Axis to the correct block. 
+Carefully connect the grey wires from the stepper motors (be gentle since you do not want to crack the circuit boards or dislodge any components). Note that each such block represents one axis. Be certain to connect the dual-motor Y-Axis to the correct block.
 
 Once completed, all wires will be connected and none will be loose. It is important that the wires be connected securely since the various parts will be in motion, and applying power to a stepper driver which is not connected to a motor may damage the gShield (or the stepper driver if using a shield which uses discrete stepper drivers).
 
@@ -138,7 +128,7 @@ Lastly one must connect the power. First, strip the leads from the raw end of th
 
 ![Stripped lead for barrel connector](tPictures/power_connection.jpg)
 
-Connect it to the gShield (which is attached to the top of the Arduino). There are two leads, one a solid black wire, the other black with a white stripe (or red). 
+Connect it to the gShield (which is attached to the top of the Arduino). There are two leads, one a solid black wire, the other black with a white stripe (or red).
 
 * black == (-)
 * black/white (or red) == (+)
@@ -149,34 +139,32 @@ Please connect each lead to the appropriate side of the gShield's power connecto
 
 Plug the barrel connector into the matching connector from the power supply, plug the power supply's power connector into a grounded outlet. Your gShield should light up blue and be ready for operation.
 
-![image of required components](tPictures/so_e_arduino_usb_lit_4.jpg)
-
-
 ##Testing##
 
 Attaching tape to the motor shafts makes it easier to see the rotation when testing before the machine is assembled, or you could attach the pulleys (these are mounted so that the flat portion is at the end of the shaft and the set screw is closer to the motor housing). Once the machine is assembled, it is a good idea to retest so as to verify the connections and direction of rotation. When initially testing a machine, place it in a neutral position with space to move up, down and to all four sides, so as to prevent a crash if it should move in the wrong direction or farther than expected.
 
-Load up a Communication / Control program and use its jog functionality to test each Axis. For the Universal G-Code Sender, this would typically involve opening the connection on the correct COM port, selecting baud rate of 9600, then switching to the "Machine Control" tab, and using the buttons to move the X-, Y-, and Z-axes. 
+Load up a Universal G-Code Sender (or some other Communication / Control program) and use its jog functionality to test each Axis. For the Universal G-Code Sender, this would typically involve opening the connection on the correct COM port, selecting baud rate of 9600, then switching to the "Machine Control" tab, and using the buttons to move the X-, Y-, and Z-axes. (There is no need to load a G-Code file at this time.) Please take note of whether one is using relative or absolute mode if typing actual G-Code commands.
 
 If one or more motors don't move or don't move smoothly, you may need to adjust the trim pots on the gShield, see [the Motor Current section of the Tuning page on the wiki](http://www.shapeoko.com/wiki/index.php/Tuning#Motor_Current).
 
-As viewed with the shaft pointing toward you, when moving the respective axis in the positive direction, the motors of a Shapeoko 2 should turn counterclockwise with the exception of the Y-axis right motor which should turn clockwise.
- 
+As viewed with the shaft pointing toward you, when moving the respective axis in the positive direction, the motors of a Shapeoko 2 should turn counterclockwise with the exception of the Y-axis right motor which should turn clockwise. (This is a change from the SO1 where the Z-axis was clockwise.)
+
 Note that once the machine is assembled, the positive direction for X is right, for Y it's away from you, and for Z it's up.
+Once a machine is in position, one may wish to re-wire it to match the physical orientation of parts (especially after [scaling up](http://www.shapeoko.com/wiki/index.php/Scaling_Up)) --- even after such re-wiring it is good practice to continue to refer to the physical parts using the nomenclature used in the documentation so as to minimize confusion.
 
 
 ###Go For a Spin###
 
-Z-Axis --- (Counterclockwise) Note that when testing, the Z-axis should turn for a longer duration than the other axes since the screw requires more revolutions to move a given distance than the belts used on the X- and Y-axes. With the standard drive (M8 on Z, 20-tooth GT2 on X and Y), for the same distance travelled, the Z motor turns 8 times more than the X and Y motors.
+Z-Axis --- (Counterclockwise) Note that when testing, the Z-axis should turn for a longer duration than the other axes since the screw requires more revolutions to move a given distance than the belts used on the X- and Y-axes. With the standard drive (M8 on Z, 20-tooth GT2 on X and Y), for the same distance travelled, the Z motor turns 8 times more than the X and Y motors. Positive moves are up, negative are down.
 
 ###Another Spin###
 
-X-Axis --- (Counterclockwise) the X- and Y-axis should move for the same duration for a given degree of movement.
+X-Axis --- (Counterclockwise) the X- and Y-axis should move for the same duration for a given degree of movement. Positive moves will be to the right, negative towards the left.
 
 
 ###And a Final Spin###
 
-Y-Axis --- (Both Clockwise and Counterclockwise) make certain that the two motors for the Y-axis are rotating in opposite directions --- the one which is for the right side of the gantry should turn clockwise, the one for the left should turn counter-clockwise.
+Y-Axis --- (Both Clockwise and Counterclockwise) make certain that the two motors for the Y-axis are rotating in opposite directions --- the one which is for the right side of the gantry should turn clockwise, the one for the left should turn counter-clockwise. Positive moves will be away from the front of the machine, negative moves towards the front.
 
 ---
 
@@ -185,7 +173,7 @@ Once everything has been successfully tested you should dismantle at least the t
 Once everything has been successfully assembled you should re-test jogging all the axes to ensure that movement is properly calibrated in terms of direction/rotation and distance travelled/number of steps/revolutions.
 
 For troubleshooting possible issues with your steppers, see [the stepper section of the Assembly Troubleshooting page](http://www.shapeoko.com/wiki/index.php/Assembly_troubleshooting#Motors_Spin_in_Wrong_Direction) for information on wiring stepper motors.
- 
+
 ###Next step [Wheels & Idlers](wheels.html)
 
 To express concerns, post on the [forums](http://www.shapeoko.com/forum/index.php), to suggest improvements without using github, edit [this wiki page](http://www.shapeoko.com/wiki/index.php?title=Electronics_2&action=edit&redlink=1).

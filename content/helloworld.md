@@ -36,7 +36,7 @@ Please note that it is in Imperial, and will leave your machine in inch mode. Us
 
 ##Position Machine
 
-With the machine turned off, move your gantry to the front left corner of the paper that we taped down in step \#1.
+With the machine turned off, move your gantry to home (the origin, X=0,Y=0), the front left corner of the paper that we taped down in step \#1.
 
 ![Position Machine](helloworld/gantry_lower_left.jpg)
 
@@ -87,7 +87,7 @@ These are the correct Grbl settings for the stock full kit machine:
 ![Grbl Settings](helloworld/check_grbl_settings.png)
 
 
-**Note: Previously, the above image showed the Z-axis set to $5=2500, this has been set back to the original 500 --- if your machine doesn't move reliably you may wish to try further reducing it to 250. Once your machine is assembled and working, you can fine tune it per the instructions on the wiki.**
+**Note: Previously, the above image showed the Z-axis set to $5=2500, this has been set back to the original 500 --- if your machine doesn't move reliably you may wish to try further reducing it to 250. Once your machine is assembled and working, you can fine tune it per the instructions on the wiki. The text below has had the settings slightly adjusted back to what should be ideal / correct values. Please adjust them as needed to match your machine when you fine tune/calibrate it.**
 
 To save typing: 
 
@@ -114,6 +114,8 @@ To save typing:
     $20=250.000 
     $21=100
     $22=1.000 
+
+Please verify that these settings work for your machine before using it in any way which may damage it. See below for reversing the axis of motion. If necessary, you may need to [adjust your motor current](http://www.shapeoko.com/wiki/index.php/Tuning#Motor_Current).
 
 Please note that there have been reports of pasting all settings en masse corrupting the Arduino's EEPROM. Either type the updates in manually, or paste them one line at a time.
 
@@ -213,7 +215,7 @@ Your machine will now run the hello world job. Keep close to your computer, and 
 
 Once it's complete, you may wish to [document it on the wiki](http://www.shapeoko.com/wiki/index.php/Hello_World).
 
-If you have any difficulties see [Assembly Troubleshooting on the wiki](www.shapeoko.com/wiki/index.php/Assembly_troubleshooting). See also [Fine Tuning](www.shapeoko.com/wiki/index.php/Tuning) and [Operation Troubleshooting](http://www.shapeoko.com/wiki/index.php/Operation_Troubleshooting).
+If you have any difficulties see [Assembly Troubleshooting on the wiki](http://www.shapeoko.com/wiki/index.php/Assembly_troubleshooting). See also [Fine Tuning](http://www.shapeoko.com/wiki/index.php/Tuning) and [Operation Troubleshooting](http://www.shapeoko.com/wiki/index.php/Operation_Troubleshooting).
 
 ###Next Step [First job](http://docs.shapeoko.com/firstjob.html)
 

@@ -2,7 +2,9 @@
 
 Welcome to Your New Life! After completing this step, you'll be a pro! OK, maybe not a pro, but you will be capable of designing a simple part, generating appropriate toolpaths, and cutting said toolpaths on your Shapeoko 2. This is exciting, get ready!
 
-Our first job will be to design and cut a coaster out of some suitable material --- cork is one good choice, and the feed and plunge rates below assume that. You can purchase cork from [inventables.com](https://www.inventables.com/categories/materials/cork) or a craft or office supply store.
+Our first job will be to design and cut a coaster out of some suitable material --- cork is one good choice, and the feed and plunge rates and step down values below assume that. You can purchase cork from [inventables.com](https://www.inventables.com/categories/materials/cork) or a craft or office supply store. Other options are plywood (as shown in the photographs below) and basswood.
+
+You will also need to remove the pen or marker used for [Hello World](http://docs.shapeoko.com/helloworld.html) and mount the spindle. You may need to move the Z-axis Spindle Carriage Assembly down to the bottom of its travel so as to be able to place the spindle. Please tighten it securely in place using the SCHS bolts for the Universal Spindle Mount Straps. You will also need to insert an appropriate endmill and tighten it in place using the collet wrench (see the instructions for your rotary tool). Please ensure that the spindle is mounted plumb and vertical in both the X- and Y-axes and is secure.
 
 
 ##Find the Origin
@@ -57,7 +59,7 @@ Click on the solid black arrow in the toolbar (in-between the hand and the node-
     Safety Height:       0.25
     Stock Surface:       0
     Step Over:           40
-    Step Down:           0.3125
+    Step Down:           0.03125
     Roughing Clearance:  0
     Feed Rate:           30
     Plunge Rate:         10
@@ -65,7 +67,7 @@ Click on the solid black arrow in the toolbar (in-between the hand and the node-
 
 (Please note that the Feed (30) and Plunge (10) rates are set for cork --- if you are using some other material for your coaster, please select an appropriate value from the [Feeds and Speeds page](http://www.shapeoko.com/wiki/index.php/Materials) on the wiki. Please note that the default values are far too fast for a stock, un-tuned machine.)
 
-If any of the terminology is unclear or confusing, please consult the [Glossary](http://www.shapeoko.com/wiki/index.php/Glossary) and the [MakerCAM documentation](http://www.shapeoko.com/wiki/index.php/MakerCAM).
+Further, the Tool Diameter being used is the nominal diameter of the bit, as opposed to a measured or adjusted value which takes into account the machine/spindle's runout --- please consult the [Glossary](http://www.shapeoko.com/wiki/index.php/Glossary) for definitions of the terminology and the [MakerCAM documentation](http://www.shapeoko.com/wiki/index.php/MakerCAM) for a discussion of the underlying concepts.
 
 Your letter should look like it's filled in with a hatch pattern.
 
@@ -81,7 +83,7 @@ Select the inside rounded rectangle (the second one we made). Click CAM -> Follo
     Target Depth:        -0.03125
     Safety Height:       0.25
     Stock Surface:       0
-    Step Down:           0.3125
+    Step Down:           0.03125
     Feed Rate:           30
     Plunge Rate:         10
     Direction:           Counter
@@ -101,13 +103,13 @@ Select the outside rounded rectangle (the first one we made). Click CAM -> Profi
     Inside/outside:      Outside
     Safety Height:       0.25
     Stock Surface:       0
-    Step Down:           0.3125
+    Step Down:           0.03125
     Roughing Clearance:  0
     Feed Rate:           30
     Plunge Rate:         10
     Direction:           Clockwise
 
-Please adjust the value for Target Depth to be equal to the thickness of the material which you have selected for your coaster.
+Please adjust the value for Target Depth to be equal to the thickness of the material which you have selected for your coaster. Note that the Step Down value is set to be greater than that of the material so as to cut it in a single pass --- if you are using some material other than cork, this value should be adjusted to suit the selected material.
 
 ![rectangle](firstjob/mc_profile.png)
 
@@ -189,7 +191,7 @@ Just to make sure, lets draw this in the air.  Click the 'File Mode' tab at the 
 
 ![Run Job](helloworld/ugs5.png)
 
-You should see Universal Gcode Sender start streaming the file, and your machine should start moving around.
+You should see Universal Gcode Sender start streaming the file, and your machine should start moving around. If you have any issues with the machine's movement you may need to [adjust the motor current](http://www.shapeoko.com/wiki/index.php/Tuning#Motor_Current).
 
 
 ##Run Job!
@@ -218,7 +220,7 @@ MakerCAM has some on-line pages for the original version of this [tutorial](http
 
 There is one persistent issue with MakerCAM --- under certain circumstances, it emits lines which are too-long for Grbl to handle (Grbl truncates lines after 50--70 characters). Some Communications/Control programs will trim such lines when sending them (this may be an option which will need to be enabled).
 
-Now that your machine and a simple workflow has been tested out, you are ready to continue:
+Now that your machine and a simple workflow have been tested out, you are ready to continue:
 
  - [Fine tune your machine](http://www.shapeoko.com/wiki/index.php/Tuning) for optimal seek rates by adjusting the voltage and your default seek values
  - Experiment with different methods for [workholding](http://www.shapeoko.com/wiki/index.php/Workholding)

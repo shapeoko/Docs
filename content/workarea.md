@@ -78,7 +78,7 @@ Congratulations! You've built a ShapeOko!
 
 ### Squaring the Machine
 
-Check that each component is square to the others using a known-to-be-good square. If you don't have a square, measure the diagonals and compare the distances. Loosen bolts, adjust and re-tighten as needed until everything is true and moves linearly. See (Calibration: Squaring the Machine on the wiki)[http://www.shapeoko.com/wiki/index.php/Calibration_and_Squaring_the_Machine#Squaring_the_Machine] for further details.
+Check that each component is square to the others using a known-to-be-good square. If you don't have a square, measure the diagonals and compare the distances. Be sure to measure the heights of the Y-axis rails and ensure that they are parallel with the wasteboard and each other. Loosen bolts, adjust and re-tighten as needed until everything is true and moves linearly. See [Calibration: Squaring the Machine on the wiki](http://www.shapeoko.com/wiki/index.php/Calibration_and_Squaring_the_Machine#Squaring_the_Machine) for further details.
 
 ### Adjusting the V-Wheels
 
@@ -136,7 +136,7 @@ With the Allen wrench inserted into the button head cap screw, adjust the screw 
 
 (If you can't get enough tension, place one of the 13mm wrenches against the far side of the Allen wrench and use it as a handle to pull the Allen wrench to pull the belt anchor to tension the belt)
 
-**Note** that it is important to get equal tension on the two belts for the Y-axis ---  uneven tension seems to be a possible cause of missed steps.
+**Note** that it is important to get equal tension on the two belts for the Y-axis --- uneven tension seems to be a possible cause of missed steps. Also, it may help to loosen the set/grub screws on one of the pulleys, then wiggle the gantry to ensure the pulley is fully engaging the teeth on the belt and the balance of the machine is in position relative to it, then re-tighten the screws holding the pulley.
 
 ###Next Step [Wiring](wiring.html)
 

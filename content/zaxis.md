@@ -49,7 +49,7 @@ This is the plate the Z-axis will attach to (it is identical to the Motor Mount 
 ####Parts
 
 1. 30287-01 **Spindle Mount Plate** (12ga) x 1 pcs.
-- PS20010 13mm x 35mm x 20mm **Delrin Lead Nut** x 1 pcs. --- check that the threaded rod fits (see below)
+- PS20010 13mm x 35mm x 20mm **Delrin Lead Nut** x 1 pcs. --- check that the M8 x 1.25mm threaded rod fits (see below)
 - 25287-02 **M5 Flat Washer** x 10 pcs.
 - 25284-02 **M5 Hex Nut** x 6 pcs.
 - PS20012 **Universal Spindle Mount** x 2 pcs.
@@ -92,14 +92,14 @@ One should also attach the motor for the Z-axis at this time.
 
 ####Parts
 
-1. 25142-07 Z Axis **Rail MakerSlide Extrusion 200mm** x 1 pcs. (Please note that one end must have both holes tapped w/ M5x0.8 threads)
+1. 25142-07 Z Axis **Rail MakerSlide Extrusion 200mm** x 1 pcs. (Please note that one end must have both holes tapped w/ M5x0.8 threads, both if you are planning on an Acme screw upgrade.)
 - 25772-02 Z-Axis **Flexible Coupler 5mm--8mm bore** x 1 pcs.
 - 30288-01 **Z-Axis Motor Mount Plate** (12ga) x 2 pcs.
-- 30169-01 8x22x7mm **flanged bearing** x 1 pcs.
+- 30169-01 8x22x7mm **flanged bearing** x 1 pcs. (Test fit this in a plate first, if it doesn't fit, try the other plate, if neither works, use a file or sandpaper or knife blade to remove the powder coating until it does fit)
 - 30289-01 **Z-Axis Shim Plate** (12ga) x 1 pcs.
-- PS20011 **M8 Threaded Rod Stainless Steel, 200mm** x 1 pcs.
+- PS20011 **M8 x 1.25mm Threaded Rod Stainless Steel, 200mm** x 1 pcs.
 - 25287-02 **M5 Flat Washer** x 2 pcs.
-- PS20014 **Brass Standoff spacer** M3 male x M3 female 50mm x 3 pcs.
+- PS20014 **Standoff spacer** M3 male x M3 female 50mm x 3 pcs. (a single piece of machined brass on initial kits, currently this is threaded aluminum hex rod (30385-01) and steel M3 set screws (30384-01) --- please test assemble w/ the Z-axis stepper motor to determine the optimal length of thread which should show, then assemble (using threadlock) to make up the PS20014 assembly.
 - PS20016 5mm x 10mm x 1mm thick, **Nylon Spacer** x 4 pcs. (these are used for the M5 BHCS (#10. below) which hold the Z-Axis Motor Mount Plate to the MakerSlide)
 - PS20004 **M5 x 20mm BHCS** x 2 pcs.
 - PS20015 3mm x 8mm x 1mm thick, **Nylon Spacer** x 6 pcs. (these are used with the M3 SHCS (#12. below) which attach to the Brass Standoff spacers)
@@ -141,7 +141,7 @@ The Z-Axis Rail Assembly is the most intricate and complex assembly, and require
 - Place the Z-axis Shim Plate (**\#5**) on top of the Z Axis Rail  (**\#1**, 200mm MakerSlide) and attach it using the M5 bolts (as noted above, the Z-axis must have threads for these bolts at this point, cut in by tapping) --- be careful of the orientation of the MakerSlide, the V-rails must be oriented as shown in the diagram so that the Spindle Carriage Assembly (see below) V-wheels will fit. ru
 - After determining the spacing for the Threaded Rod (**\#6**) (see below) thread on one M8 Hex Nut (**\#14**) to the top position on the Threaded Rod
 - Slip the Threaded Rod through the Flanged Bearing of the sub-sub-assembly from Step #7 above
-- Thread on the second M8 Hex Nut
+- Thread on the second M8 Hex Nut --- this will go on from the bottom, ensuring that all the threads are in good shape
 
 Review all connectors to make certain that everything is tight --- be careful not to bend the threaded rod or strip any screws. 
 
@@ -151,7 +151,7 @@ Review all connectors to make certain that everything is tight --- be careful no
 
 Compare the threaded rod (**\#6**) to the assembly, thread on one M8 Hex Nut (**\#14**), threading the latter far enough down to allow room for the flanged bearing, a second hex nut, and for the threaded rod (and the stepper motor shaft) to be just short of half-way into the flexible coupler (**\#2**). Insert the threaded rod into the bearing, add the second M8 hex nut and tighten them with two wrenches, being careful not to bend the rod. Note that the motor shaft should go far enough in to the flexible coupler as to be certain of gripping firmly, and less than half the length of the flexible coupler (the two ends should **not** interfere with each other).
 
-Tighten the coupler set screw holding the threaded rod using the 2.5mm hex key. If the flexible coupler doesn't securely grip the threaded rod, wrap the end of the rod in some sort of metal, foil or tape to ensure coupler holds it securely. Make certain the coupler holds the rod squarely. One inexpensive source for metal shims is aluminum drink cans which are easily cut with appropriate tools (and wearing appropriate safety gear).
+Tighten the coupler set screw holding the threaded rod using the 2.5mm hex key. If the flexible coupler doesn't securely grip the threaded rod, wrap the end of the rod in some  sort of metal, foil or tape to ensure coupler holds it securely. Make certain the coupler holds the rod squarely. One inexpensive source for metal shims is aluminum drink cans which are easily cut with appropriate tools (and wearing appropriate safety gear).
 
 **Note** the nuts are commodity / off-the-shelf parts and have a fairly wide manufacturing tolerance. If your threaded rod wobbles unduly after assembly, mark the nuts so as to indicate their orientation and try swapping them around in terms of orientation and positioning, keeping notes on which you have tried --- you should hit upon an arrangement which allows the rod to run fairly true, or at worst case, not hit any other parts (some whipping is inevitable --- one simply wants to achieve a state where nothing will be damaged by the rod end). If nothing works, contact Inventables customer service, or try sourcing new nuts (one option is to take the bearing and threaded rod into a hardware store and try different nuts until you find a pair which works).
 
