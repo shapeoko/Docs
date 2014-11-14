@@ -63,9 +63,7 @@ This is the plate the Z-axis will attach to (it is identical to the Motor Mount 
 - PS20013 **Universal Spindle Mount strap** x 2 pcs.
 - PS20005 **M5 x 45mm, SHCS** x 4 pcs.
 
-[![exploded view of Spindle Carriage Assembly](tPictures/PS20029_4.png)](content/tPictures/PS20029_16.png)
-
-There is a dynamic version (~15MB) of the above diagram at: [PS20029.svg --- Spindle Carriage Assembly](content/tPictures/PS20029-100.svg).
+[![exploded view of Spindle Carriage Assembly](tPictures/PS20029.svg)](content/tPictures/PS20029-100.svg)
 
 1. Take the Spindle Mount Plate (**\#1**) and orient it so the large holes are to the right.
 2. Using an M5 x 30mm BHCS (**\#11**), attach a V-wheel (**\#7**) to the left top corner hole, using an aluminum spacer (**\#10**) to set it off from the plate, fastening it from the other side using an M5 Flat Washer (**\#3**) and an M5 Hex Nut (**\#4**)
