@@ -52,13 +52,13 @@ Grbl includes full acceleration management with look ahead. That means the contr
 Chances are, the Arduino will be recognized by your computer. If not, download the appropriate drivers/software for your computer platform **(do not proceed beyond Step #4 or you will erase Grbl)**:
 
 * [Mac OS X](http://arduino.cc/en/Guide/MacOSX#toc2)
-* [Windows](http://arduino.cc/en/Guide/Windows#toc2)
+* [Windows](http://arduino.cc/en/Guide/Windows#toc2) --- *only* perform Steps 1--3
 * [Linux](http://playground.arduino.cc/Learning/Linux)
 
 
 ###Installing Grbl onto the Arduino###
 
-As noted above, Grbl (along with the bootloader) is pre-installed on Arduinos purchased from Inventables as part of a complete kit. If your board doesn't have it installed (or was erased because you downloaded the blinking lights program in Step #5 of the afore-mentioned installation directions), you can download another hex file here:
+As noted above, Grbl (along with the bootloader) is pre-installed on Arduinos purchased from Inventables as part of a complete kit. If your board doesn't have it installed (*or was erased because you downloaded the blinking lights program in Step #5 of the afore-mentioned installation directions*), you can download another hex file here:
 
 * [grbl v0.8c atmega328p 16mhz 9600.hex](https://github.com/downloads/grbl/grbl/grbl\_v0\_8c\_atmega328p\_16mhz\_9600.hex)
 
