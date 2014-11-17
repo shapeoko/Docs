@@ -52,7 +52,7 @@ Grbl includes full acceleration management with look ahead. That means the contr
 Chances are, the Arduino will be recognized by your computer. If not, download the appropriate drivers/software for your computer platform **(do not proceed beyond Step #4 or you will erase Grbl)**:
 
 * [Mac OS X](http://arduino.cc/en/Guide/MacOSX#toc2) --- do *not* install the Blink program
-* [Windows](http://arduino.cc/en/Guide/Windows#toc2) --- *only* perform Steps 1--3
+* [Windows](http://arduino.cc/en/Guide/Windows#toc2) --- *only* perform Steps 1--4
 * [Linux](http://playground.arduino.cc/Learning/Linux) --- installing the Blink program will overwrite Grbl requiring one to reflash as described below
 
 
