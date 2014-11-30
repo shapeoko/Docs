@@ -675,11 +675,11 @@
        cy="167.18069"
        r="154.6067" /><filter
        inkscape:collect="always"
-       id="filter6782"><feBlend
+       id="filter6786"><feBlend
          inkscape:collect="always"
-         mode="darken"
+         mode="multiply"
          in2="BackgroundImage"
-         id="feBlend6784" /></filter></defs><sodipodi:namedview
+         id="feBlend6788" /></filter></defs><sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1"
@@ -692,13 +692,13 @@
      inkscape:window-height="838"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="1.35"
-     inkscape:cx="284.44444"
+     inkscape:zoom="1.5525"
+     inkscape:cx="325.92593"
      inkscape:cy="200"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer15"
      showguides="true"
      inkscape:guide-bbox="true" /><g
      inkscape:groupmode="layer"
@@ -727,6 +727,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -741,6 +742,7 @@
      style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">1. 30287-01 <tspan
    style="font-weight:bold;-inkscape-font-specification:Ubuntu Bold"
    id="tspan39854-4-8">Spindle Mount Plate </tspan>(12ga) x 1 pcs.</tspan></text>
+
 
 
 
@@ -776,6 +778,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -790,6 +793,7 @@
      style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">3. 25287-02 <tspan
    style="font-weight:bold;-inkscape-font-specification:Ubuntu Bold"
    id="tspan39858-9-8">M5 Flat Washer</tspan> x 10 pcs.</tspan></text>
+
 
 
 
@@ -820,6 +824,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -834,6 +839,7 @@
      style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">5. PS20012 <tspan
    style="font-weight:bold;-inkscape-font-specification:Ubuntu Bold"
    id="tspan39862-3-5">Universal Spindle Mount</tspan> x 2 pcs.</tspan></text>
+
 
 
 
@@ -864,6 +870,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -878,6 +885,7 @@
      style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">7. 25203-02 <tspan
    style="font-weight:bold;-inkscape-font-specification:Ubuntu Bold"
    id="tspan39866-6-3">Dual Bearing V-Wheel</tspan> (assembly) x 4 pcs.</tspan></text>
+
 
 
 
@@ -908,6 +916,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -922,6 +931,7 @@
      style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">9. 25201-01 Precision 1mm spacer (x 4 pcs. <tspan
    style="font-style:oblique;-inkscape-font-specification:Ubuntu Oblique"
    id="tspan39880-0-8">contained in #7. above</tspan>)</tspan></text>
+
 
 
 
@@ -952,6 +962,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -966,6 +977,7 @@
      style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">11. 25286-05 <tspan
    style="font-weight:bold;-inkscape-font-specification:Ubuntu Bold"
    id="tspan39870-4-6">M5 x 30mm, BHCS</tspan> x 4 pcs.</tspan></text>
+
 
 
 
@@ -996,6 +1008,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -1018,6 +1031,7 @@
 
 
 
+
 <path
    d="M 0,400 400,400 400,0 0,0 0,400 z"
    style="fill:url(#radialGradient5587);stroke:none;display:inline"
@@ -1026,7 +1040,76 @@
      inkscape:groupmode="layer"
      id="layer16"
      inkscape:label="New"
-     style="display:inline"><path
+     style="display:inline"><g
+       id="g40940"><path
+         d="m 153.87915,208.3003 -19.637,9.35745 0.49515,14.83935 9.91795,5.0088 16.95995,2.458 8.9265,-4.25295 15.5713,7.93945 0.29715,8.8843 4.5625,8.4126 9.81885,4.91405 19.6372,-9.2627 -0.49515,-14.83885 -66.0544,-33.4595 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#100f0d;stroke-width:0.46645001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         id="path1104"
+         inkscape:connector-curvature="0" /><path
+         d="m 144.16015,222.667 0.4951,14.8389"
+         style="fill:none;stroke:#100f0d;stroke-width:0.46645001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         id="path1106-5"
+         inkscape:connector-curvature="0" /><path
+         d="m 144.16015,222.667 -9.918,-5.00925"
+         style="fill:none;stroke:#100f0d;stroke-width:0.46645001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         id="path1108"
+         inkscape:connector-curvature="0" /><path
+         d="m 161.1191,225.12455 0.4961,14.83935"
+         style="fill:none;stroke:#100f0d;stroke-width:0.46645001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         id="path1110-6"
+         inkscape:connector-curvature="0" /><path
+         d="M 161.1191,225.12455 144.16015,222.667"
+         style="fill:none;stroke:#100f0d;stroke-width:0.46645001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         id="path1112"
+         inkscape:connector-curvature="0" /><path
+         d="m 170.04635,220.8711 0.49515,14.83985"
+         style="fill:none;stroke:#100f0d;stroke-width:0.46645001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         id="path1114-7"
+         inkscape:connector-curvature="0" /><path
+         d="m 170.04635,220.8711 -8.927,4.25345"
+         style="fill:none;stroke:#100f0d;stroke-width:0.46645001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         id="path1116"
+         inkscape:connector-curvature="0" /><path
+         d="M 194.8413,233.4424 170.04635,220.8711"
+         style="fill:none;stroke:#100f0d;stroke-width:0.46645001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         id="path1118-8"
+         inkscape:connector-curvature="0" /><path
+         d="m 190.47705,246.0137 0.4956,14.9336"
+         style="fill:none;stroke:#100f0d;stroke-width:0.46645001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         id="path1120"
+         inkscape:connector-curvature="0" /><path
+         d="m 190.47705,246.0137 -4.5625,-8.31835"
+         style="fill:none;stroke:#100f0d;stroke-width:0.46645001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         id="path1122-0"
+         inkscape:connector-curvature="0" /><path
+         d="m 200.395,251.0225 0.3965,14.83885"
+         style="fill:none;stroke:#100f0d;stroke-width:0.46645001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         id="path1124"
+         inkscape:connector-curvature="0" /><path
+         d="m 200.395,251.0225 -9.91795,-5.0088"
+         style="fill:none;stroke:#100f0d;stroke-width:0.46645001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         id="path1126-6"
+         inkscape:connector-curvature="0" /><path
+         d="M 219.93355,241.7598 200.395,251.0225"
+         style="fill:none;stroke:#100f0d;stroke-width:0.46645001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         id="path1128"
+         inkscape:connector-curvature="0" /><path
+         d="m 185.91455,237.69535 8.927,-4.25295"
+         style="fill:none;stroke:#100f0d;stroke-width:0.46645001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
+         id="path1132"
+         inkscape:connector-curvature="0" /><path
+         d="m 138.7811,225.40845 c -0.4259,0 -0.976,0.14205 -0.976,1.28955 0,1.2245 1.0644,3.0579 2.38725,3.0579 0.41655,0 0.99755,-0.3284 0.99755,-1.11635 0,-0.7881 -0.84715,-3.2311 -2.4088,-3.2311 z"
+         style="fill:none;stroke:#231f20;stroke-width:0.46645001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.86360002;stroke-opacity:1;stroke-dasharray:none"
+         id="path1134-3"
+         inkscape:connector-curvature="0" /><path
+         d="m 173.6162,227.6768 c -0.4259,0 -1.28635,0.2744 -1.28635,1.422 0,1.6776 1.5671,3.9652 2.87325,3.9652 0.80135,0 1.28905,-0.56745 1.28905,-1.60695 0,-1.8222 -1.74795,-3.78025 -2.87595,-3.78025 z"
+         style="fill:none;stroke:#231f20;stroke-width:0.46645001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.86360002;stroke-opacity:1;stroke-dasharray:none"
+         id="path1136"
+         inkscape:connector-curvature="0" /><path
+         d="m 194.9271,253.78275 c -0.42585,0 -0.97595,0.14195 -0.97595,1.2895 0,1.22445 1.06435,3.05785 2.38725,3.05785 0.4165,0 0.9975,-0.3283 0.9975,-1.11635 0,-0.788 -0.84715,-3.231 -2.4088,-3.231 z"
+         style="fill:none;stroke:#231f20;stroke-width:0.46645001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.86360002;stroke-opacity:1;stroke-dasharray:none"
+         id="path1138-4"
+         inkscape:connector-curvature="0" /></g><path
        inkscape:connector-curvature="0"
        id="path290-5"
        style="fill:none;stroke:#100f0d;stroke-width:0.21545;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
@@ -2630,75 +2713,6 @@
        id="path1130-57"
        style="fill:none;stroke:#100f0d;stroke-width:0.46645001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
        d="m 185.91455,237.69535 0.4956,14.83935" /><g
-       id="g40940"><path
-         d="m 153.87915,208.3003 -19.637,9.35745 0.49515,14.83935 9.91795,5.0088 16.95995,2.458 8.9265,-4.25295 15.5713,7.93945 0.29715,8.8843 4.5625,8.4126 9.81885,4.91405 19.6372,-9.2627 -0.49515,-14.83885 -66.0544,-33.4595 z"
-         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#100f0d;stroke-width:0.46645001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
-         id="path1104"
-         inkscape:connector-curvature="0" /><path
-         d="m 144.16015,222.667 0.4951,14.8389"
-         style="fill:none;stroke:#100f0d;stroke-width:0.46645001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
-         id="path1106-5"
-         inkscape:connector-curvature="0" /><path
-         d="m 144.16015,222.667 -9.918,-5.00925"
-         style="fill:none;stroke:#100f0d;stroke-width:0.46645001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
-         id="path1108"
-         inkscape:connector-curvature="0" /><path
-         d="m 161.1191,225.12455 0.4961,14.83935"
-         style="fill:none;stroke:#100f0d;stroke-width:0.46645001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
-         id="path1110-6"
-         inkscape:connector-curvature="0" /><path
-         d="M 161.1191,225.12455 144.16015,222.667"
-         style="fill:none;stroke:#100f0d;stroke-width:0.46645001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
-         id="path1112"
-         inkscape:connector-curvature="0" /><path
-         d="m 170.04635,220.8711 0.49515,14.83985"
-         style="fill:none;stroke:#100f0d;stroke-width:0.46645001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
-         id="path1114-7"
-         inkscape:connector-curvature="0" /><path
-         d="m 170.04635,220.8711 -8.927,4.25345"
-         style="fill:none;stroke:#100f0d;stroke-width:0.46645001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
-         id="path1116"
-         inkscape:connector-curvature="0" /><path
-         d="M 194.8413,233.4424 170.04635,220.8711"
-         style="fill:none;stroke:#100f0d;stroke-width:0.46645001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
-         id="path1118-8"
-         inkscape:connector-curvature="0" /><path
-         d="m 190.47705,246.0137 0.4956,14.9336"
-         style="fill:none;stroke:#100f0d;stroke-width:0.46645001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
-         id="path1120"
-         inkscape:connector-curvature="0" /><path
-         d="m 190.47705,246.0137 -4.5625,-8.31835"
-         style="fill:none;stroke:#100f0d;stroke-width:0.46645001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
-         id="path1122-0"
-         inkscape:connector-curvature="0" /><path
-         d="m 200.395,251.0225 0.3965,14.83885"
-         style="fill:none;stroke:#100f0d;stroke-width:0.46645001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
-         id="path1124"
-         inkscape:connector-curvature="0" /><path
-         d="m 200.395,251.0225 -9.91795,-5.0088"
-         style="fill:none;stroke:#100f0d;stroke-width:0.46645001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
-         id="path1126-6"
-         inkscape:connector-curvature="0" /><path
-         d="M 219.93355,241.7598 200.395,251.0225"
-         style="fill:none;stroke:#100f0d;stroke-width:0.46645001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
-         id="path1128"
-         inkscape:connector-curvature="0" /><path
-         d="m 185.91455,237.69535 8.927,-4.25295"
-         style="fill:none;stroke:#100f0d;stroke-width:0.46645001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
-         id="path1132"
-         inkscape:connector-curvature="0" /><path
-         d="m 138.7811,225.40845 c -0.4259,0 -0.976,0.14205 -0.976,1.28955 0,1.2245 1.0644,3.0579 2.38725,3.0579 0.41655,0 0.99755,-0.3284 0.99755,-1.11635 0,-0.7881 -0.84715,-3.2311 -2.4088,-3.2311 z"
-         style="fill:none;stroke:#231f20;stroke-width:0.46645001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.86360002;stroke-opacity:1;stroke-dasharray:none"
-         id="path1134-3"
-         inkscape:connector-curvature="0" /><path
-         d="m 173.6162,227.6768 c -0.4259,0 -1.28635,0.2744 -1.28635,1.422 0,1.6776 1.5671,3.9652 2.87325,3.9652 0.80135,0 1.28905,-0.56745 1.28905,-1.60695 0,-1.8222 -1.74795,-3.78025 -2.87595,-3.78025 z"
-         style="fill:none;stroke:#231f20;stroke-width:0.46645001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.86360002;stroke-opacity:1;stroke-dasharray:none"
-         id="path1136"
-         inkscape:connector-curvature="0" /><path
-         d="m 194.9271,253.78275 c -0.42585,0 -0.97595,0.14195 -0.97595,1.2895 0,1.22445 1.06435,3.05785 2.38725,3.05785 0.4165,0 0.9975,-0.3283 0.9975,-1.11635 0,-0.788 -0.84715,-3.231 -2.4088,-3.231 z"
-         style="fill:none;stroke:#231f20;stroke-width:0.46645001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3.86360002;stroke-opacity:1;stroke-dasharray:none"
-         id="path1138-4"
-         inkscape:connector-curvature="0" /></g><g
        id="g40976"><path
          d="m 235.7031,111.5142 7.041,-3.3086 c 1.48135,-0.68835 4.1172,0.5575 5.59365,3.55785 1.844,3.7472 0.7351,5.6957 -0.3368,6.272 l -7.1406,3.40255 c -1.10515,0.49905 -3.49675,-0.13025 -5.231,-3.0289 -1.89905,-3.17395 -1.5205,-6.1713 0.0738,-6.8949 z"
          style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#100f0d;stroke-width:0.46645001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-opacity:1;stroke-dasharray:none"
@@ -3848,7 +3862,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="SMP"
-     style="display:inline;filter:url(#filter6782)"><g
+     style="display:inline;filter:url(#filter6786)"><g
        id="Highlight.SMP"
        inkscape:label="#g74417"
        style="opacity:0"><g
@@ -6315,7 +6329,8 @@
      style="display:inline"><g
        id="Highlight.USM"
        inkscape:label="#g74268"
-       style="opacity:0"><path
+       style="opacity:0"
+       transform="translate(-0.22142064,-0.22142068)"><path
          d="m 197.66945,257.0381 -0.0985,0.4725"
          style="fill:none;stroke:#ff0000;stroke-width:1.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
          id="path2042-1"
@@ -9102,6 +9117,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
@@ -9120,6 +9136,7 @@
      style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff0000;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">1. 30287-01 <tspan
    style="font-weight:bold;fill:#ff0000;-inkscape-font-specification:Ubuntu Bold"
    id="tspan39854-4">Spindle Mount Plate </tspan>(12ga) x 1 pcs.</tspan></text>
+
 
 
 
@@ -9149,6 +9166,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
@@ -9167,6 +9185,7 @@
      style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff0000;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">3. 25287-02 <tspan
    style="font-weight:bold;fill:#ff0000;-inkscape-font-specification:Ubuntu Bold"
    id="tspan39858-9">M5 Flat Washer</tspan> x 10 pcs.</tspan></text>
+
 
 
 
@@ -9191,6 +9210,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
@@ -9212,6 +9232,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
@@ -9230,6 +9251,7 @@
      style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff0000;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">6. 30158-01 <tspan
    style="font-weight:bold;fill:#ff0000;-inkscape-font-specification:Ubuntu Bold"
    id="tspan39864-0">Eccentric Nut</tspan> x 2 pcs.</tspan></text>
+
 
 
 
@@ -9258,6 +9280,7 @@
 
 
 
+
 <text
    transform="scale(1,-1)"
    sodipodi:linespacing="125%"
@@ -9276,6 +9299,7 @@
 
 
 
+
 <text
    transform="scale(1,-1)"
    sodipodi:linespacing="125%"
@@ -9291,6 +9315,7 @@
      sodipodi:role="line">9. 25201-01 Precision 1mm spacer (x 4 pcs. <tspan
    id="tspan39880-0"
    style="font-style:oblique;fill:#ff0000;-inkscape-font-specification:Ubuntu Oblique">contained in #7. above</tspan>)</tspan></text>
+
 
 
 
@@ -9315,6 +9340,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
@@ -9333,6 +9359,7 @@
      style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ff0000;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">11. 25286-05 <tspan
    style="font-weight:bold;fill:#ff0000;-inkscape-font-specification:Ubuntu Bold"
    id="tspan39870-4">M5 x 30mm, BHCS</tspan> x 4 pcs.</tspan></text>
+
 
 
 
@@ -9357,6 +9384,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
@@ -9378,11 +9406,8 @@
 
 
 
+
 </g><g
-     inkscape:groupmode="layer"
-     id="layer18"
-     inkscape:label="Temp"
-     style="display:none" /><g
      inkscape:groupmode="layer"
      id="layer15"
      inkscape:label="Washers"
@@ -9543,8 +9568,7 @@
      inkscape:groupmode="layer"
      id="layer13"
      inkscape:label="DBVW"
-     style="display:inline"
-     sodipodi:insensitive="true"><g
+     style="display:inline"><g
        id="Highlight.DBVW"
        inkscape:label="#g64948"
        style="opacity:0"><g
@@ -9681,8 +9705,7 @@
      inkscape:groupmode="layer"
      id="layer14"
      inkscape:label="Hex"
-     style="display:inline"
-     sodipodi:insensitive="true"><g
+     style="display:inline"><g
        id="Highlight.M5HN"
        inkscape:label="#g54577"
        style="opacity:0"><g
@@ -9860,8 +9883,7 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="Long bolts"
-     style="display:inline"
-     sodipodi:insensitive="true"><g
+     style="display:inline"><g
        id="Highlight.M545SHCS"
        inkscape:label="#g131451"
        style="opacity:0"><g
@@ -10178,8 +10200,7 @@
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="Short bolts"
-     style="display:inline"
-     sodipodi:insensitive="true"><g
+     style="display:inline"><g
        id="Highlight.M512BHCS"
        inkscape:label="#g203144"
        style="opacity:0"><g
@@ -10527,8 +10548,7 @@
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="Medium Bolts"
-     style="display:inline"
-     sodipodi:insensitive="true"><g
+     style="display:inline"><g
        id="Highlight.M530BHCS"
        inkscape:label="#g174210"
        style="opacity:0"><g
@@ -11068,6 +11088,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
@@ -11086,6 +11107,7 @@
      style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">1. 30287-01 <tspan
    style="font-weight:bold;-inkscape-font-specification:Ubuntu Bold"
    id="tspan39854-4-86">Spindle Mount Plate </tspan>(12ga) x 1 pcs.</tspan></text>
+
 
 
 
@@ -11125,6 +11147,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
@@ -11143,6 +11166,7 @@
      style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">3. 25287-02 <tspan
    style="font-weight:bold;-inkscape-font-specification:Ubuntu Bold"
    id="tspan39858-9-1">M5 Flat Washer</tspan> x 10 pcs.</tspan></text>
+
 
 
 
@@ -11177,6 +11201,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
@@ -11195,6 +11220,7 @@
      style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">5. PS20012 <tspan
    style="font-weight:bold;-inkscape-font-specification:Ubuntu Bold"
    id="tspan39862-3-54">Universal Spindle Mount</tspan> x 2 pcs.</tspan></text>
+
 
 
 
@@ -11231,6 +11257,7 @@
 
 
 
+
 <g
    id="Showthe.DBVW"
    onclick="this.style.display='none';document.getElementById(&quot;Highlight.DBVW&quot;).style.opacity=&quot;1.0&quot;;"
@@ -11250,6 +11277,7 @@
      sodipodi:role="line">7. 25203-02 <tspan
    id="tspan39866-6-39"
    style="font-weight:bold;-inkscape-font-specification:Ubuntu Bold">Dual Bearing V-Wheel</tspan> (assembly) x 4 pcs.</tspan></text>
+
 
 
 
@@ -11278,6 +11306,7 @@
 
 
 
+
 <text
    sodipodi:linespacing="125%"
    id="text39820-8-7"
@@ -11292,6 +11321,7 @@
      sodipodi:role="line">9. 25201-01 Precision 1mm spacer (x 4 pcs. <tspan
    id="tspan39880-0-9"
    style="font-style:oblique;-inkscape-font-specification:Ubuntu Oblique">contained in #7. above</tspan>)</tspan></text>
+
 
 
 
@@ -11326,6 +11356,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
@@ -11344,6 +11375,7 @@
      style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">11. 25286-05 <tspan
    style="font-weight:bold;-inkscape-font-specification:Ubuntu Bold"
    id="tspan39870-4-7">M5 x 30mm, BHCS</tspan> x 4 pcs.</tspan></text>
+
 
 
 
@@ -11378,6 +11410,7 @@
 
 
 
+
 <text
    xml:space="preserve"
    style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;display:inline;font-family:Sans"
@@ -11396,6 +11429,7 @@
      style="font-size:10px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Ubuntu;-inkscape-font-specification:Ubuntu">13. PS20013 <tspan
    style="font-weight:bold;-inkscape-font-specification:Ubuntu Bold"
    id="tspan39874-8-4">Universal Spindle Mount strap</tspan> x 2 pcs.</tspan></text>
+
 
 
 
@@ -11782,6 +11816,7 @@
      y="0"
      id="tspan40000">1</tspan></text>
 
+
 <text
    transform="matrix(1.0533752,0,0,-1,1639.7773,1993.209)"
    id="text40002"><tspan
@@ -11789,6 +11824,7 @@
      x="0"
      y="0"
      id="tspan40004">4</tspan></text>
+
 
 <text
    transform="matrix(1.0533752,0,0,-1,1695.7363,2017.9707)"
@@ -11798,6 +11834,7 @@
      y="0"
      id="tspan40008">3</tspan></text>
 
+
 <text
    transform="matrix(1.0533752,0,0,-1,1692.3633,2067.6915)"
    id="text40010"><tspan
@@ -11805,6 +11842,7 @@
      x="0"
      y="0"
      id="tspan40012">1</tspan></text>
+
 
 <text
    transform="matrix(1.0533752,0,0,-1,1698.6816,2067.6915)"
@@ -11814,6 +11852,7 @@
      y="0"
      id="tspan40016">3</tspan></text>
 
+
 <text
    transform="matrix(1.0533752,0,0,-1,1802.25,2114.5704)"
    id="text40018"><tspan
@@ -11821,6 +11860,7 @@
      x="0"
      y="0"
      id="tspan40020">5</tspan></text>
+
 
 <text
    transform="matrix(1.0533752,0,0,-1,1831.8086,1993.209)"
@@ -11830,6 +11870,7 @@
      y="0"
      id="tspan40024">1</tspan></text>
 
+
 <text
    transform="matrix(1.0533752,0,0,-1,1838.127,1993.209)"
    id="text40026"><tspan
@@ -11837,6 +11878,7 @@
      x="0"
      y="0"
      id="tspan40028">2</tspan></text>
+
 
 <text
    transform="matrix(1.0533752,0,0,-1,2355.8789,2202.0938)"
@@ -11846,6 +11888,7 @@
      y="0"
      id="tspan40032">1</tspan></text>
 
+
 <text
    transform="matrix(1.0533752,0,0,-1,2362.1973,2202.0938)"
    id="text40034"><tspan
@@ -11853,6 +11896,7 @@
      x="0"
      y="0"
      id="tspan40036">1</tspan></text>
+
 
 <text
    transform="matrix(1.0533752,0,0,-1,2321.5586,2129.6915)"
@@ -11862,6 +11906,7 @@
      y="0"
      id="tspan40040">7</tspan></text>
 
+
 <text
    transform="matrix(1.0533752,0,0,-1,2264.2344,2129.6934)"
    id="text40042"><tspan
@@ -11869,6 +11914,7 @@
      x="0"
      y="0"
      id="tspan40044">1</tspan></text>
+
 
 <text
    transform="matrix(1.0533752,0,0,-1,2270.5527,2129.6934)"
@@ -11878,6 +11924,7 @@
      y="0"
      id="tspan40048">0</tspan></text>
 
+
 <text
    transform="matrix(1.0533752,0,0,-1,2233.2891,2087.3497)"
    id="text40050"><tspan
@@ -11885,6 +11932,7 @@
      x="0"
      y="0"
      id="tspan40052">2</tspan></text>
+
 
 <text
    transform="matrix(1.0533752,0,0,-1,2207.8984,2276.1954)"
@@ -11894,6 +11942,7 @@
      y="0"
      id="tspan40056">4</tspan></text>
 
+
 <text
    transform="matrix(1.0533752,0,0,-1,2166.2441,2265.2325)"
    id="text40058"><tspan
@@ -11901,6 +11950,7 @@
      x="0"
      y="0"
      id="tspan40060">3</tspan></text>
+
 
 <text
    transform="matrix(1.0533752,0,0,-1,2182.1152,2075.4395)"
@@ -11910,6 +11960,7 @@
      y="0"
      id="tspan40064">6</tspan></text>
 
+
 <text
    transform="matrix(1.0533752,0,0,-1,1944.4766,2257.4786)"
    id="text40066"><tspan
@@ -11917,6 +11968,7 @@
      x="0"
      y="0"
      id="tspan40068">3</tspan></text>
+
 
 <text
    transform="matrix(1.0533752,0,0,-1,1904.8066,2219.8633)"
@@ -11926,6 +11978,7 @@
      y="0"
      id="tspan40072">4</tspan></text>
 
+
 <text
    transform="matrix(1.0533752,0,0,-1,2021.8379,2313.0586)"
    id="text40074"><tspan
@@ -11933,6 +11986,7 @@
      x="0"
      y="0"
      id="tspan40076">1</tspan></text>
+
 
 <path
    d="m 2006.5596,2252.7147 -1.9854,-6.994"
