@@ -31,7 +31,7 @@ Download [this file for inches](http://docs.shapeoko.com/content/helloworld/hell
 
 [![Hello, World](helloworld/file.png)](http://docs.shapeoko.com/content/helloworld/helloworld2.nc)
 
-Please note that it is in Imperial, and will leave your machine in inch mode. Use the command G21 to switch back to metric if accustomed to using that system when jogging the machine. It also has different begin/end points for the paths than the original file, but the problems which those exposed are addressed by the Y-axis dual motor.
+Please note that it is in Imperial, and will leave your machine in inch mode. Use the command G21 to switch back to metric if accustomed to using that system when jogging the machine. It also has different begin/end points for the paths than the original file, but the problems which those exposed are addressed by the Y-axis dual motor. It is unlikely that you will be able to achieve a perfect result due to flexing of the pen or its mount --- that's okay, the rotary tool/spindle will be a bit stiffer.
 
 
 ##Position Machine
