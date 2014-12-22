@@ -1,6 +1,6 @@
 ##Getting Set Up
 
-At this point, we should have a fully assembled machine, capable of making amazing things. BUT, first, we need to make sure everything is in good working order.  To achieve that, we're going to run a job that we in the ShapeOko community call "Hello, World". When it's finished it will look like this:
+At this point, we should have a fully assembled machine, capable of making amazing things. *But*, first, we need to make sure everything is in good working order.  To achieve that, we're going to run a job that we in the ShapeOko community call "Hello, World". When it's finished it will look like this:
 
 [![successful job](tPictures/so_2_helloworld_two_4.jpg)](Docs/content/tPictures/so_2_helloworld_two_16.jpg)
 
