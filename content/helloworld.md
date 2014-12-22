@@ -6,10 +6,10 @@ At this point, we should have a fully assembled machine, capable of making amazi
 
 Before we begin, let's make sure we are ready to go:
 
-1. Electronics tested? (You may wish to return to the [electronics page](electronics.html) and verify your wiring)
-2. Machine Assembled?
-3. Software Installed?
-4. Work area cleaned up?
+1. Electronics tested? (You may wish to return to the [electronics page](electronics.html) and verify your wiring. If your motors don't move smoothly or reliably you may need to adjust their [tuning](http://www.shapeoko.com/wiki/index.php/Tuning).)
+2. Machine Assembled? (If you have any concerns see [Assembly Troubleshooting on the wiki](http://www.shapeoko.com/wiki/index.php/Assembly_troubleshooting))
+3. [Software](http://docs.shapeoko.com/software.html) Installed?
+4. Work area cleaned up? (you're on your own here)
 
 
 If you answered yes to all 4 questions above, then let's proceed.
@@ -215,7 +215,7 @@ Your machine will now run the hello world job. Keep close to your computer, and 
 
 Once it's complete, you may wish to [document it on the wiki](http://www.shapeoko.com/wiki/index.php/Hello_World).
 
-If you have any difficulties see [Assembly Troubleshooting on the wiki](http://www.shapeoko.com/wiki/index.php/Assembly_troubleshooting). See also [Fine Tuning](http://www.shapeoko.com/wiki/index.php/Tuning) and [Operation Troubleshooting](http://www.shapeoko.com/wiki/index.php/Operation_Troubleshooting).
+As noted above, if you have any difficulties, see [Assembly Troubleshooting on the wiki](http://www.shapeoko.com/wiki/index.php/Assembly_troubleshooting). See also [Fine Tuning](http://www.shapeoko.com/wiki/index.php/Tuning) to verify tha the current is set properly for you motors and power supply, and [Operation Troubleshooting](http://www.shapeoko.com/wiki/index.php/Operation_Troubleshooting) if you have any difficulties with the use of the machine.
 
 ###Next Step [First job](http://docs.shapeoko.com/firstjob.html)
 
