@@ -16,7 +16,7 @@ There are 3 parts to controlling your machine from your computer:
 
 *(universal gcode sender by will winder)*
 
-Universal G-Code Sender (UGS for short): a Java based, cross platform G-Code sender created to control grbl Based machines (like Shapeoko!). [Click here to download the program](http://bit.ly/1dNrLAy). The latest version can always be downloaded [from github](https://github.com/winder/Universal-G-Code-Sender).
+Universal G-Code Sender (UGS for short): a Java based, cross platform G-Code sender created to control grbl Based machines (like Shapeoko!). [Click here to download the program](http://bit.ly/1dNrLAy). The latest version can always be downloaded [from github](https://github.com/winder/Universal-G-Code-Sender/downloads) ([source code for the adventurous is also available](https://github.com/winder/Universal-G-Code-Sender)).
 
 
 ### Installing ###
