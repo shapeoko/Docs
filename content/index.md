@@ -10,6 +10,10 @@ ShapeOko is named after the **Shape**ways 3D printing and the Pon**oko** laser c
 
 The following pages are filled with the information you need to assemble your Shapeoko 2 desktop CNC machine. Please read through them in advance, and make note of things to check and verify before beginning assembly. If you have any difficulties with assembly, please check the ShapeOko [wiki](http://www.shapeoko.com/wiki) and [forums](http://www.shapeoko.com/forum/index.php).
 
+###A note on diagrams
+
+Where possible, diagrams and illustrations are linked to larger versions which should fill your browser window. Most of the parts diagrams are in SVG format which will allow you to magnify them if using a tablet which supports such. When the SVG diagrams are opened in a browser window, they are interactive --- clicking on the parts list text will highlight the matching part(s) in the diagram). Please note that each SVG diagram comes in two versions, one intended for viewing *in situ* at a typical size, the other, with a suffix of "-100" which is set to fill a browser window --- each image's link is of course to that latter version.
+
 **Please note:** there is a page on [assembly troubleshooting](http://www.shapeoko.com/wiki/index.php/Assembly_troubleshooting) on the wiki. If you've followed the instructions and nothing seems to match up on the wiki, please contact [help@inventables.com](mailto:help@inventables.com) and they will help you get everything sorted.
 
 ###A note on safety
@@ -17,6 +21,8 @@ The following pages are filled with the information you need to assemble your Sh
 _Never operate the machine without adequate safety gear for the current task. Never reach into the machine's operating envelope while it is running. Always have a means of safely disabling the machine's motion and spindle. Never leave the machine operating un-attended. There is an [operating checklist](http://www.shapeoko.com/wiki/index.php/Operating\_Checklist) which should always be followed._
 
 ##Getting Started
+
+Please read through the assembly instructions in their entirety. If you have any questions or concerns or problems, please post a question on [the project forum](http://www.shapeoko.com/forum/viewforum.php?f=10). Lots of people, from diverse backgrounds, many with no prior CNC or woodworking or machining experience have successfully assembled and operated machines. Like most things in life, what one gets out of it, reflects the effort and preparation and patience which one exerts.
 
 It might be helpful to watch an [assembly video](https://www.youtube.com/watch?v=42wzq5vG5rU) (also linked to from the [wiki](http://www.shapeoko.com/wiki/index.php/ShapeOko_2#Assembly_Video)) --- there are a number of others, some of which are on the [Hello World](http://www.shapeoko.com/wiki/index.php/Hello_World) page.
 
