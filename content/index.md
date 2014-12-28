@@ -4,7 +4,7 @@
 
 ![glamour photo of ShapeOko 2 front right diagonal](tPictures/shapeoko_2.jpg)
 
-Thank you for supporting Project Shapeoko, an open source CNC machine which may be used for milling, lasercutting, 3D printing, cutting fabric, etc. It has a 12" x 12" x 2.5" work volume that can be [enlarged](http://www.shapeoko.com/wiki/index.php/Scaling_Up) and a stock precision of 1/40mm along X and Y, 1/320mm along Z.
+Thank you for being involved in Project Shapeoko, an open source CNC machine which may be used for milling, lasercutting, 3D printing, cutting fabric, etc. It has a 12" x 12" x 2.5" work volume that can be [enlarged](http://www.shapeoko.com/wiki/index.php/Scaling_Up) and a stock precision of 1/40mm along X and Y, 1/320mm along Z.
 
 ShapeOko is named after the **Shape**ways 3D printing and the Pon**oko** laser cutting services and was initially launched on [Kickstarter](http://www.kickstarter.com/projects/edwardrford/project-shapeoko-a-300-complete-cnc-machine?ref=live).
 
@@ -22,7 +22,7 @@ It might be helpful to watch an [assembly video](https://www.youtube.com/watch?v
 
 ###Overview
 
-1. Review the parts in your kit and the instructions
+1. Review the parts in your kit and make sure you have read and understand and will be able to follow all of the instructions
 2. Read the [Pro Tips](tips.html) and make sure you have all the required [Tools](tips.html#Tools)
 3. Install your [Software](software.html)
 4. Test Your [Electronics](electronics.html)
@@ -37,7 +37,7 @@ If you are interested in contributing to the docs pages, please see [this page](
 
 ##Assembly Steps
 
-The first thing to do is to compare what you have received with the inventory sheet included with your kit. For reference, there is also a [B.O.M. (Bill of Materials) with sortable columns and (some) options on the wiki](http://www.shapeoko.com/wiki/index.php/BOM). Please note that part specifications / sizes may change with different kit batches, especially for aspects which do not affect functionality and fit. Also, any bags which don't have a part number and quantity should be sorted out and matched against the B.O.M. and [parts pages](http://www.shapeoko.com/wiki/index.php/Parts). Please compare one part to another (especially the MakerSlide) and check the instructions for specific things to check. If anything in your kit is missing or damaged after your initial review, contact [Inventables Customer Service](https://www.inventables.com/about): [help@inventables.com](mailto:help@inventables.com) to make arrangements all-at-once for everything, so that one doesn't have to wait on multiple shipments.
+The first thing to do is to compare what you have received with the inventory sheet included with your kit. For reference, there is also a [B.O.M. (Bill of Materials) with sortable columns and (some) options on the wiki](http://www.shapeoko.com/wiki/index.php/BOM). Please note that part specifications / sizes may change with different kit batches, especially for aspects which do not affect functionality and fit. Also, any bags which don't have a part number and quantity should be sorted out and matched against the B.O.M. and [parts pages](http://www.shapeoko.com/wiki/index.php/Parts). Please compare one part to another (especially the MakerSlide) and check the instructions for specific things to check. If anything in your kit is found to be missing, or damaged, or not up to spec after your initial review, contact [Inventables Customer Service](https://www.inventables.com/about): [help@inventables.com](mailto:help@inventables.com) to make arrangements all-at-once for everything, so that one doesn't have to wait on multiple shipments.
 
 If your electronics vary in any fashion from the standard parts, it is your responsibility to ensure that one doesn't damage the electronics. Please review the [Parts page on the wiki](http://www.shapeoko.com/wiki/index.php/Parts) and any other relevant documentation which is necessary for the parts which you have sourced.
 
@@ -73,7 +73,7 @@ A lot of the "work" required to assemble the machine is done in this step. It's 
 ##Carriages
 [Goto the Instructions](carriages.html)
 
-This is the most labor intensive part of the assembly. You will be assembling 3 motor mount plates. Please note that before finishing this step you must decide which wiring option you will use.
+This is the most labor intensive part of the assembly. You will be assembling 3 motor mount plates. Please note that before finishing this step, you must decide which wiring option you will use.
 
 ![exploded view of carriage](tPictures/so_motor_mount_carriages_parts_4.jpg)
 
@@ -118,7 +118,7 @@ The work area integrates the last component with the previous assemblies, comple
 ##Electrical Wiring
 [Goto the Instructions](wiring.html)
 
-The machine is complete when the electronics are wired up to the motors and the belts are installed, allowing movement. One must make a decision about which wiring option one will use before beginning to assemble the machine.
+The machine is complete when the electronics are wired up to the motors, and the belts are installed, allowing movement. One must make a decision about which wiring option one will use before beginning to assemble the machine.
 
 ---
 
@@ -140,4 +140,4 @@ A basic introduction to using the machine for milling.
 
 ###Next step [Pro Tips!](tips.html)
 
-To express concerns, post on the [forums](http://www.shapeoko.com/forum/index.php).
+To express concerns, post on the [forums](http://www.shapeoko.com/forum/index.php) in a suitable topic.
