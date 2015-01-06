@@ -27,7 +27,7 @@ Tape a piece of paper down to your work area. The paper should be taped in lands
 
 ##Download Files
 
-Download [this file for inches](http://docs.shapeoko.com/content/helloworld/helloworld2.nc) or [this file which switches to metric and returns to 3mm above home](http://docs.shapeoko.com/content/helloworld/helloworld2mm.nc) (you could right-click or control-click on the link to bring up a menu to force the saving) and save it somewhere to your computer that you will remember, e.g., the Desktop or your Documents folder. Please note that G-code is text, so you can examine the file with any text editor to verify it, or touch it up if need be. Please compare what you have downloaded with the image below to ensure that you have a good copy.
+Download [this file for inches](http://docs.shapeoko.com/content/helloworld/helloworld2.nc) or [this file which switches to metric and returns to 3mm above home](http://docs.shapeoko.com/content/helloworld/helloworld2mm.nc) (you could right-click or control-click on the link to bring up a menu to force the saving) and save it somewhere to your computer that you will remember, e.g., the Desktop or your Documents folder (please take note of the filename which was used when saving the file, and check on which filetype/extension was used when saving). Please note that G-code is text, so you can examine the file with any text editor to verify it, or touch it up if need be. Please compare what you have downloaded with the image below to ensure that you have a good copy.
 
 [![Hello, World](helloworld/file.png)](http://docs.shapeoko.com/content/helloworld/helloworld2.nc)
 
