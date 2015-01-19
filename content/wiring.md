@@ -84,6 +84,11 @@ This is the 'mount the controller on the machine' method. It's experimental, it'
 
 [click here to view these instructions](wiring_3.html)
 
+**Note:
+
+Shielded cable will include a "drip wire" which may be grounded at the controller end (see the documentation for your controller or consult the [wiki](http://www.shapeoko.com/wiki/index.php/Electronics#Grounding)) --- the other end should be removed so as to preclude ground loops.
+
+
 ---
 
 To express concerns, post on the [forums](http://www.shapeoko.com/forum/index.php), to suggest improvements without using github, edit [this wiki page](http://www.shapeoko.com/wiki/index.php?title=Wiring_1&action=edit&redlink=1).
