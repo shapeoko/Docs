@@ -82,12 +82,14 @@ The default values need to be changed in order for your machine to function prop
 
 		$0=40.020
 
-These are the correct Grbl settings for the stock full kit machine:
+These are the correct v0.8 Grbl settings for the stock full kit machine:
 
 ![Grbl Settings](helloworld/check_grbl_settings.png)
 
 
 **Note: Previously, the above image showed the Z-axis set to $5=2500, this has been set back to the original 500 --- if your machine doesn't move reliably you may wish to try further reducing it to 250. Once your machine is assembled and working, you can fine tune it per the instructions on the wiki. The text below has had the settings slightly adjusted back to what should be ideal / correct values. Please adjust them as needed to match your machine when you fine tune/calibrate it.**
+
+**The locations for the settings are those for Grbl 0.8 --- if you are using some other version you will need to match the settings up based on their functionality as described in the screengrab above.**
 
 To save typing: 
 
@@ -117,7 +119,7 @@ To save typing:
 
 Please verify that these settings work for your machine before using it in any way which may damage it. See below for reversing the axis of motion. If necessary, you may need to [adjust your motor current](http://www.shapeoko.com/wiki/index.php/Tuning#Motor_Current).
 
-Please note that there have been reports of pasting all settings en masse corrupting the Arduino's EEPROM. Either type the updates in manually, or paste them one line at a time.
+Please note that there have been reports of pasting all settings en masse corrupting the Arduino's EEPROM. Either type the updates in manually, or paste them one line at a time, or put them into a text file and download that. Once the settings are entered they are persistently stored.
 
 If you have sourced your own electronics, you can easily determine your own settings by using this [Grbl settings calculator.](http://homepage.ntlworld.com/r.j.noble/ShapeOko/grblcalc/)
 
