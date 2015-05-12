@@ -4,7 +4,11 @@
 
 ![glamour photo of ShapeOko 2 front right diagonal](tPictures/shapeoko_2.jpg)
 
-Thank you for being involved in Project Shapeoko, an open source CNC machine which may be used for milling, lasercutting, 3D printing, cutting fabric, etc. It has a 12" x 12" x 2.5" work volume that can be [enlarged](http://www.shapeoko.com/wiki/index.php/Scaling_Up) and a stock precision of 1/40mm along X and Y, 1/320mm along Z.
+Thank you for being involved in Project Shapeoko, an open source CNC machine which may be used for milling, lasercutting, 3D printing, cutting fabric, etc. 
+
+This is the site for the Shapeoko 2 instructions. For other versions, including the Shapeoko 3, [please see the wiki which includes documentation and assembly instruction and other information for the project.](http://www.shapeoko.com/wiki/index.php/Main_Page)
+
+The Shapeoko 2 has a 12" x 12" x 2.5" work volume that can be [enlarged](http://www.shapeoko.com/wiki/index.php/Scaling_Up) and a stock precision of 1/40mm along X and Y, 1/320mm along Z.
 
 ShapeOko is named after the **Shape**ways 3D printing and the Pon**oko** laser cutting services and was initially launched on [Kickstarter](http://www.kickstarter.com/projects/edwardrford/project-shapeoko-a-300-complete-cnc-machine?ref=live).
 
