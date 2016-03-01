@@ -1,6 +1,6 @@
 #Shapeoko 2 Documentation
 
-If you are looking for the actual instructions to assemble your Shapeoko 2, please visit: http://docs.shapeoko.com. 
+If you are looking for the actual instructions to assemble your Shapeoko 2, please visit: http://shapeoko.github.io/Docs/. 
 
 ##Overview
 This is a static-dynamic site (if that's a thing?). 
